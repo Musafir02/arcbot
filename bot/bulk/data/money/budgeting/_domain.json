@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "budgeting",
+  "title": "Budgeting",
+  "modules": [
+    {
+      "file": "annual_budget_review",
+      "title": "Annual Budget Review"
+    },
+    {
+      "file": "average_monthly_expenses",
+      "title": "Average Monthly Expenses"
+    },
+    {
+      "file": "bank_account_separation",
+      "title": "Bank Account Separation"
+    },
+    {
+      "file": "budget_after_pay_cut",
+      "title": "Budget After Pay Cut"
+    },
+    {
+      "file": "budget_after_pay_rise",
+      "title": "Budget After Pay Rise"
+    },
+    {
+      "file": "budget_for_groceries",
+      "title": "Budget For Groceries"
+    },
+    {
+      "file": "budget_for_savings",
+      "title": "Budget For Savings"
+    },
+    {
+      "file": "budget_for_utilities",
+      "title": "Budget For Utilities"
+    },
+    {
+      "file": "budget_template",
+      "title": "Budget Template"
+    },
+    {
+      "file": "budget_vs_actual",
+      "title": "Budget Vs Actual"
+    },
+    {
+      "file": "budgeting_apps",
+      "title": "Budgeting Apps"
+    },
+    {
+      "file": "budgeting_for_beginners",
+      "title": "Budgeting For Beginners"
+    },
+    {
+      "file": "budgeting_on_low_income",
+      "title": "Budgeting On Low Income"
+    },
+    {
+      "file": "car_cost_budget",
+      "title": "Car Cost Budget"
+    },
+    {
+      "file": "cash_envelope_system",
+      "title": "Cash Envelope System"
+    },
+    {
+      "file": "cash_flow_tracking",
+      "title": "Cash Flow Tracking"
+    },
+    {
+      "file": "childcare_budget",
+      "title": "Childcare Budget"
+    },
+    {
+      "file": "debt_repayment_budget",
+      "title": "Debt Repayment Budget"
+    },
+    {
+      "file": "dining_out_budget",
+      "title": "Dining Out Budget"
+    },
+    {
+      "file": "emergency_fund_budget",
+      "title": "Emergency Fund Budget"
+    },
+    {
+      "file": "family_budget",
+      "title": "Family Budget"
+    },
+    {
+      "file": "fixed_vs_variable_costs",
+      "title": "Fixed Vs Variable Costs"
+    },
+    {
+      "file": "gift_budget",
+      "title": "Gift Budget"
+    },
+    {
+      "file": "health_cost_budget",
+      "title": "Health Cost Budget"
+    },
+    {
+      "file": "holiday_budget",
+      "title": "Holiday Budget"
+    },
+    {
+      "file": "home_deposit_budget",
+      "title": "Home Deposit Budget"
+    },
+    {
+      "file": "home_maintenance_budget",
+      "title": "Home Maintenance Budget"
+    },
+    {
+      "file": "household_bill_sharing",
+      "title": "Household Bill Sharing"
+    },
+    {
+      "file": "housing_cost_percentage",
+      "title": "Housing Cost Percentage"
+    },
+    {
+      "file": "impulse_spending",
+      "title": "Impulse Spending"
+    },
+    {
+      "file": "insurance_budget",
+      "title": "Insurance Budget"
+    },
+    {
+      "file": "irregular_income_budget",
+      "title": "Irregular Income Budget"
+    },
+    {
+      "file": "make_monthly_budget",
+      "title": "Make Monthly Budget"
+    },
+    {
+      "file": "minimum_payments",
+      "title": "Minimum Payments"
+    },
+    {
+      "file": "moving_house_budget",
+      "title": "Moving House Budget"
+    },
+    {
+      "file": "needs_vs_wants",
+      "title": "Needs Vs Wants"
+    },
+    {
+      "file": "overspending_recovery",
+      "title": "Overspending Recovery"
+    },
+    {
+      "file": "pay_yourself_first",
+      "title": "Pay Yourself First"
+    },
+    {
+      "file": "pet_cost_budget",
+      "title": "Pet Cost Budget"
+    },
+    {
+      "file": "set_financial_goals",
+      "title": "Set Financial Goals"
+    },
+    {
+      "file": "shopping_list_planning",
+      "title": "Shopping List Planning"
+    },
+    {
+      "file": "sinking_funds",
+      "title": "Sinking Funds"
+    },
+    {
+      "file": "spreadsheet_budget",
+      "title": "Spreadsheet Budget"
+    },
+    {
+      "file": "student_budget",
+      "title": "Student Budget"
+    },
+    {
+      "file": "subscription_audit",
+      "title": "Subscription Audit"
+    },
+    {
+      "file": "track_daily_spending",
+      "title": "Track Daily Spending"
+    },
+    {
+      "file": "transport_cost_budget",
+      "title": "Transport Cost Budget"
+    },
+    {
+      "file": "wedding_budget",
+      "title": "Wedding Budget"
+    },
+    {
+      "file": "weekly_budget_review",
+      "title": "Weekly Budget Review"
+    },
+    {
+      "file": "zero_based_budget",
+      "title": "Zero Based Budget"
+    }
+  ]
+}

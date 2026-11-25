@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "workplace_communication",
+  "title": "Workplace Communication",
+  "modules": [
+    {
+      "file": "active_listening_at_work",
+      "title": "Active Listening At Work"
+    },
+    {
+      "file": "announcing_news_to_team",
+      "title": "Announcing News To Team"
+    },
+    {
+      "file": "apologising_at_work",
+      "title": "Apologising At Work"
+    },
+    {
+      "file": "asking_for_clarification",
+      "title": "Asking For Clarification"
+    },
+    {
+      "file": "asking_for_help_at_work",
+      "title": "Asking For Help At Work"
+    },
+    {
+      "file": "closing_emails_politely",
+      "title": "Closing Emails Politely"
+    },
+    {
+      "file": "communicating_delays",
+      "title": "Communicating Delays"
+    },
+    {
+      "file": "communicating_team_changes",
+      "title": "Communicating Team Changes"
+    },
+    {
+      "file": "communicating_with_remote_team",
+      "title": "Communicating With Remote Team"
+    },
+    {
+      "file": "dealing_with_rude_colleagues",
+      "title": "Dealing With Rude Colleagues"
+    },
+    {
+      "file": "declining_invitations_politely",
+      "title": "Declining Invitations Politely"
+    },
+    {
+      "file": "delegating_tasks",
+      "title": "Delegating Tasks"
+    },
+    {
+      "file": "delivering_bad_news",
+      "title": "Delivering Bad News"
+    },
+    {
+      "file": "disagreeing_with_colleagues",
+      "title": "Disagreeing With Colleagues"
+    },
+    {
+      "file": "documenting_workplace_incidents",
+      "title": "Documenting Workplace Incidents"
+    },
+    {
+      "file": "email_etiquette",
+      "title": "Email Etiquette"
+    },
+    {
+      "file": "escalating_workplace_issues",
+      "title": "Escalating Workplace Issues"
+    },
+    {
+      "file": "following_up_after_meetings",
+      "title": "Following Up After Meetings"
+    },
+    {
+      "file": "giving_constructive_feedback",
+      "title": "Giving Constructive Feedback"
+    },
+    {
+      "file": "handling_customer_complaints",
+      "title": "Handling Customer Complaints"
+    },
+    {
+      "file": "handling_difficult_conversations",
+      "title": "Handling Difficult Conversations"
+    },
+    {
+      "file": "introducing_yourself_at_work",
+      "title": "Introducing Yourself At Work"
+    },
+    {
+      "file": "managing_meeting_time",
+      "title": "Managing Meeting Time"
+    },
+    {
+      "file": "managing_upwards",
+      "title": "Managing Upwards"
+    },
+    {
+      "file": "negotiating_deadlines",
+      "title": "Negotiating Deadlines"
+    },
+    {
+      "file": "onboarding_new_colleagues",
+      "title": "Onboarding New Colleagues"
+    },
+    {
+      "file": "one_to_one_meetings",
+      "title": "One To One Meetings"
+    },
+    {
+      "file": "pitching_ideas_to_managers",
+      "title": "Pitching Ideas To Managers"
+    },
+    {
+      "file": "presenting_to_your_team",
+      "title": "Presenting To Your Team"
+    },
+    {
+      "file": "prioritising_your_workload",
+      "title": "Prioritising Your Workload"
+    },
+    {
+      "file": "proofreading_business_emails",
+      "title": "Proofreading Business Emails"
+    },
+    {
+      "file": "raising_concerns_with_manager",
+      "title": "Raising Concerns With Manager"
+    },
+    {
+      "file": "receiving_feedback_at_work",
+      "title": "Receiving Feedback At Work"
+    },
+    {
+      "file": "requesting_resources",
+      "title": "Requesting Resources"
+    },
+    {
+      "file": "resolving_workplace_conflict",
+      "title": "Resolving Workplace Conflict"
+    },
+    {
+      "file": "running_effective_meetings",
+      "title": "Running Effective Meetings"
+    },
+    {
+      "file": "saying_no_at_work",
+      "title": "Saying No At Work"
+    },
+    {
+      "file": "small_talk_with_colleagues",
+      "title": "Small Talk With Colleagues"
+    },
+    {
+      "file": "taking_meeting_minutes",
+      "title": "Taking Meeting Minutes"
+    },
+    {
+      "file": "talking_to_hr",
+      "title": "Talking To Hr"
+    },
+    {
+      "file": "thanking_colleagues",
+      "title": "Thanking Colleagues"
+    },
+    {
+      "file": "weekly_progress_updates",
+      "title": "Weekly Progress Updates"
+    },
+    {
+      "file": "writing_clear_update_emails",
+      "title": "Writing Clear Update Emails"
+    },
+    {
+      "file": "writing_email_subject_lines",
+      "title": "Writing Email Subject Lines"
+    },
+    {
+      "file": "writing_formal_emails",
+      "title": "Writing Formal Emails"
+    },
+    {
+      "file": "writing_instant_messages",
+      "title": "Writing Instant Messages"
+    },
+    {
+      "file": "writing_meeting_agendas",
+      "title": "Writing Meeting Agendas"
+    },
+    {
+      "file": "writing_request_emails",
+      "title": "Writing Request Emails"
+    },
+    {
+      "file": "writing_status_reports",
+      "title": "Writing Status Reports"
+    },
+    {
+      "file": "writing_thank_you_emails",
+      "title": "Writing Thank You Emails"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "starting_a_business",
+  "title": "Starting A Business",
+  "modules": [
+    {
+      "file": "bookkeeping_basics",
+      "title": "Bookkeeping Basics"
+    },
+    {
+      "file": "building_a_business_website",
+      "title": "Building A Business Website"
+    },
+    {
+      "file": "business_bank_account",
+      "title": "Business Bank Account"
+    },
+    {
+      "file": "business_bank_account_basics",
+      "title": "Business Bank Account Basics"
+    },
+    {
+      "file": "business_costs_basics",
+      "title": "Business Costs Basics"
+    },
+    {
+      "file": "business_expenses",
+      "title": "Business Expenses"
+    },
+    {
+      "file": "business_insurance",
+      "title": "Business Insurance"
+    },
+    {
+      "file": "business_insurance_basics",
+      "title": "Business Insurance Basics"
+    },
+    {
+      "file": "business_launch_next_steps",
+      "title": "Business Launch Next Steps"
+    },
+    {
+      "file": "business_name_basics",
+      "title": "Business Name Basics"
+    },
+    {
+      "file": "business_partners_basics",
+      "title": "Business Partners Basics"
+    },
+    {
+      "file": "business_plan_basics",
+      "title": "Business Plan Basics"
+    },
+    {
+      "file": "business_plan_contents",
+      "title": "Business Plan Contents"
+    },
+    {
+      "file": "business_plan_forecasts",
+      "title": "Business Plan Forecasts"
+    },
+    {
+      "file": "business_records_basics",
+      "title": "Business Records Basics"
+    },
+    {
+      "file": "calculating_startup_costs",
+      "title": "Calculating Startup Costs"
+    },
+    {
+      "file": "cash_flow_basics",
+      "title": "Cash Flow Basics"
+    },
+    {
+      "file": "choosing_business_idea",
+      "title": "Choosing Business Idea"
+    },
+    {
+      "file": "choosing_business_structure",
+      "title": "Choosing Business Structure"
+    },
+    {
+      "file": "finding_first_customers",
+      "title": "Finding First Customers"
+    },
+    {
+      "file": "first_customer_basics",
+      "title": "First Customer Basics"
+    },
+    {
+      "file": "getting_paid_on_time",
+      "title": "Getting Paid On Time"
+    },
+    {
+      "file": "growing_a_business_basics",
+      "title": "Growing A Business Basics"
+    },
+    {
+      "file": "identifying_target_customers",
+      "title": "Identifying Target Customers"
+    },
+    {
+      "file": "invoicing_customers",
+      "title": "Invoicing Customers"
+    },
+    {
+      "file": "keeping_business_receipts",
+      "title": "Keeping Business Receipts"
+    },
+    {
+      "file": "keeping_invoices_basics",
+      "title": "Keeping Invoices Basics"
+    },
+    {
+      "file": "local_advertising",
+      "title": "Local Advertising"
+    },
+    {
+      "file": "managing_cash_flow",
+      "title": "Managing Cash Flow"
+    },
+    {
+      "file": "market_research_basics",
+      "title": "Market Research Basics"
+    },
+    {
+      "file": "marketing_on_a_budget",
+      "title": "Marketing On A Budget"
+    },
+    {
+      "file": "naming_your_business",
+      "title": "Naming Your Business"
+    },
+    {
+      "file": "networking_for_business",
+      "title": "Networking For Business"
+    },
+    {
+      "file": "permits_and_licences",
+      "title": "Permits And Licences"
+    },
+    {
+      "file": "pricing_work_basics",
+      "title": "Pricing Work Basics"
+    },
+    {
+      "file": "quoting_for_jobs",
+      "title": "Quoting For Jobs"
+    },
+    {
+      "file": "registering_a_limited_company",
+      "title": "Registering A Limited Company"
+    },
+    {
+      "file": "registering_as_self_employed",
+      "title": "Registering As Self Employed"
+    },
+    {
+      "file": "self_assessment_tax",
+      "title": "Self Assessment Tax"
+    },
+    {
+      "file": "self_employment_basics",
+      "title": "Self Employment Basics"
+    },
+    {
+      "file": "separating_finances",
+      "title": "Separating Finances"
+    },
+    {
+      "file": "setting_business_goals",
+      "title": "Setting Business Goals"
+    },
+    {
+      "file": "setting_your_prices",
+      "title": "Setting Your Prices"
+    },
+    {
+      "file": "social_media_for_business",
+      "title": "Social Media For Business"
+    },
+    {
+      "file": "startup_funding_basics",
+      "title": "Startup Funding Basics"
+    },
+    {
+      "file": "startup_mistakes_basics",
+      "title": "Startup Mistakes Basics"
+    },
+    {
+      "file": "tax_registration_basics",
+      "title": "Tax Registration Basics"
+    },
+    {
+      "file": "validating_business_idea",
+      "title": "Validating Business Idea"
+    },
+    {
+      "file": "vat_registration",
+      "title": "Vat Registration"
+    },
+    {
+      "file": "working_from_home_basics",
+      "title": "Working From Home Basics"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "saving",
+  "title": "Saving",
+  "modules": [
+    {
+      "file": "automating_savings",
+      "title": "Automating Savings"
+    },
+    {
+      "file": "budgeting_for_savings",
+      "title": "Budgeting For Savings"
+    },
+    {
+      "file": "cash_isas",
+      "title": "Cash Isas"
+    },
+    {
+      "file": "cash_savings_vs_investing",
+      "title": "Cash Savings Vs Investing"
+    },
+    {
+      "file": "comparing_savings_rates",
+      "title": "Comparing Savings Rates"
+    },
+    {
+      "file": "compound_interest_on_savings",
+      "title": "Compound Interest On Savings"
+    },
+    {
+      "file": "easy_access_savings",
+      "title": "Easy Access Savings"
+    },
+    {
+      "file": "emergency_fund",
+      "title": "Emergency Fund"
+    },
+    {
+      "file": "emergency_fund_size",
+      "title": "Emergency Fund Size"
+    },
+    {
+      "file": "fixed_term_savings",
+      "title": "Fixed Term Savings"
+    },
+    {
+      "file": "high_interest_savings_accounts",
+      "title": "High Interest Savings Accounts"
+    },
+    {
+      "file": "interest_on_savings",
+      "title": "Interest On Savings"
+    },
+    {
+      "file": "joint_savings_accounts",
+      "title": "Joint Savings Accounts"
+    },
+    {
+      "file": "keeping_savings_safe",
+      "title": "Keeping Savings Safe"
+    },
+    {
+      "file": "medical_savings_costs",
+      "title": "Medical Savings Costs"
+    },
+    {
+      "file": "monthly_savings_amount",
+      "title": "Monthly Savings Amount"
+    },
+    {
+      "file": "multiple_savings_accounts",
+      "title": "Multiple Savings Accounts"
+    },
+    {
+      "file": "notice_savings_accounts",
+      "title": "Notice Savings Accounts"
+    },
+    {
+      "file": "pay_yourself_first",
+      "title": "Pay Yourself First"
+    },
+    {
+      "file": "rebuilding_savings",
+      "title": "Rebuilding Savings"
+    },
+    {
+      "file": "round_up_savings",
+      "title": "Round Up Savings"
+    },
+    {
+      "file": "saving_as_a_student",
+      "title": "Saving As A Student"
+    },
+    {
+      "file": "saving_for_a_car",
+      "title": "Saving For A Car"
+    },
+    {
+      "file": "saving_for_a_holiday",
+      "title": "Saving For A Holiday"
+    },
+    {
+      "file": "saving_for_a_home_deposit",
+      "title": "Saving For A Home Deposit"
+    },
+    {
+      "file": "saving_for_a_move",
+      "title": "Saving For A Move"
+    },
+    {
+      "file": "saving_for_a_wedding",
+      "title": "Saving For A Wedding"
+    },
+    {
+      "file": "saving_for_annual_bills",
+      "title": "Saving For Annual Bills"
+    },
+    {
+      "file": "saving_for_education",
+      "title": "Saving For Education"
+    },
+    {
+      "file": "saving_for_gifts",
+      "title": "Saving For Gifts"
+    },
+    {
+      "file": "saving_for_home_repairs",
+      "title": "Saving For Home Repairs"
+    },
+    {
+      "file": "saving_for_large_purchases",
+      "title": "Saving For Large Purchases"
+    },
+    {
+      "file": "saving_for_pets",
+      "title": "Saving For Pets"
+    },
+    {
+      "file": "saving_for_retirement",
+      "title": "Saving For Retirement"
+    },
+    {
+      "file": "saving_from_payday",
+      "title": "Saving From Payday"
+    },
+    {
+      "file": "saving_on_a_low_income",
+      "title": "Saving On A Low Income"
+    },
+    {
+      "file": "saving_while_in_debt",
+      "title": "Saving While In Debt"
+    },
+    {
+      "file": "saving_with_irregular_income",
+      "title": "Saving With Irregular Income"
+    },
+    {
+      "file": "savings_account_fees",
+      "title": "Savings Account Fees"
+    },
+    {
+      "file": "savings_and_inflation",
+      "title": "Savings And Inflation"
+    },
+    {
+      "file": "savings_challenges",
+      "title": "Savings Challenges"
+    },
+    {
+      "file": "savings_for_children",
+      "title": "Savings For Children"
+    },
+    {
+      "file": "savings_for_self_employment",
+      "title": "Savings For Self Employment"
+    },
+    {
+      "file": "savings_goal_setting",
+      "title": "Savings Goal Setting"
+    },
+    {
+      "file": "savings_mistakes",
+      "title": "Savings Mistakes"
+    },
+    {
+      "file": "savings_vs_current_account",
+      "title": "Savings Vs Current Account"
+    },
+    {
+      "file": "sinking_funds",
+      "title": "Sinking Funds"
+    },
+    {
+      "file": "tax_on_savings_interest",
+      "title": "Tax On Savings Interest"
+    },
+    {
+      "file": "tracking_savings_progress",
+      "title": "Tracking Savings Progress"
+    },
+    {
+      "file": "where_to_keep_savings",
+      "title": "Where To Keep Savings"
+    }
+  ]
+}

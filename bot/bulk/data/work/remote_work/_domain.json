@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "remote_work",
+  "title": "Remote Work",
+  "modules": [
+    {
+      "file": "desk_setup_basics",
+      "title": "Desk Setup Basics"
+    },
+    {
+      "file": "home_broadband_basics",
+      "title": "Home Broadband Basics"
+    },
+    {
+      "file": "home_office_basics",
+      "title": "Home Office Basics"
+    },
+    {
+      "file": "home_office_ergonomics",
+      "title": "Home Office Ergonomics"
+    },
+    {
+      "file": "home_office_lighting",
+      "title": "Home Office Lighting"
+    },
+    {
+      "file": "home_office_noise",
+      "title": "Home Office Noise"
+    },
+    {
+      "file": "home_office_setup",
+      "title": "Home Office Setup"
+    },
+    {
+      "file": "home_wifi_setup",
+      "title": "Home Wifi Setup"
+    },
+    {
+      "file": "home_working_basics",
+      "title": "Home Working Basics"
+    },
+    {
+      "file": "hybrid_working",
+      "title": "Hybrid Working"
+    },
+    {
+      "file": "online_collaboration_basics",
+      "title": "Online Collaboration Basics"
+    },
+    {
+      "file": "remote_breaks_basics",
+      "title": "Remote Breaks Basics"
+    },
+    {
+      "file": "remote_communication_basics",
+      "title": "Remote Communication Basics"
+    },
+    {
+      "file": "remote_daily_routine",
+      "title": "Remote Daily Routine"
+    },
+    {
+      "file": "remote_data_privacy",
+      "title": "Remote Data Privacy"
+    },
+    {
+      "file": "remote_desk_chair",
+      "title": "Remote Desk Chair"
+    },
+    {
+      "file": "remote_focus_basics",
+      "title": "Remote Focus Basics"
+    },
+    {
+      "file": "remote_internet_connection",
+      "title": "Remote Internet Connection"
+    },
+    {
+      "file": "remote_monitor_position",
+      "title": "Remote Monitor Position"
+    },
+    {
+      "file": "remote_morning_routine",
+      "title": "Remote Morning Routine"
+    },
+    {
+      "file": "remote_onboarding_basics",
+      "title": "Remote Onboarding Basics"
+    },
+    {
+      "file": "remote_small_space",
+      "title": "Remote Small Space"
+    },
+    {
+      "file": "remote_task_management",
+      "title": "Remote Task Management"
+    },
+    {
+      "file": "remote_team_collaboration",
+      "title": "Remote Team Collaboration"
+    },
+    {
+      "file": "remote_team_communication",
+      "title": "Remote Team Communication"
+    },
+    {
+      "file": "remote_time_tracking",
+      "title": "Remote Time Tracking"
+    },
+    {
+      "file": "remote_time_zones",
+      "title": "Remote Time Zones"
+    },
+    {
+      "file": "remote_video_meetings",
+      "title": "Remote Video Meetings"
+    },
+    {
+      "file": "remote_while_travelling",
+      "title": "Remote While Travelling"
+    },
+    {
+      "file": "remote_work_basics",
+      "title": "Remote Work Basics"
+    },
+    {
+      "file": "remote_work_breaks",
+      "title": "Remote Work Breaks"
+    },
+    {
+      "file": "remote_work_burnout",
+      "title": "Remote Work Burnout"
+    },
+    {
+      "file": "remote_work_motivation",
+      "title": "Remote Work Motivation"
+    },
+    {
+      "file": "remote_work_schedule",
+      "title": "Remote Work Schedule"
+    },
+    {
+      "file": "remote_work_security",
+      "title": "Remote Work Security"
+    },
+    {
+      "file": "remote_work_tools",
+      "title": "Remote Work Tools"
+    },
+    {
+      "file": "staying_focused_wfh",
+      "title": "Staying Focused Wfh"
+    },
+    {
+      "file": "staying_productive_home",
+      "title": "Staying Productive Home"
+    },
+    {
+      "file": "video_call_etiquette",
+      "title": "Video Call Etiquette"
+    },
+    {
+      "file": "video_meetings_basics",
+      "title": "Video Meetings Basics"
+    },
+    {
+      "file": "virtual_team_basics",
+      "title": "Virtual Team Basics"
+    },
+    {
+      "file": "vpn_remote_work",
+      "title": "Vpn Remote Work"
+    },
+    {
+      "file": "wfh_boundaries",
+      "title": "Wfh Boundaries"
+    },
+    {
+      "file": "wfh_with_children",
+      "title": "Wfh With Children"
+    },
+    {
+      "file": "wfh_with_family",
+      "title": "Wfh With Family"
+    },
+    {
+      "file": "wfh_with_flatmates",
+      "title": "Wfh With Flatmates"
+    },
+    {
+      "file": "wfh_with_pets",
+      "title": "Wfh With Pets"
+    },
+    {
+      "file": "workday_routine_basics",
+      "title": "Workday Routine Basics"
+    },
+    {
+      "file": "working_abroad_basics",
+      "title": "Working Abroad Basics"
+    },
+    {
+      "file": "working_from_home_basics",
+      "title": "Working From Home Basics"
+    }
+  ]
+}

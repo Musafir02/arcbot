@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "interviews",
+  "title": "Interviews",
+  "modules": [
+    {
+      "file": "accepting_a_job_offer",
+      "title": "Accepting A Job Offer"
+    },
+    {
+      "file": "achievement_interview_question",
+      "title": "Achievement Interview Question"
+    },
+    {
+      "file": "behavioural_interview_questions",
+      "title": "Behavioural Interview Questions"
+    },
+    {
+      "file": "career_change_interview",
+      "title": "Career Change Interview"
+    },
+    {
+      "file": "checking_offer_details",
+      "title": "Checking Offer Details"
+    },
+    {
+      "file": "company_culture_in_interview",
+      "title": "Company Culture In Interview"
+    },
+    {
+      "file": "competency_interview",
+      "title": "Competency Interview"
+    },
+    {
+      "file": "conflict_interview_question",
+      "title": "Conflict Interview Question"
+    },
+    {
+      "file": "difficult_interview_questions",
+      "title": "Difficult Interview Questions"
+    },
+    {
+      "file": "failure_interview_question",
+      "title": "Failure Interview Question"
+    },
+    {
+      "file": "graduate_interview",
+      "title": "Graduate Interview"
+    },
+    {
+      "file": "group_interview",
+      "title": "Group Interview"
+    },
+    {
+      "file": "interview_after_long_break",
+      "title": "Interview After Long Break"
+    },
+    {
+      "file": "interview_body_language",
+      "title": "Interview Body Language"
+    },
+    {
+      "file": "interview_career_gaps",
+      "title": "Interview Career Gaps"
+    },
+    {
+      "file": "interview_closing_statement",
+      "title": "Interview Closing Statement"
+    },
+    {
+      "file": "interview_documents",
+      "title": "Interview Documents"
+    },
+    {
+      "file": "interview_etiquette",
+      "title": "Interview Etiquette"
+    },
+    {
+      "file": "interview_feedback",
+      "title": "Interview Feedback"
+    },
+    {
+      "file": "interview_first_impressions",
+      "title": "Interview First Impressions"
+    },
+    {
+      "file": "interview_follow_up",
+      "title": "Interview Follow Up"
+    },
+    {
+      "file": "interview_mistakes",
+      "title": "Interview Mistakes"
+    },
+    {
+      "file": "interview_nerves",
+      "title": "Interview Nerves"
+    },
+    {
+      "file": "interview_preparation",
+      "title": "Interview Preparation"
+    },
+    {
+      "file": "interview_referees",
+      "title": "Interview Referees"
+    },
+    {
+      "file": "interview_rejection",
+      "title": "Interview Rejection"
+    },
+    {
+      "file": "interview_salary_expectations",
+      "title": "Interview Salary Expectations"
+    },
+    {
+      "file": "interview_small_talk",
+      "title": "Interview Small Talk"
+    },
+    {
+      "file": "interview_strengths",
+      "title": "Interview Strengths"
+    },
+    {
+      "file": "interview_weaknesses",
+      "title": "Interview Weaknesses"
+    },
+    {
+      "file": "interview_without_experience",
+      "title": "Interview Without Experience"
+    },
+    {
+      "file": "job_hopping_in_interviews",
+      "title": "Job Hopping In Interviews"
+    },
+    {
+      "file": "leadership_interview_question",
+      "title": "Leadership Interview Question"
+    },
+    {
+      "file": "negotiating_salary_after_interview",
+      "title": "Negotiating Salary After Interview"
+    },
+    {
+      "file": "panel_interview",
+      "title": "Panel Interview"
+    },
+    {
+      "file": "phone_interview",
+      "title": "Phone Interview"
+    },
+    {
+      "file": "presentation_task_interview",
+      "title": "Presentation Task Interview"
+    },
+    {
+      "file": "questions_to_ask_at_end",
+      "title": "Questions To Ask At End"
+    },
+    {
+      "file": "questions_to_avoid_in_interview",
+      "title": "Questions To Avoid In Interview"
+    },
+    {
+      "file": "salary_history_in_interview",
+      "title": "Salary History In Interview"
+    },
+    {
+      "file": "second_interview",
+      "title": "Second Interview"
+    },
+    {
+      "file": "situational_interview_questions",
+      "title": "Situational Interview Questions"
+    },
+    {
+      "file": "star_method_answers",
+      "title": "Star Method Answers"
+    },
+    {
+      "file": "teamwork_interview_question",
+      "title": "Teamwork Interview Question"
+    },
+    {
+      "file": "technical_interview",
+      "title": "Technical Interview"
+    },
+    {
+      "file": "tell_me_about_yourself",
+      "title": "Tell Me About Yourself"
+    },
+    {
+      "file": "video_interview",
+      "title": "Video Interview"
+    },
+    {
+      "file": "what_to_wear_to_interview",
+      "title": "What To Wear To Interview"
+    },
+    {
+      "file": "why_are_you_leaving",
+      "title": "Why Are You Leaving"
+    },
+    {
+      "file": "why_do_you_want_this_job",
+      "title": "Why Do You Want This Job"
+    }
+  ]
+}

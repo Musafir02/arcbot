@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "salaries_and_negotiation",
+  "title": "Salaries And Negotiation",
+  "modules": [
+    {
+      "file": "annual_pay_review_cycle",
+      "title": "Annual Pay Review Cycle"
+    },
+    {
+      "file": "answering_salary_history_questions",
+      "title": "Answering Salary History Questions"
+    },
+    {
+      "file": "asking_for_a_pay_rise",
+      "title": "Asking For A Pay Rise"
+    },
+    {
+      "file": "asking_for_a_pay_rise_politely",
+      "title": "Asking For A Pay Rise Politely"
+    },
+    {
+      "file": "asking_for_back_pay",
+      "title": "Asking For Back Pay"
+    },
+    {
+      "file": "asking_for_pay_in_an_appraisal",
+      "title": "Asking For Pay In An Appraisal"
+    },
+    {
+      "file": "bonus_negotiation",
+      "title": "Bonus Negotiation"
+    },
+    {
+      "file": "confidence_in_pay_talks",
+      "title": "Confidence In Pay Talks"
+    },
+    {
+      "file": "counter_offers",
+      "title": "Counter Offers"
+    },
+    {
+      "file": "discussing_pay_with_colleagues",
+      "title": "Discussing Pay With Colleagues"
+    },
+    {
+      "file": "explaining_a_pay_gap",
+      "title": "Explaining A Pay Gap"
+    },
+    {
+      "file": "handling_a_pay_rise_refusal",
+      "title": "Handling A Pay Rise Refusal"
+    },
+    {
+      "file": "knowing_your_worth",
+      "title": "Knowing Your Worth"
+    },
+    {
+      "file": "market_rate_research",
+      "title": "Market Rate Research"
+    },
+    {
+      "file": "negotiating_a_salary_offer",
+      "title": "Negotiating A Salary Offer"
+    },
+    {
+      "file": "negotiating_multiple_offers",
+      "title": "Negotiating Multiple Offers"
+    },
+    {
+      "file": "negotiating_pay_by_phone",
+      "title": "Negotiating Pay By Phone"
+    },
+    {
+      "file": "negotiating_rates_with_clients",
+      "title": "Negotiating Rates With Clients"
+    },
+    {
+      "file": "offer_lower_than_expected",
+      "title": "Offer Lower Than Expected"
+    },
+    {
+      "file": "overtime_pay_negotiation",
+      "title": "Overtime Pay Negotiation"
+    },
+    {
+      "file": "part_time_pay_negotiation",
+      "title": "Part Time Pay Negotiation"
+    },
+    {
+      "file": "pay_after_parental_leave",
+      "title": "Pay After Parental Leave"
+    },
+    {
+      "file": "pay_and_inflation",
+      "title": "Pay And Inflation"
+    },
+    {
+      "file": "pay_cuts",
+      "title": "Pay Cuts"
+    },
+    {
+      "file": "pay_equality",
+      "title": "Pay Equality"
+    },
+    {
+      "file": "pay_negotiation_for_internal_moves",
+      "title": "Pay Negotiation For Internal Moves"
+    },
+    {
+      "file": "pay_negotiation_for_remote_roles",
+      "title": "Pay Negotiation For Remote Roles"
+    },
+    {
+      "file": "pay_negotiation_in_small_businesses",
+      "title": "Pay Negotiation In Small Businesses"
+    },
+    {
+      "file": "pay_negotiation_mistakes",
+      "title": "Pay Negotiation Mistakes"
+    },
+    {
+      "file": "pay_review_for_team_members",
+      "title": "Pay Review For Team Members"
+    },
+    {
+      "file": "pay_review_requests",
+      "title": "Pay Review Requests"
+    },
+    {
+      "file": "pay_rise_after_promotion",
+      "title": "Pay Rise After Promotion"
+    },
+    {
+      "file": "pay_rise_email",
+      "title": "Pay Rise Email"
+    },
+    {
+      "file": "pay_rises_in_public_sector",
+      "title": "Pay Rises In Public Sector"
+    },
+    {
+      "file": "pay_risks_when_changing_jobs",
+      "title": "Pay Risks When Changing Jobs"
+    },
+    {
+      "file": "performance_review_pay_discussion",
+      "title": "Performance Review Pay Discussion"
+    },
+    {
+      "file": "raising_pay_with_hr",
+      "title": "Raising Pay With Hr"
+    },
+    {
+      "file": "relocation_allowance",
+      "title": "Relocation Allowance"
+    },
+    {
+      "file": "researching_a_fair_salary",
+      "title": "Researching A Fair Salary"
+    },
+    {
+      "file": "salary_bands",
+      "title": "Salary Bands"
+    },
+    {
+      "file": "salary_comparison_websites",
+      "title": "Salary Comparison Websites"
+    },
+    {
+      "file": "salary_expectations_in_interviews",
+      "title": "Salary Expectations In Interviews"
+    },
+    {
+      "file": "salary_negotiation_for_graduates",
+      "title": "Salary Negotiation For Graduates"
+    },
+    {
+      "file": "salary_package_breakdown",
+      "title": "Salary Package Breakdown"
+    },
+    {
+      "file": "salary_research_for_a_career_change",
+      "title": "Salary Research For A Career Change"
+    },
+    {
+      "file": "salary_transparency",
+      "title": "Salary Transparency"
+    },
+    {
+      "file": "salary_vs_benefits",
+      "title": "Salary Vs Benefits"
+    },
+    {
+      "file": "share_options_and_equity",
+      "title": "Share Options And Equity"
+    },
+    {
+      "file": "signing_on_bonus",
+      "title": "Signing On Bonus"
+    },
+    {
+      "file": "timing_a_pay_rise_request",
+      "title": "Timing A Pay Rise Request"
+    }
+  ]
+}

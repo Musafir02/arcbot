@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "insurance_basics",
+  "title": "Insurance Basics",
+  "modules": [
+    {
+      "file": "buildings_insurance_cover",
+      "title": "Buildings Insurance Cover"
+    },
+    {
+      "file": "business_insurance_basics",
+      "title": "Business Insurance Basics"
+    },
+    {
+      "file": "car_insurance_excess",
+      "title": "Car Insurance Excess"
+    },
+    {
+      "file": "car_insurance_quotes",
+      "title": "Car Insurance Quotes"
+    },
+    {
+      "file": "car_insurance_types",
+      "title": "Car Insurance Types"
+    },
+    {
+      "file": "contents_insurance_flat",
+      "title": "Contents Insurance Flat"
+    },
+    {
+      "file": "critical_illness_cover",
+      "title": "Critical Illness Cover"
+    },
+    {
+      "file": "cyber_insurance",
+      "title": "Cyber Insurance"
+    },
+    {
+      "file": "dental_insurance",
+      "title": "Dental Insurance"
+    },
+    {
+      "file": "employers_liability_insurance",
+      "title": "Employers Liability Insurance"
+    },
+    {
+      "file": "extended_warranty",
+      "title": "Extended Warranty"
+    },
+    {
+      "file": "flood_insurance",
+      "title": "Flood Insurance"
+    },
+    {
+      "file": "holiday_home_insurance",
+      "title": "Holiday Home Insurance"
+    },
+    {
+      "file": "home_insurance_basics",
+      "title": "Home Insurance Basics"
+    },
+    {
+      "file": "home_insurance_claim",
+      "title": "Home Insurance Claim"
+    },
+    {
+      "file": "home_security_insurance",
+      "title": "Home Security Insurance"
+    },
+    {
+      "file": "income_protection_insurance",
+      "title": "Income Protection Insurance"
+    },
+    {
+      "file": "insurance_and_mortgages",
+      "title": "Insurance And Mortgages"
+    },
+    {
+      "file": "insurance_discounts",
+      "title": "Insurance Discounts"
+    },
+    {
+      "file": "insurance_documents",
+      "title": "Insurance Documents"
+    },
+    {
+      "file": "insurance_excess",
+      "title": "Insurance Excess"
+    },
+    {
+      "file": "insurance_exclusions",
+      "title": "Insurance Exclusions"
+    },
+    {
+      "file": "insurance_for_renovations",
+      "title": "Insurance For Renovations"
+    },
+    {
+      "file": "insurance_for_valuables",
+      "title": "Insurance For Valuables"
+    },
+    {
+      "file": "insurance_fraud",
+      "title": "Insurance Fraud"
+    },
+    {
+      "file": "insurance_policy_limits",
+      "title": "Insurance Policy Limits"
+    },
+    {
+      "file": "insurance_policy_wording",
+      "title": "Insurance Policy Wording"
+    },
+    {
+      "file": "insurance_premiums",
+      "title": "Insurance Premiums"
+    },
+    {
+      "file": "insurance_renewal",
+      "title": "Insurance Renewal"
+    },
+    {
+      "file": "landlord_insurance",
+      "title": "Landlord Insurance"
+    },
+    {
+      "file": "leasehold_buildings_insurance",
+      "title": "Leasehold Buildings Insurance"
+    },
+    {
+      "file": "life_insurance_basics",
+      "title": "Life Insurance Basics"
+    },
+    {
+      "file": "making_an_insurance_claim",
+      "title": "Making An Insurance Claim"
+    },
+    {
+      "file": "mortgage_protection_insurance",
+      "title": "Mortgage Protection Insurance"
+    },
+    {
+      "file": "no_claims_discount",
+      "title": "No Claims Discount"
+    },
+    {
+      "file": "payment_protection_insurance",
+      "title": "Payment Protection Insurance"
+    },
+    {
+      "file": "pet_insurance_basics",
+      "title": "Pet Insurance Basics"
+    },
+    {
+      "file": "pet_insurance_preexisting",
+      "title": "Pet Insurance Preexisting"
+    },
+    {
+      "file": "phone_insurance",
+      "title": "Phone Insurance"
+    },
+    {
+      "file": "private_medical_insurance",
+      "title": "Private Medical Insurance"
+    },
+    {
+      "file": "product_liability_insurance",
+      "title": "Product Liability Insurance"
+    },
+    {
+      "file": "professional_indemnity",
+      "title": "Professional Indemnity"
+    },
+    {
+      "file": "public_liability_insurance",
+      "title": "Public Liability Insurance"
+    },
+    {
+      "file": "renters_insurance",
+      "title": "Renters Insurance"
+    },
+    {
+      "file": "subsidence_insurance",
+      "title": "Subsidence Insurance"
+    },
+    {
+      "file": "term_vs_whole_life",
+      "title": "Term Vs Whole Life"
+    },
+    {
+      "file": "travel_insurance_basics",
+      "title": "Travel Insurance Basics"
+    },
+    {
+      "file": "travel_insurance_cancellation",
+      "title": "Travel Insurance Cancellation"
+    },
+    {
+      "file": "travel_insurance_medical",
+      "title": "Travel Insurance Medical"
+    },
+    {
+      "file": "uninsured_losses",
+      "title": "Uninsured Losses"
+    }
+  ]
+}

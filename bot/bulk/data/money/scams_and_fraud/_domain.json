@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "scams_and_fraud",
+  "title": "Scams And Fraud",
+  "modules": [
+    {
+      "file": "advance_fee_scams",
+      "title": "Advance Fee Scams"
+    },
+    {
+      "file": "after_being_scammed",
+      "title": "After Being Scammed"
+    },
+    {
+      "file": "atm_skimmers",
+      "title": "Atm Skimmers"
+    },
+    {
+      "file": "auction_site_scams",
+      "title": "Auction Site Scams"
+    },
+    {
+      "file": "bank_transfer_scams",
+      "title": "Bank Transfer Scams"
+    },
+    {
+      "file": "business_email_scams",
+      "title": "Business Email Scams"
+    },
+    {
+      "file": "card_skimmers",
+      "title": "Card Skimmers"
+    },
+    {
+      "file": "charity_scams",
+      "title": "Charity Scams"
+    },
+    {
+      "file": "checking_suspicious_links",
+      "title": "Checking Suspicious Links"
+    },
+    {
+      "file": "cheque_scams",
+      "title": "Cheque Scams"
+    },
+    {
+      "file": "classified_ad_scams",
+      "title": "Classified Ad Scams"
+    },
+    {
+      "file": "credit_card_fraud",
+      "title": "Credit Card Fraud"
+    },
+    {
+      "file": "cryptocurrency_scams",
+      "title": "Cryptocurrency Scams"
+    },
+    {
+      "file": "debit_card_fraud",
+      "title": "Debit Card Fraud"
+    },
+    {
+      "file": "delivery_scams",
+      "title": "Delivery Scams"
+    },
+    {
+      "file": "doorstep_scams",
+      "title": "Doorstep Scams"
+    },
+    {
+      "file": "emergency_scams",
+      "title": "Emergency Scams"
+    },
+    {
+      "file": "fake_bank_emails",
+      "title": "Fake Bank Emails"
+    },
+    {
+      "file": "fake_invoices",
+      "title": "Fake Invoices"
+    },
+    {
+      "file": "fake_website_checks",
+      "title": "Fake Website Checks"
+    },
+    {
+      "file": "gaming_scams",
+      "title": "Gaming Scams"
+    },
+    {
+      "file": "holiday_scams",
+      "title": "Holiday Scams"
+    },
+    {
+      "file": "identity_theft_signs",
+      "title": "Identity Theft Signs"
+    },
+    {
+      "file": "inheritance_scams",
+      "title": "Inheritance Scams"
+    },
+    {
+      "file": "insurance_scams",
+      "title": "Insurance Scams"
+    },
+    {
+      "file": "investment_scams",
+      "title": "Investment Scams"
+    },
+    {
+      "file": "job_offer_scams",
+      "title": "Job Offer Scams"
+    },
+    {
+      "file": "lottery_prize_scams",
+      "title": "Lottery Prize Scams"
+    },
+    {
+      "file": "marketplace_seller_scams",
+      "title": "Marketplace Seller Scams"
+    },
+    {
+      "file": "money_mule_scams",
+      "title": "Money Mule Scams"
+    },
+    {
+      "file": "online_shopping_scams",
+      "title": "Online Shopping Scams"
+    },
+    {
+      "file": "overpayment_scams",
+      "title": "Overpayment Scams"
+    },
+    {
+      "file": "password_reset_scams",
+      "title": "Password Reset Scams"
+    },
+    {
+      "file": "pension_scams",
+      "title": "Pension Scams"
+    },
+    {
+      "file": "phishing_text_messages",
+      "title": "Phishing Text Messages"
+    },
+    {
+      "file": "protecting_vulnerable_relatives",
+      "title": "Protecting Vulnerable Relatives"
+    },
+    {
+      "file": "qr_code_scams",
+      "title": "Qr Code Scams"
+    },
+    {
+      "file": "recovering_money_after_fraud",
+      "title": "Recovering Money After Fraud"
+    },
+    {
+      "file": "rental_property_scams",
+      "title": "Rental Property Scams"
+    },
+    {
+      "file": "reporting_identity_theft",
+      "title": "Reporting Identity Theft"
+    },
+    {
+      "file": "romance_scams",
+      "title": "Romance Scams"
+    },
+    {
+      "file": "sim_swap_scams",
+      "title": "Sim Swap Scams"
+    },
+    {
+      "file": "social_media_scams",
+      "title": "Social Media Scams"
+    },
+    {
+      "file": "spotting_phishing_emails",
+      "title": "Spotting Phishing Emails"
+    },
+    {
+      "file": "suspicious_phone_calls",
+      "title": "Suspicious Phone Calls"
+    },
+    {
+      "file": "tax_scams",
+      "title": "Tax Scams"
+    },
+    {
+      "file": "tech_support_scams",
+      "title": "Tech Support Scams"
+    },
+    {
+      "file": "ticket_scams",
+      "title": "Ticket Scams"
+    },
+    {
+      "file": "timeshare_scams",
+      "title": "Timeshare Scams"
+    },
+    {
+      "file": "utility_bill_scams",
+      "title": "Utility Bill Scams"
+    }
+  ]
+}

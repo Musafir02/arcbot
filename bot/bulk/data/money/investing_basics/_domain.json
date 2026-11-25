@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "investing_basics",
+  "title": "Investing Basics",
+  "modules": [
+    {
+      "file": "active_vs_passive_investing",
+      "title": "Active Vs Passive Investing"
+    },
+    {
+      "file": "asset_allocation_basics",
+      "title": "Asset Allocation Basics"
+    },
+    {
+      "file": "bond_investing_basics",
+      "title": "Bond Investing Basics"
+    },
+    {
+      "file": "bond_yields_explained",
+      "title": "Bond Yields Explained"
+    },
+    {
+      "file": "bull_and_bear_markets",
+      "title": "Bull And Bear Markets"
+    },
+    {
+      "file": "buying_first_shares",
+      "title": "Buying First Shares"
+    },
+    {
+      "file": "choosing_an_investment_broker",
+      "title": "Choosing An Investment Broker"
+    },
+    {
+      "file": "company_shares_basics",
+      "title": "Company Shares Basics"
+    },
+    {
+      "file": "compound_growth_explained",
+      "title": "Compound Growth Explained"
+    },
+    {
+      "file": "corporate_bonds_basics",
+      "title": "Corporate Bonds Basics"
+    },
+    {
+      "file": "diversification_basics",
+      "title": "Diversification Basics"
+    },
+    {
+      "file": "dividend_investing_basics",
+      "title": "Dividend Investing Basics"
+    },
+    {
+      "file": "etfs_explained",
+      "title": "Etfs Explained"
+    },
+    {
+      "file": "ethical_investing_basics",
+      "title": "Ethical Investing Basics"
+    },
+    {
+      "file": "fund_charges_explained",
+      "title": "Fund Charges Explained"
+    },
+    {
+      "file": "government_gilts_basics",
+      "title": "Government Gilts Basics"
+    },
+    {
+      "file": "high_return_promises",
+      "title": "High Return Promises"
+    },
+    {
+      "file": "how_share_prices_move",
+      "title": "How Share Prices Move"
+    },
+    {
+      "file": "index_funds_explained",
+      "title": "Index Funds Explained"
+    },
+    {
+      "file": "inflation_and_investing",
+      "title": "Inflation And Investing"
+    },
+    {
+      "file": "interest_rate_effects_on_bonds",
+      "title": "Interest Rate Effects On Bonds"
+    },
+    {
+      "file": "investment_funds_basics",
+      "title": "Investment Funds Basics"
+    },
+    {
+      "file": "investment_losses_basics",
+      "title": "Investment Losses Basics"
+    },
+    {
+      "file": "investment_portfolio_basics",
+      "title": "Investment Portfolio Basics"
+    },
+    {
+      "file": "investment_research_basics",
+      "title": "Investment Research Basics"
+    },
+    {
+      "file": "investment_risk_types",
+      "title": "Investment Risk Types"
+    },
+    {
+      "file": "investment_tax_wrappers",
+      "title": "Investment Tax Wrappers"
+    },
+    {
+      "file": "investment_time_horizon",
+      "title": "Investment Time Horizon"
+    },
+    {
+      "file": "investment_trusts_explained",
+      "title": "Investment Trusts Explained"
+    },
+    {
+      "file": "investor_biases_basics",
+      "title": "Investor Biases Basics"
+    },
+    {
+      "file": "learning_about_investing",
+      "title": "Learning About Investing"
+    },
+    {
+      "file": "lump_sum_investing",
+      "title": "Lump Sum Investing"
+    },
+    {
+      "file": "market_cycles_explained",
+      "title": "Market Cycles Explained"
+    },
+    {
+      "file": "market_timing_risks",
+      "title": "Market Timing Risks"
+    },
+    {
+      "file": "market_volatility_explained",
+      "title": "Market Volatility Explained"
+    },
+    {
+      "file": "past_performance_warning",
+      "title": "Past Performance Warning"
+    },
+    {
+      "file": "portfolio_rebalancing",
+      "title": "Portfolio Rebalancing"
+    },
+    {
+      "file": "reading_annual_reports",
+      "title": "Reading Annual Reports"
+    },
+    {
+      "file": "regular_investing_basics",
+      "title": "Regular Investing Basics"
+    },
+    {
+      "file": "reinvesting_dividends",
+      "title": "Reinvesting Dividends"
+    },
+    {
+      "file": "reviewing_your_investments",
+      "title": "Reviewing Your Investments"
+    },
+    {
+      "file": "risk_and_return_tradeoff",
+      "title": "Risk And Return Tradeoff"
+    },
+    {
+      "file": "risk_tolerance_for_beginners",
+      "title": "Risk Tolerance For Beginners"
+    },
+    {
+      "file": "selling_investments_basics",
+      "title": "Selling Investments Basics"
+    },
+    {
+      "file": "shares_vs_bonds",
+      "title": "Shares Vs Bonds"
+    },
+    {
+      "file": "starting_with_small_amounts",
+      "title": "Starting With Small Amounts"
+    },
+    {
+      "file": "unit_trusts_explained",
+      "title": "Unit Trusts Explained"
+    },
+    {
+      "file": "what_is_investing",
+      "title": "What Is Investing"
+    },
+    {
+      "file": "when_to_seek_financial_advice",
+      "title": "When To Seek Financial Advice"
+    },
+    {
+      "file": "why_invest_money",
+      "title": "Why Invest Money"
+    }
+  ]
+}

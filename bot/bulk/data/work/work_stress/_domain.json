@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "work_stress",
+  "title": "Work Stress",
+  "modules": [
+    {
+      "file": "after_hours_messages",
+      "title": "After Hours Messages"
+    },
+    {
+      "file": "breathing_exercises_for_stress",
+      "title": "Breathing Exercises For Stress"
+    },
+    {
+      "file": "burnout_recovery",
+      "title": "Burnout Recovery"
+    },
+    {
+      "file": "career_change_stress",
+      "title": "Career Change Stress"
+    },
+    {
+      "file": "colleague_conflict",
+      "title": "Colleague Conflict"
+    },
+    {
+      "file": "commute_stress",
+      "title": "Commute Stress"
+    },
+    {
+      "file": "deadline_pressure",
+      "title": "Deadline Pressure"
+    },
+    {
+      "file": "delegating_work",
+      "title": "Delegating Work"
+    },
+    {
+      "file": "desk_posture_and_strain",
+      "title": "Desk Posture And Strain"
+    },
+    {
+      "file": "difficult_manager",
+      "title": "Difficult Manager"
+    },
+    {
+      "file": "email_overload",
+      "title": "Email Overload"
+    },
+    {
+      "file": "employee_assistance_programme",
+      "title": "Employee Assistance Programme"
+    },
+    {
+      "file": "exercise_for_stress_relief",
+      "title": "Exercise For Stress Relief"
+    },
+    {
+      "file": "eye_strain_at_work",
+      "title": "Eye Strain At Work"
+    },
+    {
+      "file": "fear_of_failure_at_work",
+      "title": "Fear Of Failure At Work"
+    },
+    {
+      "file": "hybrid_working_stress",
+      "title": "Hybrid Working Stress"
+    },
+    {
+      "file": "imposter_syndrome_at_work",
+      "title": "Imposter Syndrome At Work"
+    },
+    {
+      "file": "job_insecurity_stress",
+      "title": "Job Insecurity Stress"
+    },
+    {
+      "file": "meeting_stress",
+      "title": "Meeting Stress"
+    },
+    {
+      "file": "micro_breaks_at_work",
+      "title": "Micro Breaks At Work"
+    },
+    {
+      "file": "mindfulness_at_work",
+      "title": "Mindfulness At Work"
+    },
+    {
+      "file": "new_job_anxiety",
+      "title": "New Job Anxiety"
+    },
+    {
+      "file": "night_shift_fatigue",
+      "title": "Night Shift Fatigue"
+    },
+    {
+      "file": "perfectionism_at_work",
+      "title": "Perfectionism At Work"
+    },
+    {
+      "file": "performance_review_stress",
+      "title": "Performance Review Stress"
+    },
+    {
+      "file": "presentation_anxiety_at_work",
+      "title": "Presentation Anxiety At Work"
+    },
+    {
+      "file": "presenteeism_at_work",
+      "title": "Presenteeism At Work"
+    },
+    {
+      "file": "prioritising_tasks_at_work",
+      "title": "Prioritising Tasks At Work"
+    },
+    {
+      "file": "raising_stress_with_hr",
+      "title": "Raising Stress With Hr"
+    },
+    {
+      "file": "recognising_work_stress",
+      "title": "Recognising Work Stress"
+    },
+    {
+      "file": "redundancy_stress",
+      "title": "Redundancy Stress"
+    },
+    {
+      "file": "relaxation_techniques_at_work",
+      "title": "Relaxation Techniques At Work"
+    },
+    {
+      "file": "remote_work_isolation",
+      "title": "Remote Work Isolation"
+    },
+    {
+      "file": "return_to_work_after_leave",
+      "title": "Return To Work After Leave"
+    },
+    {
+      "file": "saying_no_to_extra_work",
+      "title": "Saying No To Extra Work"
+    },
+    {
+      "file": "seeking_help_for_work_stress",
+      "title": "Seeking Help For Work Stress"
+    },
+    {
+      "file": "shift_work_stress",
+      "title": "Shift Work Stress"
+    },
+    {
+      "file": "social_support_at_work",
+      "title": "Social Support At Work"
+    },
+    {
+      "file": "stress_and_appetite",
+      "title": "Stress And Appetite"
+    },
+    {
+      "file": "stress_and_digestion",
+      "title": "Stress And Digestion"
+    },
+    {
+      "file": "stress_headaches_at_work",
+      "title": "Stress Headaches At Work"
+    },
+    {
+      "file": "switching_off_after_work",
+      "title": "Switching Off After Work"
+    },
+    {
+      "file": "taking_stress_leave",
+      "title": "Taking Stress Leave"
+    },
+    {
+      "file": "talking_to_manager_about_workload",
+      "title": "Talking To Manager About Workload"
+    },
+    {
+      "file": "unmanageable_workload",
+      "title": "Unmanageable Workload"
+    },
+    {
+      "file": "weekend_work",
+      "title": "Weekend Work"
+    },
+    {
+      "file": "work_life_boundaries",
+      "title": "Work Life Boundaries"
+    },
+    {
+      "file": "work_stress_and_sleep",
+      "title": "Work Stress And Sleep"
+    },
+    {
+      "file": "workplace_bullying",
+      "title": "Workplace Bullying"
+    },
+    {
+      "file": "workplace_harassment",
+      "title": "Workplace Harassment"
+    }
+  ]
+}

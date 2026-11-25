@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "pensions",
+  "title": "Pensions",
+  "modules": [
+    {
+      "file": "automatic_enrolment",
+      "title": "Automatic Enrolment"
+    },
+    {
+      "file": "checking_pension_pots",
+      "title": "Checking Pension Pots"
+    },
+    {
+      "file": "pension_advice",
+      "title": "Pension Advice"
+    },
+    {
+      "file": "pension_annual_allowance",
+      "title": "Pension Annual Allowance"
+    },
+    {
+      "file": "pension_annuities",
+      "title": "Pension Annuities"
+    },
+    {
+      "file": "pension_cash_transfer",
+      "title": "Pension Cash Transfer"
+    },
+    {
+      "file": "pension_consolidation",
+      "title": "Pension Consolidation"
+    },
+    {
+      "file": "pension_contribution_limits",
+      "title": "Pension Contribution Limits"
+    },
+    {
+      "file": "pension_credits",
+      "title": "Pension Credits"
+    },
+    {
+      "file": "pension_death_benefits",
+      "title": "Pension Death Benefits"
+    },
+    {
+      "file": "pension_diversification",
+      "title": "Pension Diversification"
+    },
+    {
+      "file": "pension_divorce",
+      "title": "Pension Divorce"
+    },
+    {
+      "file": "pension_drawdown",
+      "title": "Pension Drawdown"
+    },
+    {
+      "file": "pension_employer_contributions",
+      "title": "Pension Employer Contributions"
+    },
+    {
+      "file": "pension_fees_and_charges",
+      "title": "Pension Fees And Charges"
+    },
+    {
+      "file": "pension_flexible_retirement",
+      "title": "Pension Flexible Retirement"
+    },
+    {
+      "file": "pension_forecasting",
+      "title": "Pension Forecasting"
+    },
+    {
+      "file": "pension_fund_choices",
+      "title": "Pension Fund Choices"
+    },
+    {
+      "file": "pension_ill_health",
+      "title": "Pension Ill Health"
+    },
+    {
+      "file": "pension_income",
+      "title": "Pension Income"
+    },
+    {
+      "file": "pension_inheritance",
+      "title": "Pension Inheritance"
+    },
+    {
+      "file": "pension_investment_risk",
+      "title": "Pension Investment Risk"
+    },
+    {
+      "file": "pension_late_retirement",
+      "title": "Pension Late Retirement"
+    },
+    {
+      "file": "pension_leaving_job",
+      "title": "Pension Leaving Job"
+    },
+    {
+      "file": "pension_lifetime_allowance",
+      "title": "Pension Lifetime Allowance"
+    },
+    {
+      "file": "pension_lost_pots",
+      "title": "Pension Lost Pots"
+    },
+    {
+      "file": "pension_lump_sum",
+      "title": "Pension Lump Sum"
+    },
+    {
+      "file": "pension_matching_contributions",
+      "title": "Pension Matching Contributions"
+    },
+    {
+      "file": "pension_nominees",
+      "title": "Pension Nominees"
+    },
+    {
+      "file": "pension_opt_out",
+      "title": "Pension Opt Out"
+    },
+    {
+      "file": "pension_payroll_deductions",
+      "title": "Pension Payroll Deductions"
+    },
+    {
+      "file": "pension_performance",
+      "title": "Pension Performance"
+    },
+    {
+      "file": "pension_pot_estimates",
+      "title": "Pension Pot Estimates"
+    },
+    {
+      "file": "pension_records",
+      "title": "Pension Records"
+    },
+    {
+      "file": "pension_regular_contributions",
+      "title": "Pension Regular Contributions"
+    },
+    {
+      "file": "pension_rejoining",
+      "title": "Pension Rejoining"
+    },
+    {
+      "file": "pension_retirement_age",
+      "title": "Pension Retirement Age"
+    },
+    {
+      "file": "pension_scams",
+      "title": "Pension Scams"
+    },
+    {
+      "file": "pension_shortfall",
+      "title": "Pension Shortfall"
+    },
+    {
+      "file": "pension_tax_relief",
+      "title": "Pension Tax Relief"
+    },
+    {
+      "file": "pension_topping_up",
+      "title": "Pension Topping Up"
+    },
+    {
+      "file": "pension_transfer",
+      "title": "Pension Transfer"
+    },
+    {
+      "file": "pension_withdrawal_rules",
+      "title": "Pension Withdrawal Rules"
+    },
+    {
+      "file": "personal_pensions",
+      "title": "Personal Pensions"
+    },
+    {
+      "file": "self_invested_pensions",
+      "title": "Self Invested Pensions"
+    },
+    {
+      "file": "stakeholder_pensions",
+      "title": "Stakeholder Pensions"
+    },
+    {
+      "file": "starting_a_pension",
+      "title": "Starting A Pension"
+    },
+    {
+      "file": "state_pension",
+      "title": "State Pension"
+    },
+    {
+      "file": "taking_pension_early",
+      "title": "Taking Pension Early"
+    },
+    {
+      "file": "workplace_pensions",
+      "title": "Workplace Pensions"
+    }
+  ]
+}

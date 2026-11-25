@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "banking",
+  "title": "Banking",
+  "modules": [
+    {
+      "file": "bank_account_after_death",
+      "title": "Bank Account After Death"
+    },
+    {
+      "file": "bank_account_eligibility",
+      "title": "Bank Account Eligibility"
+    },
+    {
+      "file": "bank_account_numbers",
+      "title": "Bank Account Numbers"
+    },
+    {
+      "file": "bank_account_security_settings",
+      "title": "Bank Account Security Settings"
+    },
+    {
+      "file": "bank_alerts",
+      "title": "Bank Alerts"
+    },
+    {
+      "file": "bank_branch_services",
+      "title": "Bank Branch Services"
+    },
+    {
+      "file": "bank_cheques",
+      "title": "Bank Cheques"
+    },
+    {
+      "file": "bank_complaints",
+      "title": "Bank Complaints"
+    },
+    {
+      "file": "bank_credit_card",
+      "title": "Bank Credit Card"
+    },
+    {
+      "file": "bank_customer_service",
+      "title": "Bank Customer Service"
+    },
+    {
+      "file": "bank_deposit_protection",
+      "title": "Bank Deposit Protection"
+    },
+    {
+      "file": "bank_fees_and_charges",
+      "title": "Bank Fees And Charges"
+    },
+    {
+      "file": "bank_identity_checks",
+      "title": "Bank Identity Checks"
+    },
+    {
+      "file": "bank_interest_rates",
+      "title": "Bank Interest Rates"
+    },
+    {
+      "file": "bank_overdrafts",
+      "title": "Bank Overdrafts"
+    },
+    {
+      "file": "bank_statements",
+      "title": "Bank Statements"
+    },
+    {
+      "file": "bank_transfer_basics",
+      "title": "Bank Transfer Basics"
+    },
+    {
+      "file": "business_bank_accounts",
+      "title": "Business Bank Accounts"
+    },
+    {
+      "file": "card_payments_abroad",
+      "title": "Card Payments Abroad"
+    },
+    {
+      "file": "card_pin_security",
+      "title": "Card Pin Security"
+    },
+    {
+      "file": "cash_withdrawal",
+      "title": "Cash Withdrawal"
+    },
+    {
+      "file": "changing_address_with_bank",
+      "title": "Changing Address With Bank"
+    },
+    {
+      "file": "checking_account_balance",
+      "title": "Checking Account Balance"
+    },
+    {
+      "file": "child_bank_accounts",
+      "title": "Child Bank Accounts"
+    },
+    {
+      "file": "closing_a_bank_account",
+      "title": "Closing A Bank Account"
+    },
+    {
+      "file": "contactless_card_payments",
+      "title": "Contactless Card Payments"
+    },
+    {
+      "file": "currency_exchange_at_bank",
+      "title": "Currency Exchange At Bank"
+    },
+    {
+      "file": "current_account_basics",
+      "title": "Current Account Basics"
+    },
+    {
+      "file": "debit_card_basics",
+      "title": "Debit Card Basics"
+    },
+    {
+      "file": "direct_debits",
+      "title": "Direct Debits"
+    },
+    {
+      "file": "documents_for_bank_account",
+      "title": "Documents For Bank Account"
+    },
+    {
+      "file": "dormant_bank_accounts",
+      "title": "Dormant Bank Accounts"
+    },
+    {
+      "file": "going_overdrawn",
+      "title": "Going Overdrawn"
+    },
+    {
+      "file": "international_bank_transfer",
+      "title": "International Bank Transfer"
+    },
+    {
+      "file": "joint_bank_accounts",
+      "title": "Joint Bank Accounts"
+    },
+    {
+      "file": "lost_or_stolen_bank_card",
+      "title": "Lost Or Stolen Bank Card"
+    },
+    {
+      "file": "mobile_banking_app",
+      "title": "Mobile Banking App"
+    },
+    {
+      "file": "online_banking",
+      "title": "Online Banking"
+    },
+    {
+      "file": "online_banking_security",
+      "title": "Online Banking Security"
+    },
+    {
+      "file": "opening_a_bank_account",
+      "title": "Opening A Bank Account"
+    },
+    {
+      "file": "paperless_bank_statements",
+      "title": "Paperless Bank Statements"
+    },
+    {
+      "file": "paying_in_cash_and_cheques",
+      "title": "Paying In Cash And Cheques"
+    },
+    {
+      "file": "personal_loans_from_bank",
+      "title": "Personal Loans From Bank"
+    },
+    {
+      "file": "power_of_attorney_banking",
+      "title": "Power Of Attorney Banking"
+    },
+    {
+      "file": "savings_account_basics",
+      "title": "Savings Account Basics"
+    },
+    {
+      "file": "standing_orders",
+      "title": "Standing Orders"
+    },
+    {
+      "file": "student_bank_accounts",
+      "title": "Student Bank Accounts"
+    },
+    {
+      "file": "switching_bank_accounts",
+      "title": "Switching Bank Accounts"
+    },
+    {
+      "file": "telephone_banking",
+      "title": "Telephone Banking"
+    },
+    {
+      "file": "wrong_bank_charge",
+      "title": "Wrong Bank Charge"
+    }
+  ]
+}

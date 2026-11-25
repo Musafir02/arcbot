@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "mortgages_and_rent",
+  "title": "Mortgages And Rent",
+  "modules": [
+    {
+      "file": "affordability_basics",
+      "title": "Affordability Basics"
+    },
+    {
+      "file": "bad_credit_mortgage",
+      "title": "Bad Credit Mortgage"
+    },
+    {
+      "file": "credit_score_mortgage",
+      "title": "Credit Score Mortgage"
+    },
+    {
+      "file": "first_time_buyer_mortgage",
+      "title": "First Time Buyer Mortgage"
+    },
+    {
+      "file": "fixed_vs_tracker_mortgage",
+      "title": "Fixed Vs Tracker Mortgage"
+    },
+    {
+      "file": "guarantor_basics",
+      "title": "Guarantor Basics"
+    },
+    {
+      "file": "home_survey_basics",
+      "title": "Home Survey Basics"
+    },
+    {
+      "file": "homelessness_help_basics",
+      "title": "Homelessness Help Basics"
+    },
+    {
+      "file": "housing_costs_basics",
+      "title": "Housing Costs Basics"
+    },
+    {
+      "file": "joint_mortgage",
+      "title": "Joint Mortgage"
+    },
+    {
+      "file": "landlord_repairs_basics",
+      "title": "Landlord Repairs Basics"
+    },
+    {
+      "file": "leasehold_flat_basics",
+      "title": "Leasehold Flat Basics"
+    },
+    {
+      "file": "mortgage_affordability",
+      "title": "Mortgage Affordability"
+    },
+    {
+      "file": "mortgage_application",
+      "title": "Mortgage Application"
+    },
+    {
+      "file": "mortgage_application_basics",
+      "title": "Mortgage Application Basics"
+    },
+    {
+      "file": "mortgage_application_problems",
+      "title": "Mortgage Application Problems"
+    },
+    {
+      "file": "mortgage_arrears_help",
+      "title": "Mortgage Arrears Help"
+    },
+    {
+      "file": "mortgage_deposit",
+      "title": "Mortgage Deposit"
+    },
+    {
+      "file": "mortgage_deposit_basics",
+      "title": "Mortgage Deposit Basics"
+    },
+    {
+      "file": "mortgage_deposit_problems",
+      "title": "Mortgage Deposit Problems"
+    },
+    {
+      "file": "mortgage_documents",
+      "title": "Mortgage Documents"
+    },
+    {
+      "file": "mortgage_guarantor",
+      "title": "Mortgage Guarantor"
+    },
+    {
+      "file": "mortgage_interest_rates",
+      "title": "Mortgage Interest Rates"
+    },
+    {
+      "file": "mortgage_legal_fees",
+      "title": "Mortgage Legal Fees"
+    },
+    {
+      "file": "mortgage_overpayments",
+      "title": "Mortgage Overpayments"
+    },
+    {
+      "file": "mortgage_payment_holiday",
+      "title": "Mortgage Payment Holiday"
+    },
+    {
+      "file": "mortgage_porting",
+      "title": "Mortgage Porting"
+    },
+    {
+      "file": "mortgage_product_transfer",
+      "title": "Mortgage Product Transfer"
+    },
+    {
+      "file": "mortgage_rates_basics",
+      "title": "Mortgage Rates Basics"
+    },
+    {
+      "file": "mortgage_rates_problems",
+      "title": "Mortgage Rates Problems"
+    },
+    {
+      "file": "mortgage_remortgage",
+      "title": "Mortgage Remortgage"
+    },
+    {
+      "file": "mortgage_repossession",
+      "title": "Mortgage Repossession"
+    },
+    {
+      "file": "mortgage_survey",
+      "title": "Mortgage Survey"
+    },
+    {
+      "file": "mortgage_term_basics",
+      "title": "Mortgage Term Basics"
+    },
+    {
+      "file": "mortgage_term_length",
+      "title": "Mortgage Term Length"
+    },
+    {
+      "file": "mortgage_types",
+      "title": "Mortgage Types"
+    },
+    {
+      "file": "mortgage_valuation",
+      "title": "Mortgage Valuation"
+    },
+    {
+      "file": "property_valuation_basics",
+      "title": "Property Valuation Basics"
+    },
+    {
+      "file": "remortgage_basics",
+      "title": "Remortgage Basics"
+    },
+    {
+      "file": "rent_arrears_basics",
+      "title": "Rent Arrears Basics"
+    },
+    {
+      "file": "rent_deposit_basics",
+      "title": "Rent Deposit Basics"
+    },
+    {
+      "file": "rent_deposit_problems",
+      "title": "Rent Deposit Problems"
+    },
+    {
+      "file": "rent_review_basics",
+      "title": "Rent Review Basics"
+    },
+    {
+      "file": "rental_agreement_basics",
+      "title": "Rental Agreement Basics"
+    },
+    {
+      "file": "rental_agreement_checks",
+      "title": "Rental Agreement Checks"
+    },
+    {
+      "file": "rental_agreement_problems",
+      "title": "Rental Agreement Problems"
+    },
+    {
+      "file": "rental_inspection_basics",
+      "title": "Rental Inspection Basics"
+    },
+    {
+      "file": "self_employed_mortgage",
+      "title": "Self Employed Mortgage"
+    },
+    {
+      "file": "shared_ownership_basics",
+      "title": "Shared Ownership Basics"
+    },
+    {
+      "file": "tenancy_deposit_basics",
+      "title": "Tenancy Deposit Basics"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "job_searching",
+  "title": "Job Searching",
+  "modules": [
+    {
+      "file": "application_feedback",
+      "title": "Application Feedback"
+    },
+    {
+      "file": "application_pipeline",
+      "title": "Application Pipeline"
+    },
+    {
+      "file": "application_quality",
+      "title": "Application Quality"
+    },
+    {
+      "file": "application_tracking",
+      "title": "Application Tracking"
+    },
+    {
+      "file": "asking_for_referrals",
+      "title": "Asking For Referrals"
+    },
+    {
+      "file": "career_change_job_search",
+      "title": "Career Change Job Search"
+    },
+    {
+      "file": "cold_emailing_employers",
+      "title": "Cold Emailing Employers"
+    },
+    {
+      "file": "daily_job_search_routine",
+      "title": "Daily Job Search Routine"
+    },
+    {
+      "file": "disability_job_search",
+      "title": "Disability Job Search"
+    },
+    {
+      "file": "employer_careers_pages",
+      "title": "Employer Careers Pages"
+    },
+    {
+      "file": "employer_research",
+      "title": "Employer Research"
+    },
+    {
+      "file": "employment_gaps",
+      "title": "Employment Gaps"
+    },
+    {
+      "file": "evaluating_job_offers",
+      "title": "Evaluating Job Offers"
+    },
+    {
+      "file": "following_up_applications",
+      "title": "Following Up Applications"
+    },
+    {
+      "file": "graduate_job_search",
+      "title": "Graduate Job Search"
+    },
+    {
+      "file": "handling_rejections",
+      "title": "Handling Rejections"
+    },
+    {
+      "file": "hidden_job_market",
+      "title": "Hidden Job Market"
+    },
+    {
+      "file": "informational_interviews",
+      "title": "Informational Interviews"
+    },
+    {
+      "file": "internship_search",
+      "title": "Internship Search"
+    },
+    {
+      "file": "job_advert_keywords",
+      "title": "Job Advert Keywords"
+    },
+    {
+      "file": "job_alerts",
+      "title": "Job Alerts"
+    },
+    {
+      "file": "job_boards",
+      "title": "Job Boards"
+    },
+    {
+      "file": "job_fairs",
+      "title": "Job Fairs"
+    },
+    {
+      "file": "job_search_after_redundancy",
+      "title": "Job Search After Redundancy"
+    },
+    {
+      "file": "job_search_burnout",
+      "title": "Job Search Burnout"
+    },
+    {
+      "file": "job_search_goals",
+      "title": "Job Search Goals"
+    },
+    {
+      "file": "job_search_keywords",
+      "title": "Job Search Keywords"
+    },
+    {
+      "file": "job_search_plan",
+      "title": "Job Search Plan"
+    },
+    {
+      "file": "linkedin_job_search",
+      "title": "Linkedin Job Search"
+    },
+    {
+      "file": "local_job_search",
+      "title": "Local Job Search"
+    },
+    {
+      "file": "networking_for_jobs",
+      "title": "Networking For Jobs"
+    },
+    {
+      "file": "older_worker_job_search",
+      "title": "Older Worker Job Search"
+    },
+    {
+      "file": "part_time_job_search",
+      "title": "Part Time Job Search"
+    },
+    {
+      "file": "pay_research",
+      "title": "Pay Research"
+    },
+    {
+      "file": "public_sector_jobs",
+      "title": "Public Sector Jobs"
+    },
+    {
+      "file": "recruiter_outreach",
+      "title": "Recruiter Outreach"
+    },
+    {
+      "file": "recruitment_agencies",
+      "title": "Recruitment Agencies"
+    },
+    {
+      "file": "relocation_job_search",
+      "title": "Relocation Job Search"
+    },
+    {
+      "file": "remote_job_search",
+      "title": "Remote Job Search"
+    },
+    {
+      "file": "returning_to_work",
+      "title": "Returning To Work"
+    },
+    {
+      "file": "social_media_job_search",
+      "title": "Social Media Job Search"
+    },
+    {
+      "file": "speculative_applications",
+      "title": "Speculative Applications"
+    },
+    {
+      "file": "starting_job_search",
+      "title": "Starting Job Search"
+    },
+    {
+      "file": "staying_motivated",
+      "title": "Staying Motivated"
+    },
+    {
+      "file": "tailoring_applications",
+      "title": "Tailoring Applications"
+    },
+    {
+      "file": "target_company_list",
+      "title": "Target Company List"
+    },
+    {
+      "file": "temporary_job_search",
+      "title": "Temporary Job Search"
+    },
+    {
+      "file": "unadvertised_jobs",
+      "title": "Unadvertised Jobs"
+    },
+    {
+      "file": "visa_sponsorship_jobs",
+      "title": "Visa Sponsorship Jobs"
+    },
+    {
+      "file": "weekly_application_target",
+      "title": "Weekly Application Target"
+    }
+  ]
+}

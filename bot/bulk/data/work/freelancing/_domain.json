@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "freelancing",
+  "title": "Freelancing",
+  "modules": [
+    {
+      "file": "building_a_freelance_portfolio",
+      "title": "Building A Freelance Portfolio"
+    },
+    {
+      "file": "charging_for_revisions",
+      "title": "Charging For Revisions"
+    },
+    {
+      "file": "chasing_late_invoices",
+      "title": "Chasing Late Invoices"
+    },
+    {
+      "file": "choosing_a_freelance_niche",
+      "title": "Choosing A Freelance Niche"
+    },
+    {
+      "file": "claiming_freelance_expenses",
+      "title": "Claiming Freelance Expenses"
+    },
+    {
+      "file": "cold_emailing_clients",
+      "title": "Cold Emailing Clients"
+    },
+    {
+      "file": "confidentiality_agreements",
+      "title": "Confidentiality Agreements"
+    },
+    {
+      "file": "copyright_for_freelancers",
+      "title": "Copyright For Freelancers"
+    },
+    {
+      "file": "deciding_on_free_work",
+      "title": "Deciding On Free Work"
+    },
+    {
+      "file": "defining_project_scope",
+      "title": "Defining Project Scope"
+    },
+    {
+      "file": "difficult_clients",
+      "title": "Difficult Clients"
+    },
+    {
+      "file": "ending_client_relationships",
+      "title": "Ending Client Relationships"
+    },
+    {
+      "file": "finding_freelance_clients",
+      "title": "Finding Freelance Clients"
+    },
+    {
+      "file": "freelance_bookkeeping",
+      "title": "Freelance Bookkeeping"
+    },
+    {
+      "file": "freelance_contracts",
+      "title": "Freelance Contracts"
+    },
+    {
+      "file": "freelance_insurance",
+      "title": "Freelance Insurance"
+    },
+    {
+      "file": "freelance_networking",
+      "title": "Freelance Networking"
+    },
+    {
+      "file": "freelance_tax_basics",
+      "title": "Freelance Tax Basics"
+    },
+    {
+      "file": "freelance_tools_and_software",
+      "title": "Freelance Tools And Software"
+    },
+    {
+      "file": "freelancing_alongside_a_job",
+      "title": "Freelancing Alongside A Job"
+    },
+    {
+      "file": "getting_client_references",
+      "title": "Getting Client References"
+    },
+    {
+      "file": "handling_client_disputes",
+      "title": "Handling Client Disputes"
+    },
+    {
+      "file": "handling_client_feedback",
+      "title": "Handling Client Feedback"
+    },
+    {
+      "file": "handling_scope_creep",
+      "title": "Handling Scope Creep"
+    },
+    {
+      "file": "hourly_vs_project_rates",
+      "title": "Hourly Vs Project Rates"
+    },
+    {
+      "file": "invoicing_clients",
+      "title": "Invoicing Clients"
+    },
+    {
+      "file": "late_payment_interest",
+      "title": "Late Payment Interest"
+    },
+    {
+      "file": "managing_client_expectations",
+      "title": "Managing Client Expectations"
+    },
+    {
+      "file": "managing_freelance_workload",
+      "title": "Managing Freelance Workload"
+    },
+    {
+      "file": "negotiating_freelance_fees",
+      "title": "Negotiating Freelance Fees"
+    },
+    {
+      "file": "pitching_for_freelance_work",
+      "title": "Pitching For Freelance Work"
+    },
+    {
+      "file": "planning_freelance_projects",
+      "title": "Planning Freelance Projects"
+    },
+    {
+      "file": "raising_rates_with_clients",
+      "title": "Raising Rates With Clients"
+    },
+    {
+      "file": "requesting_a_deposit",
+      "title": "Requesting A Deposit"
+    },
+    {
+      "file": "saving_for_a_tax_bill",
+      "title": "Saving For A Tax Bill"
+    },
+    {
+      "file": "setting_freelance_rates",
+      "title": "Setting Freelance Rates"
+    },
+    {
+      "file": "setting_payment_terms",
+      "title": "Setting Payment Terms"
+    },
+    {
+      "file": "setting_up_a_home_office",
+      "title": "Setting Up A Home Office"
+    },
+    {
+      "file": "setting_up_a_retainer",
+      "title": "Setting Up A Retainer"
+    },
+    {
+      "file": "subcontracting_freelance_work",
+      "title": "Subcontracting Freelance Work"
+    },
+    {
+      "file": "taking_payments_online",
+      "title": "Taking Payments Online"
+    },
+    {
+      "file": "talking_to_clients",
+      "title": "Talking To Clients"
+    },
+    {
+      "file": "tracking_freelance_time",
+      "title": "Tracking Freelance Time"
+    },
+    {
+      "file": "understanding_noncompete_clauses",
+      "title": "Understanding Noncompete Clauses"
+    },
+    {
+      "file": "using_freelance_platforms",
+      "title": "Using Freelance Platforms"
+    },
+    {
+      "file": "working_with_agencies",
+      "title": "Working With Agencies"
+    },
+    {
+      "file": "working_with_overseas_clients",
+      "title": "Working With Overseas Clients"
+    },
+    {
+      "file": "writing_a_freelance_bio",
+      "title": "Writing A Freelance Bio"
+    },
+    {
+      "file": "writing_freelance_proposals",
+      "title": "Writing Freelance Proposals"
+    },
+    {
+      "file": "writing_freelance_quotes",
+      "title": "Writing Freelance Quotes"
+    }
+  ]
+}

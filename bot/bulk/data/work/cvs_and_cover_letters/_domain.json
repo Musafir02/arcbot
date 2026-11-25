@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "cvs_and_cover_letters",
+  "title": "Cvs And Cover Letters",
+  "modules": [
+    {
+      "file": "application_follow_up_email",
+      "title": "Application Follow Up Email"
+    },
+    {
+      "file": "cover_letter_addressing",
+      "title": "Cover Letter Addressing"
+    },
+    {
+      "file": "cover_letter_career_change",
+      "title": "Cover Letter Career Change"
+    },
+    {
+      "file": "cover_letter_closing",
+      "title": "Cover Letter Closing"
+    },
+    {
+      "file": "cover_letter_company_research",
+      "title": "Cover Letter Company Research"
+    },
+    {
+      "file": "cover_letter_content",
+      "title": "Cover Letter Content"
+    },
+    {
+      "file": "cover_letter_email",
+      "title": "Cover Letter Email"
+    },
+    {
+      "file": "cover_letter_explaining_gaps",
+      "title": "Cover Letter Explaining Gaps"
+    },
+    {
+      "file": "cover_letter_length",
+      "title": "Cover Letter Length"
+    },
+    {
+      "file": "cover_letter_matching_skills",
+      "title": "Cover Letter Matching Skills"
+    },
+    {
+      "file": "cover_letter_opening",
+      "title": "Cover Letter Opening"
+    },
+    {
+      "file": "cover_letter_salary_expectations",
+      "title": "Cover Letter Salary Expectations"
+    },
+    {
+      "file": "cover_letter_samples",
+      "title": "Cover Letter Samples"
+    },
+    {
+      "file": "cover_letter_tone",
+      "title": "Cover Letter Tone"
+    },
+    {
+      "file": "cv_achievements",
+      "title": "Cv Achievements"
+    },
+    {
+      "file": "cv_action_verbs",
+      "title": "Cv Action Verbs"
+    },
+    {
+      "file": "cv_and_cover_letter_consistency",
+      "title": "Cv And Cover Letter Consistency"
+    },
+    {
+      "file": "cv_ats_friendly",
+      "title": "Cv Ats Friendly"
+    },
+    {
+      "file": "cv_career_change",
+      "title": "Cv Career Change"
+    },
+    {
+      "file": "cv_chronological_vs_functional",
+      "title": "Cv Chronological Vs Functional"
+    },
+    {
+      "file": "cv_education_section",
+      "title": "Cv Education Section"
+    },
+    {
+      "file": "cv_file_name_and_submission",
+      "title": "Cv File Name And Submission"
+    },
+    {
+      "file": "cv_format_and_layout",
+      "title": "Cv Format And Layout"
+    },
+    {
+      "file": "cv_gaps_in_employment",
+      "title": "Cv Gaps In Employment"
+    },
+    {
+      "file": "cv_hobbies_and_interests",
+      "title": "Cv Hobbies And Interests"
+    },
+    {
+      "file": "cv_internships",
+      "title": "Cv Internships"
+    },
+    {
+      "file": "cv_job_hopping",
+      "title": "Cv Job Hopping"
+    },
+    {
+      "file": "cv_keywords",
+      "title": "Cv Keywords"
+    },
+    {
+      "file": "cv_languages_section",
+      "title": "Cv Languages Section"
+    },
+    {
+      "file": "cv_length",
+      "title": "Cv Length"
+    },
+    {
+      "file": "cv_linkedin_and_social_links",
+      "title": "Cv Linkedin And Social Links"
+    },
+    {
+      "file": "cv_no_experience",
+      "title": "Cv No Experience"
+    },
+    {
+      "file": "cv_part_time_jobs",
+      "title": "Cv Part Time Jobs"
+    },
+    {
+      "file": "cv_pdf_vs_word",
+      "title": "Cv Pdf Vs Word"
+    },
+    {
+      "file": "cv_personal_summary",
+      "title": "Cv Personal Summary"
+    },
+    {
+      "file": "cv_photograph_and_personal_details",
+      "title": "Cv Photograph And Personal Details"
+    },
+    {
+      "file": "cv_professional_references",
+      "title": "Cv Professional References"
+    },
+    {
+      "file": "cv_projects_and_portfolio",
+      "title": "Cv Projects And Portfolio"
+    },
+    {
+      "file": "cv_proofreading",
+      "title": "Cv Proofreading"
+    },
+    {
+      "file": "cv_quantifying_results",
+      "title": "Cv Quantifying Results"
+    },
+    {
+      "file": "cv_redundancy_explanation",
+      "title": "Cv Redundancy Explanation"
+    },
+    {
+      "file": "cv_self_employment",
+      "title": "Cv Self Employment"
+    },
+    {
+      "file": "cv_skills_section",
+      "title": "Cv Skills Section"
+    },
+    {
+      "file": "cv_student_and_new_graduate",
+      "title": "Cv Student And New Graduate"
+    },
+    {
+      "file": "cv_templates",
+      "title": "Cv Templates"
+    },
+    {
+      "file": "cv_volunteering",
+      "title": "Cv Volunteering"
+    },
+    {
+      "file": "cv_vs_cover_letter",
+      "title": "Cv Vs Cover Letter"
+    },
+    {
+      "file": "cv_work_experience",
+      "title": "Cv Work Experience"
+    },
+    {
+      "file": "internal_application_letter",
+      "title": "Internal Application Letter"
+    },
+    {
+      "file": "speculative_cover_letter",
+      "title": "Speculative Cover Letter"
+    }
+  ]
+}

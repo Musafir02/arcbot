@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "credit_and_debt",
+  "title": "Credit And Debt",
+  "modules": [
+    {
+      "file": "balance_transfer_basics",
+      "title": "Balance Transfer Basics"
+    },
+    {
+      "file": "balance_transfer_cards",
+      "title": "Balance Transfer Cards"
+    },
+    {
+      "file": "bankruptcy",
+      "title": "Bankruptcy"
+    },
+    {
+      "file": "checking_credit_report",
+      "title": "Checking Credit Report"
+    },
+    {
+      "file": "checking_credit_score",
+      "title": "Checking Credit Score"
+    },
+    {
+      "file": "collection_letters_basics",
+      "title": "Collection Letters Basics"
+    },
+    {
+      "file": "collection_letters_problems",
+      "title": "Collection Letters Problems"
+    },
+    {
+      "file": "consolidating_debts",
+      "title": "Consolidating Debts"
+    },
+    {
+      "file": "credit_card_basics",
+      "title": "Credit Card Basics"
+    },
+    {
+      "file": "credit_card_interest",
+      "title": "Credit Card Interest"
+    },
+    {
+      "file": "credit_card_minimum_payments",
+      "title": "Credit Card Minimum Payments"
+    },
+    {
+      "file": "credit_card_problems",
+      "title": "Credit Card Problems"
+    },
+    {
+      "file": "credit_fraud_alert",
+      "title": "Credit Fraud Alert"
+    },
+    {
+      "file": "credit_freeze",
+      "title": "Credit Freeze"
+    },
+    {
+      "file": "credit_history_basics",
+      "title": "Credit History Basics"
+    },
+    {
+      "file": "credit_history_problems",
+      "title": "Credit History Problems"
+    },
+    {
+      "file": "credit_limit_basics",
+      "title": "Credit Limit Basics"
+    },
+    {
+      "file": "credit_reference_basics",
+      "title": "Credit Reference Basics"
+    },
+    {
+      "file": "credit_report_basics",
+      "title": "Credit Report Basics"
+    },
+    {
+      "file": "credit_report_errors",
+      "title": "Credit Report Errors"
+    },
+    {
+      "file": "credit_report_problems",
+      "title": "Credit Report Problems"
+    },
+    {
+      "file": "credit_score_basics",
+      "title": "Credit Score Basics"
+    },
+    {
+      "file": "credit_score_factors",
+      "title": "Credit Score Factors"
+    },
+    {
+      "file": "credit_score_problems",
+      "title": "Credit Score Problems"
+    },
+    {
+      "file": "credit_utilisation",
+      "title": "Credit Utilisation"
+    },
+    {
+      "file": "debt_advice_basics",
+      "title": "Debt Advice Basics"
+    },
+    {
+      "file": "debt_avalanche_method",
+      "title": "Debt Avalanche Method"
+    },
+    {
+      "file": "debt_collectors",
+      "title": "Debt Collectors"
+    },
+    {
+      "file": "debt_consolidation_basics",
+      "title": "Debt Consolidation Basics"
+    },
+    {
+      "file": "debt_consolidation_loan",
+      "title": "Debt Consolidation Loan"
+    },
+    {
+      "file": "debt_consolidation_problems",
+      "title": "Debt Consolidation Problems"
+    },
+    {
+      "file": "debt_management_basics",
+      "title": "Debt Management Basics"
+    },
+    {
+      "file": "debt_snowball_method",
+      "title": "Debt Snowball Method"
+    },
+    {
+      "file": "hard_search_basics",
+      "title": "Hard Search Basics"
+    },
+    {
+      "file": "improving_credit_score",
+      "title": "Improving Credit Score"
+    },
+    {
+      "file": "interest_charges_basics",
+      "title": "Interest Charges Basics"
+    },
+    {
+      "file": "interest_charges_problems",
+      "title": "Interest Charges Problems"
+    },
+    {
+      "file": "late_payment_basics",
+      "title": "Late Payment Basics"
+    },
+    {
+      "file": "loan_repayment_basics",
+      "title": "Loan Repayment Basics"
+    },
+    {
+      "file": "loan_repayment_problems",
+      "title": "Loan Repayment Problems"
+    },
+    {
+      "file": "overdraft_basics",
+      "title": "Overdraft Basics"
+    },
+    {
+      "file": "overdraft_problems",
+      "title": "Overdraft Problems"
+    },
+    {
+      "file": "overdue_bills",
+      "title": "Overdue Bills"
+    },
+    {
+      "file": "paying_off_credit_card_balance",
+      "title": "Paying Off Credit Card Balance"
+    },
+    {
+      "file": "paying_off_loan_early",
+      "title": "Paying Off Loan Early"
+    },
+    {
+      "file": "payment_plan_basics",
+      "title": "Payment Plan Basics"
+    },
+    {
+      "file": "payment_plan_problems",
+      "title": "Payment Plan Problems"
+    },
+    {
+      "file": "personal_loan_basics",
+      "title": "Personal Loan Basics"
+    },
+    {
+      "file": "repayment_offer_basics",
+      "title": "Repayment Offer Basics"
+    },
+    {
+      "file": "store_card_basics",
+      "title": "Store Card Basics"
+    }
+  ]
+}

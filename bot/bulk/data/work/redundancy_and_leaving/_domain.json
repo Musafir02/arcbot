@@ -1,0 +1,207 @@
+{
+  "category": "work",
+  "domain": "redundancy_and_leaving",
+  "title": "Redundancy And Leaving",
+  "modules": [
+    {
+      "file": "accrued_holiday_pay",
+      "title": "Accrued Holiday Pay"
+    },
+    {
+      "file": "alternative_job_offer",
+      "title": "Alternative Job Offer"
+    },
+    {
+      "file": "avoiding_redundancy",
+      "title": "Avoiding Redundancy"
+    },
+    {
+      "file": "career_break_basics",
+      "title": "Career Break Basics"
+    },
+    {
+      "file": "collective_redundancy",
+      "title": "Collective Redundancy"
+    },
+    {
+      "file": "enhanced_redundancy_terms",
+      "title": "Enhanced Redundancy Terms"
+    },
+    {
+      "file": "exit_interview_basics",
+      "title": "Exit Interview Basics"
+    },
+    {
+      "file": "final_pay",
+      "title": "Final Pay"
+    },
+    {
+      "file": "final_pay_basics",
+      "title": "Final Pay Basics"
+    },
+    {
+      "file": "gardening_leave",
+      "title": "Gardening Leave"
+    },
+    {
+      "file": "handover_plan_basics",
+      "title": "Handover Plan Basics"
+    },
+    {
+      "file": "holiday_pay_basics",
+      "title": "Holiday Pay Basics"
+    },
+    {
+      "file": "job_loss_basics",
+      "title": "Job Loss Basics"
+    },
+    {
+      "file": "job_search_after_redundancy",
+      "title": "Job Search After Redundancy"
+    },
+    {
+      "file": "leaving_early_basics",
+      "title": "Leaving Early Basics"
+    },
+    {
+      "file": "leaving_job_basics",
+      "title": "Leaving Job Basics"
+    },
+    {
+      "file": "notice_pay",
+      "title": "Notice Pay"
+    },
+    {
+      "file": "notice_pay_dispute",
+      "title": "Notice Pay Dispute"
+    },
+    {
+      "file": "notice_period_basics",
+      "title": "Notice Period Basics"
+    },
+    {
+      "file": "p45_and_leaving",
+      "title": "P45 And Leaving"
+    },
+    {
+      "file": "pay_in_lieu",
+      "title": "Pay In Lieu"
+    },
+    {
+      "file": "pension_transfer_basics",
+      "title": "Pension Transfer Basics"
+    },
+    {
+      "file": "redundancy_and_flexible_working",
+      "title": "Redundancy And Flexible Working"
+    },
+    {
+      "file": "redundancy_and_illness",
+      "title": "Redundancy And Illness"
+    },
+    {
+      "file": "redundancy_and_maternity_leave",
+      "title": "Redundancy And Maternity Leave"
+    },
+    {
+      "file": "redundancy_appeal",
+      "title": "Redundancy Appeal"
+    },
+    {
+      "file": "redundancy_consultation",
+      "title": "Redundancy Consultation"
+    },
+    {
+      "file": "redundancy_entitlements",
+      "title": "Redundancy Entitlements"
+    },
+    {
+      "file": "redundancy_notice_period",
+      "title": "Redundancy Notice Period"
+    },
+    {
+      "file": "redundancy_offer",
+      "title": "Redundancy Offer"
+    },
+    {
+      "file": "redundancy_offer_basics",
+      "title": "Redundancy Offer Basics"
+    },
+    {
+      "file": "redundancy_pay_basics",
+      "title": "Redundancy Pay Basics"
+    },
+    {
+      "file": "redundancy_pay_calculation",
+      "title": "Redundancy Pay Calculation"
+    },
+    {
+      "file": "redundancy_pool",
+      "title": "Redundancy Pool"
+    },
+    {
+      "file": "redundancy_reemployment",
+      "title": "Redundancy Reemployment"
+    },
+    {
+      "file": "redundancy_selection_criteria",
+      "title": "Redundancy Selection Criteria"
+    },
+    {
+      "file": "redundancy_support",
+      "title": "Redundancy Support"
+    },
+    {
+      "file": "reference_request_basics",
+      "title": "Reference Request Basics"
+    },
+    {
+      "file": "resignation_letter_basics",
+      "title": "Resignation Letter Basics"
+    },
+    {
+      "file": "return_of_equipment_basics",
+      "title": "Return Of Equipment Basics"
+    },
+    {
+      "file": "settlement_agreement_basics",
+      "title": "Settlement Agreement Basics"
+    },
+    {
+      "file": "severance_offer_basics",
+      "title": "Severance Offer Basics"
+    },
+    {
+      "file": "starting_a_new_job_basics",
+      "title": "Starting A New Job Basics"
+    },
+    {
+      "file": "statutory_redundancy_scheme",
+      "title": "Statutory Redundancy Scheme"
+    },
+    {
+      "file": "tax_on_leaving_pay",
+      "title": "Tax On Leaving Pay"
+    },
+    {
+      "file": "unpaid_leave_basics",
+      "title": "Unpaid Leave Basics"
+    },
+    {
+      "file": "unpaid_wages_on_leaving",
+      "title": "Unpaid Wages On Leaving"
+    },
+    {
+      "file": "voluntary_redundancy_request",
+      "title": "Voluntary Redundancy Request"
+    },
+    {
+      "file": "working_notice_period",
+      "title": "Working Notice Period"
+    },
+    {
+      "file": "workplace_rights_basics",
+      "title": "Workplace Rights Basics"
+    }
+  ]
+}

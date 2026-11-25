@@ -1,0 +1,207 @@
+{
+  "category": "money",
+  "domain": "taxes",
+  "title": "Taxes",
+  "modules": [
+    {
+      "file": "allowable_expenses",
+      "title": "Allowable Expenses"
+    },
+    {
+      "file": "business_rates",
+      "title": "Business Rates"
+    },
+    {
+      "file": "capital_gains_tax",
+      "title": "Capital Gains Tax"
+    },
+    {
+      "file": "choosing_an_accountant",
+      "title": "Choosing An Accountant"
+    },
+    {
+      "file": "claiming_accountant",
+      "title": "Claiming Accountant"
+    },
+    {
+      "file": "contractor_tax",
+      "title": "Contractor Tax"
+    },
+    {
+      "file": "corporation_tax",
+      "title": "Corporation Tax"
+    },
+    {
+      "file": "council_tax",
+      "title": "Council Tax"
+    },
+    {
+      "file": "dividend_tax",
+      "title": "Dividend Tax"
+    },
+    {
+      "file": "expat_tax",
+      "title": "Expat Tax"
+    },
+    {
+      "file": "expense_receipts",
+      "title": "Expense Receipts"
+    },
+    {
+      "file": "freelance_tax",
+      "title": "Freelance Tax"
+    },
+    {
+      "file": "income_tax_basics",
+      "title": "Income Tax Basics"
+    },
+    {
+      "file": "inheritance_tax",
+      "title": "Inheritance Tax"
+    },
+    {
+      "file": "national_insurance",
+      "title": "National Insurance"
+    },
+    {
+      "file": "paye_tax",
+      "title": "Paye Tax"
+    },
+    {
+      "file": "payslip_tax",
+      "title": "Payslip Tax"
+    },
+    {
+      "file": "pension_tax",
+      "title": "Pension Tax"
+    },
+    {
+      "file": "property_tax",
+      "title": "Property Tax"
+    },
+    {
+      "file": "rental_income_tax",
+      "title": "Rental Income Tax"
+    },
+    {
+      "file": "self_assessment_basics",
+      "title": "Self Assessment Basics"
+    },
+    {
+      "file": "self_assessment_deadlines",
+      "title": "Self Assessment Deadlines"
+    },
+    {
+      "file": "self_assessment_registration",
+      "title": "Self Assessment Registration"
+    },
+    {
+      "file": "self_employed_expenses",
+      "title": "Self Employed Expenses"
+    },
+    {
+      "file": "self_employed_income",
+      "title": "Self Employed Income"
+    },
+    {
+      "file": "side_hustle_tax",
+      "title": "Side Hustle Tax"
+    },
+    {
+      "file": "small_business_tax",
+      "title": "Small Business Tax"
+    },
+    {
+      "file": "stamp_duty",
+      "title": "Stamp Duty"
+    },
+    {
+      "file": "tax_allowances",
+      "title": "Tax Allowances"
+    },
+    {
+      "file": "tax_appeals",
+      "title": "Tax Appeals"
+    },
+    {
+      "file": "tax_avoidance",
+      "title": "Tax Avoidance"
+    },
+    {
+      "file": "tax_bands",
+      "title": "Tax Bands"
+    },
+    {
+      "file": "tax_codes",
+      "title": "Tax Codes"
+    },
+    {
+      "file": "tax_credits",
+      "title": "Tax Credits"
+    },
+    {
+      "file": "tax_for_students",
+      "title": "Tax For Students"
+    },
+    {
+      "file": "tax_help_and_advice",
+      "title": "Tax Help And Advice"
+    },
+    {
+      "file": "tax_on_gifts",
+      "title": "Tax On Gifts"
+    },
+    {
+      "file": "tax_on_investments",
+      "title": "Tax On Investments"
+    },
+    {
+      "file": "tax_on_savings",
+      "title": "Tax On Savings"
+    },
+    {
+      "file": "tax_payments",
+      "title": "Tax Payments"
+    },
+    {
+      "file": "tax_penalties",
+      "title": "Tax Penalties"
+    },
+    {
+      "file": "tax_planning",
+      "title": "Tax Planning"
+    },
+    {
+      "file": "tax_record_keeping",
+      "title": "Tax Record Keeping"
+    },
+    {
+      "file": "tax_refunds",
+      "title": "Tax Refunds"
+    },
+    {
+      "file": "tax_residency",
+      "title": "Tax Residency"
+    },
+    {
+      "file": "tax_returns_for_employees",
+      "title": "Tax Returns For Employees"
+    },
+    {
+      "file": "tax_software",
+      "title": "Tax Software"
+    },
+    {
+      "file": "vat_exempt_items",
+      "title": "Vat Exempt Items"
+    },
+    {
+      "file": "vat_registration",
+      "title": "Vat Registration"
+    },
+    {
+      "file": "vat_returns",
+      "title": "Vat Returns"
+    }
+  ]
+}
