@@ -122,6 +122,33 @@ travel work
 
 Pick the closest label. The label is for broad routing and memory, not for matching.
 
+## Topic map
+
+The full layer is 20 categories, 10 domains per category, and 50 modules per domain. Use these exact folder names.
+
+```text
+food: boiling_and_steaming; frying_and_sauteing; roasting_and_grilling; slow_cooking_and_stews; soups_and_stocks; rice_pasta_and_noodles; breakfast_and_brunch; sauces_and_seasonings; food_storage_and_leftovers; kitchen_equipment_and_safety
+baking: cakes_and_sponges; cookies_and_biscuits; pastry_and_pies; chocolate_and_sweets; icing_and_decorating; yeast_breads; gluten_free_baking; egg_free_and_vegan_baking; custards_and_dessert_sauces; baking_faults_and_fixes
+drinks: tea_and_coffee; smoothies_and_juices; cocktails_and_mocktails; wine_and_beer; water_and_hydration; hot_chocolate_and_cocoa; drink_equipment; drink_storage; party_drinks_and_serving; coffee_shop_drinks
+home: cleaning_and_laundry; stains_and_odours; painting_and_decorating; plumbing_basics; electrical_safety; furniture_and_repair; storage_and_organisation; heating_and_cooling; renting_and_household_admin; moving_house
+garden: houseplants; vegetables_and_herbs; flowers_and_shrubs; lawn_care; compost_and_soil; pruning_and_propagation; garden_pests_and_diseases; watering_and_drainage; seasonal_garden_jobs; garden_tools
+pets: dogs; cats; small_pets; birds; fish_and_aquariums; reptiles; pet_health; pet_food_and_feeding; pet_behaviour_and_training; farm_animals
+health: first_aid; common_illnesses; sleep; mental_health; dental_care; skin_and_hair; eyes_and_ears; digestion; pain_and_injuries; medicines_and_pharmacies
+fitness: running; walking_and_hiking; strength_training; stretching_and_mobility; swimming; cycling; football; cricket; gym_routines; sports_injuries
+money: budgeting; saving; banking; credit_and_debt; mortgages_and_rent; insurance_basics; taxes; pensions; investing_basics; scams_and_fraud
+work: job_searching; cvs_and_cover_letters; interviews; workplace_communication; salaries_and_negotiation; remote_work; freelancing; starting_a_business; redundancy_and_leaving; work_stress
+study: revision_techniques; exam_preparation; essay_writing; maths_study; science_study; language_learning; online_courses; university_applications; apprenticeships; adult_learning
+language: grammar; punctuation; spelling; vocabulary; email_writing; letters_and_applications; creative_writing; proofreading; translation; public_speaking
+travel: packing_and_preparation; flights_and_airports; trains_and_buses; driving_abroad; hotels_and_accommodation; city_breaks; beaches_and_countryside; visas_and_passports; travel_money_and_safety; world_geography
+nature: rain_and_storms; snow_and_ice; heat_and_sunshine; wind; clouds_and_forecasting; seasons; rivers_and_seas; mountains_and_volcanoes; earthquakes_and_floods; climate_and_environment
+science: physics_basics; chemistry_basics; biology_basics; space_and_astronomy; computers_and_laptops; phones_and_tablets; internet_and_wifi; cybersecurity; ai_and_automation; gadgets_and_repairs
+cars: car_maintenance; driving_rules; tyres_and_brakes; car_buying; car_running_costs; electric_vehicles; motorbikes_and_bicycles; car_cleaning_and_care; road_safety; breakdowns_and_emergencies
+law: consumer_rights; contracts; employment_rights; housing_rights; family_law_basics; small_claims_and_disputes; police_and_courts; voting_and_government; benefits_and_support; documents_and_records
+family: parenting_babies; parenting_children; teenagers; relationships_and_communication; friendship; family_conflict; caring_for_relatives; bereavement; weddings_and_celebrations; childcare_and_schools
+culture: films_and_tv; music; books_and_reading; games_and_puzzles; art_and_drawing; photography; museums_and_history; theatre_and_dance; radio_and_podcasts; hobbies_and_crafts
+life: time_management; decision_making; manners_and_etiquette; clothes_and_fashion; shopping_and_returns; deliveries_and_post; home_security; fire_safety; neighbours_and_community; volunteering_and_community
+```
+
 ## Validation
 
 From the repository root:
