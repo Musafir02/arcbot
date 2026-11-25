@@ -1,0 +1,36 @@
+
+from .lookup import entry
+
+ANSWERS = ("family-and-parenting", "school-and-study")
+
+ENTRIES = [
+entry(
+    "secondary-first-day-kit",
+    (("first day at school", "first day at secondary", "first day at big school",
+      "first day of year 7", "first day of year 8", "first day of year 9", "first day in year 7",
+      "first day in year 8", "first day in year 9", "starting year 7", "starting year 8",
+      "starting year 9", "starting year 10", "starts year 7", "starts year 8", "starts year 10",
+      "starting secondary", "starts secondary", "starting high school", "starts high school",
+      "starting big school", "starts big school", "new school", "year 7", "year 8", "year 9",
+      "year 10", "year 11", "yr 7", "yr 8", "yr 9", "yr 10",
+      "secondary school", "high school", "big school"),
+     ("take", "bring", "pack", "put in", "need", "buy", "get", "kit", "equipment", "bag",
+      "rucksack", "wear", "first", "day", "start")),
+    ("Nothing fancy for the first day: a named bag with a pencil case (two pens, a pencil, a "
+     "rubber, a ruler), a water bottle, a packed lunch or the money loaded on the dinner account, "
+     "and the PE kit the school asked for, in a bag of its own if they can. Label everything, "
+     "including the coat and the shoes, and put the timetable in the front pocket. Buy the cheap "
+     "version of each until the school sends its list, then fill the gaps."),
+    avoid=("baby", "weaning", "puree", "pureed", "milk", "bottle", "breast", "formula",
+           "solids", "teething", "nursery", "reception", "first birthday", "first tooth",
+           "phone", "mobile", "smartphone", "ipad", "tablet", "laptop", "console",
+           "uniform", "list", "buy", "buying", "prices", "price", "how much", "cost",
+           "nervous", "worried", "worry", "scared", "anxious", "anxiety", "settle", "settling",
+           "cope", "coping", "make friends", "friends", "bully", "bullied", "what time",
+           "times", "hours", "bus", "route", "walk to school", "term dates", "holidays",
+           "first word", "first steps", "first day at work", "first day in the job",
+           "new job", "back at work", "interview", "leaving", "left", "return to work",
+           "gone quiet", "hasnt called", "wont talk", "not speaking"),
+    ask=("what", "need", "take", "should", "do i", "first day", "starting", "starts"),
+    bias=2),
+]
