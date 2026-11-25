@@ -35,6 +35,12 @@ AMERICAN = (
     "aluminum", "defense", "traveling", "canceled",
 )
 
+FILLER = (
+    "the small details depend on the exact",
+    "it depends on the exact",
+    "consult a professional",
+)
+
 BAD_ANSWER_CHARS = set("*#`[]{}<>")
 BAD_PATTERN_WORDS = frozenset(("question", "pattern", "placeholder", "example", "test",
                                "todo", "tbd", "fixme", "lorem"))
@@ -64,7 +70,7 @@ def _shares_subject(pattern, topic):
     return False
 
 
-def _check_answer(answer, errors, warnings, where):
+def _check_answer(answer, errors, warnings, where, quality=False):
     if not isinstance(answer, str):
         errors.append(f"{where}: answer is not a string")
         return False
@@ -84,6 +90,10 @@ def _check_answer(answer, errors, warnings, where):
     for phrase in BANNED:
         if phrase in low:
             errors.append(f"{where}: answer contains banned phrase '{phrase}'")
+    if quality:
+        for phrase in FILLER:
+            if phrase in low:
+                errors.append(f"{where}: answer contains filler phrase '{phrase}'")
     for char in BAD_ANSWER_CHARS:
         if char in answer:
             errors.append(f"{where}: answer contains forbidden character '{char}'")
@@ -97,7 +107,7 @@ def _check_answer(answer, errors, warnings, where):
     return True
 
 
-def _check_pattern(pattern, errors, where, topic):
+def _check_pattern(pattern, errors, where, topic, quality=False):
     if not isinstance(pattern, str):
         errors.append(f"{where}: pattern is not a string")
         return None
@@ -122,6 +132,19 @@ def _check_pattern(pattern, errors, where, topic):
         errors.append(f"{where}: pattern has {len(words)} words, expected 3-16")
     if not re.search(r"[a-z]", pattern):
         errors.append(f"{where}: pattern has no letters")
+    if quality:
+        doubled = re.search(r"\b([a-z]+)\s+\1\b", pattern)
+        if doubled:
+            errors.append(f"{where}: pattern repeats the word '{doubled.group(1)}'")
+        found_words = pattern.split()
+        if len(found_words) >= 3:
+            counts = {}
+            for index in range(len(found_words) - 2):
+                gram = " ".join(found_words[index:index + 3])
+                counts[gram] = counts.get(gram, 0) + 1
+            repeated = sorted(gram for gram, count in counts.items() if count > 1)
+            if repeated:
+                errors.append(f"{where}: pattern repeats the phrase '{repeated[0]}'")
     for word in BAD_PATTERN_WORDS:
         if re.search(r"\b" + re.escape(word) + r"\b", pattern):
             errors.append(f"{where}: pattern contains filler word '{word}'")
@@ -156,7 +179,7 @@ def _source_errors(path):
     return errors
 
 
-def _file_errors(path, category, domain, module_id):
+def _file_errors(path, category, domain, module_id, quality=False, answer_map=None):
     errors, warnings = [], []
     for line in _source_errors(path):
         errors.append(f"{module_id}: {line}")
@@ -205,13 +228,19 @@ def _file_errors(path, category, domain, module_id):
             continue
         if not isinstance(patterns, tuple):
             warnings.append(f"{where}: patterns should be a tuple")
-        if _check_answer(answer, errors, warnings, where):
+        if _check_answer(answer, errors, warnings, where, quality):
             answer_total += 1
             if answer in seen_answers:
                 errors.append(f"{where}: answer is repeated within the module")
             seen_answers.add(answer)
+            if answer_map is not None:
+                seen = answer_map.get(answer)
+                if seen is not None and seen != module_id:
+                    errors.append(f"{where}: answer duplicates {seen}")
+                else:
+                    answer_map[answer] = module_id
         for pattern_index, pattern in enumerate(patterns):
-            found = _check_pattern(pattern, errors, f"{where} pattern {pattern_index + 1}", topic)
+            found = _check_pattern(pattern, errors, f"{where} pattern {pattern_index + 1}", topic, quality)
             if found is None:
                 continue
             pattern_total += 1
@@ -293,7 +322,7 @@ def _check_manifest(category, domain, path, files, errors):
         errors.append(f"{category}/{domain}: domain has unlisted files {extra[:5]}")
 
 
-def _check_domain(category, domain, path, complete, duplicate_map):
+def _check_domain(category, domain, path, complete, duplicate_map, quality=False, answer_map=None):
     errors, warnings = [], []
     files = _module_files(path)
     module_ids = []
@@ -304,7 +333,7 @@ def _check_domain(category, domain, path, complete, duplicate_map):
         module_id = f"{category}.{domain}.{name[:-3]}"
         module_ids.append(module_id)
         found_errors, found_warnings, found_patterns, found_answers, used = _file_errors(
-            file_path, category, domain, module_id)
+            file_path, category, domain, module_id, quality, answer_map)
         errors.extend(found_errors)
         warnings.extend(found_warnings)
         patterns += found_patterns
@@ -335,6 +364,7 @@ def main():
     parser.add_argument("--all", action="store_true")
     parser.add_argument("--complete", action="store_true")
     parser.add_argument("--duplicates", action="store_true")
+    parser.add_argument("--quality", action="store_true")
     parser.add_argument("--strict", action="store_true")
     parser.add_argument("--max-errors", type=int, default=200)
     args = parser.parse_args()
@@ -357,11 +387,13 @@ def main():
     if args.all:
         targets = _domain_dirs(base)
     duplicate_map = {} if args.duplicates else None
+    quality = args.quality or args.complete
+    answer_map = {} if quality else None
     errors, warnings = [], []
     files = patterns = answers = 0
     for category, domain, path in targets:
         found_errors, found_warnings, found_files, found_patterns, found_answers = _check_domain(
-            category, domain, path, args.all, duplicate_map)
+            category, domain, path, args.all, duplicate_map, quality, answer_map)
         errors.extend(found_errors)
         warnings.extend(found_warnings)
         files += found_files
