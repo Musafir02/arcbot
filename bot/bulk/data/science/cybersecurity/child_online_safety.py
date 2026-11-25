@@ -1,9 +1,9 @@
-MODULE = "science.cybersecurity.child_online_safety"
-CATEGORY = "science"
-DOMAIN = "cybersecurity"
-TOPIC = "child online"
+MODULE = 'science.cybersecurity.child_online_safety'
+CATEGORY = 'science'
+DOMAIN = 'cybersecurity'
+TOPIC = 'child online'
 PRIORITY = 5000
-ANSWERS = ("technology",)
+ANSWERS = ('technology',)
 ITEMS = (
     (
         (
@@ -13,7 +13,7 @@ ITEMS = (
             'where can i learn about child online safety',
             'how does child online safety work',
             'is child online safety safe to use',
-            'what to do about child online safety',
+            'what to do about child online safety at home',
             'how do i tell if child online safety is genuine',
             'what is the best way to handle child online safety',
             'can child online safety be trusted',

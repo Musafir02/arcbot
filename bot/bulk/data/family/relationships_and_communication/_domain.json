@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "relationships_and_communication",
+  "title": "Relationships And Communication",
+  "modules": [
+    {
+      "file": "active_listening_basics",
+      "title": "Active Listening Basics"
+    },
+    {
+      "file": "active_listening_exercises",
+      "title": "Active Listening Exercises"
+    },
+    {
+      "file": "active_listening_planning",
+      "title": "Active Listening Planning"
+    },
+    {
+      "file": "active_listening_problems",
+      "title": "Active Listening Problems"
+    },
+    {
+      "file": "apologising_basics",
+      "title": "Apologising Basics"
+    },
+    {
+      "file": "apologising_problems",
+      "title": "Apologising Problems"
+    },
+    {
+      "file": "apologising_to_partner",
+      "title": "Apologising To Partner"
+    },
+    {
+      "file": "boundaries_in_relationships_basics",
+      "title": "Boundaries In Relationships Basics"
+    },
+    {
+      "file": "boundaries_in_relationships_planning",
+      "title": "Boundaries In Relationships Planning"
+    },
+    {
+      "file": "boundaries_in_relationships_problems",
+      "title": "Boundaries In Relationships Problems"
+    },
+    {
+      "file": "communication_habits_basics",
+      "title": "Communication Habits Basics"
+    },
+    {
+      "file": "communication_habits_problems",
+      "title": "Communication Habits Problems"
+    },
+    {
+      "file": "conflict_resolution_basics",
+      "title": "Conflict Resolution Basics"
+    },
+    {
+      "file": "conflict_resolution_planning",
+      "title": "Conflict Resolution Planning"
+    },
+    {
+      "file": "conflict_resolution_problems",
+      "title": "Conflict Resolution Problems"
+    },
+    {
+      "file": "dealing_with_criticism_basics",
+      "title": "Dealing With Criticism Basics"
+    },
+    {
+      "file": "dealing_with_criticism_problems",
+      "title": "Dealing With Criticism Problems"
+    },
+    {
+      "file": "difficult_conversation_with_partner",
+      "title": "Difficult Conversation With Partner"
+    },
+    {
+      "file": "difficult_conversations_basics",
+      "title": "Difficult Conversations Basics"
+    },
+    {
+      "file": "difficult_conversations_planning",
+      "title": "Difficult Conversations Planning"
+    },
+    {
+      "file": "difficult_conversations_problems",
+      "title": "Difficult Conversations Problems"
+    },
+    {
+      "file": "discussing_intimacy_with_partner",
+      "title": "Discussing Intimacy With Partner"
+    },
+    {
+      "file": "ending_a_relationship_basics",
+      "title": "Ending A Relationship Basics"
+    },
+    {
+      "file": "ending_a_relationship_problems",
+      "title": "Ending A Relationship Problems"
+    },
+    {
+      "file": "expressing_feelings_basics",
+      "title": "Expressing Feelings Basics"
+    },
+    {
+      "file": "expressing_feelings_problems",
+      "title": "Expressing Feelings Problems"
+    },
+    {
+      "file": "expressing_feelings_to_partner",
+      "title": "Expressing Feelings To Partner"
+    },
+    {
+      "file": "expressing_needs_to_partner",
+      "title": "Expressing Needs To Partner"
+    },
+    {
+      "file": "forgiving_partner_after_hurt",
+      "title": "Forgiving Partner After Hurt"
+    },
+    {
+      "file": "giving_feedback_to_partner",
+      "title": "Giving Feedback To Partner"
+    },
+    {
+      "file": "listening_better_in_relationship",
+      "title": "Listening Better In Relationship"
+    },
+    {
+      "file": "long_distance_relationships_basics",
+      "title": "Long Distance Relationships Basics"
+    },
+    {
+      "file": "long_distance_relationships_problems",
+      "title": "Long Distance Relationships Problems"
+    },
+    {
+      "file": "rebuilding_trust_after_betrayal",
+      "title": "Rebuilding Trust After Betrayal"
+    },
+    {
+      "file": "relationship_counselling_basics",
+      "title": "Relationship Counselling Basics"
+    },
+    {
+      "file": "relationship_counselling_problems",
+      "title": "Relationship Counselling Problems"
+    },
+    {
+      "file": "repairing_relationship_after_fight",
+      "title": "Repairing Relationship After Fight"
+    },
+    {
+      "file": "resolving_conflict_with_partner",
+      "title": "Resolving Conflict With Partner"
+    },
+    {
+      "file": "respect_in_relationships_basics",
+      "title": "Respect In Relationships Basics"
+    },
+    {
+      "file": "respect_in_relationships_problems",
+      "title": "Respect In Relationships Problems"
+    },
+    {
+      "file": "setting_boundaries_with_partner",
+      "title": "Setting Boundaries With Partner"
+    },
+    {
+      "file": "shared_decisions_basics",
+      "title": "Shared Decisions Basics"
+    },
+    {
+      "file": "shared_decisions_problems",
+      "title": "Shared Decisions Problems"
+    },
+    {
+      "file": "staying_calm_in_arguments",
+      "title": "Staying Calm In Arguments"
+    },
+    {
+      "file": "supporting_a_partner_basics",
+      "title": "Supporting A Partner Basics"
+    },
+    {
+      "file": "supporting_a_partner_problems",
+      "title": "Supporting A Partner Problems"
+    },
+    {
+      "file": "talking_about_money_with_partner",
+      "title": "Talking About Money With Partner"
+    },
+    {
+      "file": "trust_building_basics",
+      "title": "Trust Building Basics"
+    },
+    {
+      "file": "trust_building_planning",
+      "title": "Trust Building Planning"
+    },
+    {
+      "file": "trust_building_problems",
+      "title": "Trust Building Problems"
+    }
+  ]
+}

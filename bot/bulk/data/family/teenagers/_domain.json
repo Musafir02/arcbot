@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "teenagers",
+  "title": "Teenagers",
+  "modules": [
+    {
+      "file": "body_image_basics",
+      "title": "Body Image Basics"
+    },
+    {
+      "file": "body_image_planning",
+      "title": "Body Image Planning"
+    },
+    {
+      "file": "body_image_problems",
+      "title": "Body Image Problems"
+    },
+    {
+      "file": "boundaries_for_teenagers_basics",
+      "title": "Boundaries For Teenagers Basics"
+    },
+    {
+      "file": "boundaries_for_teenagers_planning",
+      "title": "Boundaries For Teenagers Planning"
+    },
+    {
+      "file": "boundaries_for_teenagers_problems",
+      "title": "Boundaries For Teenagers Problems"
+    },
+    {
+      "file": "driving_lessons_basics",
+      "title": "Driving Lessons Basics"
+    },
+    {
+      "file": "driving_lessons_planning",
+      "title": "Driving Lessons Planning"
+    },
+    {
+      "file": "driving_lessons_problems",
+      "title": "Driving Lessons Problems"
+    },
+    {
+      "file": "exam_pressure_basics",
+      "title": "Exam Pressure Basics"
+    },
+    {
+      "file": "exam_pressure_planning",
+      "title": "Exam Pressure Planning"
+    },
+    {
+      "file": "exam_pressure_problems",
+      "title": "Exam Pressure Problems"
+    },
+    {
+      "file": "part_time_work_basics",
+      "title": "Part Time Work Basics"
+    },
+    {
+      "file": "part_time_work_planning",
+      "title": "Part Time Work Planning"
+    },
+    {
+      "file": "part_time_work_problems",
+      "title": "Part Time Work Problems"
+    },
+    {
+      "file": "peer_pressure_basics",
+      "title": "Peer Pressure Basics"
+    },
+    {
+      "file": "peer_pressure_mistakes",
+      "title": "Peer Pressure Mistakes"
+    },
+    {
+      "file": "peer_pressure_planning",
+      "title": "Peer Pressure Planning"
+    },
+    {
+      "file": "peer_pressure_problems",
+      "title": "Peer Pressure Problems"
+    },
+    {
+      "file": "school_stress_basics",
+      "title": "School Stress Basics"
+    },
+    {
+      "file": "school_stress_mistakes",
+      "title": "School Stress Mistakes"
+    },
+    {
+      "file": "school_stress_planning",
+      "title": "School Stress Planning"
+    },
+    {
+      "file": "school_stress_problems",
+      "title": "School Stress Problems"
+    },
+    {
+      "file": "screen_time_basics",
+      "title": "Screen Time Basics"
+    },
+    {
+      "file": "screen_time_mistakes",
+      "title": "Screen Time Mistakes"
+    },
+    {
+      "file": "screen_time_planning",
+      "title": "Screen Time Planning"
+    },
+    {
+      "file": "screen_time_problems",
+      "title": "Screen Time Problems"
+    },
+    {
+      "file": "social_media_basics",
+      "title": "Social Media Basics"
+    },
+    {
+      "file": "social_media_planning",
+      "title": "Social Media Planning"
+    },
+    {
+      "file": "social_media_problems",
+      "title": "Social Media Problems"
+    },
+    {
+      "file": "talking_to_teenagers_basics",
+      "title": "Talking To Teenagers Basics"
+    },
+    {
+      "file": "talking_to_teenagers_planning",
+      "title": "Talking To Teenagers Planning"
+    },
+    {
+      "file": "talking_to_teenagers_problems",
+      "title": "Talking To Teenagers Problems"
+    },
+    {
+      "file": "teenage_friendships_basics",
+      "title": "Teenage Friendships Basics"
+    },
+    {
+      "file": "teenage_friendships_planning",
+      "title": "Teenage Friendships Planning"
+    },
+    {
+      "file": "teenage_friendships_problems",
+      "title": "Teenage Friendships Problems"
+    },
+    {
+      "file": "teenage_independence_basics",
+      "title": "Teenage Independence Basics"
+    },
+    {
+      "file": "teenage_independence_planning",
+      "title": "Teenage Independence Planning"
+    },
+    {
+      "file": "teenage_independence_problems",
+      "title": "Teenage Independence Problems"
+    },
+    {
+      "file": "teenage_mental_health_basics",
+      "title": "Teenage Mental Health Basics"
+    },
+    {
+      "file": "teenage_mental_health_planning",
+      "title": "Teenage Mental Health Planning"
+    },
+    {
+      "file": "teenage_mental_health_problems",
+      "title": "Teenage Mental Health Problems"
+    },
+    {
+      "file": "teenage_mood_changes_basics",
+      "title": "Teenage Mood Changes Basics"
+    },
+    {
+      "file": "teenage_mood_changes_mistakes",
+      "title": "Teenage Mood Changes Mistakes"
+    },
+    {
+      "file": "teenage_mood_changes_planning",
+      "title": "Teenage Mood Changes Planning"
+    },
+    {
+      "file": "teenage_mood_changes_problems",
+      "title": "Teenage Mood Changes Problems"
+    },
+    {
+      "file": "teenage_sleep_basics",
+      "title": "Teenage Sleep Basics"
+    },
+    {
+      "file": "teenage_sleep_mistakes",
+      "title": "Teenage Sleep Mistakes"
+    },
+    {
+      "file": "teenage_sleep_planning",
+      "title": "Teenage Sleep Planning"
+    },
+    {
+      "file": "teenage_sleep_problems",
+      "title": "Teenage Sleep Problems"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "employment_rights",
+  "title": "Employment Rights",
+  "modules": [
+    {
+      "file": "adoption_leave",
+      "title": "Adoption Leave"
+    },
+    {
+      "file": "disciplinary_process_basics",
+      "title": "Disciplinary Process Basics"
+    },
+    {
+      "file": "disciplinary_process_problems",
+      "title": "Disciplinary Process Problems"
+    },
+    {
+      "file": "employment_contract_basics",
+      "title": "Employment Contract Basics"
+    },
+    {
+      "file": "employment_contract_planning",
+      "title": "Employment Contract Planning"
+    },
+    {
+      "file": "employment_contract_problems",
+      "title": "Employment Contract Problems"
+    },
+    {
+      "file": "flexible_working_basics",
+      "title": "Flexible Working Basics"
+    },
+    {
+      "file": "flexible_working_problems",
+      "title": "Flexible Working Problems"
+    },
+    {
+      "file": "holiday_pay_basics",
+      "title": "Holiday Pay Basics"
+    },
+    {
+      "file": "holiday_pay_planning",
+      "title": "Holiday Pay Planning"
+    },
+    {
+      "file": "holiday_pay_problems",
+      "title": "Holiday Pay Problems"
+    },
+    {
+      "file": "jury_service_basics",
+      "title": "Jury Service Basics"
+    },
+    {
+      "file": "jury_service_problems",
+      "title": "Jury Service Problems"
+    },
+    {
+      "file": "maternity_leave_rights",
+      "title": "Maternity Leave Rights"
+    },
+    {
+      "file": "maternity_rights_basics",
+      "title": "Maternity Rights Basics"
+    },
+    {
+      "file": "maternity_rights_problems",
+      "title": "Maternity Rights Problems"
+    },
+    {
+      "file": "minimum_wage_rights",
+      "title": "Minimum Wage Rights"
+    },
+    {
+      "file": "notice_period_basics",
+      "title": "Notice Period Basics"
+    },
+    {
+      "file": "notice_period_problems",
+      "title": "Notice Period Problems"
+    },
+    {
+      "file": "overtime_pay",
+      "title": "Overtime Pay"
+    },
+    {
+      "file": "paid_holiday_entitlement",
+      "title": "Paid Holiday Entitlement"
+    },
+    {
+      "file": "paternity_leave_rights",
+      "title": "Paternity Leave Rights"
+    },
+    {
+      "file": "pay_slips_basics",
+      "title": "Pay Slips Basics"
+    },
+    {
+      "file": "pay_slips_problems",
+      "title": "Pay Slips Problems"
+    },
+    {
+      "file": "payslip_rights",
+      "title": "Payslip Rights"
+    },
+    {
+      "file": "redundancy_rights",
+      "title": "Redundancy Rights"
+    },
+    {
+      "file": "redundancy_rights_basics",
+      "title": "Redundancy Rights Basics"
+    },
+    {
+      "file": "redundancy_rights_planning",
+      "title": "Redundancy Rights Planning"
+    },
+    {
+      "file": "redundancy_rights_problems",
+      "title": "Redundancy Rights Problems"
+    },
+    {
+      "file": "rest_breaks_at_work",
+      "title": "Rest Breaks At Work"
+    },
+    {
+      "file": "shared_parental_leave",
+      "title": "Shared Parental Leave"
+    },
+    {
+      "file": "sick_leave_rights",
+      "title": "Sick Leave Rights"
+    },
+    {
+      "file": "sick_pay_basics",
+      "title": "Sick Pay Basics"
+    },
+    {
+      "file": "sick_pay_problems",
+      "title": "Sick Pay Problems"
+    },
+    {
+      "file": "statutory_sick_pay",
+      "title": "Statutory Sick Pay"
+    },
+    {
+      "file": "trade_unions_basics",
+      "title": "Trade Unions Basics"
+    },
+    {
+      "file": "trade_unions_problems",
+      "title": "Trade Unions Problems"
+    },
+    {
+      "file": "unfair_dismissal_basics",
+      "title": "Unfair Dismissal Basics"
+    },
+    {
+      "file": "unfair_dismissal_planning",
+      "title": "Unfair Dismissal Planning"
+    },
+    {
+      "file": "unfair_dismissal_problems",
+      "title": "Unfair Dismissal Problems"
+    },
+    {
+      "file": "working_hours_basics",
+      "title": "Working Hours Basics"
+    },
+    {
+      "file": "working_hours_planning",
+      "title": "Working Hours Planning"
+    },
+    {
+      "file": "working_hours_problems",
+      "title": "Working Hours Problems"
+    },
+    {
+      "file": "working_time_limits",
+      "title": "Working Time Limits"
+    },
+    {
+      "file": "workplace_discrimination_basics",
+      "title": "Workplace Discrimination Basics"
+    },
+    {
+      "file": "workplace_discrimination_planning",
+      "title": "Workplace Discrimination Planning"
+    },
+    {
+      "file": "workplace_discrimination_problems",
+      "title": "Workplace Discrimination Problems"
+    },
+    {
+      "file": "workplace_safety_basics",
+      "title": "Workplace Safety Basics"
+    },
+    {
+      "file": "workplace_safety_problems",
+      "title": "Workplace Safety Problems"
+    },
+    {
+      "file": "written_contract",
+      "title": "Written Contract"
+    }
+  ]
+}

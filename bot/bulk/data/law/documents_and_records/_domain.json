@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "documents_and_records",
+  "title": "Documents And Records",
+  "modules": [
+    {
+      "file": "bank_statement_records",
+      "title": "Bank Statement Records"
+    },
+    {
+      "file": "benefits_letters_records",
+      "title": "Benefits Letters Records"
+    },
+    {
+      "file": "changing_name_documents",
+      "title": "Changing Name Documents"
+    },
+    {
+      "file": "copying_documents_safely",
+      "title": "Copying Documents Safely"
+    },
+    {
+      "file": "correcting_birth_certificate",
+      "title": "Correcting Birth Certificate"
+    },
+    {
+      "file": "correcting_personal_records",
+      "title": "Correcting Personal Records"
+    },
+    {
+      "file": "court_order_documents",
+      "title": "Court Order Documents"
+    },
+    {
+      "file": "death_certificate_copy",
+      "title": "Death Certificate Copy"
+    },
+    {
+      "file": "digitising_paper_records",
+      "title": "Digitising Paper Records"
+    },
+    {
+      "file": "divorce_decree_documents",
+      "title": "Divorce Decree Documents"
+    },
+    {
+      "file": "document_expiry_tracking",
+      "title": "Document Expiry Tracking"
+    },
+    {
+      "file": "document_legalisation",
+      "title": "Document Legalisation"
+    },
+    {
+      "file": "driving_licence_renewal",
+      "title": "Driving Licence Renewal"
+    },
+    {
+      "file": "employment_contract_records",
+      "title": "Employment Contract Records"
+    },
+    {
+      "file": "financial_record_retention",
+      "title": "Financial Record Retention"
+    },
+    {
+      "file": "freedom_of_information_requests",
+      "title": "Freedom Of Information Requests"
+    },
+    {
+      "file": "identity_documents_checks",
+      "title": "Identity Documents Checks"
+    },
+    {
+      "file": "insurance_policy_documents",
+      "title": "Insurance Policy Documents"
+    },
+    {
+      "file": "marriage_certificate_copy",
+      "title": "Marriage Certificate Copy"
+    },
+    {
+      "file": "medical_records_access",
+      "title": "Medical Records Access"
+    },
+    {
+      "file": "medical_records_retention",
+      "title": "Medical Records Retention"
+    },
+    {
+      "file": "national_insurance_records",
+      "title": "National Insurance Records"
+    },
+    {
+      "file": "ordering_birth_certificate",
+      "title": "Ordering Birth Certificate"
+    },
+    {
+      "file": "organising_personal_files",
+      "title": "Organising Personal Files"
+    },
+    {
+      "file": "passport_application_documents",
+      "title": "Passport Application Documents"
+    },
+    {
+      "file": "passport_renewal_documents",
+      "title": "Passport Renewal Documents"
+    },
+    {
+      "file": "payslips_and_pay_records",
+      "title": "Payslips And Pay Records"
+    },
+    {
+      "file": "police_report_copy",
+      "title": "Police Report Copy"
+    },
+    {
+      "file": "power_of_attorney_documents",
+      "title": "Power Of Attorney Documents"
+    },
+    {
+      "file": "probate_documents",
+      "title": "Probate Documents"
+    },
+    {
+      "file": "proof_of_address_documents",
+      "title": "Proof Of Address Documents"
+    },
+    {
+      "file": "property_deeds_records",
+      "title": "Property Deeds Records"
+    },
+    {
+      "file": "qualification_certificate_replacement",
+      "title": "Qualification Certificate Replacement"
+    },
+    {
+      "file": "receipts_and_warranty_records",
+      "title": "Receipts And Warranty Records"
+    },
+    {
+      "file": "registering_a_birth",
+      "title": "Registering A Birth"
+    },
+    {
+      "file": "registering_a_death",
+      "title": "Registering A Death"
+    },
+    {
+      "file": "replacing_lost_birth_certificate",
+      "title": "Replacing Lost Birth Certificate"
+    },
+    {
+      "file": "replacing_lost_driving_licence",
+      "title": "Replacing Lost Driving Licence"
+    },
+    {
+      "file": "replacing_lost_passport",
+      "title": "Replacing Lost Passport"
+    },
+    {
+      "file": "school_records_requests",
+      "title": "School Records Requests"
+    },
+    {
+      "file": "shredding_confidential_documents",
+      "title": "Shredding Confidential Documents"
+    },
+    {
+      "file": "storing_a_will",
+      "title": "Storing A Will"
+    },
+    {
+      "file": "storing_documents_securely",
+      "title": "Storing Documents Securely"
+    },
+    {
+      "file": "subject_access_requests",
+      "title": "Subject Access Requests"
+    },
+    {
+      "file": "tax_record_retention",
+      "title": "Tax Record Retention"
+    },
+    {
+      "file": "tenancy_agreement_records",
+      "title": "Tenancy Agreement Records"
+    },
+    {
+      "file": "travel_documents_checklist",
+      "title": "Travel Documents Checklist"
+    },
+    {
+      "file": "utility_bill_records",
+      "title": "Utility Bill Records"
+    },
+    {
+      "file": "vehicle_registration_documents",
+      "title": "Vehicle Registration Documents"
+    },
+    {
+      "file": "visa_application_documents",
+      "title": "Visa Application Documents"
+    }
+  ]
+}

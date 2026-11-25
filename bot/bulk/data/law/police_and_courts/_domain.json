@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "police_and_courts",
+  "title": "Police And Courts",
+  "modules": [
+    {
+      "file": "appealing_a_conviction",
+      "title": "Appealing A Conviction"
+    },
+    {
+      "file": "appealing_a_sentence",
+      "title": "Appealing A Sentence"
+    },
+    {
+      "file": "arrest_and_your_rights",
+      "title": "Arrest And Your Rights"
+    },
+    {
+      "file": "arrest_warrant",
+      "title": "Arrest Warrant"
+    },
+    {
+      "file": "bail_after_arrest",
+      "title": "Bail After Arrest"
+    },
+    {
+      "file": "bail_conditions",
+      "title": "Bail Conditions"
+    },
+    {
+      "file": "being_charged_with_crime",
+      "title": "Being Charged With Crime"
+    },
+    {
+      "file": "being_stopped_by_police",
+      "title": "Being Stopped By Police"
+    },
+    {
+      "file": "choosing_a_solicitor",
+      "title": "Choosing A Solicitor"
+    },
+    {
+      "file": "community_orders",
+      "title": "Community Orders"
+    },
+    {
+      "file": "compensation_orders",
+      "title": "Compensation Orders"
+    },
+    {
+      "file": "complaining_about_police",
+      "title": "Complaining About Police"
+    },
+    {
+      "file": "court_etiquette",
+      "title": "Court Etiquette"
+    },
+    {
+      "file": "court_fines",
+      "title": "Court Fines"
+    },
+    {
+      "file": "criminal_record_checks",
+      "title": "Criminal Record Checks"
+    },
+    {
+      "file": "cross_examination",
+      "title": "Cross Examination"
+    },
+    {
+      "file": "crown_court",
+      "title": "Crown Court"
+    },
+    {
+      "file": "custody_at_police_station",
+      "title": "Custody At Police Station"
+    },
+    {
+      "file": "drink_driving_stop",
+      "title": "Drink Driving Stop"
+    },
+    {
+      "file": "duty_solicitor",
+      "title": "Duty Solicitor"
+    },
+    {
+      "file": "entering_a_plea",
+      "title": "Entering A Plea"
+    },
+    {
+      "file": "fingerprints_and_dna",
+      "title": "Fingerprints And Dna"
+    },
+    {
+      "file": "giving_evidence_in_court",
+      "title": "Giving Evidence In Court"
+    },
+    {
+      "file": "indictment",
+      "title": "Indictment"
+    },
+    {
+      "file": "judicial_review",
+      "title": "Judicial Review"
+    },
+    {
+      "file": "jury_service",
+      "title": "Jury Service"
+    },
+    {
+      "file": "legal_aid",
+      "title": "Legal Aid"
+    },
+    {
+      "file": "magistrates_court",
+      "title": "Magistrates Court"
+    },
+    {
+      "file": "out_of_court_caution",
+      "title": "Out Of Court Caution"
+    },
+    {
+      "file": "parole_and_release",
+      "title": "Parole And Release"
+    },
+    {
+      "file": "police_caution_and_interview",
+      "title": "Police Caution And Interview"
+    },
+    {
+      "file": "police_powers_of_entry",
+      "title": "Police Powers Of Entry"
+    },
+    {
+      "file": "preparing_for_court_hearing",
+      "title": "Preparing For Court Hearing"
+    },
+    {
+      "file": "prison_sentence",
+      "title": "Prison Sentence"
+    },
+    {
+      "file": "prison_visits",
+      "title": "Prison Visits"
+    },
+    {
+      "file": "probation",
+      "title": "Probation"
+    },
+    {
+      "file": "remand_in_custody",
+      "title": "Remand In Custody"
+    },
+    {
+      "file": "reporting_a_crime",
+      "title": "Reporting A Crime"
+    },
+    {
+      "file": "restraining_orders",
+      "title": "Restraining Orders"
+    },
+    {
+      "file": "right_to_silence",
+      "title": "Right To Silence"
+    },
+    {
+      "file": "search_warrant",
+      "title": "Search Warrant"
+    },
+    {
+      "file": "searching_your_home",
+      "title": "Searching Your Home"
+    },
+    {
+      "file": "sentencing_guidelines",
+      "title": "Sentencing Guidelines"
+    },
+    {
+      "file": "spent_convictions",
+      "title": "Spent Convictions"
+    },
+    {
+      "file": "stop_and_search",
+      "title": "Stop And Search"
+    },
+    {
+      "file": "traffic_stop",
+      "title": "Traffic Stop"
+    },
+    {
+      "file": "victim_impact_statement",
+      "title": "Victim Impact Statement"
+    },
+    {
+      "file": "victim_support",
+      "title": "Victim Support"
+    },
+    {
+      "file": "witnesses_in_court",
+      "title": "Witnesses In Court"
+    },
+    {
+      "file": "youth_court",
+      "title": "Youth Court"
+    }
+  ]
+}

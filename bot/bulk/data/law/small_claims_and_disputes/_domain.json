@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "small_claims_and_disputes",
+  "title": "Small Claims And Disputes",
+  "modules": [
+    {
+      "file": "admitting_or_denying",
+      "title": "Admitting Or Denying"
+    },
+    {
+      "file": "alternative_dispute_resolution",
+      "title": "Alternative Dispute Resolution"
+    },
+    {
+      "file": "appealing_a_decision",
+      "title": "Appealing A Decision"
+    },
+    {
+      "file": "attachment_of_earnings",
+      "title": "Attachment Of Earnings"
+    },
+    {
+      "file": "bailiffs",
+      "title": "Bailiffs"
+    },
+    {
+      "file": "business_disputes",
+      "title": "Business Disputes"
+    },
+    {
+      "file": "charging_order",
+      "title": "Charging Order"
+    },
+    {
+      "file": "claim_form_help",
+      "title": "Claim Form Help"
+    },
+    {
+      "file": "claiming_compensation",
+      "title": "Claiming Compensation"
+    },
+    {
+      "file": "consumer_disputes",
+      "title": "Consumer Disputes"
+    },
+    {
+      "file": "costs_orders",
+      "title": "Costs Orders"
+    },
+    {
+      "file": "counterclaim",
+      "title": "Counterclaim"
+    },
+    {
+      "file": "county_court_judgment",
+      "title": "County Court Judgment"
+    },
+    {
+      "file": "court_fees",
+      "title": "Court Fees"
+    },
+    {
+      "file": "court_hearing_day",
+      "title": "Court Hearing Day"
+    },
+    {
+      "file": "cross_border_claims",
+      "title": "Cross Border Claims"
+    },
+    {
+      "file": "damages_for_loss",
+      "title": "Damages For Loss"
+    },
+    {
+      "file": "debt_disputes",
+      "title": "Debt Disputes"
+    },
+    {
+      "file": "deciding_whether_to_sue",
+      "title": "Deciding Whether To Sue"
+    },
+    {
+      "file": "defence_to_a_claim",
+      "title": "Defence To A Claim"
+    },
+    {
+      "file": "demand_letter",
+      "title": "Demand Letter"
+    },
+    {
+      "file": "documents_for_court",
+      "title": "Documents For Court"
+    },
+    {
+      "file": "enforcement_options",
+      "title": "Enforcement Options"
+    },
+    {
+      "file": "evidence_for_a_claim",
+      "title": "Evidence For A Claim"
+    },
+    {
+      "file": "fee_waiver",
+      "title": "Fee Waiver"
+    },
+    {
+      "file": "interest_on_claims",
+      "title": "Interest On Claims"
+    },
+    {
+      "file": "judgment_debt",
+      "title": "Judgment Debt"
+    },
+    {
+      "file": "landlord_disputes",
+      "title": "Landlord Disputes"
+    },
+    {
+      "file": "letter_before_claim",
+      "title": "Letter Before Claim"
+    },
+    {
+      "file": "limitation_period",
+      "title": "Limitation Period"
+    },
+    {
+      "file": "making_a_small_claim",
+      "title": "Making A Small Claim"
+    },
+    {
+      "file": "mediation",
+      "title": "Mediation"
+    },
+    {
+      "file": "negotiating_a_settlement",
+      "title": "Negotiating A Settlement"
+    },
+    {
+      "file": "neighbour_disputes",
+      "title": "Neighbour Disputes"
+    },
+    {
+      "file": "ombudsman_complaints",
+      "title": "Ombudsman Complaints"
+    },
+    {
+      "file": "pre_action_steps",
+      "title": "Pre Action Steps"
+    },
+    {
+      "file": "preparing_for_hearing",
+      "title": "Preparing For Hearing"
+    },
+    {
+      "file": "representing_yourself",
+      "title": "Representing Yourself"
+    },
+    {
+      "file": "responding_to_a_claim",
+      "title": "Responding To A Claim"
+    },
+    {
+      "file": "serving_a_claim",
+      "title": "Serving A Claim"
+    },
+    {
+      "file": "setting_aside_judgment",
+      "title": "Setting Aside Judgment"
+    },
+    {
+      "file": "settlement_offers",
+      "title": "Settlement Offers"
+    },
+    {
+      "file": "small_claim_forms",
+      "title": "Small Claim Forms"
+    },
+    {
+      "file": "small_claims_court_basics",
+      "title": "Small Claims Court Basics"
+    },
+    {
+      "file": "small_claims_limit",
+      "title": "Small Claims Limit"
+    },
+    {
+      "file": "small_claims_online",
+      "title": "Small Claims Online"
+    },
+    {
+      "file": "unpaid_invoice",
+      "title": "Unpaid Invoice"
+    },
+    {
+      "file": "when_to_get_legal_advice",
+      "title": "When To Get Legal Advice"
+    },
+    {
+      "file": "without_prejudice",
+      "title": "Without Prejudice"
+    },
+    {
+      "file": "witness_statements",
+      "title": "Witness Statements"
+    }
+  ]
+}

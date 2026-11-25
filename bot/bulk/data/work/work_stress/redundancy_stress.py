@@ -142,7 +142,7 @@ ITEMS = (
     ),
     (
         (
-            'how do i return to work after redundancy',
+            'how do i return to work after redundancy at home',
             'what practical steps help me return to work after redundancy',
             'is it hard to return to work after redundancy after a demanding day',
             'why do i struggle to return to work after redundancy',

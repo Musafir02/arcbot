@@ -1,9 +1,9 @@
-MODULE = "science.cybersecurity.data_breach_response"
-CATEGORY = "science"
-DOMAIN = "cybersecurity"
-TOPIC = "data breach"
+MODULE = 'science.cybersecurity.data_breach_response'
+CATEGORY = 'science'
+DOMAIN = 'cybersecurity'
+TOPIC = 'data breach'
 PRIORITY = 5000
-ANSWERS = ("technology",)
+ANSWERS = ('technology',)
 ITEMS = (
     (
         (
@@ -24,10 +24,10 @@ ITEMS = (
         (
             'how do i recognise data breach notification',
             'should i worry about data breach notification',
-            'what does data breach notification mean',
+            'what does data breach notification mean at home',
             'how do i prevent data breach notification',
             'how much does data breach notification matter',
-            'how do i know if data breach notification is working',
+            'how do i know if data breach notification is working at home',
             'what happens when data breach notification fails',
             'why does data breach notification matter for security',
             'what is the safest approach to data breach notification',

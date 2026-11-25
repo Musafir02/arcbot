@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "family_conflict",
+  "title": "Family Conflict",
+  "modules": [
+    {
+      "file": "active_listening_family",
+      "title": "Active Listening Family"
+    },
+    {
+      "file": "apologising_in_family",
+      "title": "Apologising In Family"
+    },
+    {
+      "file": "arguing_with_parents",
+      "title": "Arguing With Parents"
+    },
+    {
+      "file": "aunt_uncle_conflict",
+      "title": "Aunt Uncle Conflict"
+    },
+    {
+      "file": "blended_family_tension",
+      "title": "Blended Family Tension"
+    },
+    {
+      "file": "boundaries_with_relatives",
+      "title": "Boundaries With Relatives"
+    },
+    {
+      "file": "brother_sister_fighting",
+      "title": "Brother Sister Fighting"
+    },
+    {
+      "file": "care_responsibilities",
+      "title": "Care Responsibilities"
+    },
+    {
+      "file": "caring_for_elderly_parent",
+      "title": "Caring For Elderly Parent"
+    },
+    {
+      "file": "controlling_parents",
+      "title": "Controlling Parents"
+    },
+    {
+      "file": "cousin_conflict",
+      "title": "Cousin Conflict"
+    },
+    {
+      "file": "critical_parents",
+      "title": "Critical Parents"
+    },
+    {
+      "file": "curfew_arguments",
+      "title": "Curfew Arguments"
+    },
+    {
+      "file": "custody_disputes",
+      "title": "Custody Disputes"
+    },
+    {
+      "file": "disrespectful_teen",
+      "title": "Disrespectful Teen"
+    },
+    {
+      "file": "divorce_family_conflict",
+      "title": "Divorce Family Conflict"
+    },
+    {
+      "file": "extended_family_conflict",
+      "title": "Extended Family Conflict"
+    },
+    {
+      "file": "family_arguments",
+      "title": "Family Arguments"
+    },
+    {
+      "file": "family_communication",
+      "title": "Family Communication"
+    },
+    {
+      "file": "family_conflict_resolution",
+      "title": "Family Conflict Resolution"
+    },
+    {
+      "file": "family_counselling",
+      "title": "Family Counselling"
+    },
+    {
+      "file": "family_finances_conflict",
+      "title": "Family Finances Conflict"
+    },
+    {
+      "file": "family_grudges",
+      "title": "Family Grudges"
+    },
+    {
+      "file": "family_mediation",
+      "title": "Family Mediation"
+    },
+    {
+      "file": "family_rows_at_dinner",
+      "title": "Family Rows At Dinner"
+    },
+    {
+      "file": "family_rules",
+      "title": "Family Rules"
+    },
+    {
+      "file": "family_therapy",
+      "title": "Family Therapy"
+    },
+    {
+      "file": "forgiveness_in_family",
+      "title": "Forgiveness In Family"
+    },
+    {
+      "file": "grandparent_boundaries",
+      "title": "Grandparent Boundaries"
+    },
+    {
+      "file": "grandparents_conflict",
+      "title": "Grandparents Conflict"
+    },
+    {
+      "file": "half_sibling_conflict",
+      "title": "Half Sibling Conflict"
+    },
+    {
+      "file": "holiday_family_conflict",
+      "title": "Holiday Family Conflict"
+    },
+    {
+      "file": "homework_arguments",
+      "title": "Homework Arguments"
+    },
+    {
+      "file": "household_chores_conflict",
+      "title": "Household Chores Conflict"
+    },
+    {
+      "file": "in_law_conflict",
+      "title": "In Law Conflict"
+    },
+    {
+      "file": "inheritance_disputes",
+      "title": "Inheritance Disputes"
+    },
+    {
+      "file": "intrusive_relatives",
+      "title": "Intrusive Relatives"
+    },
+    {
+      "file": "nosy_relatives",
+      "title": "Nosy Relatives"
+    },
+    {
+      "file": "overbearing_parents",
+      "title": "Overbearing Parents"
+    },
+    {
+      "file": "parent_teen_conflict",
+      "title": "Parent Teen Conflict"
+    },
+    {
+      "file": "partner_family_conflict",
+      "title": "Partner Family Conflict"
+    },
+    {
+      "file": "screen_time_arguments",
+      "title": "Screen Time Arguments"
+    },
+    {
+      "file": "sibling_arguments",
+      "title": "Sibling Arguments"
+    },
+    {
+      "file": "sibling_care_dispute",
+      "title": "Sibling Care Dispute"
+    },
+    {
+      "file": "sibling_jealousy",
+      "title": "Sibling Jealousy"
+    },
+    {
+      "file": "sibling_rivalry",
+      "title": "Sibling Rivalry"
+    },
+    {
+      "file": "stepfamily_conflict",
+      "title": "Stepfamily Conflict"
+    },
+    {
+      "file": "talking_to_parents",
+      "title": "Talking To Parents"
+    },
+    {
+      "file": "wedding_family_conflict",
+      "title": "Wedding Family Conflict"
+    },
+    {
+      "file": "when_to_seek_help",
+      "title": "When To Seek Help"
+    }
+  ]
+}

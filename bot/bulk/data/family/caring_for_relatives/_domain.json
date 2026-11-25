@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "caring_for_relatives",
+  "title": "Caring For Relatives",
+  "modules": [
+    {
+      "file": "benefits_for_carers_basics",
+      "title": "Benefits For Carers Basics"
+    },
+    {
+      "file": "benefits_for_carers_planning",
+      "title": "Benefits For Carers Planning"
+    },
+    {
+      "file": "benefits_for_carers_problems",
+      "title": "Benefits For Carers Problems"
+    },
+    {
+      "file": "care_assessments_basics",
+      "title": "Care Assessments Basics"
+    },
+    {
+      "file": "care_assessments_planning",
+      "title": "Care Assessments Planning"
+    },
+    {
+      "file": "care_assessments_problems",
+      "title": "Care Assessments Problems"
+    },
+    {
+      "file": "care_funding_basics",
+      "title": "Care Funding Basics"
+    },
+    {
+      "file": "care_funding_problems",
+      "title": "Care Funding Problems"
+    },
+    {
+      "file": "care_homes_basics",
+      "title": "Care Homes Basics"
+    },
+    {
+      "file": "care_homes_planning",
+      "title": "Care Homes Planning"
+    },
+    {
+      "file": "care_homes_problems",
+      "title": "Care Homes Problems"
+    },
+    {
+      "file": "carer_burnout",
+      "title": "Carer Burnout"
+    },
+    {
+      "file": "carer_rights_basics",
+      "title": "Carer Rights Basics"
+    },
+    {
+      "file": "carer_rights_planning",
+      "title": "Carer Rights Planning"
+    },
+    {
+      "file": "carer_rights_problems",
+      "title": "Carer Rights Problems"
+    },
+    {
+      "file": "carer_stress_basics",
+      "title": "Carer Stress Basics"
+    },
+    {
+      "file": "carer_stress_problems",
+      "title": "Carer Stress Problems"
+    },
+    {
+      "file": "carer_support_basics",
+      "title": "Carer Support Basics"
+    },
+    {
+      "file": "carer_support_planning",
+      "title": "Carer Support Planning"
+    },
+    {
+      "file": "carer_support_problems",
+      "title": "Carer Support Problems"
+    },
+    {
+      "file": "caring_for_child_with_disability",
+      "title": "Caring For Child With Disability"
+    },
+    {
+      "file": "caring_for_elderly_parent",
+      "title": "Caring For Elderly Parent"
+    },
+    {
+      "file": "caring_for_elderly_parent_basics",
+      "title": "Caring For Elderly Parent Basics"
+    },
+    {
+      "file": "caring_for_elderly_parent_planning",
+      "title": "Caring For Elderly Parent Planning"
+    },
+    {
+      "file": "caring_for_elderly_parent_problems",
+      "title": "Caring For Elderly Parent Problems"
+    },
+    {
+      "file": "caring_for_parent_with_dementia",
+      "title": "Caring For Parent With Dementia"
+    },
+    {
+      "file": "caring_for_sick_spouse",
+      "title": "Caring For Sick Spouse"
+    },
+    {
+      "file": "helping_relative_with_bathing",
+      "title": "Helping Relative With Bathing"
+    },
+    {
+      "file": "home_care_equipment_basics",
+      "title": "Home Care Equipment Basics"
+    },
+    {
+      "file": "home_care_equipment_planning",
+      "title": "Home Care Equipment Planning"
+    },
+    {
+      "file": "home_care_equipment_problems",
+      "title": "Home Care Equipment Problems"
+    },
+    {
+      "file": "medication_management_for_relative",
+      "title": "Medication Management For Relative"
+    },
+    {
+      "file": "medication_support_basics",
+      "title": "Medication Support Basics"
+    },
+    {
+      "file": "medication_support_planning",
+      "title": "Medication Support Planning"
+    },
+    {
+      "file": "medication_support_problems",
+      "title": "Medication Support Problems"
+    },
+    {
+      "file": "mobility_help_basics",
+      "title": "Mobility Help Basics"
+    },
+    {
+      "file": "mobility_help_planning",
+      "title": "Mobility Help Planning"
+    },
+    {
+      "file": "mobility_help_problems",
+      "title": "Mobility Help Problems"
+    },
+    {
+      "file": "paid_care_help_basics",
+      "title": "Paid Care Help Basics"
+    },
+    {
+      "file": "paid_care_help_problems",
+      "title": "Paid Care Help Problems"
+    },
+    {
+      "file": "planning_care_basics",
+      "title": "Planning Care Basics"
+    },
+    {
+      "file": "planning_care_problems",
+      "title": "Planning Care Problems"
+    },
+    {
+      "file": "preventing_pressure_sores",
+      "title": "Preventing Pressure Sores"
+    },
+    {
+      "file": "respite_care",
+      "title": "Respite Care"
+    },
+    {
+      "file": "respite_care_basics",
+      "title": "Respite Care Basics"
+    },
+    {
+      "file": "respite_care_planning",
+      "title": "Respite Care Planning"
+    },
+    {
+      "file": "respite_care_problems",
+      "title": "Respite Care Problems"
+    },
+    {
+      "file": "support_for_carers",
+      "title": "Support For Carers"
+    },
+    {
+      "file": "talking_to_relatives_basics",
+      "title": "Talking To Relatives Basics"
+    },
+    {
+      "file": "talking_to_relatives_problems",
+      "title": "Talking To Relatives Problems"
+    }
+  ]
+}

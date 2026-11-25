@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "friendship",
+  "title": "Friendship",
+  "modules": [
+    {
+      "file": "close_friends_basics",
+      "title": "Close Friends Basics"
+    },
+    {
+      "file": "close_friends_planning",
+      "title": "Close Friends Planning"
+    },
+    {
+      "file": "close_friends_problems",
+      "title": "Close Friends Problems"
+    },
+    {
+      "file": "friendship_after_a_breakup_basics",
+      "title": "Friendship After A Breakup Basics"
+    },
+    {
+      "file": "friendship_after_a_breakup_planning",
+      "title": "Friendship After A Breakup Planning"
+    },
+    {
+      "file": "friendship_after_a_breakup_problems",
+      "title": "Friendship After A Breakup Problems"
+    },
+    {
+      "file": "friendship_and_change_basics",
+      "title": "Friendship And Change Basics"
+    },
+    {
+      "file": "friendship_and_change_planning",
+      "title": "Friendship And Change Planning"
+    },
+    {
+      "file": "friendship_and_change_problems",
+      "title": "Friendship And Change Problems"
+    },
+    {
+      "file": "friendship_arguments_basics",
+      "title": "Friendship Arguments Basics"
+    },
+    {
+      "file": "friendship_arguments_mistakes",
+      "title": "Friendship Arguments Mistakes"
+    },
+    {
+      "file": "friendship_arguments_planning",
+      "title": "Friendship Arguments Planning"
+    },
+    {
+      "file": "friendship_arguments_problems",
+      "title": "Friendship Arguments Problems"
+    },
+    {
+      "file": "friendship_boundaries_basics",
+      "title": "Friendship Boundaries Basics"
+    },
+    {
+      "file": "friendship_boundaries_mistakes",
+      "title": "Friendship Boundaries Mistakes"
+    },
+    {
+      "file": "friendship_boundaries_planning",
+      "title": "Friendship Boundaries Planning"
+    },
+    {
+      "file": "friendship_boundaries_problems",
+      "title": "Friendship Boundaries Problems"
+    },
+    {
+      "file": "group_friendships_basics",
+      "title": "Group Friendships Basics"
+    },
+    {
+      "file": "group_friendships_planning",
+      "title": "Group Friendships Planning"
+    },
+    {
+      "file": "group_friendships_problems",
+      "title": "Group Friendships Problems"
+    },
+    {
+      "file": "keeping_in_touch_basics",
+      "title": "Keeping In Touch Basics"
+    },
+    {
+      "file": "keeping_in_touch_planning",
+      "title": "Keeping In Touch Planning"
+    },
+    {
+      "file": "keeping_in_touch_problems",
+      "title": "Keeping In Touch Problems"
+    },
+    {
+      "file": "long_distance_friendship_basics",
+      "title": "Long Distance Friendship Basics"
+    },
+    {
+      "file": "long_distance_friendship_mistakes",
+      "title": "Long Distance Friendship Mistakes"
+    },
+    {
+      "file": "long_distance_friendship_planning",
+      "title": "Long Distance Friendship Planning"
+    },
+    {
+      "file": "long_distance_friendship_problems",
+      "title": "Long Distance Friendship Problems"
+    },
+    {
+      "file": "making_friends_basics",
+      "title": "Making Friends Basics"
+    },
+    {
+      "file": "making_friends_mistakes",
+      "title": "Making Friends Mistakes"
+    },
+    {
+      "file": "making_friends_planning",
+      "title": "Making Friends Planning"
+    },
+    {
+      "file": "making_friends_problems",
+      "title": "Making Friends Problems"
+    },
+    {
+      "file": "meeting_neighbours_basics",
+      "title": "Meeting Neighbours Basics"
+    },
+    {
+      "file": "meeting_neighbours_planning",
+      "title": "Meeting Neighbours Planning"
+    },
+    {
+      "file": "meeting_neighbours_problems",
+      "title": "Meeting Neighbours Problems"
+    },
+    {
+      "file": "new_city_friends_basics",
+      "title": "New City Friends Basics"
+    },
+    {
+      "file": "new_city_friends_planning",
+      "title": "New City Friends Planning"
+    },
+    {
+      "file": "new_city_friends_problems",
+      "title": "New City Friends Problems"
+    },
+    {
+      "file": "online_friendships_basics",
+      "title": "Online Friendships Basics"
+    },
+    {
+      "file": "online_friendships_planning",
+      "title": "Online Friendships Planning"
+    },
+    {
+      "file": "online_friendships_problems",
+      "title": "Online Friendships Problems"
+    },
+    {
+      "file": "rebuilding_friendship_basics",
+      "title": "Rebuilding Friendship Basics"
+    },
+    {
+      "file": "rebuilding_friendship_mistakes",
+      "title": "Rebuilding Friendship Mistakes"
+    },
+    {
+      "file": "rebuilding_friendship_planning",
+      "title": "Rebuilding Friendship Planning"
+    },
+    {
+      "file": "rebuilding_friendship_problems",
+      "title": "Rebuilding Friendship Problems"
+    },
+    {
+      "file": "saying_no_to_friends_basics",
+      "title": "Saying No To Friends Basics"
+    },
+    {
+      "file": "saying_no_to_friends_planning",
+      "title": "Saying No To Friends Planning"
+    },
+    {
+      "file": "saying_no_to_friends_problems",
+      "title": "Saying No To Friends Problems"
+    },
+    {
+      "file": "supporting_a_friend_basics",
+      "title": "Supporting A Friend Basics"
+    },
+    {
+      "file": "supporting_a_friend_planning",
+      "title": "Supporting A Friend Planning"
+    },
+    {
+      "file": "supporting_a_friend_problems",
+      "title": "Supporting A Friend Problems"
+    }
+  ]
+}

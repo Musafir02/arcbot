@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "childcare_and_schools",
+  "title": "Childcare And Schools",
+  "modules": [
+    {
+      "file": "additional_needs_support",
+      "title": "Additional Needs Support"
+    },
+    {
+      "file": "after_school_clubs",
+      "title": "After School Clubs"
+    },
+    {
+      "file": "bedtime_routines",
+      "title": "Bedtime Routines"
+    },
+    {
+      "file": "behaviour_at_home",
+      "title": "Behaviour At Home"
+    },
+    {
+      "file": "boundaries_and_rules",
+      "title": "Boundaries And Rules"
+    },
+    {
+      "file": "bullying_at_school",
+      "title": "Bullying At School"
+    },
+    {
+      "file": "childcare_options",
+      "title": "Childcare Options"
+    },
+    {
+      "file": "childminders",
+      "title": "Childminders"
+    },
+    {
+      "file": "choosing_a_nursery",
+      "title": "Choosing A Nursery"
+    },
+    {
+      "file": "emotional_development",
+      "title": "Emotional Development"
+    },
+    {
+      "file": "extracurricular_activities",
+      "title": "Extracurricular Activities"
+    },
+    {
+      "file": "friendships_at_school",
+      "title": "Friendships At School"
+    },
+    {
+      "file": "helping_with_homework",
+      "title": "Helping With Homework"
+    },
+    {
+      "file": "hiring_a_tutor",
+      "title": "Hiring A Tutor"
+    },
+    {
+      "file": "holiday_childcare",
+      "title": "Holiday Childcare"
+    },
+    {
+      "file": "homework_routines",
+      "title": "Homework Routines"
+    },
+    {
+      "file": "illness_and_school",
+      "title": "Illness And School"
+    },
+    {
+      "file": "learning_at_home",
+      "title": "Learning At Home"
+    },
+    {
+      "file": "listening_to_children",
+      "title": "Listening To Children"
+    },
+    {
+      "file": "morning_routines",
+      "title": "Morning Routines"
+    },
+    {
+      "file": "nannies_and_babysitters",
+      "title": "Nannies And Babysitters"
+    },
+    {
+      "file": "nursery_fees",
+      "title": "Nursery Fees"
+    },
+    {
+      "file": "nursery_safety",
+      "title": "Nursery Safety"
+    },
+    {
+      "file": "nursery_separation_anxiety",
+      "title": "Nursery Separation Anxiety"
+    },
+    {
+      "file": "online_safety",
+      "title": "Online Safety"
+    },
+    {
+      "file": "packed_lunches",
+      "title": "Packed Lunches"
+    },
+    {
+      "file": "parents_evenings",
+      "title": "Parents Evenings"
+    },
+    {
+      "file": "praise_and_rewards",
+      "title": "Praise And Rewards"
+    },
+    {
+      "file": "reading_with_children",
+      "title": "Reading With Children"
+    },
+    {
+      "file": "revision_with_children",
+      "title": "Revision With Children"
+    },
+    {
+      "file": "school_absence",
+      "title": "School Absence"
+    },
+    {
+      "file": "school_admissions",
+      "title": "School Admissions"
+    },
+    {
+      "file": "school_exams",
+      "title": "School Exams"
+    },
+    {
+      "file": "school_holidays",
+      "title": "School Holidays"
+    },
+    {
+      "file": "school_lunches",
+      "title": "School Lunches"
+    },
+    {
+      "file": "school_open_days",
+      "title": "School Open Days"
+    },
+    {
+      "file": "school_refusal",
+      "title": "School Refusal"
+    },
+    {
+      "file": "school_transport",
+      "title": "School Transport"
+    },
+    {
+      "file": "school_uniform",
+      "title": "School Uniform"
+    },
+    {
+      "file": "screen_time_limits",
+      "title": "Screen Time Limits"
+    },
+    {
+      "file": "secondary_school_transition",
+      "title": "Secondary School Transition"
+    },
+    {
+      "file": "settling_into_nursery",
+      "title": "Settling Into Nursery"
+    },
+    {
+      "file": "sibling_rivalry",
+      "title": "Sibling Rivalry"
+    },
+    {
+      "file": "social_skills",
+      "title": "Social Skills"
+    },
+    {
+      "file": "speech_and_language",
+      "title": "Speech And Language"
+    },
+    {
+      "file": "starting_school",
+      "title": "Starting School"
+    },
+    {
+      "file": "talking_to_children",
+      "title": "Talking To Children"
+    },
+    {
+      "file": "talking_to_teachers",
+      "title": "Talking To Teachers"
+    },
+    {
+      "file": "tantrums",
+      "title": "Tantrums"
+    },
+    {
+      "file": "visiting_nurseries",
+      "title": "Visiting Nurseries"
+    }
+  ]
+}

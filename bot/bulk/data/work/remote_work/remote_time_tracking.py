@@ -87,7 +87,7 @@ ITEMS = (
             'what if i take a long lunch at home',
             'do short breaks count as work time',
             'how do i record a screen break at home',
-            'what if i work through my break',
+            'what if i work through my break at home',
             'should i log time away from my desk',
             'how do i show leave on a time sheet',
             'what if i finish early at home',

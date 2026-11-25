@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "housing_rights",
+  "title": "Housing Rights",
+  "modules": [
+    {
+      "file": "breaking_a_fixed_term_tenancy",
+      "title": "Breaking A Fixed Term Tenancy"
+    },
+    {
+      "file": "complaints_about_landlord",
+      "title": "Complaints About Landlord"
+    },
+    {
+      "file": "council_housing_rights",
+      "title": "Council Housing Rights"
+    },
+    {
+      "file": "council_tax_for_tenants",
+      "title": "Council Tax For Tenants"
+    },
+    {
+      "file": "damp_and_mould",
+      "title": "Damp And Mould"
+    },
+    {
+      "file": "deposit_deductions_disputes",
+      "title": "Deposit Deductions Disputes"
+    },
+    {
+      "file": "disability_adaptations",
+      "title": "Disability Adaptations"
+    },
+    {
+      "file": "diy_repairs_rights",
+      "title": "Diy Repairs Rights"
+    },
+    {
+      "file": "early_termination_fees",
+      "title": "Early Termination Fees"
+    },
+    {
+      "file": "electrical_safety_checks",
+      "title": "Electrical Safety Checks"
+    },
+    {
+      "file": "emergency_repairs",
+      "title": "Emergency Repairs"
+    },
+    {
+      "file": "eviction_court_process",
+      "title": "Eviction Court Process"
+    },
+    {
+      "file": "eviction_notice_periods",
+      "title": "Eviction Notice Periods"
+    },
+    {
+      "file": "gas_safety_checks",
+      "title": "Gas Safety Checks"
+    },
+    {
+      "file": "heating_and_hot_water",
+      "title": "Heating And Hot Water"
+    },
+    {
+      "file": "homelessness_support_rights",
+      "title": "Homelessness Support Rights"
+    },
+    {
+      "file": "housing_benefit_help",
+      "title": "Housing Benefit Help"
+    },
+    {
+      "file": "housing_discrimination",
+      "title": "Housing Discrimination"
+    },
+    {
+      "file": "housing_safety_standards",
+      "title": "Housing Safety Standards"
+    },
+    {
+      "file": "illegal_eviction_defence",
+      "title": "Illegal Eviction Defence"
+    },
+    {
+      "file": "joint_tenancy_rights",
+      "title": "Joint Tenancy Rights"
+    },
+    {
+      "file": "landlord_entry_rights",
+      "title": "Landlord Entry Rights"
+    },
+    {
+      "file": "landlord_fees_and_charges",
+      "title": "Landlord Fees And Charges"
+    },
+    {
+      "file": "landlord_harassment",
+      "title": "Landlord Harassment"
+    },
+    {
+      "file": "landlord_repair_duties",
+      "title": "Landlord Repair Duties"
+    },
+    {
+      "file": "landlord_responsibilities",
+      "title": "Landlord Responsibilities"
+    },
+    {
+      "file": "leasehold_and_freehold_rights",
+      "title": "Leasehold And Freehold Rights"
+    },
+    {
+      "file": "mediation_and_disputes",
+      "title": "Mediation And Disputes"
+    },
+    {
+      "file": "moving_out_and_handover",
+      "title": "Moving Out And Handover"
+    },
+    {
+      "file": "no_fault_eviction",
+      "title": "No Fault Eviction"
+    },
+    {
+      "file": "periodic_tenancy_rights",
+      "title": "Periodic Tenancy Rights"
+    },
+    {
+      "file": "pets_in_rented_homes",
+      "title": "Pets In Rented Homes"
+    },
+    {
+      "file": "property_inspection_notice",
+      "title": "Property Inspection Notice"
+    },
+    {
+      "file": "rent_arrears_support",
+      "title": "Rent Arrears Support"
+    },
+    {
+      "file": "rent_increases",
+      "title": "Rent Increases"
+    },
+    {
+      "file": "rent_payment_rules",
+      "title": "Rent Payment Rules"
+    },
+    {
+      "file": "rent_reduction_for_faults",
+      "title": "Rent Reduction For Faults"
+    },
+    {
+      "file": "rent_review_challenges",
+      "title": "Rent Review Challenges"
+    },
+    {
+      "file": "repairs_evidence_and_records",
+      "title": "Repairs Evidence And Records"
+    },
+    {
+      "file": "repairs_in_shared_areas",
+      "title": "Repairs In Shared Areas"
+    },
+    {
+      "file": "reporting_repair_faults",
+      "title": "Reporting Repair Faults"
+    },
+    {
+      "file": "service_charges_rights",
+      "title": "Service Charges Rights"
+    },
+    {
+      "file": "subletting_and_lodgers",
+      "title": "Subletting And Lodgers"
+    },
+    {
+      "file": "tenancy_agreement_terms",
+      "title": "Tenancy Agreement Terms"
+    },
+    {
+      "file": "tenancy_deposit_protection",
+      "title": "Tenancy Deposit Protection"
+    },
+    {
+      "file": "tenancy_renewal_rights",
+      "title": "Tenancy Renewal Rights"
+    },
+    {
+      "file": "tenant_privacy_rights",
+      "title": "Tenant Privacy Rights"
+    },
+    {
+      "file": "tenant_references_and_checks",
+      "title": "Tenant References And Checks"
+    },
+    {
+      "file": "tenant_rights_overview",
+      "title": "Tenant Rights Overview"
+    },
+    {
+      "file": "withholding_rent_advice",
+      "title": "Withholding Rent Advice"
+    }
+  ]
+}

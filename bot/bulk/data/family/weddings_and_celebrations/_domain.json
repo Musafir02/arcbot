@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "weddings_and_celebrations",
+  "title": "Weddings And Celebrations",
+  "modules": [
+    {
+      "file": "best_man_duties",
+      "title": "Best Man Duties"
+    },
+    {
+      "file": "bridesmaid_dresses",
+      "title": "Bridesmaid Dresses"
+    },
+    {
+      "file": "choosing_a_wedding_venue",
+      "title": "Choosing A Wedding Venue"
+    },
+    {
+      "file": "hen_and_stag_parties_basics",
+      "title": "Hen And Stag Parties Basics"
+    },
+    {
+      "file": "hen_and_stag_parties_problems",
+      "title": "Hen And Stag Parties Problems"
+    },
+    {
+      "file": "legal_requirements_basics",
+      "title": "Legal Requirements Basics"
+    },
+    {
+      "file": "legal_requirements_problems",
+      "title": "Legal Requirements Problems"
+    },
+    {
+      "file": "maid_of_honour_duties",
+      "title": "Maid Of Honour Duties"
+    },
+    {
+      "file": "planning_a_small_wedding",
+      "title": "Planning A Small Wedding"
+    },
+    {
+      "file": "reception_food_basics",
+      "title": "Reception Food Basics"
+    },
+    {
+      "file": "reception_food_problems",
+      "title": "Reception Food Problems"
+    },
+    {
+      "file": "second_marriages_basics",
+      "title": "Second Marriages Basics"
+    },
+    {
+      "file": "second_marriages_problems",
+      "title": "Second Marriages Problems"
+    },
+    {
+      "file": "small_wedding_basics",
+      "title": "Small Wedding Basics"
+    },
+    {
+      "file": "small_wedding_planning",
+      "title": "Small Wedding Planning"
+    },
+    {
+      "file": "small_wedding_problems",
+      "title": "Small Wedding Problems"
+    },
+    {
+      "file": "venue_choice_basics",
+      "title": "Venue Choice Basics"
+    },
+    {
+      "file": "venue_choice_problems",
+      "title": "Venue Choice Problems"
+    },
+    {
+      "file": "wedding_attire_basics",
+      "title": "Wedding Attire Basics"
+    },
+    {
+      "file": "wedding_attire_problems",
+      "title": "Wedding Attire Problems"
+    },
+    {
+      "file": "wedding_budget_basics",
+      "title": "Wedding Budget Basics"
+    },
+    {
+      "file": "wedding_budget_planning",
+      "title": "Wedding Budget Planning"
+    },
+    {
+      "file": "wedding_budget_problems",
+      "title": "Wedding Budget Problems"
+    },
+    {
+      "file": "wedding_cake_selection",
+      "title": "Wedding Cake Selection"
+    },
+    {
+      "file": "wedding_catering",
+      "title": "Wedding Catering"
+    },
+    {
+      "file": "wedding_flowers_and_bouquets",
+      "title": "Wedding Flowers And Bouquets"
+    },
+    {
+      "file": "wedding_guest_attire",
+      "title": "Wedding Guest Attire"
+    },
+    {
+      "file": "wedding_guest_etiquette_basics",
+      "title": "Wedding Guest Etiquette Basics"
+    },
+    {
+      "file": "wedding_guest_etiquette_problems",
+      "title": "Wedding Guest Etiquette Problems"
+    },
+    {
+      "file": "wedding_invitations",
+      "title": "Wedding Invitations"
+    },
+    {
+      "file": "wedding_invitations_basics",
+      "title": "Wedding Invitations Basics"
+    },
+    {
+      "file": "wedding_invitations_problems",
+      "title": "Wedding Invitations Problems"
+    },
+    {
+      "file": "wedding_legal_requirements",
+      "title": "Wedding Legal Requirements"
+    },
+    {
+      "file": "wedding_music_and_dj",
+      "title": "Wedding Music And Dj"
+    },
+    {
+      "file": "wedding_music_basics",
+      "title": "Wedding Music Basics"
+    },
+    {
+      "file": "wedding_music_problems",
+      "title": "Wedding Music Problems"
+    },
+    {
+      "file": "wedding_officiant",
+      "title": "Wedding Officiant"
+    },
+    {
+      "file": "wedding_photography",
+      "title": "Wedding Photography"
+    },
+    {
+      "file": "wedding_photography_basics",
+      "title": "Wedding Photography Basics"
+    },
+    {
+      "file": "wedding_photography_problems",
+      "title": "Wedding Photography Problems"
+    },
+    {
+      "file": "wedding_planning_timeline_basics",
+      "title": "Wedding Planning Timeline Basics"
+    },
+    {
+      "file": "wedding_planning_timeline_problems",
+      "title": "Wedding Planning Timeline Problems"
+    },
+    {
+      "file": "wedding_readings",
+      "title": "Wedding Readings"
+    },
+    {
+      "file": "wedding_registration",
+      "title": "Wedding Registration"
+    },
+    {
+      "file": "wedding_rings_basics",
+      "title": "Wedding Rings Basics"
+    },
+    {
+      "file": "wedding_rings_problems",
+      "title": "Wedding Rings Problems"
+    },
+    {
+      "file": "wedding_speeches",
+      "title": "Wedding Speeches"
+    },
+    {
+      "file": "wedding_speeches_basics",
+      "title": "Wedding Speeches Basics"
+    },
+    {
+      "file": "wedding_speeches_problems",
+      "title": "Wedding Speeches Problems"
+    },
+    {
+      "file": "writing_wedding_vows",
+      "title": "Writing Wedding Vows"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "consumer_rights",
+  "title": "Consumer Rights",
+  "modules": [
+    {
+      "file": "automatic_renewal",
+      "title": "Automatic Renewal"
+    },
+    {
+      "file": "card_payment_rights",
+      "title": "Card Payment Rights"
+    },
+    {
+      "file": "cash_payment_proof",
+      "title": "Cash Payment Proof"
+    },
+    {
+      "file": "change_of_mind_returns",
+      "title": "Change Of Mind Returns"
+    },
+    {
+      "file": "cold_calling_rights",
+      "title": "Cold Calling Rights"
+    },
+    {
+      "file": "complaint_letter_goods",
+      "title": "Complaint Letter Goods"
+    },
+    {
+      "file": "consumer_business_purchase",
+      "title": "Consumer Business Purchase"
+    },
+    {
+      "file": "consumer_warranty_rights",
+      "title": "Consumer Warranty Rights"
+    },
+    {
+      "file": "cooling_off_period",
+      "title": "Cooling Off Period"
+    },
+    {
+      "file": "credit_card_chargeback",
+      "title": "Credit Card Chargeback"
+    },
+    {
+      "file": "damaged_goods_delivery",
+      "title": "Damaged Goods Delivery"
+    },
+    {
+      "file": "data_privacy_purchase",
+      "title": "Data Privacy Purchase"
+    },
+    {
+      "file": "defective_product_safety",
+      "title": "Defective Product Safety"
+    },
+    {
+      "file": "dispute_resolution_consumer",
+      "title": "Dispute Resolution Consumer"
+    },
+    {
+      "file": "doorstep_sales_rights",
+      "title": "Doorstep Sales Rights"
+    },
+    {
+      "file": "extended_warranty",
+      "title": "Extended Warranty"
+    },
+    {
+      "file": "false_seller_claims",
+      "title": "False Seller Claims"
+    },
+    {
+      "file": "faulty_goods_repair_replace",
+      "title": "Faulty Goods Repair Replace"
+    },
+    {
+      "file": "gift_return_rights",
+      "title": "Gift Return Rights"
+    },
+    {
+      "file": "guarantee_vs_warranty",
+      "title": "Guarantee Vs Warranty"
+    },
+    {
+      "file": "hidden_fees_charges",
+      "title": "Hidden Fees Charges"
+    },
+    {
+      "file": "late_delivery_rights",
+      "title": "Late Delivery Rights"
+    },
+    {
+      "file": "manufacturer_warranty_claim",
+      "title": "Manufacturer Warranty Claim"
+    },
+    {
+      "file": "misleading_advertising",
+      "title": "Misleading Advertising"
+    },
+    {
+      "file": "ombudsman_escalation",
+      "title": "Ombudsman Escalation"
+    },
+    {
+      "file": "online_purchase_returns",
+      "title": "Online Purchase Returns"
+    },
+    {
+      "file": "overcharging_rights",
+      "title": "Overcharging Rights"
+    },
+    {
+      "file": "pressure_selling",
+      "title": "Pressure Selling"
+    },
+    {
+      "file": "price_mismatch",
+      "title": "Price Mismatch"
+    },
+    {
+      "file": "product_recall",
+      "title": "Product Recall"
+    },
+    {
+      "file": "purchase_records_evidence",
+      "title": "Purchase Records Evidence"
+    },
+    {
+      "file": "refund_rights",
+      "title": "Refund Rights"
+    },
+    {
+      "file": "restocking_fees",
+      "title": "Restocking Fees"
+    },
+    {
+      "file": "return_postage_costs",
+      "title": "Return Postage Costs"
+    },
+    {
+      "file": "returning_faulty_item",
+      "title": "Returning Faulty Item"
+    },
+    {
+      "file": "returning_without_receipt",
+      "title": "Returning Without Receipt"
+    },
+    {
+      "file": "sale_item_returns",
+      "title": "Sale Item Returns"
+    },
+    {
+      "file": "secondhand_goods_rights",
+      "title": "Secondhand Goods Rights"
+    },
+    {
+      "file": "service_not_provided_rights",
+      "title": "Service Not Provided Rights"
+    },
+    {
+      "file": "service_performance_rights",
+      "title": "Service Performance Rights"
+    },
+    {
+      "file": "service_price_reduction",
+      "title": "Service Price Reduction"
+    },
+    {
+      "file": "service_repeat_performance",
+      "title": "Service Repeat Performance"
+    },
+    {
+      "file": "small_claims_consumer",
+      "title": "Small Claims Consumer"
+    },
+    {
+      "file": "statutory_rights_goods",
+      "title": "Statutory Rights Goods"
+    },
+    {
+      "file": "subscription_cancellation",
+      "title": "Subscription Cancellation"
+    },
+    {
+      "file": "trader_status_definition",
+      "title": "Trader Status Definition"
+    },
+    {
+      "file": "undelivered_goods",
+      "title": "Undelivered Goods"
+    },
+    {
+      "file": "unfair_contract_terms",
+      "title": "Unfair Contract Terms"
+    },
+    {
+      "file": "unsubscribe_marketing",
+      "title": "Unsubscribe Marketing"
+    },
+    {
+      "file": "wrong_item_delivered",
+      "title": "Wrong Item Delivered"
+    }
+  ]
+}

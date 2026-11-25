@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "parenting_babies",
+  "title": "Parenting Babies",
+  "modules": [
+    {
+      "file": "baby_allergy_and_food_intolerance",
+      "title": "Baby Allergy And Food Intolerance"
+    },
+    {
+      "file": "baby_bathing",
+      "title": "Baby Bathing"
+    },
+    {
+      "file": "baby_bedtime_routine",
+      "title": "Baby Bedtime Routine"
+    },
+    {
+      "file": "baby_bottle_feeding",
+      "title": "Baby Bottle Feeding"
+    },
+    {
+      "file": "baby_car_seat_safety",
+      "title": "Baby Car Seat Safety"
+    },
+    {
+      "file": "baby_carrier_and_sling_safety",
+      "title": "Baby Carrier And Sling Safety"
+    },
+    {
+      "file": "baby_colds_and_sniffles",
+      "title": "Baby Colds And Sniffles"
+    },
+    {
+      "file": "baby_colicky_evenings",
+      "title": "Baby Colicky Evenings"
+    },
+    {
+      "file": "baby_constipation",
+      "title": "Baby Constipation"
+    },
+    {
+      "file": "baby_cradle_cap",
+      "title": "Baby Cradle Cap"
+    },
+    {
+      "file": "baby_daycare_transition",
+      "title": "Baby Daycare Transition"
+    },
+    {
+      "file": "baby_eczema",
+      "title": "Baby Eczema"
+    },
+    {
+      "file": "baby_fever",
+      "title": "Baby Fever"
+    },
+    {
+      "file": "baby_first_solid_foods",
+      "title": "Baby First Solid Foods"
+    },
+    {
+      "file": "baby_formula_feeding",
+      "title": "Baby Formula Feeding"
+    },
+    {
+      "file": "baby_gas_and_wind",
+      "title": "Baby Gas And Wind"
+    },
+    {
+      "file": "baby_growth_and_weight",
+      "title": "Baby Growth And Weight"
+    },
+    {
+      "file": "baby_hearing_and_vision",
+      "title": "Baby Hearing And Vision"
+    },
+    {
+      "file": "baby_jaundice",
+      "title": "Baby Jaundice"
+    },
+    {
+      "file": "baby_led_weaning",
+      "title": "Baby Led Weaning"
+    },
+    {
+      "file": "baby_massage",
+      "title": "Baby Massage"
+    },
+    {
+      "file": "baby_nappy_rash",
+      "title": "Baby Nappy Rash"
+    },
+    {
+      "file": "baby_naps_and_daytime_sleep",
+      "title": "Baby Naps And Daytime Sleep"
+    },
+    {
+      "file": "baby_night_feeds",
+      "title": "Baby Night Feeds"
+    },
+    {
+      "file": "baby_play_and_stimulation",
+      "title": "Baby Play And Stimulation"
+    },
+    {
+      "file": "baby_reflexes",
+      "title": "Baby Reflexes"
+    },
+    {
+      "file": "baby_reflux",
+      "title": "Baby Reflux"
+    },
+    {
+      "file": "baby_safety_at_home",
+      "title": "Baby Safety At Home"
+    },
+    {
+      "file": "baby_sleeping_through_night",
+      "title": "Baby Sleeping Through Night"
+    },
+    {
+      "file": "baby_speech_development",
+      "title": "Baby Speech Development"
+    },
+    {
+      "file": "baby_swaddling",
+      "title": "Baby Swaddling"
+    },
+    {
+      "file": "baby_teething",
+      "title": "Baby Teething"
+    },
+    {
+      "file": "baby_temperature_and_clothing",
+      "title": "Baby Temperature And Clothing"
+    },
+    {
+      "file": "baby_travel_and_outings",
+      "title": "Baby Travel And Outings"
+    },
+    {
+      "file": "baby_vaccinations",
+      "title": "Baby Vaccinations"
+    },
+    {
+      "file": "bonding_with_baby",
+      "title": "Bonding With Baby"
+    },
+    {
+      "file": "breastfeeding_latch",
+      "title": "Breastfeeding Latch"
+    },
+    {
+      "file": "burping_after_feeds",
+      "title": "Burping After Feeds"
+    },
+    {
+      "file": "caring_for_twins",
+      "title": "Caring For Twins"
+    },
+    {
+      "file": "expressing_breast_milk",
+      "title": "Expressing Breast Milk"
+    },
+    {
+      "file": "nappy_changing",
+      "title": "Nappy Changing"
+    },
+    {
+      "file": "newborn_feeding_frequency",
+      "title": "Newborn Feeding Frequency"
+    },
+    {
+      "file": "newborn_skin_care",
+      "title": "Newborn Skin Care"
+    },
+    {
+      "file": "premature_baby_care",
+      "title": "Premature Baby Care"
+    },
+    {
+      "file": "reading_to_baby",
+      "title": "Reading To Baby"
+    },
+    {
+      "file": "safe_sleep_and_cot",
+      "title": "Safe Sleep And Cot"
+    },
+    {
+      "file": "settling_crying_baby",
+      "title": "Settling Crying Baby"
+    },
+    {
+      "file": "tummy_time",
+      "title": "Tummy Time"
+    },
+    {
+      "file": "umbilical_cord_care",
+      "title": "Umbilical Cord Care"
+    },
+    {
+      "file": "when_to_call_doctor_baby",
+      "title": "When To Call Doctor Baby"
+    }
+  ]
+}

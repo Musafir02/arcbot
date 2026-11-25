@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "parenting_children",
+  "title": "Parenting Children",
+  "modules": [
+    {
+      "file": "after_school_activities",
+      "title": "After School Activities"
+    },
+    {
+      "file": "babysitting_preparation",
+      "title": "Babysitting Preparation"
+    },
+    {
+      "file": "bedtime_routines",
+      "title": "Bedtime Routines"
+    },
+    {
+      "file": "board_games_with_children",
+      "title": "Board Games With Children"
+    },
+    {
+      "file": "building_confidence",
+      "title": "Building Confidence"
+    },
+    {
+      "file": "child_anger",
+      "title": "Child Anger"
+    },
+    {
+      "file": "child_home_safety",
+      "title": "Child Home Safety"
+    },
+    {
+      "file": "childhood_fears",
+      "title": "Childhood Fears"
+    },
+    {
+      "file": "children_birthday_parties",
+      "title": "Children Birthday Parties"
+    },
+    {
+      "file": "chores_and_responsibilities",
+      "title": "Chores And Responsibilities"
+    },
+    {
+      "file": "consequences_and_rules",
+      "title": "Consequences And Rules"
+    },
+    {
+      "file": "consistency_in_parenting",
+      "title": "Consistency In Parenting"
+    },
+    {
+      "file": "daily_routines",
+      "title": "Daily Routines"
+    },
+    {
+      "file": "discipline_techniques",
+      "title": "Discipline Techniques"
+    },
+    {
+      "file": "dressing_independently",
+      "title": "Dressing Independently"
+    },
+    {
+      "file": "encouraging_independence",
+      "title": "Encouraging Independence"
+    },
+    {
+      "file": "family_conversation",
+      "title": "Family Conversation"
+    },
+    {
+      "file": "family_rules",
+      "title": "Family Rules"
+    },
+    {
+      "file": "fussy_eating",
+      "title": "Fussy Eating"
+    },
+    {
+      "file": "hand_washing_habits",
+      "title": "Hand Washing Habits"
+    },
+    {
+      "file": "holiday_activities_for_children",
+      "title": "Holiday Activities For Children"
+    },
+    {
+      "file": "homework_support",
+      "title": "Homework Support"
+    },
+    {
+      "file": "imaginative_play",
+      "title": "Imaginative Play"
+    },
+    {
+      "file": "listening_to_children",
+      "title": "Listening To Children"
+    },
+    {
+      "file": "mealtime_behaviour",
+      "title": "Mealtime Behaviour"
+    },
+    {
+      "file": "negotiating_with_children",
+      "title": "Negotiating With Children"
+    },
+    {
+      "file": "online_safety_for_children",
+      "title": "Online Safety For Children"
+    },
+    {
+      "file": "outdoor_play",
+      "title": "Outdoor Play"
+    },
+    {
+      "file": "physical_activity_for_children",
+      "title": "Physical Activity For Children"
+    },
+    {
+      "file": "pocket_money",
+      "title": "Pocket Money"
+    },
+    {
+      "file": "positive_reinforcement",
+      "title": "Positive Reinforcement"
+    },
+    {
+      "file": "praise_and_encouragement",
+      "title": "Praise And Encouragement"
+    },
+    {
+      "file": "problem_solving_skills",
+      "title": "Problem Solving Skills"
+    },
+    {
+      "file": "reading_with_children",
+      "title": "Reading With Children"
+    },
+    {
+      "file": "reward_systems",
+      "title": "Reward Systems"
+    },
+    {
+      "file": "saying_sorry",
+      "title": "Saying Sorry"
+    },
+    {
+      "file": "school_morning_routine",
+      "title": "School Morning Routine"
+    },
+    {
+      "file": "screen_time_limits",
+      "title": "Screen Time Limits"
+    },
+    {
+      "file": "seeking_help_for_child_behaviour",
+      "title": "Seeking Help For Child Behaviour"
+    },
+    {
+      "file": "separation_anxiety",
+      "title": "Separation Anxiety"
+    },
+    {
+      "file": "sharing_and_turn_taking",
+      "title": "Sharing And Turn Taking"
+    },
+    {
+      "file": "sibling_rivalry",
+      "title": "Sibling Rivalry"
+    },
+    {
+      "file": "starting_school",
+      "title": "Starting School"
+    },
+    {
+      "file": "tantrum_management",
+      "title": "Tantrum Management"
+    },
+    {
+      "file": "teaching_manners",
+      "title": "Teaching Manners"
+    },
+    {
+      "file": "teeth_cleaning_habits",
+      "title": "Teeth Cleaning Habits"
+    },
+    {
+      "file": "time_outs",
+      "title": "Time Outs"
+    },
+    {
+      "file": "toilet_training",
+      "title": "Toilet Training"
+    },
+    {
+      "file": "travelling_with_children",
+      "title": "Travelling With Children"
+    },
+    {
+      "file": "understanding_emotions",
+      "title": "Understanding Emotions"
+    }
+  ]
+}

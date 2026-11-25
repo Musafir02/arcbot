@@ -102,7 +102,7 @@ ITEMS = (
             'is there a fund for people struggling with bills',
             'should i ask family to help with bills',
             'can my local council help with bills',
-            'what if i am ill and cannot pay bills',
+            'what if i am ill and cannot pay bills at home',
             'who can advise on bill arrears',
             'can a charity help with utility bills',
             'should i get advice before borrowing to pay bills',

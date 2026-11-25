@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "family_law_basics",
+  "title": "Family Law Basics",
+  "modules": [
+    {
+      "file": "adoption_basics",
+      "title": "Adoption Basics"
+    },
+    {
+      "file": "arbitration_in_family_cases",
+      "title": "Arbitration In Family Cases"
+    },
+    {
+      "file": "birth_registration",
+      "title": "Birth Registration"
+    },
+    {
+      "file": "breach_of_family_order",
+      "title": "Breach Of Family Order"
+    },
+    {
+      "file": "changing_a_name",
+      "title": "Changing A Name"
+    },
+    {
+      "file": "child_arrangement_orders",
+      "title": "Child Arrangement Orders"
+    },
+    {
+      "file": "child_maintenance",
+      "title": "Child Maintenance"
+    },
+    {
+      "file": "child_protection_basics",
+      "title": "Child Protection Basics"
+    },
+    {
+      "file": "civil_partnership_dissolution",
+      "title": "Civil Partnership Dissolution"
+    },
+    {
+      "file": "cohabitation_rights",
+      "title": "Cohabitation Rights"
+    },
+    {
+      "file": "collaborative_family_law",
+      "title": "Collaborative Family Law"
+    },
+    {
+      "file": "consent_orders",
+      "title": "Consent Orders"
+    },
+    {
+      "file": "custody_and_access_basics",
+      "title": "Custody And Access Basics"
+    },
+    {
+      "file": "dissolution_and_separation",
+      "title": "Dissolution And Separation"
+    },
+    {
+      "file": "divorce_basics",
+      "title": "Divorce Basics"
+    },
+    {
+      "file": "domestic_abuse_protection",
+      "title": "Domestic Abuse Protection"
+    },
+    {
+      "file": "enforcement_of_orders",
+      "title": "Enforcement Of Orders"
+    },
+    {
+      "file": "family_court_fees",
+      "title": "Family Court Fees"
+    },
+    {
+      "file": "family_court_process",
+      "title": "Family Court Process"
+    },
+    {
+      "file": "family_dispute_resolution",
+      "title": "Family Dispute Resolution"
+    },
+    {
+      "file": "family_mediation",
+      "title": "Family Mediation"
+    },
+    {
+      "file": "financial_disclosure",
+      "title": "Financial Disclosure"
+    },
+    {
+      "file": "financial_settlement",
+      "title": "Financial Settlement"
+    },
+    {
+      "file": "foster_care_basics",
+      "title": "Foster Care Basics"
+    },
+    {
+      "file": "guardianship_basics",
+      "title": "Guardianship Basics"
+    },
+    {
+      "file": "holiday_time_with_children",
+      "title": "Holiday Time With Children"
+    },
+    {
+      "file": "inheritance_and_family",
+      "title": "Inheritance And Family"
+    },
+    {
+      "file": "international_child_abduction",
+      "title": "International Child Abduction"
+    },
+    {
+      "file": "legal_aid_family",
+      "title": "Legal Aid Family"
+    },
+    {
+      "file": "living_together_agreements",
+      "title": "Living Together Agreements"
+    },
+    {
+      "file": "marriage_and_civil_partnership",
+      "title": "Marriage And Civil Partnership"
+    },
+    {
+      "file": "mediation_agreement",
+      "title": "Mediation Agreement"
+    },
+    {
+      "file": "mediation_vs_court",
+      "title": "Mediation Vs Court"
+    },
+    {
+      "file": "parental_responsibility",
+      "title": "Parental Responsibility"
+    },
+    {
+      "file": "parenting_plan_changes",
+      "title": "Parenting Plan Changes"
+    },
+    {
+      "file": "parenting_plans",
+      "title": "Parenting Plans"
+    },
+    {
+      "file": "paternity_and_parentage",
+      "title": "Paternity And Parentage"
+    },
+    {
+      "file": "pension_sharing",
+      "title": "Pension Sharing"
+    },
+    {
+      "file": "postnuptial_agreements",
+      "title": "Postnuptial Agreements"
+    },
+    {
+      "file": "prenuptial_agreements",
+      "title": "Prenuptial Agreements"
+    },
+    {
+      "file": "property_division",
+      "title": "Property Division"
+    },
+    {
+      "file": "relocation_with_children",
+      "title": "Relocation With Children"
+    },
+    {
+      "file": "restraining_and_protection_orders",
+      "title": "Restraining And Protection Orders"
+    },
+    {
+      "file": "safeguarding_children",
+      "title": "Safeguarding Children"
+    },
+    {
+      "file": "shared_parenting",
+      "title": "Shared Parenting"
+    },
+    {
+      "file": "sole_custody_basics",
+      "title": "Sole Custody Basics"
+    },
+    {
+      "file": "spousal_maintenance",
+      "title": "Spousal Maintenance"
+    },
+    {
+      "file": "surrogacy_and_parentage",
+      "title": "Surrogacy And Parentage"
+    },
+    {
+      "file": "visitation_schedules",
+      "title": "Visitation Schedules"
+    },
+    {
+      "file": "wills_and_family",
+      "title": "Wills And Family"
+    }
+  ]
+}

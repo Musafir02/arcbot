@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "voting_and_government",
+  "title": "Voting And Government",
+  "modules": [
+    {
+      "file": "accessible_voting",
+      "title": "Accessible Voting"
+    },
+    {
+      "file": "ballot_papers_basics",
+      "title": "Ballot Papers Basics"
+    },
+    {
+      "file": "ballot_papers_problems",
+      "title": "Ballot Papers Problems"
+    },
+    {
+      "file": "by_elections",
+      "title": "By Elections"
+    },
+    {
+      "file": "calling_general_election",
+      "title": "Calling General Election"
+    },
+    {
+      "file": "citizenship_voting_rights",
+      "title": "Citizenship Voting Rights"
+    },
+    {
+      "file": "counting_votes_basics",
+      "title": "Counting Votes Basics"
+    },
+    {
+      "file": "election_day_voting",
+      "title": "Election Day Voting"
+    },
+    {
+      "file": "election_deadlines_basics",
+      "title": "Election Deadlines Basics"
+    },
+    {
+      "file": "election_petitions",
+      "title": "Election Petitions"
+    },
+    {
+      "file": "election_recounts",
+      "title": "Election Recounts"
+    },
+    {
+      "file": "election_results",
+      "title": "Election Results"
+    },
+    {
+      "file": "election_results_basics",
+      "title": "Election Results Basics"
+    },
+    {
+      "file": "electoral_register_check",
+      "title": "Electoral Register Check"
+    },
+    {
+      "file": "general_election_timing",
+      "title": "General Election Timing"
+    },
+    {
+      "file": "general_elections_basics",
+      "title": "General Elections Basics"
+    },
+    {
+      "file": "general_elections_problems",
+      "title": "General Elections Problems"
+    },
+    {
+      "file": "local_council_elections",
+      "title": "Local Council Elections"
+    },
+    {
+      "file": "local_councils_basics",
+      "title": "Local Councils Basics"
+    },
+    {
+      "file": "local_election_dates",
+      "title": "Local Election Dates"
+    },
+    {
+      "file": "local_elections_basics",
+      "title": "Local Elections Basics"
+    },
+    {
+      "file": "local_elections_problems",
+      "title": "Local Elections Problems"
+    },
+    {
+      "file": "mp_constituents_basics",
+      "title": "Mp Constituents Basics"
+    },
+    {
+      "file": "online_voter_registration",
+      "title": "Online Voter Registration"
+    },
+    {
+      "file": "parliamentary_system_basics",
+      "title": "Parliamentary System Basics"
+    },
+    {
+      "file": "polling_station_finder",
+      "title": "Polling Station Finder"
+    },
+    {
+      "file": "polling_station_help",
+      "title": "Polling Station Help"
+    },
+    {
+      "file": "polling_station_hours",
+      "title": "Polling Station Hours"
+    },
+    {
+      "file": "polling_stations_basics",
+      "title": "Polling Stations Basics"
+    },
+    {
+      "file": "postal_ballot_deadline",
+      "title": "Postal Ballot Deadline"
+    },
+    {
+      "file": "postal_vote_application",
+      "title": "Postal Vote Application"
+    },
+    {
+      "file": "postal_votes_basics",
+      "title": "Postal Votes Basics"
+    },
+    {
+      "file": "postal_votes_problems",
+      "title": "Postal Votes Problems"
+    },
+    {
+      "file": "prisoner_voting_rights",
+      "title": "Prisoner Voting Rights"
+    },
+    {
+      "file": "proxy_vote_application",
+      "title": "Proxy Vote Application"
+    },
+    {
+      "file": "referendum_basics",
+      "title": "Referendum Basics"
+    },
+    {
+      "file": "referendum_voting",
+      "title": "Referendum Voting"
+    },
+    {
+      "file": "registering_to_vote_basics",
+      "title": "Registering To Vote Basics"
+    },
+    {
+      "file": "student_voter_registration",
+      "title": "Student Voter Registration"
+    },
+    {
+      "file": "updating_voter_registration",
+      "title": "Updating Voter Registration"
+    },
+    {
+      "file": "vote_counting",
+      "title": "Vote Counting"
+    },
+    {
+      "file": "voter_id_requirements",
+      "title": "Voter Id Requirements"
+    },
+    {
+      "file": "voter_registration",
+      "title": "Voter Registration"
+    },
+    {
+      "file": "voter_registration_basics",
+      "title": "Voter Registration Basics"
+    },
+    {
+      "file": "voter_registration_deadline",
+      "title": "Voter Registration Deadline"
+    },
+    {
+      "file": "voter_registration_problems",
+      "title": "Voter Registration Problems"
+    },
+    {
+      "file": "voting_age_basics",
+      "title": "Voting Age Basics"
+    },
+    {
+      "file": "voting_age_rules",
+      "title": "Voting Age Rules"
+    },
+    {
+      "file": "voting_eligibility",
+      "title": "Voting Eligibility"
+    },
+    {
+      "file": "voting_from_abroad",
+      "title": "Voting From Abroad"
+    }
+  ]
+}

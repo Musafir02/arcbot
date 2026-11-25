@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "benefits_and_support",
+  "title": "Benefits And Support",
+  "modules": [
+    {
+      "file": "attendance_allowance",
+      "title": "Attendance Allowance"
+    },
+    {
+      "file": "benefit_appeals",
+      "title": "Benefit Appeals"
+    },
+    {
+      "file": "benefit_debt_advice",
+      "title": "Benefit Debt Advice"
+    },
+    {
+      "file": "benefit_evidence_and_documents",
+      "title": "Benefit Evidence And Documents"
+    },
+    {
+      "file": "benefit_fraud_allegations",
+      "title": "Benefit Fraud Allegations"
+    },
+    {
+      "file": "benefit_overpayments",
+      "title": "Benefit Overpayments"
+    },
+    {
+      "file": "benefit_reviews",
+      "title": "Benefit Reviews"
+    },
+    {
+      "file": "benefit_tribunal",
+      "title": "Benefit Tribunal"
+    },
+    {
+      "file": "benefits_after_bereavement",
+      "title": "Benefits After Bereavement"
+    },
+    {
+      "file": "benefits_for_new_parents",
+      "title": "Benefits For New Parents"
+    },
+    {
+      "file": "benefits_for_students",
+      "title": "Benefits For Students"
+    },
+    {
+      "file": "benefits_for_veterans",
+      "title": "Benefits For Veterans"
+    },
+    {
+      "file": "benefits_helpline",
+      "title": "Benefits Helpline"
+    },
+    {
+      "file": "bereavement_benefit",
+      "title": "Bereavement Benefit"
+    },
+    {
+      "file": "carers_allowance",
+      "title": "Carers Allowance"
+    },
+    {
+      "file": "changing_circumstances",
+      "title": "Changing Circumstances"
+    },
+    {
+      "file": "child_benefit",
+      "title": "Child Benefit"
+    },
+    {
+      "file": "child_tax_credit",
+      "title": "Child Tax Credit"
+    },
+    {
+      "file": "citizens_advice_bureau",
+      "title": "Citizens Advice Bureau"
+    },
+    {
+      "file": "claiming_as_couple",
+      "title": "Claiming As Couple"
+    },
+    {
+      "file": "council_tax_reduction",
+      "title": "Council Tax Reduction"
+    },
+    {
+      "file": "disability_benefit_application",
+      "title": "Disability Benefit Application"
+    },
+    {
+      "file": "disabled_children_support",
+      "title": "Disabled Children Support"
+    },
+    {
+      "file": "employment_support_allowance",
+      "title": "Employment Support Allowance"
+    },
+    {
+      "file": "fit_note_and_sick_leave",
+      "title": "Fit Note And Sick Leave"
+    },
+    {
+      "file": "food_bank_support",
+      "title": "Food Bank Support"
+    },
+    {
+      "file": "fuel_and_utility_support",
+      "title": "Fuel And Utility Support"
+    },
+    {
+      "file": "healthcare_cost_help",
+      "title": "Healthcare Cost Help"
+    },
+    {
+      "file": "homeless_support",
+      "title": "Homeless Support"
+    },
+    {
+      "file": "housing_benefit",
+      "title": "Housing Benefit"
+    },
+    {
+      "file": "housing_emergency_help",
+      "title": "Housing Emergency Help"
+    },
+    {
+      "file": "income_support",
+      "title": "Income Support"
+    },
+    {
+      "file": "jobseekers_allowance",
+      "title": "Jobseekers Allowance"
+    },
+    {
+      "file": "legal_aid",
+      "title": "Legal Aid"
+    },
+    {
+      "file": "low_income_help",
+      "title": "Low Income Help"
+    },
+    {
+      "file": "mandatory_reconsideration",
+      "title": "Mandatory Reconsideration"
+    },
+    {
+      "file": "maternity_allowance",
+      "title": "Maternity Allowance"
+    },
+    {
+      "file": "mental_health_benefits",
+      "title": "Mental Health Benefits"
+    },
+    {
+      "file": "moving_between_benefits",
+      "title": "Moving Between Benefits"
+    },
+    {
+      "file": "online_benefit_account",
+      "title": "Online Benefit Account"
+    },
+    {
+      "file": "paternity_allowance",
+      "title": "Paternity Allowance"
+    },
+    {
+      "file": "pension_credit",
+      "title": "Pension Credit"
+    },
+    {
+      "file": "personal_independence_payment",
+      "title": "Personal Independence Payment"
+    },
+    {
+      "file": "refugee_support",
+      "title": "Refugee Support"
+    },
+    {
+      "file": "state_pension",
+      "title": "State Pension"
+    },
+    {
+      "file": "statutory_sick_pay",
+      "title": "Statutory Sick Pay"
+    },
+    {
+      "file": "support_for_carers",
+      "title": "Support For Carers"
+    },
+    {
+      "file": "unable_to_work_support",
+      "title": "Unable To Work Support"
+    },
+    {
+      "file": "unemployment_support",
+      "title": "Unemployment Support"
+    },
+    {
+      "file": "universal_credit",
+      "title": "Universal Credit"
+    }
+  ]
+}

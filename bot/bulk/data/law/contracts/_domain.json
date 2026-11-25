@@ -1,0 +1,207 @@
+{
+  "category": "law",
+  "domain": "contracts",
+  "title": "Contracts",
+  "modules": [
+    {
+      "file": "assigning_contracts",
+      "title": "Assigning Contracts"
+    },
+    {
+      "file": "breach_of_contract",
+      "title": "Breach Of Contract"
+    },
+    {
+      "file": "cancelling_a_contract",
+      "title": "Cancelling A Contract"
+    },
+    {
+      "file": "confidentiality_clauses",
+      "title": "Confidentiality Clauses"
+    },
+    {
+      "file": "consideration_in_contracts",
+      "title": "Consideration In Contracts"
+    },
+    {
+      "file": "contract_acceptance",
+      "title": "Contract Acceptance"
+    },
+    {
+      "file": "contract_arbitration",
+      "title": "Contract Arbitration"
+    },
+    {
+      "file": "contract_capacity",
+      "title": "Contract Capacity"
+    },
+    {
+      "file": "contract_clauses",
+      "title": "Contract Clauses"
+    },
+    {
+      "file": "contract_damages",
+      "title": "Contract Damages"
+    },
+    {
+      "file": "contract_deposits",
+      "title": "Contract Deposits"
+    },
+    {
+      "file": "contract_drafting",
+      "title": "Contract Drafting"
+    },
+    {
+      "file": "contract_guarantees",
+      "title": "Contract Guarantees"
+    },
+    {
+      "file": "contract_indemnities",
+      "title": "Contract Indemnities"
+    },
+    {
+      "file": "contract_mediation",
+      "title": "Contract Mediation"
+    },
+    {
+      "file": "contract_negotiation",
+      "title": "Contract Negotiation"
+    },
+    {
+      "file": "contract_payment_terms",
+      "title": "Contract Payment Terms"
+    },
+    {
+      "file": "contract_review",
+      "title": "Contract Review"
+    },
+    {
+      "file": "contract_terms_and_conditions",
+      "title": "Contract Terms And Conditions"
+    },
+    {
+      "file": "contract_variation",
+      "title": "Contract Variation"
+    },
+    {
+      "file": "contract_warranties",
+      "title": "Contract Warranties"
+    },
+    {
+      "file": "cooling_off_period",
+      "title": "Cooling Off Period"
+    },
+    {
+      "file": "data_protection_terms",
+      "title": "Data Protection Terms"
+    },
+    {
+      "file": "delivery_terms",
+      "title": "Delivery Terms"
+    },
+    {
+      "file": "dispute_resolution_clauses",
+      "title": "Dispute Resolution Clauses"
+    },
+    {
+      "file": "electronic_signatures",
+      "title": "Electronic Signatures"
+    },
+    {
+      "file": "entire_agreement_clauses",
+      "title": "Entire Agreement Clauses"
+    },
+    {
+      "file": "force_majeure_clauses",
+      "title": "Force Majeure Clauses"
+    },
+    {
+      "file": "implied_contract_terms",
+      "title": "Implied Contract Terms"
+    },
+    {
+      "file": "intellectual_property_terms",
+      "title": "Intellectual Property Terms"
+    },
+    {
+      "file": "intention_to_create_relations",
+      "title": "Intention To Create Relations"
+    },
+    {
+      "file": "jurisdiction_clauses",
+      "title": "Jurisdiction Clauses"
+    },
+    {
+      "file": "keeping_contract_records",
+      "title": "Keeping Contract Records"
+    },
+    {
+      "file": "late_payment_terms",
+      "title": "Late Payment Terms"
+    },
+    {
+      "file": "legally_binding_contract",
+      "title": "Legally Binding Contract"
+    },
+    {
+      "file": "limitation_of_liability",
+      "title": "Limitation Of Liability"
+    },
+    {
+      "file": "novation_agreements",
+      "title": "Novation Agreements"
+    },
+    {
+      "file": "offer_and_invitation_to_treat",
+      "title": "Offer And Invitation To Treat"
+    },
+    {
+      "file": "price_change_clauses",
+      "title": "Price Change Clauses"
+    },
+    {
+      "file": "remedies_for_breach",
+      "title": "Remedies For Breach"
+    },
+    {
+      "file": "restrictive_covenants",
+      "title": "Restrictive Covenants"
+    },
+    {
+      "file": "severability_clauses",
+      "title": "Severability Clauses"
+    },
+    {
+      "file": "signing_a_contract",
+      "title": "Signing A Contract"
+    },
+    {
+      "file": "subcontracting_rules",
+      "title": "Subcontracting Rules"
+    },
+    {
+      "file": "terminating_a_contract",
+      "title": "Terminating A Contract"
+    },
+    {
+      "file": "third_party_rights",
+      "title": "Third Party Rights"
+    },
+    {
+      "file": "time_limits_on_claims",
+      "title": "Time Limits On Claims"
+    },
+    {
+      "file": "unfair_contract_terms",
+      "title": "Unfair Contract Terms"
+    },
+    {
+      "file": "verbal_contracts",
+      "title": "Verbal Contracts"
+    },
+    {
+      "file": "written_contracts",
+      "title": "Written Contracts"
+    }
+  ]
+}

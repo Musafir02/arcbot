@@ -1,0 +1,207 @@
+{
+  "category": "family",
+  "domain": "bereavement",
+  "title": "Bereavement",
+  "modules": [
+    {
+      "file": "anticipatory_grief",
+      "title": "Anticipatory Grief"
+    },
+    {
+      "file": "bereavement_counselling",
+      "title": "Bereavement Counselling"
+    },
+    {
+      "file": "bereavement_leave",
+      "title": "Bereavement Leave"
+    },
+    {
+      "file": "comforting_grieving_child",
+      "title": "Comforting Grieving Child"
+    },
+    {
+      "file": "condolence_messages",
+      "title": "Condolence Messages"
+    },
+    {
+      "file": "explaining_death_to_child",
+      "title": "Explaining Death To Child"
+    },
+    {
+      "file": "first_days_of_grief",
+      "title": "First Days Of Grief"
+    },
+    {
+      "file": "funeral_etiquette",
+      "title": "Funeral Etiquette"
+    },
+    {
+      "file": "funeral_planning_basics",
+      "title": "Funeral Planning Basics"
+    },
+    {
+      "file": "grief_after_expected_loss",
+      "title": "Grief After Expected Loss"
+    },
+    {
+      "file": "grief_after_loss_of_child",
+      "title": "Grief After Loss Of Child"
+    },
+    {
+      "file": "grief_after_loss_of_parent",
+      "title": "Grief After Loss Of Parent"
+    },
+    {
+      "file": "grief_after_loss_of_partner",
+      "title": "Grief After Loss Of Partner"
+    },
+    {
+      "file": "grief_after_loss_of_pet",
+      "title": "Grief After Loss Of Pet"
+    },
+    {
+      "file": "grief_after_loss_of_sibling",
+      "title": "Grief After Loss Of Sibling"
+    },
+    {
+      "file": "grief_after_miscarriage",
+      "title": "Grief After Miscarriage"
+    },
+    {
+      "file": "grief_after_stillbirth",
+      "title": "Grief After Stillbirth"
+    },
+    {
+      "file": "grief_after_sudden_loss",
+      "title": "Grief After Sudden Loss"
+    },
+    {
+      "file": "grief_after_suicide",
+      "title": "Grief After Suicide"
+    },
+    {
+      "file": "grief_and_anger",
+      "title": "Grief And Anger"
+    },
+    {
+      "file": "grief_and_anxiety",
+      "title": "Grief And Anxiety"
+    },
+    {
+      "file": "grief_and_appetite",
+      "title": "Grief And Appetite"
+    },
+    {
+      "file": "grief_and_concentration",
+      "title": "Grief And Concentration"
+    },
+    {
+      "file": "grief_and_cultural_customs",
+      "title": "Grief And Cultural Customs"
+    },
+    {
+      "file": "grief_and_faith",
+      "title": "Grief And Faith"
+    },
+    {
+      "file": "grief_and_guilt",
+      "title": "Grief And Guilt"
+    },
+    {
+      "file": "grief_and_sleep",
+      "title": "Grief And Sleep"
+    },
+    {
+      "file": "grief_and_substance_use",
+      "title": "Grief And Substance Use"
+    },
+    {
+      "file": "grief_anniversaries",
+      "title": "Grief Anniversaries"
+    },
+    {
+      "file": "grief_at_work",
+      "title": "Grief At Work"
+    },
+    {
+      "file": "grief_during_holidays",
+      "title": "Grief During Holidays"
+    },
+    {
+      "file": "grief_in_older_people",
+      "title": "Grief In Older People"
+    },
+    {
+      "file": "grief_in_teenagers",
+      "title": "Grief In Teenagers"
+    },
+    {
+      "file": "grief_physical_symptoms",
+      "title": "Grief Physical Symptoms"
+    },
+    {
+      "file": "grief_support_groups",
+      "title": "Grief Support Groups"
+    },
+    {
+      "file": "grief_triggers",
+      "title": "Grief Triggers"
+    },
+    {
+      "file": "grief_vs_depression",
+      "title": "Grief Vs Depression"
+    },
+    {
+      "file": "journaling_for_grief",
+      "title": "Journaling For Grief"
+    },
+    {
+      "file": "memorial_rituals",
+      "title": "Memorial Rituals"
+    },
+    {
+      "file": "relief_after_long_illness",
+      "title": "Relief After Long Illness"
+    },
+    {
+      "file": "self_care_during_grief",
+      "title": "Self Care During Grief"
+    },
+    {
+      "file": "signs_of_complicated_grief",
+      "title": "Signs Of Complicated Grief"
+    },
+    {
+      "file": "stages_of_grief",
+      "title": "Stages Of Grief"
+    },
+    {
+      "file": "support_after_funeral",
+      "title": "Support After Funeral"
+    },
+    {
+      "file": "supporting_grieving_friend",
+      "title": "Supporting Grieving Friend"
+    },
+    {
+      "file": "what_to_say_at_a_funeral",
+      "title": "What To Say At A Funeral"
+    },
+    {
+      "file": "what_to_wear_to_funeral",
+      "title": "What To Wear To Funeral"
+    },
+    {
+      "file": "when_to_seek_grief_help",
+      "title": "When To Seek Grief Help"
+    },
+    {
+      "file": "words_to_avoid_with_grief",
+      "title": "Words To Avoid With Grief"
+    },
+    {
+      "file": "writing_an_obituary",
+      "title": "Writing An Obituary"
+    }
+  ]
+}
