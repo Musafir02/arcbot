@@ -1,6 +1,6 @@
 # Arcai
 
-Arcai is a rule-based chatbot written in plain Python. It uses no model, no weights, no training, and no API. Every reply comes from hand-written rules, so it runs fully offline and starts in a moment.
+Arcai is a rule-based chatbot written in plain Python. It uses no model, no weights, no training, and no API. Every reply comes from hand-written rules, so it runs fully offline.
 
 This project is based on PyBot from Hugging Face.
 
@@ -24,6 +24,37 @@ A single turn works like this:
 6. `after` hooks run and the reply is returned.
 
 If no module matches, Arcai replies with `Hello!`.
+
+## Bulk knowledge
+
+Arcai also has a second knowledge layer for depth. It lives in `bot/bulk/data` and is organised as 20 categories, 10 domains per category, and 50 modules per domain. Each module holds 10 answered questions with 10 real phrasings each, so the full layer is 10,000 modules, 100,000 answers, and 1,000,000 phrasings.
+
+The bulk layer is plain Python data. It is not a model, not an embedding store, and not a cache. `bot/bulk/index.py` reads the data once per process and builds a token index in memory. `bot/modules/bulk_dispatch.py` runs at a low priority, so an answer from the original modules always wins. The bulk layer only speaks when the original modules have nothing to say.
+
+A complete example module is in `bot/bulk/EXAMPLE.py`. The data contract is in `bot/bulk/SCHEMA.md`.
+
+Validate a domain, every existing domain, or the finished layer:
+
+```bash
+python tools/validate_bulk.py --domain food/boiling_and_steaming
+python tools/validate_bulk.py --all --duplicates
+python tools/validate_bulk.py --complete --duplicates
+```
+
+Measure the index and the holdout:
+
+```bash
+python tools/bench_bulk.py
+python tools/bench_bulk.py --gate
+```
+
+Check that the original answers did not change:
+
+```bash
+python tools/check_regression.py
+```
+
+The bulk folder starts with no modules. With an empty folder the bot behaves exactly as before. The first bulk match in a process builds the index; that build is the only slow step and it happens once.
 
 ## Requirements
 
@@ -81,6 +112,7 @@ arcbot
 arcbot.py             command line entry point
 bot/runtime.py        loads modules and runs one turn
 bot/modules/          rule modules, one topic per file
+bot/bulk/             bulk knowledge data, index, and dispatcher
 bot/compose/          builds replies
 bot/knowledge/        shared knowledge helpers
 bot/memory/           conversation memory
