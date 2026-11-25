@@ -1,0 +1,152 @@
+[
+  {
+    "q": "who are you?",
+    "reply": "My name is Arcai. I was developed by Ibrahim Shaikh.",
+    "module": "arcai_identity"
+  },
+  {
+    "q": "what is the capital of france?",
+    "reply": "Paris.",
+    "module": "answers"
+  },
+  {
+    "q": "how long should i boil an egg?",
+    "reply": "Lower eggs into already boiling water: 6 minutes for a runny yolk, 7 for jammy, 9 to 10 for hard boiled. Cool them in cold water for a minute before peeling so the shell comes away cleanly.",
+    "module": "answers"
+  },
+  {
+    "q": "why is my cake sinking in the middle?",
+    "reply": "A cake sinks when it's underbaked, when the oven door was opened early, or when there's too much raising agent; all three make it rise fast and then drop. Bake it at 180C (160C fan) without opening the door for the first 20 minutes, and check with a skewer.",
+    "module": "answers"
+  },
+  {
+    "q": "can i freeze cooked rice?",
+    "reply": "Yes: cool it within the hour, box it while it is still warm rather than hot, and freeze it the same day - cooked rice keeps about a month in the freezer. Reheat it once until it is piping hot all the way through, and do not freeze it again after that.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i stop my cat scratching the sofa?",
+    "reply": "Cats scratch to mark territory, so put a tall scratching post right next to the corner she uses, and make the sofa less appealing with a throw or double-sided tape for a few weeks. A post with height lets her do it properly.",
+    "module": "answers"
+  },
+  {
+    "q": "what tyre pressure do i need for a long drive?",
+    "reply": "Find the right pressures on the sticker inside the driver's door frame or the fuel flap, not on the tyre, and check them cold before you drive: warm tyres read a few psi high. Most cars want about 30 to 35 psi, a bit more when fully loaded. Top up every couple of weeks, because under-inflated tyres wear the edges, cost fuel and make the car feel vague.",
+    "module": "answers"
+  },
+  {
+    "q": "how often should i water a snake plant?",
+    "reply": "Water a snake plant every two to three weeks in summer and once a month or less in winter, and only when the compost is dry all the way down. It stores water in its leaves and rots in wet soil, so the surest way to kill one is to water it on a schedule.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i remove a red wine stain?",
+    "reply": "Blot it, don't rub, with kitchen paper, then pour on cold water and blot again, repeating until the water runs clear. A paste of bicarbonate of soda left on it for an hour pulls the rest out; white wine or salt are the old tricks and both work better than hot water.",
+    "module": "answers"
+  },
+  {
+    "q": "how much does a boiler service cost?",
+    "reply": "A boiler service is usually \u00a360 to \u00a3120 once a year, and a gas safety check on top is \u00a350 to \u00a390 if you rent the place out. It is a check, not a repair: the engineer cleans and tests the boiler and tells you what is wearing out, so it is the cheap way to avoid a winter breakdown. Ask whether the price includes the gas safety certificate if you need one.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i get rid of slugs in the garden?",
+    "reply": "Go out after dark with a torch and pick them off, which beats most products; copper tape round pots and a gritty barrier round seedlings help too. Encourage birds and frogs, and water in the morning rather than the evening.",
+    "module": "answers"
+  },
+  {
+    "q": "what should i pack for a week in iceland?",
+    "reply": "Take a warm mid layer and a waterproof shell, plus long sleeves rather than vests - even in June the evenings drop to about 8C. Add a hat and gloves if you are going high or out on the water, and midge repellent for anywhere damp and windless in high summer.",
+    "module": "answers"
+  },
+  {
+    "q": "my laptop battery drains fast, what can i do?",
+    "reply": "Check what is running first: Task Manager on Windows or Activity Monitor on a Mac shows the battery-hungry app, and browsers with many tabs are usually it. Turn the brightness down, and turn off Bluetooth and the keyboard backlight when you are out. A laptop battery is good for about 300 to 500 full charges, so in Settings > Battery (or the battery menu on a Mac) check its condition: below about 80% of new, a replacement is \u00a340 to \u00a380 and a shop fits it in an hour.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i whiten my teeth at home?",
+    "reply": "A dentist or a hygienist scale and polish first, because most yellowing is staining on the outside, and then whitening works: either a professional kit made for your teeth or a legal-strength high-street one, and expect it to take a couple of weeks. Charcoal and bicarbonate toothpastes scrub the enamel and do not whiten it.",
+    "module": "answers"
+  },
+  {
+    "q": "how long does it take to learn spanish?",
+    "reply": "About 600 hours of real study to hold a proper conversation in Spanish - around 2 years at an hour a day, or three times that at twenty minutes a day, which is why a little every day beats a long weekend. A holiday and small talk come far sooner: about 100 hours, which a twice-weekly evening class reaches in a year.",
+    "module": "answers"
+  },
+  {
+    "q": "can i use olive oil instead of butter in brownies?",
+    "reply": "In cakes, yes: use 80g of oil for every 100g of butter, and expect a slightly denser crumb. Not in pastry or shortbread, and not where you cream butter and sugar for air.",
+    "module": "answers"
+  },
+  {
+    "q": "why does my bread come out dense?",
+    "reply": "A loaf sticks to the tin when the tin was bare or the dough was wet: oil the tin all over, and line the base and the two long sides with a strip of baking paper that overhangs the top, so you lift the loaf out by the paper. Run a knife round the edges while it is still warm, wait ten minutes, then turn it out and tap the base - and let it cool on its side so the crust does not go soft.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i fix a dripping tap?",
+    "reply": "A dripping tap is nearly always a worn washer or cartridge: turn the water off at the isolating valve under the sink, take the handle off, and take the old part to a hardware shop to match it. It's a 20-minute job and saves a lot of water.",
+    "module": "answers"
+  },
+  {
+    "q": "what should i do if my dog eats chocolate?",
+    "reply": "Yes, chocolate is poisonous to dogs: the darker the chocolate, the worse it is. Ring your vet with the dog's weight and roughly how much and what kind of chocolate it ate; don't wait for symptoms.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i improve my credit score?",
+    "reply": "Get your report free from Experian, Equifax or TransUnion, correct anything wrong on it, register on the electoral roll and set up a direct debit for at least the minimum on every card. Keeping card balances under about 30% of the limit and not applying for several things at once does most of the rest.",
+    "module": "answers"
+  },
+  {
+    "q": "what is the best time to visit japan?",
+    "reply": "For Japan: Late March to April for the blossom, or October to November for the autumn colour. June is the rainy season, August is hot and humid, and the New Year week is the busiest travel period of the year.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i change a tyre?",
+    "reply": "Loosen the wheel nuts half a turn while the car is still on the ground, then jack it at the marked point, take the nuts off, lift the wheel away and put the spare on. Nip the nuts up in a star pattern, lower it, then tighten properly with the brace. Keep under 50mph on a space saver and check its pressure every few months.",
+    "module": "answers"
+  },
+  {
+    "q": "what is a good beginner guitar?",
+    "reply": "Ten to fifteen minutes a day beats one long session a week: learn the four chords G, C, D and Em first, then play songs that use them, since songs keep you going where scales do not. Most people can strum through a simple song in two or three months that way; sore fingertips for the first fortnight are normal.",
+    "module": "answers"
+  },
+  {
+    "q": "how many hours of sleep do i need?",
+    "reply": "Most adults do best on seven to nine hours, but the number is a guide and the test that matters is how you are by mid-afternoon: yawning, reaching for coffee and losing the thread on six hours means you are short, whatever the chart says. The fix is usually a 30-minute earlier bedtime rather than a lie-in at the weekend, and keeping the wake-up time the same even after a bad night. Some people genuinely run fine on six and it runs in families; if your days are fine, the number is not a problem to solve.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i clean a washing machine?",
+    "reply": "Run a hot 60C or 90C service wash with a washing-machine cleaner or a cup of bicarbonate of soda, and clean the filter and the detergent drawer while it runs. The smell lives in damp lint and detergent trapped in the seal, the drawer and the filter. The wash itself is about two hours. Leaving the door and drawer open between washes is what stops the smell coming back.",
+    "module": "answers"
+  },
+  {
+    "q": "what is the best way to save money?",
+    "reply": "Three to six months of essential spending is the usual target, counting rent or mortgage, bills, food and travel rather than your whole salary. If that feels far off, aim for \u00a31,000 first in an instant-access account you don't touch for anything else.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i write a cv?",
+    "reply": "One page, newest first: a two-line profile saying what job you want and what you are good at, then each job or course with one line on what you actually did and a number where there is one. Plain headings, a normal font, no photo or date of birth, and send it as a PDF so the layout cannot move.",
+    "module": "answers"
+  },
+  {
+    "q": "how do i treat a sore throat?",
+    "reply": "Paracetamol or ibuprofen, plenty to drink, honey in warm water and a salt-water gargle (half a teaspoon in a glass) all ease it, and most sore throats are viral and settle in three to five days. See a GP if it lasts more than a week, you cannot swallow fluids, or it comes with a high fever and a stiff neck.",
+    "module": "answers"
+  },
+  {
+    "q": "what should i do in a power cut?",
+    "reply": "If the whole street is dark it is the network operator's cut, not a fault in your house: check a neighbour's lights, then your operator's live outage map - 105 in the UK - which says what is off and when it is due back. Leave the breakers alone while it is theirs.",
+    "module": "greeting"
+  },
+  {
+    "q": "how do i cook rice without it going sticky?",
+    "reply": "One mug of rice to one and a half mugs of water, lid on, 10 to 12 minutes on the lowest heat, then 10 minutes off the heat with the lid still on before you fork it through. Rinse it until the water runs clear first. Don't stir it and don't drain it - that is what makes it gluey.",
+    "module": "answers"
+  }
+]
