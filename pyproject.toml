@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arcbot"
+version = "0.1.0"
+description = "Arcai, developed by Ibrahim Shaikh. A rule-based chatbot in plain Python. No weights, no training."
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+arcbot = "arcbot:main"
+
+[tool.setuptools]
+py-modules = ["arcbot"]
+
+[tool.setuptools.packages.find]
+include = ["bot*"]
