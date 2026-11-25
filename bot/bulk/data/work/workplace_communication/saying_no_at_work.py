@@ -69,8 +69,8 @@ ITEMS = (
         (
             'what do colleagues expect when offerring an alternative when saying no',
             'how can a new starter offer an alternative when saying no',
-            'how do i offer an alternative when saying no',
-            'what is the best way to offer an alternative when saying no',
+            'how do i offer an alternative when saying no at home',
+            'what is the best way to offer an alternative when saying no at home',
             'what is the right way to offer an alternative when saying no',
             'what should i include when offerring an alternative when saying no',
             'what mistakes should i avoid while offerring an alternative when saying no',

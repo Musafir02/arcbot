@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "games_and_puzzles",
+  "title": "Games And Puzzles",
+  "modules": [
+    {
+      "file": "anagram_puzzles",
+      "title": "Anagram Puzzles"
+    },
+    {
+      "file": "backgammon_basics",
+      "title": "Backgammon Basics"
+    },
+    {
+      "file": "board_game_choice",
+      "title": "Board Game Choice"
+    },
+    {
+      "file": "brain_teasers",
+      "title": "Brain Teasers"
+    },
+    {
+      "file": "bridge_basics",
+      "title": "Bridge Basics"
+    },
+    {
+      "file": "card_game_rules",
+      "title": "Card Game Rules"
+    },
+    {
+      "file": "charades",
+      "title": "Charades"
+    },
+    {
+      "file": "chess_defence",
+      "title": "Chess Defence"
+    },
+    {
+      "file": "chess_endgames",
+      "title": "Chess Endgames"
+    },
+    {
+      "file": "chess_improvement",
+      "title": "Chess Improvement"
+    },
+    {
+      "file": "chess_middlegame",
+      "title": "Chess Middlegame"
+    },
+    {
+      "file": "chess_notation",
+      "title": "Chess Notation"
+    },
+    {
+      "file": "chess_openings",
+      "title": "Chess Openings"
+    },
+    {
+      "file": "chess_pawn_structure",
+      "title": "Chess Pawn Structure"
+    },
+    {
+      "file": "chess_tactics",
+      "title": "Chess Tactics"
+    },
+    {
+      "file": "connect_four_strategy",
+      "title": "Connect Four Strategy"
+    },
+    {
+      "file": "cooperative_board_games",
+      "title": "Cooperative Board Games"
+    },
+    {
+      "file": "crossword_puzzles",
+      "title": "Crossword Puzzles"
+    },
+    {
+      "file": "detective_puzzles",
+      "title": "Detective Puzzles"
+    },
+    {
+      "file": "dice_games",
+      "title": "Dice Games"
+    },
+    {
+      "file": "draughts_rules",
+      "title": "Draughts Rules"
+    },
+    {
+      "file": "escape_room_puzzles",
+      "title": "Escape Room Puzzles"
+    },
+    {
+      "file": "games_night_ideas",
+      "title": "Games Night Ideas"
+    },
+    {
+      "file": "go_board_game",
+      "title": "Go Board Game"
+    },
+    {
+      "file": "guessing_games",
+      "title": "Guessing Games"
+    },
+    {
+      "file": "hangman_game",
+      "title": "Hangman Game"
+    },
+    {
+      "file": "hearts_card_game",
+      "title": "Hearts Card Game"
+    },
+    {
+      "file": "jigsaw_puzzles",
+      "title": "Jigsaw Puzzles"
+    },
+    {
+      "file": "lateral_thinking_puzzles",
+      "title": "Lateral Thinking Puzzles"
+    },
+    {
+      "file": "logic_puzzles",
+      "title": "Logic Puzzles"
+    },
+    {
+      "file": "monopoly_strategy",
+      "title": "Monopoly Strategy"
+    },
+    {
+      "file": "number_puzzles",
+      "title": "Number Puzzles"
+    },
+    {
+      "file": "patience_games",
+      "title": "Patience Games"
+    },
+    {
+      "file": "poker_hands",
+      "title": "Poker Hands"
+    },
+    {
+      "file": "poker_strategy",
+      "title": "Poker Strategy"
+    },
+    {
+      "file": "puzzle_benefits",
+      "title": "Puzzle Benefits"
+    },
+    {
+      "file": "puzzle_difficulty",
+      "title": "Puzzle Difficulty"
+    },
+    {
+      "file": "puzzle_hobby",
+      "title": "Puzzle Hobby"
+    },
+    {
+      "file": "puzzles_for_adults",
+      "title": "Puzzles For Adults"
+    },
+    {
+      "file": "puzzles_for_children",
+      "title": "Puzzles For Children"
+    },
+    {
+      "file": "riddles",
+      "title": "Riddles"
+    },
+    {
+      "file": "rummy_rules",
+      "title": "Rummy Rules"
+    },
+    {
+      "file": "scrabble_strategy",
+      "title": "Scrabble Strategy"
+    },
+    {
+      "file": "snakes_and_ladders",
+      "title": "Snakes And Ladders"
+    },
+    {
+      "file": "solitaire_rules",
+      "title": "Solitaire Rules"
+    },
+    {
+      "file": "sudoku_puzzles",
+      "title": "Sudoku Puzzles"
+    },
+    {
+      "file": "tabletop_rpg_basics",
+      "title": "Tabletop Rpg Basics"
+    },
+    {
+      "file": "trivia_games",
+      "title": "Trivia Games"
+    },
+    {
+      "file": "word_puzzles",
+      "title": "Word Puzzles"
+    },
+    {
+      "file": "word_search_puzzles",
+      "title": "Word Search Puzzles"
+    }
+  ]
+}

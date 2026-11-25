@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "neighbours_and_community",
+  "title": "Neighbours And Community",
+  "modules": [
+    {
+      "file": "asking_for_help_basics",
+      "title": "Asking For Help Basics"
+    },
+    {
+      "file": "asking_for_help_problems",
+      "title": "Asking For Help Problems"
+    },
+    {
+      "file": "barking_dog",
+      "title": "Barking Dog"
+    },
+    {
+      "file": "borrowing_from_neighbours",
+      "title": "Borrowing From Neighbours"
+    },
+    {
+      "file": "borrowing_tools_basics",
+      "title": "Borrowing Tools Basics"
+    },
+    {
+      "file": "boundary_fences",
+      "title": "Boundary Fences"
+    },
+    {
+      "file": "boundary_fences_basics",
+      "title": "Boundary Fences Basics"
+    },
+    {
+      "file": "cat_next_door",
+      "title": "Cat Next Door"
+    },
+    {
+      "file": "communal_areas",
+      "title": "Communal Areas"
+    },
+    {
+      "file": "community_groups",
+      "title": "Community Groups"
+    },
+    {
+      "file": "community_groups_basics",
+      "title": "Community Groups Basics"
+    },
+    {
+      "file": "community_groups_problems",
+      "title": "Community Groups Problems"
+    },
+    {
+      "file": "community_volunteering_basics",
+      "title": "Community Volunteering Basics"
+    },
+    {
+      "file": "complaining_to_neighbour",
+      "title": "Complaining To Neighbour"
+    },
+    {
+      "file": "fence_repairs",
+      "title": "Fence Repairs"
+    },
+    {
+      "file": "first_conversation",
+      "title": "First Conversation"
+    },
+    {
+      "file": "garden_privacy",
+      "title": "Garden Privacy"
+    },
+    {
+      "file": "hedge_disputes",
+      "title": "Hedge Disputes"
+    },
+    {
+      "file": "introducing_yourself",
+      "title": "Introducing Yourself"
+    },
+    {
+      "file": "lending_to_neighbours",
+      "title": "Lending To Neighbours"
+    },
+    {
+      "file": "local_events_basics",
+      "title": "Local Events Basics"
+    },
+    {
+      "file": "local_events_problems",
+      "title": "Local Events Problems"
+    },
+    {
+      "file": "local_notices_basics",
+      "title": "Local Notices Basics"
+    },
+    {
+      "file": "loud_music",
+      "title": "Loud Music"
+    },
+    {
+      "file": "meeting_neighbours",
+      "title": "Meeting Neighbours"
+    },
+    {
+      "file": "meeting_neighbours_basics",
+      "title": "Meeting Neighbours Basics"
+    },
+    {
+      "file": "meeting_neighbours_problems",
+      "title": "Meeting Neighbours Problems"
+    },
+    {
+      "file": "neighbour_disputes",
+      "title": "Neighbour Disputes"
+    },
+    {
+      "file": "neighbour_disputes_basics",
+      "title": "Neighbour Disputes Basics"
+    },
+    {
+      "file": "neighbour_disputes_problems",
+      "title": "Neighbour Disputes Problems"
+    },
+    {
+      "file": "neighbour_gifts_basics",
+      "title": "Neighbour Gifts Basics"
+    },
+    {
+      "file": "neighbour_harassment",
+      "title": "Neighbour Harassment"
+    },
+    {
+      "file": "neighbour_mediation",
+      "title": "Neighbour Mediation"
+    },
+    {
+      "file": "neighbourhood_watch",
+      "title": "Neighbourhood Watch"
+    },
+    {
+      "file": "neighbours_and_pets",
+      "title": "Neighbours And Pets"
+    },
+    {
+      "file": "new_neighbourhood_basics",
+      "title": "New Neighbourhood Basics"
+    },
+    {
+      "file": "noise_at_night",
+      "title": "Noise At Night"
+    },
+    {
+      "file": "noise_complaint_council",
+      "title": "Noise Complaint Council"
+    },
+    {
+      "file": "noisy_neighbour",
+      "title": "Noisy Neighbour"
+    },
+    {
+      "file": "noisy_neighbours_basics",
+      "title": "Noisy Neighbours Basics"
+    },
+    {
+      "file": "noisy_neighbours_problems",
+      "title": "Noisy Neighbours Problems"
+    },
+    {
+      "file": "overhanging_trees",
+      "title": "Overhanging Trees"
+    },
+    {
+      "file": "parking_disputes",
+      "title": "Parking Disputes"
+    },
+    {
+      "file": "parking_issues_basics",
+      "title": "Parking Issues Basics"
+    },
+    {
+      "file": "party_noise",
+      "title": "Party Noise"
+    },
+    {
+      "file": "pets_and_neighbours_basics",
+      "title": "Pets And Neighbours Basics"
+    },
+    {
+      "file": "residents_association",
+      "title": "Residents Association"
+    },
+    {
+      "file": "rubbish_and_litter",
+      "title": "Rubbish And Litter"
+    },
+    {
+      "file": "shared_driveway",
+      "title": "Shared Driveway"
+    },
+    {
+      "file": "shared_spaces_basics",
+      "title": "Shared Spaces Basics"
+    }
+  ]
+}

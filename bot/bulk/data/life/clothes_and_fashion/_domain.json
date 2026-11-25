@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "clothes_and_fashion",
+  "title": "Clothes And Fashion",
+  "modules": [
+    {
+      "file": "accessorising_outfits",
+      "title": "Accessorising Outfits"
+    },
+    {
+      "file": "black_tie_attire",
+      "title": "Black Tie Attire"
+    },
+    {
+      "file": "bleaching_whites",
+      "title": "Bleaching Whites"
+    },
+    {
+      "file": "body_shape_dress_choice",
+      "title": "Body Shape Dress Choice"
+    },
+    {
+      "file": "capsule_wardrobe_building",
+      "title": "Capsule Wardrobe Building"
+    },
+    {
+      "file": "care_label_symbols",
+      "title": "Care Label Symbols"
+    },
+    {
+      "file": "childrens_clothing_sizes",
+      "title": "Childrens Clothing Sizes"
+    },
+    {
+      "file": "choosing_jacket_fit",
+      "title": "Choosing Jacket Fit"
+    },
+    {
+      "file": "choosing_jeans_fit",
+      "title": "Choosing Jeans Fit"
+    },
+    {
+      "file": "choosing_lingerie_fit",
+      "title": "Choosing Lingerie Fit"
+    },
+    {
+      "file": "choosing_shoes_for_outfit",
+      "title": "Choosing Shoes For Outfit"
+    },
+    {
+      "file": "clothing_swap_and_donation",
+      "title": "Clothing Swap And Donation"
+    },
+    {
+      "file": "deodorant_stain_removal",
+      "title": "Deodorant Stain Removal"
+    },
+    {
+      "file": "dressing_for_heat",
+      "title": "Dressing For Heat"
+    },
+    {
+      "file": "ethical_fashion_choices",
+      "title": "Ethical Fashion Choices"
+    },
+    {
+      "file": "fabric_softener_use",
+      "title": "Fabric Softener Use"
+    },
+    {
+      "file": "folding_clothes_for_travel",
+      "title": "Folding Clothes For Travel"
+    },
+    {
+      "file": "formal_event_dress",
+      "title": "Formal Event Dress"
+    },
+    {
+      "file": "interview_outfit_choice",
+      "title": "Interview Outfit Choice"
+    },
+    {
+      "file": "ironing_shirts",
+      "title": "Ironing Shirts"
+    },
+    {
+      "file": "laundry_sorting",
+      "title": "Laundry Sorting"
+    },
+    {
+      "file": "leather_jacket_care",
+      "title": "Leather Jacket Care"
+    },
+    {
+      "file": "line_drying_clothes",
+      "title": "Line Drying Clothes"
+    },
+    {
+      "file": "maternity_clothing_fit",
+      "title": "Maternity Clothing Fit"
+    },
+    {
+      "file": "mending_torn_clothes",
+      "title": "Mending Torn Clothes"
+    },
+    {
+      "file": "moth_prevention_for_clothes",
+      "title": "Moth Prevention For Clothes"
+    },
+    {
+      "file": "office_dress_code",
+      "title": "Office Dress Code"
+    },
+    {
+      "file": "pet_hair_removal",
+      "title": "Pet Hair Removal"
+    },
+    {
+      "file": "petite_and_tall_fit",
+      "title": "Petite And Tall Fit"
+    },
+    {
+      "file": "pilling_removal",
+      "title": "Pilling Removal"
+    },
+    {
+      "file": "secondhand_clothes_shopping",
+      "title": "Secondhand Clothes Shopping"
+    },
+    {
+      "file": "shoe_cleaning_and_care",
+      "title": "Shoe Cleaning And Care"
+    },
+    {
+      "file": "shrinking_wool_fix",
+      "title": "Shrinking Wool Fix"
+    },
+    {
+      "file": "smart_casual_dress",
+      "title": "Smart Casual Dress"
+    },
+    {
+      "file": "socks_and_shoes_pairing",
+      "title": "Socks And Shoes Pairing"
+    },
+    {
+      "file": "stain_removal_from_clothes",
+      "title": "Stain Removal From Clothes"
+    },
+    {
+      "file": "steaming_clothes",
+      "title": "Steaming Clothes"
+    },
+    {
+      "file": "stopping_clothes_fading",
+      "title": "Stopping Clothes Fading"
+    },
+    {
+      "file": "storing_clothes_long_term",
+      "title": "Storing Clothes Long Term"
+    },
+    {
+      "file": "storing_shoes",
+      "title": "Storing Shoes"
+    },
+    {
+      "file": "tailoring_and_alterations",
+      "title": "Tailoring And Alterations"
+    },
+    {
+      "file": "tumble_drying_clothes",
+      "title": "Tumble Drying Clothes"
+    },
+    {
+      "file": "wash_temperature_choice",
+      "title": "Wash Temperature Choice"
+    },
+    {
+      "file": "washing_activewear",
+      "title": "Washing Activewear"
+    },
+    {
+      "file": "washing_cotton_clothes",
+      "title": "Washing Cotton Clothes"
+    },
+    {
+      "file": "washing_delicates",
+      "title": "Washing Delicates"
+    },
+    {
+      "file": "washing_silk_garments",
+      "title": "Washing Silk Garments"
+    },
+    {
+      "file": "washing_wool_knitwear",
+      "title": "Washing Wool Knitwear"
+    },
+    {
+      "file": "wedding_guest_attire",
+      "title": "Wedding Guest Attire"
+    },
+    {
+      "file": "wrinkle_removal",
+      "title": "Wrinkle Removal"
+    }
+  ]
+}

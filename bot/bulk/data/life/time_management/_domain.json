@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "time_management",
+  "title": "Time Management",
+  "modules": [
+    {
+      "file": "afternoon_slumps",
+      "title": "Afternoon Slumps"
+    },
+    {
+      "file": "avoiding_burnout",
+      "title": "Avoiding Burnout"
+    },
+    {
+      "file": "avoiding_distractions",
+      "title": "Avoiding Distractions"
+    },
+    {
+      "file": "batching_tasks",
+      "title": "Batching Tasks"
+    },
+    {
+      "file": "calendars_and_reminders",
+      "title": "Calendars And Reminders"
+    },
+    {
+      "file": "daily_planning",
+      "title": "Daily Planning"
+    },
+    {
+      "file": "deep_work",
+      "title": "Deep Work"
+    },
+    {
+      "file": "delegating_tasks",
+      "title": "Delegating Tasks"
+    },
+    {
+      "file": "email_management",
+      "title": "Email Management"
+    },
+    {
+      "file": "estimating_task_time",
+      "title": "Estimating Task Time"
+    },
+    {
+      "file": "evening_routines",
+      "title": "Evening Routines"
+    },
+    {
+      "file": "finishing_tasks",
+      "title": "Finishing Tasks"
+    },
+    {
+      "file": "getting_started",
+      "title": "Getting Started"
+    },
+    {
+      "file": "goal_setting",
+      "title": "Goal Setting"
+    },
+    {
+      "file": "habit_formation",
+      "title": "Habit Formation"
+    },
+    {
+      "file": "habit_tracking",
+      "title": "Habit Tracking"
+    },
+    {
+      "file": "handling_interruptions",
+      "title": "Handling Interruptions"
+    },
+    {
+      "file": "making_time_for_family",
+      "title": "Making Time For Family"
+    },
+    {
+      "file": "meeting_deadlines",
+      "title": "Meeting Deadlines"
+    },
+    {
+      "file": "meeting_time",
+      "title": "Meeting Time"
+    },
+    {
+      "file": "morning_routines",
+      "title": "Morning Routines"
+    },
+    {
+      "file": "multitasking",
+      "title": "Multitasking"
+    },
+    {
+      "file": "overcoming_overwhelm",
+      "title": "Overcoming Overwhelm"
+    },
+    {
+      "file": "perfectionism",
+      "title": "Perfectionism"
+    },
+    {
+      "file": "phone_distractions",
+      "title": "Phone Distractions"
+    },
+    {
+      "file": "planning_fallacy",
+      "title": "Planning Fallacy"
+    },
+    {
+      "file": "planning_study_time",
+      "title": "Planning Study Time"
+    },
+    {
+      "file": "planning_time_off",
+      "title": "Planning Time Off"
+    },
+    {
+      "file": "pomodoro_technique",
+      "title": "Pomodoro Technique"
+    },
+    {
+      "file": "project_planning",
+      "title": "Project Planning"
+    },
+    {
+      "file": "recurring_tasks",
+      "title": "Recurring Tasks"
+    },
+    {
+      "file": "rest_and_recovery",
+      "title": "Rest And Recovery"
+    },
+    {
+      "file": "saying_no",
+      "title": "Saying No"
+    },
+    {
+      "file": "scheduling_exercise",
+      "title": "Scheduling Exercise"
+    },
+    {
+      "file": "screen_free_time",
+      "title": "Screen Free Time"
+    },
+    {
+      "file": "social_media_limits",
+      "title": "Social Media Limits"
+    },
+    {
+      "file": "stopping_procrastination",
+      "title": "Stopping Procrastination"
+    },
+    {
+      "file": "taking_breaks",
+      "title": "Taking Breaks"
+    },
+    {
+      "file": "task_prioritisation",
+      "title": "Task Prioritisation"
+    },
+    {
+      "file": "task_switching",
+      "title": "Task Switching"
+    },
+    {
+      "file": "time_audits",
+      "title": "Time Audits"
+    },
+    {
+      "file": "time_blocking",
+      "title": "Time Blocking"
+    },
+    {
+      "file": "time_management_apps",
+      "title": "Time Management Apps"
+    },
+    {
+      "file": "time_tracking",
+      "title": "Time Tracking"
+    },
+    {
+      "file": "todo_lists",
+      "title": "Todo Lists"
+    },
+    {
+      "file": "using_commute_time",
+      "title": "Using Commute Time"
+    },
+    {
+      "file": "weekend_planning",
+      "title": "Weekend Planning"
+    },
+    {
+      "file": "weekly_planning",
+      "title": "Weekly Planning"
+    },
+    {
+      "file": "work_life_balance",
+      "title": "Work Life Balance"
+    },
+    {
+      "file": "workspace_organisation",
+      "title": "Workspace Organisation"
+    }
+  ]
+}

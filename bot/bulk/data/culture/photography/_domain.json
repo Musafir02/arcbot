@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "photography",
+  "title": "Photography",
+  "modules": [
+    {
+      "file": "aperture_and_depth_of_field",
+      "title": "Aperture And Depth Of Field"
+    },
+    {
+      "file": "aperture_basics",
+      "title": "Aperture Basics"
+    },
+    {
+      "file": "aperture_basics_basics",
+      "title": "Aperture Basics Basics"
+    },
+    {
+      "file": "aperture_priority_mode",
+      "title": "Aperture Priority Mode"
+    },
+    {
+      "file": "autofocus_modes",
+      "title": "Autofocus Modes"
+    },
+    {
+      "file": "backlighting",
+      "title": "Backlighting"
+    },
+    {
+      "file": "blue_hour_photography",
+      "title": "Blue Hour Photography"
+    },
+    {
+      "file": "composition_basics",
+      "title": "Composition Basics"
+    },
+    {
+      "file": "cropping_and_straightening",
+      "title": "Cropping And Straightening"
+    },
+    {
+      "file": "exposure_compensation",
+      "title": "Exposure Compensation"
+    },
+    {
+      "file": "exposure_triangle",
+      "title": "Exposure Triangle"
+    },
+    {
+      "file": "flash_basics",
+      "title": "Flash Basics"
+    },
+    {
+      "file": "focus_points",
+      "title": "Focus Points"
+    },
+    {
+      "file": "food_photography",
+      "title": "Food Photography"
+    },
+    {
+      "file": "foreground_and_background",
+      "title": "Foreground And Background"
+    },
+    {
+      "file": "framing_techniques",
+      "title": "Framing Techniques"
+    },
+    {
+      "file": "freezing_motion",
+      "title": "Freezing Motion"
+    },
+    {
+      "file": "golden_hour_photography",
+      "title": "Golden Hour Photography"
+    },
+    {
+      "file": "handholding_technique",
+      "title": "Handholding Technique"
+    },
+    {
+      "file": "iso_and_noise",
+      "title": "Iso And Noise"
+    },
+    {
+      "file": "landscape_photography",
+      "title": "Landscape Photography"
+    },
+    {
+      "file": "leading_lines",
+      "title": "Leading Lines"
+    },
+    {
+      "file": "lens_selection",
+      "title": "Lens Selection"
+    },
+    {
+      "file": "light_diffusion",
+      "title": "Light Diffusion"
+    },
+    {
+      "file": "long_exposure_photography",
+      "title": "Long Exposure Photography"
+    },
+    {
+      "file": "macro_photography",
+      "title": "Macro Photography"
+    },
+    {
+      "file": "manual_mode",
+      "title": "Manual Mode"
+    },
+    {
+      "file": "metering_modes",
+      "title": "Metering Modes"
+    },
+    {
+      "file": "motion_blur",
+      "title": "Motion Blur"
+    },
+    {
+      "file": "natural_light",
+      "title": "Natural Light"
+    },
+    {
+      "file": "night_photography",
+      "title": "Night Photography"
+    },
+    {
+      "file": "phone_camera_settings",
+      "title": "Phone Camera Settings"
+    },
+    {
+      "file": "phone_photography_basics",
+      "title": "Phone Photography Basics"
+    },
+    {
+      "file": "phone_photography_tips",
+      "title": "Phone Photography Tips"
+    },
+    {
+      "file": "photo_editing_basics",
+      "title": "Photo Editing Basics"
+    },
+    {
+      "file": "photo_storage_and_backup",
+      "title": "Photo Storage And Backup"
+    },
+    {
+      "file": "portrait_photography",
+      "title": "Portrait Photography"
+    },
+    {
+      "file": "prime_versus_zoom_lenses",
+      "title": "Prime Versus Zoom Lenses"
+    },
+    {
+      "file": "raw_vs_jpeg",
+      "title": "Raw Vs Jpeg"
+    },
+    {
+      "file": "reflection_photography",
+      "title": "Reflection Photography"
+    },
+    {
+      "file": "rule_of_thirds",
+      "title": "Rule Of Thirds"
+    },
+    {
+      "file": "shutter_priority_mode",
+      "title": "Shutter Priority Mode"
+    },
+    {
+      "file": "shutter_speed_basics",
+      "title": "Shutter Speed Basics"
+    },
+    {
+      "file": "silhouette_photography",
+      "title": "Silhouette Photography"
+    },
+    {
+      "file": "street_photography",
+      "title": "Street Photography"
+    },
+    {
+      "file": "telephoto_lenses",
+      "title": "Telephoto Lenses"
+    },
+    {
+      "file": "tripod_use",
+      "title": "Tripod Use"
+    },
+    {
+      "file": "white_balance",
+      "title": "White Balance"
+    },
+    {
+      "file": "wide_angle_lenses",
+      "title": "Wide Angle Lenses"
+    },
+    {
+      "file": "wildlife_photography",
+      "title": "Wildlife Photography"
+    }
+  ]
+}

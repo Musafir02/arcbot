@@ -59,7 +59,7 @@ ITEMS = (
             'how to combine two tins of emulsion paint',
             'will mixing paint tins change the colour',
             'should i check batch numbers on paint tins',
-            'how much paint should i mix at once',
+            'how much paint should i mix at once for beginners',
             'can i pour one paint tin into another to mix',
             'why does my mixed paint look streaky',
         ),

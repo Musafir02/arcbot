@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "theatre_and_dance",
+  "title": "Theatre And Dance",
+  "modules": [
+    {
+      "file": "acting_classes_basics",
+      "title": "Acting Classes Basics"
+    },
+    {
+      "file": "acting_classes_problems",
+      "title": "Acting Classes Problems"
+    },
+    {
+      "file": "acting_for_beginners",
+      "title": "Acting For Beginners"
+    },
+    {
+      "file": "arriving_late_at_theatre",
+      "title": "Arriving Late At Theatre"
+    },
+    {
+      "file": "audition_preparation",
+      "title": "Audition Preparation"
+    },
+    {
+      "file": "ballet_basics_basics",
+      "title": "Ballet Basics Basics"
+    },
+    {
+      "file": "ballet_basics_problems",
+      "title": "Ballet Basics Problems"
+    },
+    {
+      "file": "ballroom_dancing_basics",
+      "title": "Ballroom Dancing Basics"
+    },
+    {
+      "file": "ballroom_dancing_problems",
+      "title": "Ballroom Dancing Problems"
+    },
+    {
+      "file": "choosing_a_play_basics",
+      "title": "Choosing A Play Basics"
+    },
+    {
+      "file": "choosing_a_play_problems",
+      "title": "Choosing A Play Problems"
+    },
+    {
+      "file": "community_theatre_basics",
+      "title": "Community Theatre Basics"
+    },
+    {
+      "file": "contemporary_dance_basics",
+      "title": "Contemporary Dance Basics"
+    },
+    {
+      "file": "contemporary_dance_problems",
+      "title": "Contemporary Dance Problems"
+    },
+    {
+      "file": "costume_basics_basics",
+      "title": "Costume Basics Basics"
+    },
+    {
+      "file": "curtain_calls_explained",
+      "title": "Curtain Calls Explained"
+    },
+    {
+      "file": "dance_classes_basics",
+      "title": "Dance Classes Basics"
+    },
+    {
+      "file": "dance_classes_problems",
+      "title": "Dance Classes Problems"
+    },
+    {
+      "file": "dance_practice_basics",
+      "title": "Dance Practice Basics"
+    },
+    {
+      "file": "dance_practice_problems",
+      "title": "Dance Practice Problems"
+    },
+    {
+      "file": "directing_a_play",
+      "title": "Directing A Play"
+    },
+    {
+      "file": "improv_theatre_basics",
+      "title": "Improv Theatre Basics"
+    },
+    {
+      "file": "learning_lines",
+      "title": "Learning Lines"
+    },
+    {
+      "file": "musical_theatre_basics",
+      "title": "Musical Theatre Basics"
+    },
+    {
+      "file": "musical_theatre_problems",
+      "title": "Musical Theatre Problems"
+    },
+    {
+      "file": "reading_a_script",
+      "title": "Reading A Script"
+    },
+    {
+      "file": "rehearsal_etiquette",
+      "title": "Rehearsal Etiquette"
+    },
+    {
+      "file": "script_reading_basics",
+      "title": "Script Reading Basics"
+    },
+    {
+      "file": "script_reading_problems",
+      "title": "Script Reading Problems"
+    },
+    {
+      "file": "shakespeare_for_beginners",
+      "title": "Shakespeare For Beginners"
+    },
+    {
+      "file": "stage_lighting_basics",
+      "title": "Stage Lighting Basics"
+    },
+    {
+      "file": "stage_makeup_basics",
+      "title": "Stage Makeup Basics"
+    },
+    {
+      "file": "stage_movement_basics",
+      "title": "Stage Movement Basics"
+    },
+    {
+      "file": "stage_nerves_management",
+      "title": "Stage Nerves Management"
+    },
+    {
+      "file": "theatre_costume_design",
+      "title": "Theatre Costume Design"
+    },
+    {
+      "file": "theatre_dress_code",
+      "title": "Theatre Dress Code"
+    },
+    {
+      "file": "theatre_etiquette_basics",
+      "title": "Theatre Etiquette Basics"
+    },
+    {
+      "file": "theatre_etiquette_problems",
+      "title": "Theatre Etiquette Problems"
+    },
+    {
+      "file": "theatre_interval_customs",
+      "title": "Theatre Interval Customs"
+    },
+    {
+      "file": "theatre_lighting_basics",
+      "title": "Theatre Lighting Basics"
+    },
+    {
+      "file": "theatre_props_basics",
+      "title": "Theatre Props Basics"
+    },
+    {
+      "file": "theatre_seat_choice",
+      "title": "Theatre Seat Choice"
+    },
+    {
+      "file": "theatre_seats_basics",
+      "title": "Theatre Seats Basics"
+    },
+    {
+      "file": "theatre_seats_problems",
+      "title": "Theatre Seats Problems"
+    },
+    {
+      "file": "theatre_set_design",
+      "title": "Theatre Set Design"
+    },
+    {
+      "file": "theatre_sound_design",
+      "title": "Theatre Sound Design"
+    },
+    {
+      "file": "theatre_ticket_buying",
+      "title": "Theatre Ticket Buying"
+    },
+    {
+      "file": "theatre_tickets_basics",
+      "title": "Theatre Tickets Basics"
+    },
+    {
+      "file": "theatre_tickets_problems",
+      "title": "Theatre Tickets Problems"
+    },
+    {
+      "file": "voice_projection_for_actors",
+      "title": "Voice Projection For Actors"
+    }
+  ]
+}

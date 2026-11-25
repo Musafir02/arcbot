@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "fire_safety",
+  "title": "Fire Safety",
+  "modules": [
+    {
+      "file": "balcony_fire_safety",
+      "title": "Balcony Fire Safety"
+    },
+    {
+      "file": "barbecue_safety",
+      "title": "Barbecue Safety"
+    },
+    {
+      "file": "burn_first_aid",
+      "title": "Burn First Aid"
+    },
+    {
+      "file": "calling_fire_service",
+      "title": "Calling Fire Service"
+    },
+    {
+      "file": "camping_fire_safety",
+      "title": "Camping Fire Safety"
+    },
+    {
+      "file": "candle_safety",
+      "title": "Candle Safety"
+    },
+    {
+      "file": "carbon_monoxide",
+      "title": "Carbon Monoxide"
+    },
+    {
+      "file": "children_fire_safety",
+      "title": "Children Fire Safety"
+    },
+    {
+      "file": "chip_pan_fire",
+      "title": "Chip Pan Fire"
+    },
+    {
+      "file": "closing_doors_fire",
+      "title": "Closing Doors Fire"
+    },
+    {
+      "file": "clothing_fire",
+      "title": "Clothing Fire"
+    },
+    {
+      "file": "cooking_oil_fire",
+      "title": "Cooking Oil Fire"
+    },
+    {
+      "file": "electrical_fire",
+      "title": "Electrical Fire"
+    },
+    {
+      "file": "escape_routes",
+      "title": "Escape Routes"
+    },
+    {
+      "file": "fire_blanket",
+      "title": "Fire Blanket"
+    },
+    {
+      "file": "fire_doors",
+      "title": "Fire Doors"
+    },
+    {
+      "file": "fire_drills",
+      "title": "Fire Drills"
+    },
+    {
+      "file": "fire_escape_ladder",
+      "title": "Fire Escape Ladder"
+    },
+    {
+      "file": "fire_escape_plan",
+      "title": "Fire Escape Plan"
+    },
+    {
+      "file": "fire_evacuation",
+      "title": "Fire Evacuation"
+    },
+    {
+      "file": "fire_extinguisher_placement",
+      "title": "Fire Extinguisher Placement"
+    },
+    {
+      "file": "fire_extinguisher_types",
+      "title": "Fire Extinguisher Types"
+    },
+    {
+      "file": "fire_extinguisher_use",
+      "title": "Fire Extinguisher Use"
+    },
+    {
+      "file": "fire_hydrant",
+      "title": "Fire Hydrant"
+    },
+    {
+      "file": "fire_safety_signs",
+      "title": "Fire Safety Signs"
+    },
+    {
+      "file": "fire_sprinklers",
+      "title": "Fire Sprinklers"
+    },
+    {
+      "file": "fire_warning_systems",
+      "title": "Fire Warning Systems"
+    },
+    {
+      "file": "fireplace_safety",
+      "title": "Fireplace Safety"
+    },
+    {
+      "file": "fireworks_safety",
+      "title": "Fireworks Safety"
+    },
+    {
+      "file": "flat_fire_safety",
+      "title": "Flat Fire Safety"
+    },
+    {
+      "file": "garage_fire_safety",
+      "title": "Garage Fire Safety"
+    },
+    {
+      "file": "heating_fire_safety",
+      "title": "Heating Fire Safety"
+    },
+    {
+      "file": "home_fire_safety",
+      "title": "Home Fire Safety"
+    },
+    {
+      "file": "home_fire_safety_kit",
+      "title": "Home Fire Safety Kit"
+    },
+    {
+      "file": "hotel_fire_safety",
+      "title": "Hotel Fire Safety"
+    },
+    {
+      "file": "kitchen_fire",
+      "title": "Kitchen Fire"
+    },
+    {
+      "file": "lithium_battery_fire",
+      "title": "Lithium Battery Fire"
+    },
+    {
+      "file": "log_burner_safety",
+      "title": "Log Burner Safety"
+    },
+    {
+      "file": "meeting_point",
+      "title": "Meeting Point"
+    },
+    {
+      "file": "older_people_fire_safety",
+      "title": "Older People Fire Safety"
+    },
+    {
+      "file": "overloaded_sockets",
+      "title": "Overloaded Sockets"
+    },
+    {
+      "file": "pet_fire_safety",
+      "title": "Pet Fire Safety"
+    },
+    {
+      "file": "smoke_alarm_batteries",
+      "title": "Smoke Alarm Batteries"
+    },
+    {
+      "file": "smoke_alarm_installation",
+      "title": "Smoke Alarm Installation"
+    },
+    {
+      "file": "smoke_alarm_testing",
+      "title": "Smoke Alarm Testing"
+    },
+    {
+      "file": "smoke_inhalation",
+      "title": "Smoke Inhalation"
+    },
+    {
+      "file": "smoking_fire_safety",
+      "title": "Smoking Fire Safety"
+    },
+    {
+      "file": "staying_low_smoke",
+      "title": "Staying Low Smoke"
+    },
+    {
+      "file": "wildfire_safety",
+      "title": "Wildfire Safety"
+    },
+    {
+      "file": "workplace_fire_safety",
+      "title": "Workplace Fire Safety"
+    }
+  ]
+}

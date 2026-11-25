@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "music",
+  "title": "Music",
+  "modules": [
+    {
+      "file": "acoustic_vs_electric_guitar",
+      "title": "Acoustic Vs Electric Guitar"
+    },
+    {
+      "file": "audio_interface_basics",
+      "title": "Audio Interface Basics"
+    },
+    {
+      "file": "band_rehearsals",
+      "title": "Band Rehearsals"
+    },
+    {
+      "file": "bass_guitar_basics",
+      "title": "Bass Guitar Basics"
+    },
+    {
+      "file": "beginner_instruments",
+      "title": "Beginner Instruments"
+    },
+    {
+      "file": "breathing_for_singers",
+      "title": "Breathing For Singers"
+    },
+    {
+      "file": "building_a_playlist",
+      "title": "Building A Playlist"
+    },
+    {
+      "file": "busking_basics",
+      "title": "Busking Basics"
+    },
+    {
+      "file": "buying_concert_tickets",
+      "title": "Buying Concert Tickets"
+    },
+    {
+      "file": "changing_guitar_strings",
+      "title": "Changing Guitar Strings"
+    },
+    {
+      "file": "choosing_a_microphone",
+      "title": "Choosing A Microphone"
+    },
+    {
+      "file": "chord_progressions",
+      "title": "Chord Progressions"
+    },
+    {
+      "file": "classical_music_eras",
+      "title": "Classical Music Eras"
+    },
+    {
+      "file": "composing_a_melody",
+      "title": "Composing A Melody"
+    },
+    {
+      "file": "concert_etiquette",
+      "title": "Concert Etiquette"
+    },
+    {
+      "file": "drum_rudiments",
+      "title": "Drum Rudiments"
+    },
+    {
+      "file": "ear_training",
+      "title": "Ear Training"
+    },
+    {
+      "file": "equalisation_basics",
+      "title": "Equalisation Basics"
+    },
+    {
+      "file": "finding_a_music_teacher",
+      "title": "Finding A Music Teacher"
+    },
+    {
+      "file": "finding_vocal_range",
+      "title": "Finding Vocal Range"
+    },
+    {
+      "file": "flute_basics",
+      "title": "Flute Basics"
+    },
+    {
+      "file": "guitar_capo",
+      "title": "Guitar Capo"
+    },
+    {
+      "file": "guitar_chords",
+      "title": "Guitar Chords"
+    },
+    {
+      "file": "guitar_tablature",
+      "title": "Guitar Tablature"
+    },
+    {
+      "file": "guitar_tuning",
+      "title": "Guitar Tuning"
+    },
+    {
+      "file": "harmonica_basics",
+      "title": "Harmonica Basics"
+    },
+    {
+      "file": "hearing_protection_for_musicians",
+      "title": "Hearing Protection For Musicians"
+    },
+    {
+      "file": "home_recording_setup",
+      "title": "Home Recording Setup"
+    },
+    {
+      "file": "jazz_improvisation",
+      "title": "Jazz Improvisation"
+    },
+    {
+      "file": "joining_a_band",
+      "title": "Joining A Band"
+    },
+    {
+      "file": "key_signatures",
+      "title": "Key Signatures"
+    },
+    {
+      "file": "metronome_practice",
+      "title": "Metronome Practice"
+    },
+    {
+      "file": "mixing_basics",
+      "title": "Mixing Basics"
+    },
+    {
+      "file": "note_names_and_pitch",
+      "title": "Note Names And Pitch"
+    },
+    {
+      "file": "online_music_lessons",
+      "title": "Online Music Lessons"
+    },
+    {
+      "file": "piano_practice_routine",
+      "title": "Piano Practice Routine"
+    },
+    {
+      "file": "piano_scales",
+      "title": "Piano Scales"
+    },
+    {
+      "file": "playing_piano_with_both_hands",
+      "title": "Playing Piano With Both Hands"
+    },
+    {
+      "file": "practising_quietly_at_home",
+      "title": "Practising Quietly At Home"
+    },
+    {
+      "file": "reading_sheet_music",
+      "title": "Reading Sheet Music"
+    },
+    {
+      "file": "recording_acoustic_guitar",
+      "title": "Recording Acoustic Guitar"
+    },
+    {
+      "file": "setting_up_a_drum_kit",
+      "title": "Setting Up A Drum Kit"
+    },
+    {
+      "file": "sight_singing",
+      "title": "Sight Singing"
+    },
+    {
+      "file": "singing_technique",
+      "title": "Singing Technique"
+    },
+    {
+      "file": "song_structure",
+      "title": "Song Structure"
+    },
+    {
+      "file": "streaming_music_services",
+      "title": "Streaming Music Services"
+    },
+    {
+      "file": "time_signatures",
+      "title": "Time Signatures"
+    },
+    {
+      "file": "ukulele_basics",
+      "title": "Ukulele Basics"
+    },
+    {
+      "file": "violin_basics",
+      "title": "Violin Basics"
+    },
+    {
+      "file": "writing_song_lyrics",
+      "title": "Writing Song Lyrics"
+    }
+  ]
+}

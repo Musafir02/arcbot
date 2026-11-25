@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "books_and_reading",
+  "title": "Books And Reading",
+  "modules": [
+    {
+      "file": "active_reading",
+      "title": "Active Reading"
+    },
+    {
+      "file": "audiobooks",
+      "title": "Audiobooks"
+    },
+    {
+      "file": "biography_and_memoir",
+      "title": "Biography And Memoir"
+    },
+    {
+      "file": "books_as_gifts",
+      "title": "Books As Gifts"
+    },
+    {
+      "file": "borrowing_from_libraries",
+      "title": "Borrowing From Libraries"
+    },
+    {
+      "file": "buying_books_in_bookshops",
+      "title": "Buying Books In Bookshops"
+    },
+    {
+      "file": "buying_secondhand_books",
+      "title": "Buying Secondhand Books"
+    },
+    {
+      "file": "caring_for_books",
+      "title": "Caring For Books"
+    },
+    {
+      "file": "choosing_books_for_book_clubs",
+      "title": "Choosing Books For Book Clubs"
+    },
+    {
+      "file": "choosing_childrens_books",
+      "title": "Choosing Childrens Books"
+    },
+    {
+      "file": "choosing_nonfiction_books",
+      "title": "Choosing Nonfiction Books"
+    },
+    {
+      "file": "choosing_your_next_book",
+      "title": "Choosing Your Next Book"
+    },
+    {
+      "file": "classic_novels_worth_reading",
+      "title": "Classic Novels Worth Reading"
+    },
+    {
+      "file": "ebooks_and_ereaders",
+      "title": "Ebooks And Ereaders"
+    },
+    {
+      "file": "exploring_book_genres",
+      "title": "Exploring Book Genres"
+    },
+    {
+      "file": "fantasy_books",
+      "title": "Fantasy Books"
+    },
+    {
+      "file": "fiction_vs_nonfiction_reading",
+      "title": "Fiction Vs Nonfiction Reading"
+    },
+    {
+      "file": "finding_book_recommendations",
+      "title": "Finding Book Recommendations"
+    },
+    {
+      "file": "finding_time_to_read",
+      "title": "Finding Time To Read"
+    },
+    {
+      "file": "graphic_novels",
+      "title": "Graphic Novels"
+    },
+    {
+      "file": "historical_novels",
+      "title": "Historical Novels"
+    },
+    {
+      "file": "improving_reading_comprehension",
+      "title": "Improving Reading Comprehension"
+    },
+    {
+      "file": "keeping_reading_notes",
+      "title": "Keeping Reading Notes"
+    },
+    {
+      "file": "literary_fiction",
+      "title": "Literary Fiction"
+    },
+    {
+      "file": "mystery_and_thriller_books",
+      "title": "Mystery And Thriller Books"
+    },
+    {
+      "file": "organising_a_home_library",
+      "title": "Organising A Home Library"
+    },
+    {
+      "file": "quitting_a_book",
+      "title": "Quitting A Book"
+    },
+    {
+      "file": "reading_a_series_in_order",
+      "title": "Reading A Series In Order"
+    },
+    {
+      "file": "reading_aloud",
+      "title": "Reading Aloud"
+    },
+    {
+      "file": "reading_for_pleasure",
+      "title": "Reading For Pleasure"
+    },
+    {
+      "file": "reading_in_a_second_language",
+      "title": "Reading In A Second Language"
+    },
+    {
+      "file": "reading_poetry",
+      "title": "Reading Poetry"
+    },
+    {
+      "file": "reading_to_children",
+      "title": "Reading To Children"
+    },
+    {
+      "file": "reading_translated_books",
+      "title": "Reading Translated Books"
+    },
+    {
+      "file": "rereading_books",
+      "title": "Rereading Books"
+    },
+    {
+      "file": "romance_novels",
+      "title": "Romance Novels"
+    },
+    {
+      "file": "running_book_club_discussions",
+      "title": "Running Book Club Discussions"
+    },
+    {
+      "file": "science_fiction_books",
+      "title": "Science Fiction Books"
+    },
+    {
+      "file": "setting_reading_goals",
+      "title": "Setting Reading Goals"
+    },
+    {
+      "file": "short_story_collections",
+      "title": "Short Story Collections"
+    },
+    {
+      "file": "speed_reading",
+      "title": "Speed Reading"
+    },
+    {
+      "file": "starting_a_book_club",
+      "title": "Starting A Book Club"
+    },
+    {
+      "file": "starting_a_reading_habit",
+      "title": "Starting A Reading Habit"
+    },
+    {
+      "file": "storing_books_at_home",
+      "title": "Storing Books At Home"
+    },
+    {
+      "file": "swapping_books",
+      "title": "Swapping Books"
+    },
+    {
+      "file": "tackling_a_to_be_read_pile",
+      "title": "Tackling A To Be Read Pile"
+    },
+    {
+      "file": "tracking_books_read",
+      "title": "Tracking Books Read"
+    },
+    {
+      "file": "using_bookmarks",
+      "title": "Using Bookmarks"
+    },
+    {
+      "file": "writing_book_reviews",
+      "title": "Writing Book Reviews"
+    },
+    {
+      "file": "young_adult_books",
+      "title": "Young Adult Books"
+    }
+  ]
+}

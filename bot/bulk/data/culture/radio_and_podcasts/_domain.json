@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "radio_and_podcasts",
+  "title": "Radio And Podcasts",
+  "modules": [
+    {
+      "file": "comedy_podcasts",
+      "title": "Comedy Podcasts"
+    },
+    {
+      "file": "community_radio",
+      "title": "Community Radio"
+    },
+    {
+      "file": "internet_radio",
+      "title": "Internet Radio"
+    },
+    {
+      "file": "language_learning_podcasts",
+      "title": "Language Learning Podcasts"
+    },
+    {
+      "file": "learning_podcasts",
+      "title": "Learning Podcasts"
+    },
+    {
+      "file": "local_radio",
+      "title": "Local Radio"
+    },
+    {
+      "file": "news_podcasts",
+      "title": "News Podcasts"
+    },
+    {
+      "file": "podcast_acoustic_treatment",
+      "title": "Podcast Acoustic Treatment"
+    },
+    {
+      "file": "podcast_analytics",
+      "title": "Podcast Analytics"
+    },
+    {
+      "file": "podcast_apps",
+      "title": "Podcast Apps"
+    },
+    {
+      "file": "podcast_artwork",
+      "title": "Podcast Artwork"
+    },
+    {
+      "file": "podcast_audience_growth",
+      "title": "Podcast Audience Growth"
+    },
+    {
+      "file": "podcast_audio_formats",
+      "title": "Podcast Audio Formats"
+    },
+    {
+      "file": "podcast_audio_quality",
+      "title": "Podcast Audio Quality"
+    },
+    {
+      "file": "podcast_basics",
+      "title": "Podcast Basics"
+    },
+    {
+      "file": "podcast_editing_software",
+      "title": "Podcast Editing Software"
+    },
+    {
+      "file": "podcast_episode_length",
+      "title": "Podcast Episode Length"
+    },
+    {
+      "file": "podcast_equipment",
+      "title": "Podcast Equipment"
+    },
+    {
+      "file": "podcast_hosting_platforms",
+      "title": "Podcast Hosting Platforms"
+    },
+    {
+      "file": "podcast_interview_techniques",
+      "title": "Podcast Interview Techniques"
+    },
+    {
+      "file": "podcast_intro_and_outro",
+      "title": "Podcast Intro And Outro"
+    },
+    {
+      "file": "podcast_listener_mail",
+      "title": "Podcast Listener Mail"
+    },
+    {
+      "file": "podcast_live_shows",
+      "title": "Podcast Live Shows"
+    },
+    {
+      "file": "podcast_microphones",
+      "title": "Podcast Microphones"
+    },
+    {
+      "file": "podcast_monetisation",
+      "title": "Podcast Monetisation"
+    },
+    {
+      "file": "podcast_music_licensing",
+      "title": "Podcast Music Licensing"
+    },
+    {
+      "file": "podcast_networks",
+      "title": "Podcast Networks"
+    },
+    {
+      "file": "podcast_offline_listening",
+      "title": "Podcast Offline Listening"
+    },
+    {
+      "file": "podcast_promotion",
+      "title": "Podcast Promotion"
+    },
+    {
+      "file": "podcast_ratings_and_reviews",
+      "title": "Podcast Ratings And Reviews"
+    },
+    {
+      "file": "podcast_recording_setup",
+      "title": "Podcast Recording Setup"
+    },
+    {
+      "file": "podcast_release_schedule",
+      "title": "Podcast Release Schedule"
+    },
+    {
+      "file": "podcast_remote_guests",
+      "title": "Podcast Remote Guests"
+    },
+    {
+      "file": "podcast_rss_feed",
+      "title": "Podcast Rss Feed"
+    },
+    {
+      "file": "podcast_scripts",
+      "title": "Podcast Scripts"
+    },
+    {
+      "file": "podcast_show_notes",
+      "title": "Podcast Show Notes"
+    },
+    {
+      "file": "podcast_sponsorship",
+      "title": "Podcast Sponsorship"
+    },
+    {
+      "file": "podcast_transcripts",
+      "title": "Podcast Transcripts"
+    },
+    {
+      "file": "podcast_voice_delivery",
+      "title": "Podcast Voice Delivery"
+    },
+    {
+      "file": "podcast_vs_radio",
+      "title": "Podcast Vs Radio"
+    },
+    {
+      "file": "publishing_a_podcast",
+      "title": "Publishing A Podcast"
+    },
+    {
+      "file": "radio_advertising",
+      "title": "Radio Advertising"
+    },
+    {
+      "file": "radio_broadcasting",
+      "title": "Radio Broadcasting"
+    },
+    {
+      "file": "radio_drama",
+      "title": "Radio Drama"
+    },
+    {
+      "file": "radio_interviews",
+      "title": "Radio Interviews"
+    },
+    {
+      "file": "radio_news_bulletins",
+      "title": "Radio News Bulletins"
+    },
+    {
+      "file": "radio_phone_ins",
+      "title": "Radio Phone Ins"
+    },
+    {
+      "file": "radio_presenting",
+      "title": "Radio Presenting"
+    },
+    {
+      "file": "starting_a_podcast",
+      "title": "Starting A Podcast"
+    },
+    {
+      "file": "true_crime_podcasts",
+      "title": "True Crime Podcasts"
+    }
+  ]
+}

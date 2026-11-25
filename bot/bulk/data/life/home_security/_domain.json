@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "home_security",
+  "title": "Home Security",
+  "modules": [
+    {
+      "file": "after_a_burglary",
+      "title": "After A Burglary"
+    },
+    {
+      "file": "alarm_monitoring",
+      "title": "Alarm Monitoring"
+    },
+    {
+      "file": "answering_the_door",
+      "title": "Answering The Door"
+    },
+    {
+      "file": "bicycle_security_at_home",
+      "title": "Bicycle Security At Home"
+    },
+    {
+      "file": "burglar_alarms",
+      "title": "Burglar Alarms"
+    },
+    {
+      "file": "calling_a_locksmith",
+      "title": "Calling A Locksmith"
+    },
+    {
+      "file": "deadbolts",
+      "title": "Deadbolts"
+    },
+    {
+      "file": "door_chains",
+      "title": "Door Chains"
+    },
+    {
+      "file": "door_frame_reinforcement",
+      "title": "Door Frame Reinforcement"
+    },
+    {
+      "file": "door_locks",
+      "title": "Door Locks"
+    },
+    {
+      "file": "door_viewers",
+      "title": "Door Viewers"
+    },
+    {
+      "file": "doorbell_cameras",
+      "title": "Doorbell Cameras"
+    },
+    {
+      "file": "doorstep_sellers",
+      "title": "Doorstep Sellers"
+    },
+    {
+      "file": "front_door_security",
+      "title": "Front Door Security"
+    },
+    {
+      "file": "garage_security",
+      "title": "Garage Security"
+    },
+    {
+      "file": "gates_and_fences",
+      "title": "Gates And Fences"
+    },
+    {
+      "file": "ground_floor_flat_security",
+      "title": "Ground Floor Flat Security"
+    },
+    {
+      "file": "hiding_valuables",
+      "title": "Hiding Valuables"
+    },
+    {
+      "file": "holiday_home_security",
+      "title": "Holiday Home Security"
+    },
+    {
+      "file": "home_alone_at_night",
+      "title": "Home Alone At Night"
+    },
+    {
+      "file": "home_inventory",
+      "title": "Home Inventory"
+    },
+    {
+      "file": "home_safe_for_valuables",
+      "title": "Home Safe For Valuables"
+    },
+    {
+      "file": "insurance_after_burglary",
+      "title": "Insurance After Burglary"
+    },
+    {
+      "file": "intruder_in_the_home",
+      "title": "Intruder In The Home"
+    },
+    {
+      "file": "key_cutting",
+      "title": "Key Cutting"
+    },
+    {
+      "file": "keypad_locks",
+      "title": "Keypad Locks"
+    },
+    {
+      "file": "landlord_lock_changes",
+      "title": "Landlord Lock Changes"
+    },
+    {
+      "file": "letterbox_security",
+      "title": "Letterbox Security"
+    },
+    {
+      "file": "lights_when_away",
+      "title": "Lights When Away"
+    },
+    {
+      "file": "lost_house_keys",
+      "title": "Lost House Keys"
+    },
+    {
+      "file": "making_home_more_secure",
+      "title": "Making Home More Secure"
+    },
+    {
+      "file": "marking_property",
+      "title": "Marking Property"
+    },
+    {
+      "file": "motion_sensor_lights",
+      "title": "Motion Sensor Lights"
+    },
+    {
+      "file": "neighbours_watching_home",
+      "title": "Neighbours Watching Home"
+    },
+    {
+      "file": "outdoor_lighting",
+      "title": "Outdoor Lighting"
+    },
+    {
+      "file": "parcel_theft",
+      "title": "Parcel Theft"
+    },
+    {
+      "file": "patio_doors",
+      "title": "Patio Doors"
+    },
+    {
+      "file": "personal_safety_routines",
+      "title": "Personal Safety Routines"
+    },
+    {
+      "file": "post_while_away",
+      "title": "Post While Away"
+    },
+    {
+      "file": "renting_security_upgrades",
+      "title": "Renting Security Upgrades"
+    },
+    {
+      "file": "reporting_a_break_in",
+      "title": "Reporting A Break In"
+    },
+    {
+      "file": "security_cameras",
+      "title": "Security Cameras"
+    },
+    {
+      "file": "shed_security",
+      "title": "Shed Security"
+    },
+    {
+      "file": "smart_locks",
+      "title": "Smart Locks"
+    },
+    {
+      "file": "spare_keys",
+      "title": "Spare Keys"
+    },
+    {
+      "file": "student_accommodation_security",
+      "title": "Student Accommodation Security"
+    },
+    {
+      "file": "unexpected_callers",
+      "title": "Unexpected Callers"
+    },
+    {
+      "file": "upstairs_windows",
+      "title": "Upstairs Windows"
+    },
+    {
+      "file": "window_locks",
+      "title": "Window Locks"
+    },
+    {
+      "file": "window_security_bars",
+      "title": "Window Security Bars"
+    }
+  ]
+}

@@ -100,7 +100,7 @@ ITEMS = (
             'what should i do for safety if paint gets in my eye',
             'can paint splash cause eye damage',
             'should i wear safety glasses when painting ceilings',
-            'what should i do if paint touches my skin',
+            'what should i do if paint touches my skin at home',
             'is it safe to use solvent paint without safety gloves',
             'can paint thinner dry out skin',
             'should i use barrier cream for safety before painting',

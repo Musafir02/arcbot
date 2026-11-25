@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "museums_and_history",
+  "title": "Museums And History",
+  "modules": [
+    {
+      "file": "ancient_egypt",
+      "title": "Ancient Egypt"
+    },
+    {
+      "file": "ancient_greece_and_rome",
+      "title": "Ancient Greece And Rome"
+    },
+    {
+      "file": "ancient_ruins",
+      "title": "Ancient Ruins"
+    },
+    {
+      "file": "archaeological_digs",
+      "title": "Archaeological Digs"
+    },
+    {
+      "file": "archaeology_museums",
+      "title": "Archaeology Museums"
+    },
+    {
+      "file": "british_museum_highlights",
+      "title": "British Museum Highlights"
+    },
+    {
+      "file": "castles_and_forts",
+      "title": "Castles And Forts"
+    },
+    {
+      "file": "family_history_research",
+      "title": "Family History Research"
+    },
+    {
+      "file": "heritage_sites",
+      "title": "Heritage Sites"
+    },
+    {
+      "file": "historic_houses",
+      "title": "Historic Houses"
+    },
+    {
+      "file": "historical_periods_and_timelines",
+      "title": "Historical Periods And Timelines"
+    },
+    {
+      "file": "historical_research_sources",
+      "title": "Historical Research Sources"
+    },
+    {
+      "file": "history_documentaries",
+      "title": "History Documentaries"
+    },
+    {
+      "file": "industrial_revolution",
+      "title": "Industrial Revolution"
+    },
+    {
+      "file": "local_history_museums",
+      "title": "Local History Museums"
+    },
+    {
+      "file": "maritime_museums",
+      "title": "Maritime Museums"
+    },
+    {
+      "file": "medieval_history",
+      "title": "Medieval History"
+    },
+    {
+      "file": "military_museums",
+      "title": "Military Museums"
+    },
+    {
+      "file": "museum_accessibility",
+      "title": "Museum Accessibility"
+    },
+    {
+      "file": "museum_audio_guides",
+      "title": "Museum Audio Guides"
+    },
+    {
+      "file": "museum_bag_storage",
+      "title": "Museum Bag Storage"
+    },
+    {
+      "file": "museum_cafe",
+      "title": "Museum Cafe"
+    },
+    {
+      "file": "museum_donations",
+      "title": "Museum Donations"
+    },
+    {
+      "file": "museum_etiquette_and_conduct",
+      "title": "Museum Etiquette And Conduct"
+    },
+    {
+      "file": "museum_free_entry",
+      "title": "Museum Free Entry"
+    },
+    {
+      "file": "museum_galleries_and_layout",
+      "title": "Museum Galleries And Layout"
+    },
+    {
+      "file": "museum_gift_shop",
+      "title": "Museum Gift Shop"
+    },
+    {
+      "file": "museum_guided_tours",
+      "title": "Museum Guided Tours"
+    },
+    {
+      "file": "museum_membership",
+      "title": "Museum Membership"
+    },
+    {
+      "file": "museum_opening_hours",
+      "title": "Museum Opening Hours"
+    },
+    {
+      "file": "museum_permanent_collections",
+      "title": "Museum Permanent Collections"
+    },
+    {
+      "file": "museum_photography_rules",
+      "title": "Museum Photography Rules"
+    },
+    {
+      "file": "museum_school_trips",
+      "title": "Museum School Trips"
+    },
+    {
+      "file": "museum_temporary_exhibitions",
+      "title": "Museum Temporary Exhibitions"
+    },
+    {
+      "file": "museum_ticket_booking",
+      "title": "Museum Ticket Booking"
+    },
+    {
+      "file": "museum_visits_with_children",
+      "title": "Museum Visits With Children"
+    },
+    {
+      "file": "museum_volunteering",
+      "title": "Museum Volunteering"
+    },
+    {
+      "file": "national_museums",
+      "title": "National Museums"
+    },
+    {
+      "file": "natural_history_museums",
+      "title": "Natural History Museums"
+    },
+    {
+      "file": "open_air_museums",
+      "title": "Open Air Museums"
+    },
+    {
+      "file": "oral_history",
+      "title": "Oral History"
+    },
+    {
+      "file": "planning_a_museum_visit",
+      "title": "Planning A Museum Visit"
+    },
+    {
+      "file": "popular_history_books",
+      "title": "Popular History Books"
+    },
+    {
+      "file": "prehistoric_britain",
+      "title": "Prehistoric Britain"
+    },
+    {
+      "file": "science_museums",
+      "title": "Science Museums"
+    },
+    {
+      "file": "transport_museums",
+      "title": "Transport Museums"
+    },
+    {
+      "file": "tudors_and_victorians",
+      "title": "Tudors And Victorians"
+    },
+    {
+      "file": "types_of_museums",
+      "title": "Types Of Museums"
+    },
+    {
+      "file": "visiting_museums_abroad",
+      "title": "Visiting Museums Abroad"
+    },
+    {
+      "file": "world_wars_history",
+      "title": "World Wars History"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "deliveries_and_post",
+  "title": "Deliveries And Post",
+  "modules": [
+    {
+      "file": "bulky_items_basics",
+      "title": "Bulky Items Basics"
+    },
+    {
+      "file": "bulky_items_problems",
+      "title": "Bulky Items Problems"
+    },
+    {
+      "file": "collection_point",
+      "title": "Collection Point"
+    },
+    {
+      "file": "customs_forms_basics",
+      "title": "Customs Forms Basics"
+    },
+    {
+      "file": "customs_forms_problems",
+      "title": "Customs Forms Problems"
+    },
+    {
+      "file": "damaged_delivery",
+      "title": "Damaged Delivery"
+    },
+    {
+      "file": "damaged_parcels_basics",
+      "title": "Damaged Parcels Basics"
+    },
+    {
+      "file": "damaged_parcels_problems",
+      "title": "Damaged Parcels Problems"
+    },
+    {
+      "file": "delayed_delivery",
+      "title": "Delayed Delivery"
+    },
+    {
+      "file": "delivery_neighbours_basics",
+      "title": "Delivery Neighbours Basics"
+    },
+    {
+      "file": "delivery_neighbours_problems",
+      "title": "Delivery Neighbours Problems"
+    },
+    {
+      "file": "delivery_notifications",
+      "title": "Delivery Notifications"
+    },
+    {
+      "file": "delivery_signature",
+      "title": "Delivery Signature"
+    },
+    {
+      "file": "delivery_slots_basics",
+      "title": "Delivery Slots Basics"
+    },
+    {
+      "file": "delivery_slots_problems",
+      "title": "Delivery Slots Problems"
+    },
+    {
+      "file": "delivery_time_slot",
+      "title": "Delivery Time Slot"
+    },
+    {
+      "file": "delivery_to_neighbour",
+      "title": "Delivery To Neighbour"
+    },
+    {
+      "file": "international_post_basics",
+      "title": "International Post Basics"
+    },
+    {
+      "file": "international_post_problems",
+      "title": "International Post Problems"
+    },
+    {
+      "file": "large_letter_post",
+      "title": "Large Letter Post"
+    },
+    {
+      "file": "lost_mail_basics",
+      "title": "Lost Mail Basics"
+    },
+    {
+      "file": "lost_mail_problems",
+      "title": "Lost Mail Problems"
+    },
+    {
+      "file": "missed_deliveries_basics",
+      "title": "Missed Deliveries Basics"
+    },
+    {
+      "file": "missed_deliveries_problems",
+      "title": "Missed Deliveries Problems"
+    },
+    {
+      "file": "missed_delivery",
+      "title": "Missed Delivery"
+    },
+    {
+      "file": "missing_parcel",
+      "title": "Missing Parcel"
+    },
+    {
+      "file": "online_order_tracking",
+      "title": "Online Order Tracking"
+    },
+    {
+      "file": "parcel_lockers",
+      "title": "Parcel Lockers"
+    },
+    {
+      "file": "parcel_packaging",
+      "title": "Parcel Packaging"
+    },
+    {
+      "file": "parcel_packaging_basics",
+      "title": "Parcel Packaging Basics"
+    },
+    {
+      "file": "parcel_packaging_problems",
+      "title": "Parcel Packaging Problems"
+    },
+    {
+      "file": "parcel_sizes",
+      "title": "Parcel Sizes"
+    },
+    {
+      "file": "post_office_services_basics",
+      "title": "Post Office Services Basics"
+    },
+    {
+      "file": "post_office_services_problems",
+      "title": "Post Office Services Problems"
+    },
+    {
+      "file": "postage_options_basics",
+      "title": "Postage Options Basics"
+    },
+    {
+      "file": "postage_options_problems",
+      "title": "Postage Options Problems"
+    },
+    {
+      "file": "postal_addresses_basics",
+      "title": "Postal Addresses Basics"
+    },
+    {
+      "file": "postal_addresses_problems",
+      "title": "Postal Addresses Problems"
+    },
+    {
+      "file": "posting_letters",
+      "title": "Posting Letters"
+    },
+    {
+      "file": "redelivery",
+      "title": "Redelivery"
+    },
+    {
+      "file": "return_to_sender_basics",
+      "title": "Return To Sender Basics"
+    },
+    {
+      "file": "return_to_sender_problems",
+      "title": "Return To Sender Problems"
+    },
+    {
+      "file": "safe_place_delivery",
+      "title": "Safe Place Delivery"
+    },
+    {
+      "file": "sending_fragile_items",
+      "title": "Sending Fragile Items"
+    },
+    {
+      "file": "signed_for_post_basics",
+      "title": "Signed For Post Basics"
+    },
+    {
+      "file": "signed_for_post_problems",
+      "title": "Signed For Post Problems"
+    },
+    {
+      "file": "tracking_a_parcel",
+      "title": "Tracking A Parcel"
+    },
+    {
+      "file": "tracking_parcels_basics",
+      "title": "Tracking Parcels Basics"
+    },
+    {
+      "file": "tracking_parcels_problems",
+      "title": "Tracking Parcels Problems"
+    },
+    {
+      "file": "wrong_delivery_address",
+      "title": "Wrong Delivery Address"
+    }
+  ]
+}

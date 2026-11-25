@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "shopping_and_returns",
+  "title": "Shopping And Returns",
+  "modules": [
+    {
+      "file": "cancelling_online_orders",
+      "title": "Cancelling Online Orders"
+    },
+    {
+      "file": "change_of_mind_returns",
+      "title": "Change Of Mind Returns"
+    },
+    {
+      "file": "consumer_rights",
+      "title": "Consumer Rights"
+    },
+    {
+      "file": "contacting_customer_service",
+      "title": "Contacting Customer Service"
+    },
+    {
+      "file": "damaged_on_arrival",
+      "title": "Damaged On Arrival"
+    },
+    {
+      "file": "exchanging_items",
+      "title": "Exchanging Items"
+    },
+    {
+      "file": "extended_return_windows",
+      "title": "Extended Return Windows"
+    },
+    {
+      "file": "faulty_goods_rights",
+      "title": "Faulty Goods Rights"
+    },
+    {
+      "file": "gift_receipts",
+      "title": "Gift Receipts"
+    },
+    {
+      "file": "in_store_returns",
+      "title": "In Store Returns"
+    },
+    {
+      "file": "marketplace_seller_returns",
+      "title": "Marketplace Seller Returns"
+    },
+    {
+      "file": "non_returnable_items",
+      "title": "Non Returnable Items"
+    },
+    {
+      "file": "online_shopping_rights",
+      "title": "Online Shopping Rights"
+    },
+    {
+      "file": "packaging_for_returns",
+      "title": "Packaging For Returns"
+    },
+    {
+      "file": "partial_refunds",
+      "title": "Partial Refunds"
+    },
+    {
+      "file": "payment_disputes",
+      "title": "Payment Disputes"
+    },
+    {
+      "file": "personalised_items",
+      "title": "Personalised Items"
+    },
+    {
+      "file": "posting_returns_back",
+      "title": "Posting Returns Back"
+    },
+    {
+      "file": "price_drops_after_purchase",
+      "title": "Price Drops After Purchase"
+    },
+    {
+      "file": "price_matching",
+      "title": "Price Matching"
+    },
+    {
+      "file": "proof_of_purchase",
+      "title": "Proof Of Purchase"
+    },
+    {
+      "file": "refund_process",
+      "title": "Refund Process"
+    },
+    {
+      "file": "refund_timing",
+      "title": "Refund Timing"
+    },
+    {
+      "file": "repair_or_replacement",
+      "title": "Repair Or Replacement"
+    },
+    {
+      "file": "restocking_fees",
+      "title": "Restocking Fees"
+    },
+    {
+      "file": "return_fraud",
+      "title": "Return Fraud"
+    },
+    {
+      "file": "return_labels",
+      "title": "Return Labels"
+    },
+    {
+      "file": "return_postage_costs",
+      "title": "Return Postage Costs"
+    },
+    {
+      "file": "return_windows_and_deadlines",
+      "title": "Return Windows And Deadlines"
+    },
+    {
+      "file": "returning_books",
+      "title": "Returning Books"
+    },
+    {
+      "file": "returning_clothing",
+      "title": "Returning Clothing"
+    },
+    {
+      "file": "returning_digital_goods",
+      "title": "Returning Digital Goods"
+    },
+    {
+      "file": "returning_electronics",
+      "title": "Returning Electronics"
+    },
+    {
+      "file": "returning_faulty_items",
+      "title": "Returning Faulty Items"
+    },
+    {
+      "file": "returning_furniture",
+      "title": "Returning Furniture"
+    },
+    {
+      "file": "returning_gifts",
+      "title": "Returning Gifts"
+    },
+    {
+      "file": "returning_groceries",
+      "title": "Returning Groceries"
+    },
+    {
+      "file": "returning_online_purchases",
+      "title": "Returning Online Purchases"
+    },
+    {
+      "file": "returning_perishables",
+      "title": "Returning Perishables"
+    },
+    {
+      "file": "returning_sale_items",
+      "title": "Returning Sale Items"
+    },
+    {
+      "file": "returning_second_hand_items",
+      "title": "Returning Second Hand Items"
+    },
+    {
+      "file": "returning_shoes",
+      "title": "Returning Shoes"
+    },
+    {
+      "file": "returning_software",
+      "title": "Returning Software"
+    },
+    {
+      "file": "returning_unwanted_items",
+      "title": "Returning Unwanted Items"
+    },
+    {
+      "file": "returns_without_receipt",
+      "title": "Returns Without Receipt"
+    },
+    {
+      "file": "sealed_hygiene_items",
+      "title": "Sealed Hygiene Items"
+    },
+    {
+      "file": "store_return_policies",
+      "title": "Store Return Policies"
+    },
+    {
+      "file": "tracking_return_status",
+      "title": "Tracking Return Status"
+    },
+    {
+      "file": "warranty_returns",
+      "title": "Warranty Returns"
+    },
+    {
+      "file": "wrong_item_received",
+      "title": "Wrong Item Received"
+    }
+  ]
+}

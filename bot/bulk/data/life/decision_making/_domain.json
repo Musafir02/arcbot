@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "decision_making",
+  "title": "Decision Making",
+  "modules": [
+    {
+      "file": "asking_for_advice_basics",
+      "title": "Asking For Advice Basics"
+    },
+    {
+      "file": "asking_for_advice_problems",
+      "title": "Asking For Advice Problems"
+    },
+    {
+      "file": "assessing_risks",
+      "title": "Assessing Risks"
+    },
+    {
+      "file": "changing_your_mind_basics",
+      "title": "Changing Your Mind Basics"
+    },
+    {
+      "file": "changing_your_mind_problems",
+      "title": "Changing Your Mind Problems"
+    },
+    {
+      "file": "choosing_between_offers_basics",
+      "title": "Choosing Between Offers Basics"
+    },
+    {
+      "file": "choosing_between_offers_planning",
+      "title": "Choosing Between Offers Planning"
+    },
+    {
+      "file": "choosing_between_offers_problems",
+      "title": "Choosing Between Offers Problems"
+    },
+    {
+      "file": "comparing_job_offers",
+      "title": "Comparing Job Offers"
+    },
+    {
+      "file": "comparing_probabilities",
+      "title": "Comparing Probabilities"
+    },
+    {
+      "file": "deciding_under_time_pressure",
+      "title": "Deciding Under Time Pressure"
+    },
+    {
+      "file": "decision_deadlines_basics",
+      "title": "Decision Deadlines Basics"
+    },
+    {
+      "file": "decision_deadlines_problems",
+      "title": "Decision Deadlines Problems"
+    },
+    {
+      "file": "decision_fatigue_basics",
+      "title": "Decision Fatigue Basics"
+    },
+    {
+      "file": "decision_fatigue_problems",
+      "title": "Decision Fatigue Problems"
+    },
+    {
+      "file": "decision_journal_basics",
+      "title": "Decision Journal Basics"
+    },
+    {
+      "file": "decision_journal_problems",
+      "title": "Decision Journal Problems"
+    },
+    {
+      "file": "difficult_decisions_basics",
+      "title": "Difficult Decisions Basics"
+    },
+    {
+      "file": "difficult_decisions_problems",
+      "title": "Difficult Decisions Problems"
+    },
+    {
+      "file": "group_decisions_basics",
+      "title": "Group Decisions Basics"
+    },
+    {
+      "file": "group_decisions_problems",
+      "title": "Group Decisions Problems"
+    },
+    {
+      "file": "gut_feeling_basics",
+      "title": "Gut Feeling Basics"
+    },
+    {
+      "file": "gut_feeling_problems",
+      "title": "Gut Feeling Problems"
+    },
+    {
+      "file": "identifying_core_values",
+      "title": "Identifying Core Values"
+    },
+    {
+      "file": "irreversible_decisions",
+      "title": "Irreversible Decisions"
+    },
+    {
+      "file": "logic_and_emotion_in_decisions",
+      "title": "Logic And Emotion In Decisions"
+    },
+    {
+      "file": "making_difficult_decisions",
+      "title": "Making Difficult Decisions"
+    },
+    {
+      "file": "making_quick_decisions",
+      "title": "Making Quick Decisions"
+    },
+    {
+      "file": "overcoming_decision_paralysis",
+      "title": "Overcoming Decision Paralysis"
+    },
+    {
+      "file": "pros_and_cons_basics",
+      "title": "Pros And Cons Basics"
+    },
+    {
+      "file": "pros_and_cons_problems",
+      "title": "Pros And Cons Problems"
+    },
+    {
+      "file": "regret_and_decisions_basics",
+      "title": "Regret And Decisions Basics"
+    },
+    {
+      "file": "regret_and_decisions_problems",
+      "title": "Regret And Decisions Problems"
+    },
+    {
+      "file": "reversible_decisions",
+      "title": "Reversible Decisions"
+    },
+    {
+      "file": "risk_and_reward_basics",
+      "title": "Risk And Reward Basics"
+    },
+    {
+      "file": "risk_and_reward_problems",
+      "title": "Risk And Reward Problems"
+    },
+    {
+      "file": "setting_decision_criteria",
+      "title": "Setting Decision Criteria"
+    },
+    {
+      "file": "small_decisions_basics",
+      "title": "Small Decisions Basics"
+    },
+    {
+      "file": "small_decisions_problems",
+      "title": "Small Decisions Problems"
+    },
+    {
+      "file": "stopping_overthinking",
+      "title": "Stopping Overthinking"
+    },
+    {
+      "file": "trusting_gut_instinct",
+      "title": "Trusting Gut Instinct"
+    },
+    {
+      "file": "understanding_opportunity_cost",
+      "title": "Understanding Opportunity Cost"
+    },
+    {
+      "file": "using_decision_matrices",
+      "title": "Using Decision Matrices"
+    },
+    {
+      "file": "values_and_choices_basics",
+      "title": "Values And Choices Basics"
+    },
+    {
+      "file": "values_and_choices_problems",
+      "title": "Values And Choices Problems"
+    },
+    {
+      "file": "weighing_options_basics",
+      "title": "Weighing Options Basics"
+    },
+    {
+      "file": "weighing_options_planning",
+      "title": "Weighing Options Planning"
+    },
+    {
+      "file": "weighing_options_problems",
+      "title": "Weighing Options Problems"
+    },
+    {
+      "file": "weighing_pros_and_cons",
+      "title": "Weighing Pros And Cons"
+    },
+    {
+      "file": "worst_case_planning",
+      "title": "Worst Case Planning"
+    }
+  ]
+}

@@ -30,7 +30,7 @@ ITEMS = (
             'what is the point of writing a thank you note at work',
             'what do colleagues expect when writing a thank you note at work',
             'how can a new starter write a thank you note at work',
-            'how do i write a thank you note at work',
+            'how do i write a thank you note at work at home',
             'what is the best way to write a thank you note at work',
         ),
         "Start with the person's name and what you are thanking them for. Add one sentence about the result their help produced. Close warmly without turning the note into a formal report.",

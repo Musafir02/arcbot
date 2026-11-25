@@ -1,0 +1,207 @@
+{
+  "category": "life",
+  "domain": "manners_and_etiquette",
+  "title": "Manners And Etiquette",
+  "modules": [
+    {
+      "file": "accepting_compliments",
+      "title": "Accepting Compliments"
+    },
+    {
+      "file": "addressing_people",
+      "title": "Addressing People"
+    },
+    {
+      "file": "afternoon_tea_etiquette",
+      "title": "Afternoon Tea Etiquette"
+    },
+    {
+      "file": "apologising",
+      "title": "Apologising"
+    },
+    {
+      "file": "asking_questions_politely",
+      "title": "Asking Questions Politely"
+    },
+    {
+      "file": "buffet_etiquette",
+      "title": "Buffet Etiquette"
+    },
+    {
+      "file": "business_cards",
+      "title": "Business Cards"
+    },
+    {
+      "file": "cinema_etiquette",
+      "title": "Cinema Etiquette"
+    },
+    {
+      "file": "complaining_politely",
+      "title": "Complaining Politely"
+    },
+    {
+      "file": "cutlery_etiquette",
+      "title": "Cutlery Etiquette"
+    },
+    {
+      "file": "declining_invitations",
+      "title": "Declining Invitations"
+    },
+    {
+      "file": "dinner_party_etiquette",
+      "title": "Dinner Party Etiquette"
+    },
+    {
+      "file": "dinner_party_hosting",
+      "title": "Dinner Party Hosting"
+    },
+    {
+      "file": "disagreeing_politely",
+      "title": "Disagreeing Politely"
+    },
+    {
+      "file": "dress_code",
+      "title": "Dress Code"
+    },
+    {
+      "file": "eating_manners",
+      "title": "Eating Manners"
+    },
+    {
+      "file": "funeral_etiquette",
+      "title": "Funeral Etiquette"
+    },
+    {
+      "file": "gift_giving_etiquette",
+      "title": "Gift Giving Etiquette"
+    },
+    {
+      "file": "giving_compliments",
+      "title": "Giving Compliments"
+    },
+    {
+      "file": "greeting_people",
+      "title": "Greeting People"
+    },
+    {
+      "file": "handshakes",
+      "title": "Handshakes"
+    },
+    {
+      "file": "holding_doors",
+      "title": "Holding Doors"
+    },
+    {
+      "file": "holiday_greetings",
+      "title": "Holiday Greetings"
+    },
+    {
+      "file": "houseguest_etiquette",
+      "title": "Houseguest Etiquette"
+    },
+    {
+      "file": "interrupting_people",
+      "title": "Interrupting People"
+    },
+    {
+      "file": "interview_etiquette",
+      "title": "Interview Etiquette"
+    },
+    {
+      "file": "introducing_people",
+      "title": "Introducing People"
+    },
+    {
+      "file": "leaving_a_party_early",
+      "title": "Leaving A Party Early"
+    },
+    {
+      "file": "lift_etiquette",
+      "title": "Lift Etiquette"
+    },
+    {
+      "file": "meeting_etiquette",
+      "title": "Meeting Etiquette"
+    },
+    {
+      "file": "networking_etiquette",
+      "title": "Networking Etiquette"
+    },
+    {
+      "file": "phone_etiquette",
+      "title": "Phone Etiquette"
+    },
+    {
+      "file": "public_transport_etiquette",
+      "title": "Public Transport Etiquette"
+    },
+    {
+      "file": "punctuality",
+      "title": "Punctuality"
+    },
+    {
+      "file": "queueing_etiquette",
+      "title": "Queueing Etiquette"
+    },
+    {
+      "file": "receiving_gifts",
+      "title": "Receiving Gifts"
+    },
+    {
+      "file": "refusing_requests_politely",
+      "title": "Refusing Requests Politely"
+    },
+    {
+      "file": "restaurant_etiquette",
+      "title": "Restaurant Etiquette"
+    },
+    {
+      "file": "rsvp_etiquette",
+      "title": "Rsvp Etiquette"
+    },
+    {
+      "file": "small_talk",
+      "title": "Small Talk"
+    },
+    {
+      "file": "sympathy_messages",
+      "title": "Sympathy Messages"
+    },
+    {
+      "file": "table_manners",
+      "title": "Table Manners"
+    },
+    {
+      "file": "table_settings",
+      "title": "Table Settings"
+    },
+    {
+      "file": "texting_etiquette",
+      "title": "Texting Etiquette"
+    },
+    {
+      "file": "thank_you_notes",
+      "title": "Thank You Notes"
+    },
+    {
+      "file": "tipping_etiquette",
+      "title": "Tipping Etiquette"
+    },
+    {
+      "file": "toasting_etiquette",
+      "title": "Toasting Etiquette"
+    },
+    {
+      "file": "wedding_etiquette",
+      "title": "Wedding Etiquette"
+    },
+    {
+      "file": "wine_etiquette",
+      "title": "Wine Etiquette"
+    },
+    {
+      "file": "workplace_email_etiquette",
+      "title": "Workplace Email Etiquette"
+    }
+  ]
+}

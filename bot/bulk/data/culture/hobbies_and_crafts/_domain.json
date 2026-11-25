@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "hobbies_and_crafts",
+  "title": "Hobbies And Crafts",
+  "modules": [
+    {
+      "file": "acrylic_painting",
+      "title": "Acrylic Painting"
+    },
+    {
+      "file": "amigurumi_toys",
+      "title": "Amigurumi Toys"
+    },
+    {
+      "file": "calligraphy_basics",
+      "title": "Calligraphy Basics"
+    },
+    {
+      "file": "candle_making_basics",
+      "title": "Candle Making Basics"
+    },
+    {
+      "file": "card_making",
+      "title": "Card Making"
+    },
+    {
+      "file": "card_making_basics",
+      "title": "Card Making Basics"
+    },
+    {
+      "file": "card_making_problems",
+      "title": "Card Making Problems"
+    },
+    {
+      "file": "charcoal_drawing",
+      "title": "Charcoal Drawing"
+    },
+    {
+      "file": "choosing_knitting_yarn",
+      "title": "Choosing Knitting Yarn"
+    },
+    {
+      "file": "choosing_paint_brushes",
+      "title": "Choosing Paint Brushes"
+    },
+    {
+      "file": "crochet_basics_basics",
+      "title": "Crochet Basics Basics"
+    },
+    {
+      "file": "crochet_basics_problems",
+      "title": "Crochet Basics Problems"
+    },
+    {
+      "file": "crochet_stitches",
+      "title": "Crochet Stitches"
+    },
+    {
+      "file": "crocheting_for_beginners",
+      "title": "Crocheting For Beginners"
+    },
+    {
+      "file": "cross_stitch_basics",
+      "title": "Cross Stitch Basics"
+    },
+    {
+      "file": "cross_stitching",
+      "title": "Cross Stitching"
+    },
+    {
+      "file": "decoupage",
+      "title": "Decoupage"
+    },
+    {
+      "file": "drawing_for_beginners",
+      "title": "Drawing For Beginners"
+    },
+    {
+      "file": "embroidery_basics",
+      "title": "Embroidery Basics"
+    },
+    {
+      "file": "embroidery_stitches",
+      "title": "Embroidery Stitches"
+    },
+    {
+      "file": "glue_for_paper_crafts",
+      "title": "Glue For Paper Crafts"
+    },
+    {
+      "file": "hand_sewing",
+      "title": "Hand Sewing"
+    },
+    {
+      "file": "jewellery_making_basics",
+      "title": "Jewellery Making Basics"
+    },
+    {
+      "file": "knitting_a_scarf",
+      "title": "Knitting A Scarf"
+    },
+    {
+      "file": "knitting_basics_basics",
+      "title": "Knitting Basics Basics"
+    },
+    {
+      "file": "knitting_basics_problems",
+      "title": "Knitting Basics Problems"
+    },
+    {
+      "file": "knitting_needles",
+      "title": "Knitting Needles"
+    },
+    {
+      "file": "knitting_stitches",
+      "title": "Knitting Stitches"
+    },
+    {
+      "file": "macrame_knots",
+      "title": "Macrame Knots"
+    },
+    {
+      "file": "mixing_paint_colours",
+      "title": "Mixing Paint Colours"
+    },
+    {
+      "file": "model_building_basics",
+      "title": "Model Building Basics"
+    },
+    {
+      "file": "oil_painting",
+      "title": "Oil Painting"
+    },
+    {
+      "file": "origami_basics",
+      "title": "Origami Basics"
+    },
+    {
+      "file": "origami_folding",
+      "title": "Origami Folding"
+    },
+    {
+      "file": "paper_crafts_basics",
+      "title": "Paper Crafts Basics"
+    },
+    {
+      "file": "paper_crafts_problems",
+      "title": "Paper Crafts Problems"
+    },
+    {
+      "file": "paper_cutting",
+      "title": "Paper Cutting"
+    },
+    {
+      "file": "paper_quilling",
+      "title": "Paper Quilling"
+    },
+    {
+      "file": "pencil_sketching",
+      "title": "Pencil Sketching"
+    },
+    {
+      "file": "pottery_at_home_basics",
+      "title": "Pottery At Home Basics"
+    },
+    {
+      "file": "scrapbooking",
+      "title": "Scrapbooking"
+    },
+    {
+      "file": "scrapbooking_basics",
+      "title": "Scrapbooking Basics"
+    },
+    {
+      "file": "scrapbooking_problems",
+      "title": "Scrapbooking Problems"
+    },
+    {
+      "file": "sewing_machine_basics",
+      "title": "Sewing Machine Basics"
+    },
+    {
+      "file": "soap_making_basics",
+      "title": "Soap Making Basics"
+    },
+    {
+      "file": "starting_to_knit",
+      "title": "Starting To Knit"
+    },
+    {
+      "file": "watercolour_painting",
+      "title": "Watercolour Painting"
+    },
+    {
+      "file": "weaving_on_a_loom",
+      "title": "Weaving On A Loom"
+    },
+    {
+      "file": "weaving_projects_basics",
+      "title": "Weaving Projects Basics"
+    },
+    {
+      "file": "wool_felting",
+      "title": "Wool Felting"
+    }
+  ]
+}

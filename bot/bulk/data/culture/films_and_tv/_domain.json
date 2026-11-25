@@ -1,0 +1,207 @@
+{
+  "category": "culture",
+  "domain": "films_and_tv",
+  "title": "Films And Tv",
+  "modules": [
+    {
+      "file": "animated_films",
+      "title": "Animated Films"
+    },
+    {
+      "file": "anime_series",
+      "title": "Anime Series"
+    },
+    {
+      "file": "binge_watching",
+      "title": "Binge Watching"
+    },
+    {
+      "file": "black_and_white_films",
+      "title": "Black And White Films"
+    },
+    {
+      "file": "book_adaptations",
+      "title": "Book Adaptations"
+    },
+    {
+      "file": "choosing_a_film",
+      "title": "Choosing A Film"
+    },
+    {
+      "file": "cinema_and_home_viewing",
+      "title": "Cinema And Home Viewing"
+    },
+    {
+      "file": "cinema_tickets",
+      "title": "Cinema Tickets"
+    },
+    {
+      "file": "classic_films",
+      "title": "Classic Films"
+    },
+    {
+      "file": "comedy_films",
+      "title": "Comedy Films"
+    },
+    {
+      "file": "crime_dramas",
+      "title": "Crime Dramas"
+    },
+    {
+      "file": "date_night_films",
+      "title": "Date Night Films"
+    },
+    {
+      "file": "documentaries",
+      "title": "Documentaries"
+    },
+    {
+      "file": "family_film_night",
+      "title": "Family Film Night"
+    },
+    {
+      "file": "fantasy_films",
+      "title": "Fantasy Films"
+    },
+    {
+      "file": "feel_good_films",
+      "title": "Feel Good Films"
+    },
+    {
+      "file": "film_actors",
+      "title": "Film Actors"
+    },
+    {
+      "file": "film_awards",
+      "title": "Film Awards"
+    },
+    {
+      "file": "film_certificates",
+      "title": "Film Certificates"
+    },
+    {
+      "file": "film_directors",
+      "title": "Film Directors"
+    },
+    {
+      "file": "film_festivals",
+      "title": "Film Festivals"
+    },
+    {
+      "file": "film_franchises",
+      "title": "Film Franchises"
+    },
+    {
+      "file": "film_genres",
+      "title": "Film Genres"
+    },
+    {
+      "file": "film_recommendations",
+      "title": "Film Recommendations"
+    },
+    {
+      "file": "film_reviews",
+      "title": "Film Reviews"
+    },
+    {
+      "file": "film_sequels",
+      "title": "Film Sequels"
+    },
+    {
+      "file": "film_soundtracks",
+      "title": "Film Soundtracks"
+    },
+    {
+      "file": "film_trailers",
+      "title": "Film Trailers"
+    },
+    {
+      "file": "films_by_era",
+      "title": "Films By Era"
+    },
+    {
+      "file": "films_for_children",
+      "title": "Films For Children"
+    },
+    {
+      "file": "finding_a_film_title",
+      "title": "Finding A Film Title"
+    },
+    {
+      "file": "foreign_language_films",
+      "title": "Foreign Language Films"
+    },
+    {
+      "file": "horror_films",
+      "title": "Horror Films"
+    },
+    {
+      "file": "live_tv",
+      "title": "Live Tv"
+    },
+    {
+      "file": "murder_mystery_films",
+      "title": "Murder Mystery Films"
+    },
+    {
+      "file": "rainy_evening_films",
+      "title": "Rainy Evening Films"
+    },
+    {
+      "file": "reality_tv",
+      "title": "Reality Tv"
+    },
+    {
+      "file": "romance_films",
+      "title": "Romance Films"
+    },
+    {
+      "file": "science_fiction_films",
+      "title": "Science Fiction Films"
+    },
+    {
+      "file": "silent_films",
+      "title": "Silent Films"
+    },
+    {
+      "file": "sitcoms",
+      "title": "Sitcoms"
+    },
+    {
+      "file": "soap_operas",
+      "title": "Soap Operas"
+    },
+    {
+      "file": "streaming_services",
+      "title": "Streaming Services"
+    },
+    {
+      "file": "subtitles_and_dubbing",
+      "title": "Subtitles And Dubbing"
+    },
+    {
+      "file": "superhero_films",
+      "title": "Superhero Films"
+    },
+    {
+      "file": "thriller_films",
+      "title": "Thriller Films"
+    },
+    {
+      "file": "tv_box_sets",
+      "title": "Tv Box Sets"
+    },
+    {
+      "file": "tv_dramas",
+      "title": "Tv Dramas"
+    },
+    {
+      "file": "tv_genres",
+      "title": "Tv Genres"
+    },
+    {
+      "file": "tv_series_recommendations",
+      "title": "Tv Series Recommendations"
+    }
+  ]
+}
