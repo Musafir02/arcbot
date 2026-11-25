@@ -1,0 +1,207 @@
+{
+  "category": "nature",
+  "domain": "earthquakes_and_floods",
+  "title": "Earthquakes And Floods",
+  "modules": [
+    {
+      "file": "aftershocks",
+      "title": "Aftershocks"
+    },
+    {
+      "file": "aftershocks_basics",
+      "title": "Aftershocks Basics"
+    },
+    {
+      "file": "coastal_flooding",
+      "title": "Coastal Flooding"
+    },
+    {
+      "file": "earthquake_causes",
+      "title": "Earthquake Causes"
+    },
+    {
+      "file": "earthquake_causes_basics",
+      "title": "Earthquake Causes Basics"
+    },
+    {
+      "file": "earthquake_depth",
+      "title": "Earthquake Depth"
+    },
+    {
+      "file": "earthquake_early_warning",
+      "title": "Earthquake Early Warning"
+    },
+    {
+      "file": "earthquake_focus",
+      "title": "Earthquake Focus"
+    },
+    {
+      "file": "earthquake_measurement_basics",
+      "title": "Earthquake Measurement Basics"
+    },
+    {
+      "file": "earthquake_prediction",
+      "title": "Earthquake Prediction"
+    },
+    {
+      "file": "earthquake_safety_basics",
+      "title": "Earthquake Safety Basics"
+    },
+    {
+      "file": "earthquake_safety_indoors",
+      "title": "Earthquake Safety Indoors"
+    },
+    {
+      "file": "earthquake_safety_outdoors",
+      "title": "Earthquake Safety Outdoors"
+    },
+    {
+      "file": "earthquake_swarms",
+      "title": "Earthquake Swarms"
+    },
+    {
+      "file": "epicentre",
+      "title": "Epicentre"
+    },
+    {
+      "file": "fault_lines",
+      "title": "Fault Lines"
+    },
+    {
+      "file": "flash_floods",
+      "title": "Flash Floods"
+    },
+    {
+      "file": "flood_causes",
+      "title": "Flood Causes"
+    },
+    {
+      "file": "flood_causes_basics",
+      "title": "Flood Causes Basics"
+    },
+    {
+      "file": "flood_cleanup",
+      "title": "Flood Cleanup"
+    },
+    {
+      "file": "flood_defence_basics",
+      "title": "Flood Defence Basics"
+    },
+    {
+      "file": "flood_defences",
+      "title": "Flood Defences"
+    },
+    {
+      "file": "flood_insurance",
+      "title": "Flood Insurance"
+    },
+    {
+      "file": "flood_maps",
+      "title": "Flood Maps"
+    },
+    {
+      "file": "flood_safety",
+      "title": "Flood Safety"
+    },
+    {
+      "file": "flood_warnings",
+      "title": "Flood Warnings"
+    },
+    {
+      "file": "flood_warnings_basics",
+      "title": "Flood Warnings Basics"
+    },
+    {
+      "file": "floodplains",
+      "title": "Floodplains"
+    },
+    {
+      "file": "floodwater_driving",
+      "title": "Floodwater Driving"
+    },
+    {
+      "file": "foreshocks",
+      "title": "Foreshocks"
+    },
+    {
+      "file": "groundwater_flooding",
+      "title": "Groundwater Flooding"
+    },
+    {
+      "file": "induced_earthquakes",
+      "title": "Induced Earthquakes"
+    },
+    {
+      "file": "liquefaction",
+      "title": "Liquefaction"
+    },
+    {
+      "file": "magnitude_and_intensity",
+      "title": "Magnitude And Intensity"
+    },
+    {
+      "file": "measuring_earthquakes",
+      "title": "Measuring Earthquakes"
+    },
+    {
+      "file": "mercalli_scale",
+      "title": "Mercalli Scale"
+    },
+    {
+      "file": "moment_magnitude",
+      "title": "Moment Magnitude"
+    },
+    {
+      "file": "p_waves_and_s_waves",
+      "title": "P Waves And S Waves"
+    },
+    {
+      "file": "protecting_home_from_floods",
+      "title": "Protecting Home From Floods"
+    },
+    {
+      "file": "richter_scale",
+      "title": "Richter Scale"
+    },
+    {
+      "file": "river_flooding",
+      "title": "River Flooding"
+    },
+    {
+      "file": "river_flooding_basics",
+      "title": "River Flooding Basics"
+    },
+    {
+      "file": "sandbags",
+      "title": "Sandbags"
+    },
+    {
+      "file": "seismic_waves",
+      "title": "Seismic Waves"
+    },
+    {
+      "file": "seismographs",
+      "title": "Seismographs"
+    },
+    {
+      "file": "surface_water_flooding",
+      "title": "Surface Water Flooding"
+    },
+    {
+      "file": "tectonic_plate_movement",
+      "title": "Tectonic Plate Movement"
+    },
+    {
+      "file": "tsunami_warnings",
+      "title": "Tsunami Warnings"
+    },
+    {
+      "file": "tsunamis",
+      "title": "Tsunamis"
+    },
+    {
+      "file": "urban_flooding",
+      "title": "Urban Flooding"
+    }
+  ]
+}

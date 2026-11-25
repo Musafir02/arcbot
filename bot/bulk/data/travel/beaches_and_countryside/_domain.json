@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "beaches_and_countryside",
+  "title": "Beaches And Countryside",
+  "modules": [
+    {
+      "file": "beach_accessibility",
+      "title": "Beach Accessibility"
+    },
+    {
+      "file": "beach_campfires",
+      "title": "Beach Campfires"
+    },
+    {
+      "file": "beach_camping",
+      "title": "Beach Camping"
+    },
+    {
+      "file": "beach_flags",
+      "title": "Beach Flags"
+    },
+    {
+      "file": "beach_heat_safety",
+      "title": "Beach Heat Safety"
+    },
+    {
+      "file": "beach_hydration",
+      "title": "Beach Hydration"
+    },
+    {
+      "file": "beach_litter",
+      "title": "Beach Litter"
+    },
+    {
+      "file": "beach_photography",
+      "title": "Beach Photography"
+    },
+    {
+      "file": "beach_picnic",
+      "title": "Beach Picnic"
+    },
+    {
+      "file": "beach_shade",
+      "title": "Beach Shade"
+    },
+    {
+      "file": "beach_swimming_safety",
+      "title": "Beach Swimming Safety"
+    },
+    {
+      "file": "beach_tides",
+      "title": "Beach Tides"
+    },
+    {
+      "file": "beach_walking",
+      "title": "Beach Walking"
+    },
+    {
+      "file": "beach_wetsuits",
+      "title": "Beach Wetsuits"
+    },
+    {
+      "file": "beach_wildlife",
+      "title": "Beach Wildlife"
+    },
+    {
+      "file": "beginner_surfing",
+      "title": "Beginner Surfing"
+    },
+    {
+      "file": "birdwatching_in_the_countryside",
+      "title": "Birdwatching In The Countryside"
+    },
+    {
+      "file": "children_at_the_beach",
+      "title": "Children At The Beach"
+    },
+    {
+      "file": "coastal_path_navigation",
+      "title": "Coastal Path Navigation"
+    },
+    {
+      "file": "coastal_walk_safety",
+      "title": "Coastal Walk Safety"
+    },
+    {
+      "file": "country_lane_walking",
+      "title": "Country Lane Walking"
+    },
+    {
+      "file": "countryside_etiquette",
+      "title": "Countryside Etiquette"
+    },
+    {
+      "file": "countryside_photography",
+      "title": "Countryside Photography"
+    },
+    {
+      "file": "countryside_picnic",
+      "title": "Countryside Picnic"
+    },
+    {
+      "file": "countryside_walk_packing",
+      "title": "Countryside Walk Packing"
+    },
+    {
+      "file": "countryside_walk_safety",
+      "title": "Countryside Walk Safety"
+    },
+    {
+      "file": "countryside_weather",
+      "title": "Countryside Weather"
+    },
+    {
+      "file": "crossing_farmland",
+      "title": "Crossing Farmland"
+    },
+    {
+      "file": "dog_on_beach",
+      "title": "Dog On Beach"
+    },
+    {
+      "file": "footpaths_and_rights_of_way",
+      "title": "Footpaths And Rights Of Way"
+    },
+    {
+      "file": "hedgerow_wildlife",
+      "title": "Hedgerow Wildlife"
+    },
+    {
+      "file": "jellyfish_stings",
+      "title": "Jellyfish Stings"
+    },
+    {
+      "file": "livestock_and_walkers",
+      "title": "Livestock And Walkers"
+    },
+    {
+      "file": "long_distance_walking",
+      "title": "Long Distance Walking"
+    },
+    {
+      "file": "map_and_compass_walking",
+      "title": "Map And Compass Walking"
+    },
+    {
+      "file": "nettles_and_brambles",
+      "title": "Nettles And Brambles"
+    },
+    {
+      "file": "packing_for_beach_holiday",
+      "title": "Packing For Beach Holiday"
+    },
+    {
+      "file": "rip_current_safety",
+      "title": "Rip Current Safety"
+    },
+    {
+      "file": "rock_pools",
+      "title": "Rock Pools"
+    },
+    {
+      "file": "rough_sea_swimming",
+      "title": "Rough Sea Swimming"
+    },
+    {
+      "file": "sand_safety",
+      "title": "Sand Safety"
+    },
+    {
+      "file": "snorkelling_at_the_beach",
+      "title": "Snorkelling At The Beach"
+    },
+    {
+      "file": "stiles_and_gates",
+      "title": "Stiles And Gates"
+    },
+    {
+      "file": "stream_crossings",
+      "title": "Stream Crossings"
+    },
+    {
+      "file": "sun_protection_at_beach",
+      "title": "Sun Protection At Beach"
+    },
+    {
+      "file": "ticks_on_walks",
+      "title": "Ticks On Walks"
+    },
+    {
+      "file": "trail_waymarking",
+      "title": "Trail Waymarking"
+    },
+    {
+      "file": "walking_boots",
+      "title": "Walking Boots"
+    },
+    {
+      "file": "walking_in_mud",
+      "title": "Walking In Mud"
+    },
+    {
+      "file": "wild_camping",
+      "title": "Wild Camping"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "world_geography",
+  "title": "World Geography",
+  "modules": [
+    {
+      "file": "borders_and_boundaries",
+      "title": "Borders And Boundaries"
+    },
+    {
+      "file": "british_isles_geography",
+      "title": "British Isles Geography"
+    },
+    {
+      "file": "canada_capital",
+      "title": "Canada Capital"
+    },
+    {
+      "file": "canals_and_waterways",
+      "title": "Canals And Waterways"
+    },
+    {
+      "file": "capital_cities_africa",
+      "title": "Capital Cities Africa"
+    },
+    {
+      "file": "capital_cities_americas",
+      "title": "Capital Cities Americas"
+    },
+    {
+      "file": "capital_cities_asia",
+      "title": "Capital Cities Asia"
+    },
+    {
+      "file": "capital_cities_europe",
+      "title": "Capital Cities Europe"
+    },
+    {
+      "file": "climate_zones",
+      "title": "Climate Zones"
+    },
+    {
+      "file": "continents_of_the_world",
+      "title": "Continents Of The World"
+    },
+    {
+      "file": "coral_reefs",
+      "title": "Coral Reefs"
+    },
+    {
+      "file": "countries_of_africa",
+      "title": "Countries Of Africa"
+    },
+    {
+      "file": "countries_of_asia",
+      "title": "Countries Of Asia"
+    },
+    {
+      "file": "countries_of_europe",
+      "title": "Countries Of Europe"
+    },
+    {
+      "file": "countries_of_north_america",
+      "title": "Countries Of North America"
+    },
+    {
+      "file": "countries_of_oceania",
+      "title": "Countries Of Oceania"
+    },
+    {
+      "file": "countries_of_south_america",
+      "title": "Countries Of South America"
+    },
+    {
+      "file": "currency_by_country",
+      "title": "Currency By Country"
+    },
+    {
+      "file": "earthquakes_and_fault_lines",
+      "title": "Earthquakes And Fault Lines"
+    },
+    {
+      "file": "enclaves_and_exclaves",
+      "title": "Enclaves And Exclaves"
+    },
+    {
+      "file": "equator_and_hemispheres",
+      "title": "Equator And Hemispheres"
+    },
+    {
+      "file": "flags_and_national_symbols",
+      "title": "Flags And National Symbols"
+    },
+    {
+      "file": "france_borders",
+      "title": "France Borders"
+    },
+    {
+      "file": "international_date_line",
+      "title": "International Date Line"
+    },
+    {
+      "file": "island_countries",
+      "title": "Island Countries"
+    },
+    {
+      "file": "islands_and_archipelagos",
+      "title": "Islands And Archipelagos"
+    },
+    {
+      "file": "landlocked_countries",
+      "title": "Landlocked Countries"
+    },
+    {
+      "file": "languages_by_region",
+      "title": "Languages By Region"
+    },
+    {
+      "file": "largest_countries_by_area",
+      "title": "Largest Countries By Area"
+    },
+    {
+      "file": "latitude_and_longitude",
+      "title": "Latitude And Longitude"
+    },
+    {
+      "file": "longest_rivers",
+      "title": "Longest Rivers"
+    },
+    {
+      "file": "major_cities_of_the_world",
+      "title": "Major Cities Of The World"
+    },
+    {
+      "file": "major_deserts",
+      "title": "Major Deserts"
+    },
+    {
+      "file": "major_mountain_ranges",
+      "title": "Major Mountain Ranges"
+    },
+    {
+      "file": "major_rivers_of_the_world",
+      "title": "Major Rivers Of The World"
+    },
+    {
+      "file": "mediterranean_sea_countries",
+      "title": "Mediterranean Sea Countries"
+    },
+    {
+      "file": "middle_east_countries",
+      "title": "Middle East Countries"
+    },
+    {
+      "file": "monsoon_regions",
+      "title": "Monsoon Regions"
+    },
+    {
+      "file": "most_populous_countries",
+      "title": "Most Populous Countries"
+    },
+    {
+      "file": "polar_regions",
+      "title": "Polar Regions"
+    },
+    {
+      "file": "ports_and_harbours",
+      "title": "Ports And Harbours"
+    },
+    {
+      "file": "ring_of_fire",
+      "title": "Ring Of Fire"
+    },
+    {
+      "file": "scandinavian_countries",
+      "title": "Scandinavian Countries"
+    },
+    {
+      "file": "seas_and_straits",
+      "title": "Seas And Straits"
+    },
+    {
+      "file": "tectonic_plates",
+      "title": "Tectonic Plates"
+    },
+    {
+      "file": "time_zones",
+      "title": "Time Zones"
+    },
+    {
+      "file": "tropical_rainforests",
+      "title": "Tropical Rainforests"
+    },
+    {
+      "file": "tsunamis_and_coasts",
+      "title": "Tsunamis And Coasts"
+    },
+    {
+      "file": "volcanoes_of_the_world",
+      "title": "Volcanoes Of The World"
+    },
+    {
+      "file": "world_oceans",
+      "title": "World Oceans"
+    }
+  ]
+}

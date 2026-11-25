@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "travel_money_and_safety",
+  "title": "Travel Money And Safety",
+  "modules": [
+    {
+      "file": "atms_abroad",
+      "title": "Atms Abroad"
+    },
+    {
+      "file": "bag_snatching",
+      "title": "Bag Snatching"
+    },
+    {
+      "file": "beach_and_belongings_safety",
+      "title": "Beach And Belongings Safety"
+    },
+    {
+      "file": "budgeting_for_a_trip",
+      "title": "Budgeting For A Trip"
+    },
+    {
+      "file": "card_skimming",
+      "title": "Card Skimming"
+    },
+    {
+      "file": "carrying_cash_abroad",
+      "title": "Carrying Cash Abroad"
+    },
+    {
+      "file": "cash_or_card_abroad",
+      "title": "Cash Or Card Abroad"
+    },
+    {
+      "file": "contactless_payments_abroad",
+      "title": "Contactless Payments Abroad"
+    },
+    {
+      "file": "credit_card_abroad",
+      "title": "Credit Card Abroad"
+    },
+    {
+      "file": "currency_exchange_rates",
+      "title": "Currency Exchange Rates"
+    },
+    {
+      "file": "debit_card_abroad",
+      "title": "Debit Card Abroad"
+    },
+    {
+      "file": "drink_spiking_abroad",
+      "title": "Drink Spiking Abroad"
+    },
+    {
+      "file": "drinking_safely_abroad",
+      "title": "Drinking Safely Abroad"
+    },
+    {
+      "file": "dynamic_currency_conversion",
+      "title": "Dynamic Currency Conversion"
+    },
+    {
+      "file": "embassy_help_abroad",
+      "title": "Embassy Help Abroad"
+    },
+    {
+      "file": "emergency_contacts_abroad",
+      "title": "Emergency Contacts Abroad"
+    },
+    {
+      "file": "emergency_money_abroad",
+      "title": "Emergency Money Abroad"
+    },
+    {
+      "file": "fake_police_scams",
+      "title": "Fake Police Scams"
+    },
+    {
+      "file": "foreign_transaction_fees",
+      "title": "Foreign Transaction Fees"
+    },
+    {
+      "file": "haggling_over_prices",
+      "title": "Haggling Over Prices"
+    },
+    {
+      "file": "holiday_accommodation_safety",
+      "title": "Holiday Accommodation Safety"
+    },
+    {
+      "file": "hostel_safety",
+      "title": "Hostel Safety"
+    },
+    {
+      "file": "hotel_card_deposits",
+      "title": "Hotel Card Deposits"
+    },
+    {
+      "file": "hotel_room_security",
+      "title": "Hotel Room Security"
+    },
+    {
+      "file": "keeping_money_safe_travelling",
+      "title": "Keeping Money Safe Travelling"
+    },
+    {
+      "file": "losing_your_phone_abroad",
+      "title": "Losing Your Phone Abroad"
+    },
+    {
+      "file": "losing_your_wallet_abroad",
+      "title": "Losing Your Wallet Abroad"
+    },
+    {
+      "file": "making_an_insurance_claim",
+      "title": "Making An Insurance Claim"
+    },
+    {
+      "file": "money_belt_for_travel",
+      "title": "Money Belt For Travel"
+    },
+    {
+      "file": "money_safety_at_markets",
+      "title": "Money Safety At Markets"
+    },
+    {
+      "file": "nightlife_safety_abroad",
+      "title": "Nightlife Safety Abroad"
+    },
+    {
+      "file": "paying_for_taxis_abroad",
+      "title": "Paying For Taxis Abroad"
+    },
+    {
+      "file": "personal_safety_abroad",
+      "title": "Personal Safety Abroad"
+    },
+    {
+      "file": "petty_theft_abroad",
+      "title": "Petty Theft Abroad"
+    },
+    {
+      "file": "phone_security_abroad",
+      "title": "Phone Security Abroad"
+    },
+    {
+      "file": "pickpocketing_in_tourist_areas",
+      "title": "Pickpocketing In Tourist Areas"
+    },
+    {
+      "file": "prepaid_travel_card",
+      "title": "Prepaid Travel Card"
+    },
+    {
+      "file": "public_wifi_abroad",
+      "title": "Public Wifi Abroad"
+    },
+    {
+      "file": "reporting_crime_abroad",
+      "title": "Reporting Crime Abroad"
+    },
+    {
+      "file": "road_safety_abroad",
+      "title": "Road Safety Abroad"
+    },
+    {
+      "file": "splitting_payment_methods",
+      "title": "Splitting Payment Methods"
+    },
+    {
+      "file": "staying_safe_on_public_transport",
+      "title": "Staying Safe On Public Transport"
+    },
+    {
+      "file": "street_scams_abroad",
+      "title": "Street Scams Abroad"
+    },
+    {
+      "file": "tax_free_shopping",
+      "title": "Tax Free Shopping"
+    },
+    {
+      "file": "taxi_scams_abroad",
+      "title": "Taxi Scams Abroad"
+    },
+    {
+      "file": "taxis_at_night",
+      "title": "Taxis At Night"
+    },
+    {
+      "file": "tipping_abroad",
+      "title": "Tipping Abroad"
+    },
+    {
+      "file": "tracking_spending_abroad",
+      "title": "Tracking Spending Abroad"
+    },
+    {
+      "file": "travel_insurance",
+      "title": "Travel Insurance"
+    },
+    {
+      "file": "walking_alone_at_night",
+      "title": "Walking Alone At Night"
+    }
+  ]
+}

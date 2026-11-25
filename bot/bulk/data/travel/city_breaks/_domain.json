@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "city_breaks",
+  "title": "City Breaks",
+  "modules": [
+    {
+      "file": "accessible_city_breaks",
+      "title": "Accessible City Breaks"
+    },
+    {
+      "file": "booking_city_break_accommodation",
+      "title": "Booking City Break Accommodation"
+    },
+    {
+      "file": "choosing_city_break_destination",
+      "title": "Choosing City Break Destination"
+    },
+    {
+      "file": "city_architecture_walks",
+      "title": "City Architecture Walks"
+    },
+    {
+      "file": "city_break_budget",
+      "title": "City Break Budget"
+    },
+    {
+      "file": "city_break_emergencies",
+      "title": "City Break Emergencies"
+    },
+    {
+      "file": "city_break_for_couples",
+      "title": "City Break For Couples"
+    },
+    {
+      "file": "city_break_itinerary",
+      "title": "City Break Itinerary"
+    },
+    {
+      "file": "city_break_language",
+      "title": "City Break Language"
+    },
+    {
+      "file": "city_break_laundry",
+      "title": "City Break Laundry"
+    },
+    {
+      "file": "city_break_local_customs",
+      "title": "City Break Local Customs"
+    },
+    {
+      "file": "city_break_lost_property",
+      "title": "City Break Lost Property"
+    },
+    {
+      "file": "city_break_mobile_data",
+      "title": "City Break Mobile Data"
+    },
+    {
+      "file": "city_break_nightlife",
+      "title": "City Break Nightlife"
+    },
+    {
+      "file": "city_break_off_season",
+      "title": "City Break Off Season"
+    },
+    {
+      "file": "city_break_packing",
+      "title": "City Break Packing"
+    },
+    {
+      "file": "city_break_restaurants",
+      "title": "City Break Restaurants"
+    },
+    {
+      "file": "city_break_safety",
+      "title": "City Break Safety"
+    },
+    {
+      "file": "city_break_shopping",
+      "title": "City Break Shopping"
+    },
+    {
+      "file": "city_break_tipping",
+      "title": "City Break Tipping"
+    },
+    {
+      "file": "city_break_weather",
+      "title": "City Break Weather"
+    },
+    {
+      "file": "city_break_with_children",
+      "title": "City Break With Children"
+    },
+    {
+      "file": "city_cafes",
+      "title": "City Cafes"
+    },
+    {
+      "file": "city_food_allergies",
+      "title": "City Food Allergies"
+    },
+    {
+      "file": "city_food_markets",
+      "title": "City Food Markets"
+    },
+    {
+      "file": "city_history_sites",
+      "title": "City History Sites"
+    },
+    {
+      "file": "city_museums_and_galleries",
+      "title": "City Museums And Galleries"
+    },
+    {
+      "file": "city_parks_and_gardens",
+      "title": "City Parks And Gardens"
+    },
+    {
+      "file": "city_photography_spots",
+      "title": "City Photography Spots"
+    },
+    {
+      "file": "city_public_transport_passes",
+      "title": "City Public Transport Passes"
+    },
+    {
+      "file": "city_river_cruises",
+      "title": "City River Cruises"
+    },
+    {
+      "file": "city_sights_and_landmarks",
+      "title": "City Sights And Landmarks"
+    },
+    {
+      "file": "city_street_food",
+      "title": "City Street Food"
+    },
+    {
+      "file": "city_transport_etiquette",
+      "title": "City Transport Etiquette"
+    },
+    {
+      "file": "city_vegetarian_food",
+      "title": "City Vegetarian Food"
+    },
+    {
+      "file": "city_viewpoints",
+      "title": "City Viewpoints"
+    },
+    {
+      "file": "city_walking_routes",
+      "title": "City Walking Routes"
+    },
+    {
+      "file": "day_trips_from_a_city",
+      "title": "Day Trips From A City"
+    },
+    {
+      "file": "days_needed_in_paris",
+      "title": "Days Needed In Paris"
+    },
+    {
+      "file": "first_time_in_paris",
+      "title": "First Time In Paris"
+    },
+    {
+      "file": "free_things_to_do_in_a_city",
+      "title": "Free Things To Do In A City"
+    },
+    {
+      "file": "getting_around_a_city",
+      "title": "Getting Around A City"
+    },
+    {
+      "file": "last_minute_city_break",
+      "title": "Last Minute City Break"
+    },
+    {
+      "file": "paris_attraction_tickets",
+      "title": "Paris Attraction Tickets"
+    },
+    {
+      "file": "paris_metro",
+      "title": "Paris Metro"
+    },
+    {
+      "file": "planning_weekend_city_break",
+      "title": "Planning Weekend City Break"
+    },
+    {
+      "file": "rainy_day_in_a_city",
+      "title": "Rainy Day In A City"
+    },
+    {
+      "file": "running_in_a_city",
+      "title": "Running In A City"
+    },
+    {
+      "file": "solo_city_break",
+      "title": "Solo City Break"
+    },
+    {
+      "file": "weekend_vs_weekday_city_break",
+      "title": "Weekend Vs Weekday City Break"
+    }
+  ]
+}

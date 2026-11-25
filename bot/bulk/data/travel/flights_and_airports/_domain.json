@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "flights_and_airports",
+  "title": "Flights And Airports",
+  "modules": [
+    {
+      "file": "airline_fees_basics",
+      "title": "Airline Fees Basics"
+    },
+    {
+      "file": "airport_check_in_basics",
+      "title": "Airport Check In Basics"
+    },
+    {
+      "file": "airport_check_in_problems",
+      "title": "Airport Check In Problems"
+    },
+    {
+      "file": "airport_lounge_basics",
+      "title": "Airport Lounge Basics"
+    },
+    {
+      "file": "airport_lounges",
+      "title": "Airport Lounges"
+    },
+    {
+      "file": "airport_parking",
+      "title": "Airport Parking"
+    },
+    {
+      "file": "airport_parking_basics",
+      "title": "Airport Parking Basics"
+    },
+    {
+      "file": "airport_security_screening",
+      "title": "Airport Security Screening"
+    },
+    {
+      "file": "airport_shuttle_buses",
+      "title": "Airport Shuttle Buses"
+    },
+    {
+      "file": "airport_transfer_tips",
+      "title": "Airport Transfer Tips"
+    },
+    {
+      "file": "airport_transfers_basics",
+      "title": "Airport Transfers Basics"
+    },
+    {
+      "file": "arriving_at_the_airport",
+      "title": "Arriving At The Airport"
+    },
+    {
+      "file": "bag_drop_and_check_in_desks",
+      "title": "Bag Drop And Check In Desks"
+    },
+    {
+      "file": "baggage_claim_guidance",
+      "title": "Baggage Claim Guidance"
+    },
+    {
+      "file": "boarding_groups",
+      "title": "Boarding Groups"
+    },
+    {
+      "file": "boarding_pass_basics",
+      "title": "Boarding Pass Basics"
+    },
+    {
+      "file": "boarding_pass_problems",
+      "title": "Boarding Pass Problems"
+    },
+    {
+      "file": "body_scanners_at_security",
+      "title": "Body Scanners At Security"
+    },
+    {
+      "file": "cabin_bag_dimensions",
+      "title": "Cabin Bag Dimensions"
+    },
+    {
+      "file": "cabin_baggage_basics",
+      "title": "Cabin Baggage Basics"
+    },
+    {
+      "file": "checked_baggage_allowance",
+      "title": "Checked Baggage Allowance"
+    },
+    {
+      "file": "connecting_flight_planning",
+      "title": "Connecting Flight Planning"
+    },
+    {
+      "file": "duty_free_shopping",
+      "title": "Duty Free Shopping"
+    },
+    {
+      "file": "excess_baggage_fees",
+      "title": "Excess Baggage Fees"
+    },
+    {
+      "file": "flight_cancellations",
+      "title": "Flight Cancellations"
+    },
+    {
+      "file": "flight_check_in_time",
+      "title": "Flight Check In Time"
+    },
+    {
+      "file": "flight_connections_basics",
+      "title": "Flight Connections Basics"
+    },
+    {
+      "file": "flight_connections_problems",
+      "title": "Flight Connections Problems"
+    },
+    {
+      "file": "flight_delays",
+      "title": "Flight Delays"
+    },
+    {
+      "file": "flight_delays_basics",
+      "title": "Flight Delays Basics"
+    },
+    {
+      "file": "getting_to_the_airport",
+      "title": "Getting To The Airport"
+    },
+    {
+      "file": "hand_luggage_allowance",
+      "title": "Hand Luggage Allowance"
+    },
+    {
+      "file": "hand_luggage_basics",
+      "title": "Hand Luggage Basics"
+    },
+    {
+      "file": "hand_luggage_problems",
+      "title": "Hand Luggage Problems"
+    },
+    {
+      "file": "layover_duration_basics",
+      "title": "Layover Duration Basics"
+    },
+    {
+      "file": "liquids_in_hand_luggage",
+      "title": "Liquids In Hand Luggage"
+    },
+    {
+      "file": "long_haul_flight_basics",
+      "title": "Long Haul Flight Basics"
+    },
+    {
+      "file": "missed_connection_help",
+      "title": "Missed Connection Help"
+    },
+    {
+      "file": "missed_flight_basics",
+      "title": "Missed Flight Basics"
+    },
+    {
+      "file": "mobile_boarding_pass",
+      "title": "Mobile Boarding Pass"
+    },
+    {
+      "file": "online_check_in",
+      "title": "Online Check In"
+    },
+    {
+      "file": "overbooked_flights",
+      "title": "Overbooked Flights"
+    },
+    {
+      "file": "passport_checks_basics",
+      "title": "Passport Checks Basics"
+    },
+    {
+      "file": "passport_control",
+      "title": "Passport Control"
+    },
+    {
+      "file": "priority_boarding",
+      "title": "Priority Boarding"
+    },
+    {
+      "file": "rebooking_a_flight",
+      "title": "Rebooking A Flight"
+    },
+    {
+      "file": "seat_selection_basics",
+      "title": "Seat Selection Basics"
+    },
+    {
+      "file": "security_screening_basics",
+      "title": "Security Screening Basics"
+    },
+    {
+      "file": "security_screening_problems",
+      "title": "Security Screening Problems"
+    },
+    {
+      "file": "terminal_transfers",
+      "title": "Terminal Transfers"
+    }
+  ]
+}

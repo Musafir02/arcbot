@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "hotels_and_accommodation",
+  "title": "Hotels And Accommodation",
+  "modules": [
+    {
+      "file": "accessible_rooms",
+      "title": "Accessible Rooms"
+    },
+    {
+      "file": "airport_transfers",
+      "title": "Airport Transfers"
+    },
+    {
+      "file": "allergy_needs",
+      "title": "Allergy Needs"
+    },
+    {
+      "file": "bed_comfort",
+      "title": "Bed Comfort"
+    },
+    {
+      "file": "bill_charges",
+      "title": "Bill Charges"
+    },
+    {
+      "file": "booking_confirmation",
+      "title": "Booking Confirmation"
+    },
+    {
+      "file": "booking_direct_vs_agents",
+      "title": "Booking Direct Vs Agents"
+    },
+    {
+      "file": "changing_hotel_dates",
+      "title": "Changing Hotel Dates"
+    },
+    {
+      "file": "checking_before_booking",
+      "title": "Checking Before Booking"
+    },
+    {
+      "file": "connecting_rooms",
+      "title": "Connecting Rooms"
+    },
+    {
+      "file": "early_check_in",
+      "title": "Early Check In"
+    },
+    {
+      "file": "family_rooms",
+      "title": "Family Rooms"
+    },
+    {
+      "file": "holiday_rentals",
+      "title": "Holiday Rentals"
+    },
+    {
+      "file": "hostels",
+      "title": "Hostels"
+    },
+    {
+      "file": "hotel_breakfast",
+      "title": "Hotel Breakfast"
+    },
+    {
+      "file": "hotel_cancellation_policy",
+      "title": "Hotel Cancellation Policy"
+    },
+    {
+      "file": "hotel_check_in_time",
+      "title": "Hotel Check In Time"
+    },
+    {
+      "file": "hotel_check_out_time",
+      "title": "Hotel Check Out Time"
+    },
+    {
+      "file": "hotel_concierge",
+      "title": "Hotel Concierge"
+    },
+    {
+      "file": "hotel_deposits",
+      "title": "Hotel Deposits"
+    },
+    {
+      "file": "hotel_gym",
+      "title": "Hotel Gym"
+    },
+    {
+      "file": "hotel_laundry",
+      "title": "Hotel Laundry"
+    },
+    {
+      "file": "hotel_location_choice",
+      "title": "Hotel Location Choice"
+    },
+    {
+      "file": "hotel_no_show",
+      "title": "Hotel No Show"
+    },
+    {
+      "file": "hotel_noise",
+      "title": "Hotel Noise"
+    },
+    {
+      "file": "hotel_overbooking",
+      "title": "Hotel Overbooking"
+    },
+    {
+      "file": "hotel_parking",
+      "title": "Hotel Parking"
+    },
+    {
+      "file": "hotel_payment",
+      "title": "Hotel Payment"
+    },
+    {
+      "file": "hotel_price_comparison",
+      "title": "Hotel Price Comparison"
+    },
+    {
+      "file": "hotel_reviews",
+      "title": "Hotel Reviews"
+    },
+    {
+      "file": "hotel_room_security",
+      "title": "Hotel Room Security"
+    },
+    {
+      "file": "hotel_room_types",
+      "title": "Hotel Room Types"
+    },
+    {
+      "file": "hotel_spa",
+      "title": "Hotel Spa"
+    },
+    {
+      "file": "hotel_tipping",
+      "title": "Hotel Tipping"
+    },
+    {
+      "file": "hotel_toiletries",
+      "title": "Hotel Toiletries"
+    },
+    {
+      "file": "hotel_wifi",
+      "title": "Hotel Wifi"
+    },
+    {
+      "file": "housekeeping_requests",
+      "title": "Housekeeping Requests"
+    },
+    {
+      "file": "key_card_problems",
+      "title": "Key Card Problems"
+    },
+    {
+      "file": "late_check_out",
+      "title": "Late Check Out"
+    },
+    {
+      "file": "long_stay_hotels",
+      "title": "Long Stay Hotels"
+    },
+    {
+      "file": "loyalty_schemes",
+      "title": "Loyalty Schemes"
+    },
+    {
+      "file": "minibar_charges",
+      "title": "Minibar Charges"
+    },
+    {
+      "file": "pet_friendly_hotels",
+      "title": "Pet Friendly Hotels"
+    },
+    {
+      "file": "quiet_room_requests",
+      "title": "Quiet Room Requests"
+    },
+    {
+      "file": "room_safe",
+      "title": "Room Safe"
+    },
+    {
+      "file": "room_service",
+      "title": "Room Service"
+    },
+    {
+      "file": "room_temperature",
+      "title": "Room Temperature"
+    },
+    {
+      "file": "room_upgrade_requests",
+      "title": "Room Upgrade Requests"
+    },
+    {
+      "file": "self_catering",
+      "title": "Self Catering"
+    },
+    {
+      "file": "towel_requests",
+      "title": "Towel Requests"
+    }
+  ]
+}

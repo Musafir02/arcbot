@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "driving_abroad",
+  "title": "Driving Abroad",
+  "modules": [
+    {
+      "file": "animal_hazards_abroad",
+      "title": "Animal Hazards Abroad"
+    },
+    {
+      "file": "breakdown_abroad",
+      "title": "Breakdown Abroad"
+    },
+    {
+      "file": "bus_lanes_abroad",
+      "title": "Bus Lanes Abroad"
+    },
+    {
+      "file": "car_insurance_abroad",
+      "title": "Car Insurance Abroad"
+    },
+    {
+      "file": "checks_before_driving_abroad",
+      "title": "Checks Before Driving Abroad"
+    },
+    {
+      "file": "child_seats_abroad",
+      "title": "Child Seats Abroad"
+    },
+    {
+      "file": "city_driving_abroad",
+      "title": "City Driving Abroad"
+    },
+    {
+      "file": "cross_border_driving",
+      "title": "Cross Border Driving"
+    },
+    {
+      "file": "desert_driving_abroad",
+      "title": "Desert Driving Abroad"
+    },
+    {
+      "file": "drink_driving_limits",
+      "title": "Drink Driving Limits"
+    },
+    {
+      "file": "driver_fatigue_abroad",
+      "title": "Driver Fatigue Abroad"
+    },
+    {
+      "file": "driving_after_long_flight",
+      "title": "Driving After Long Flight"
+    },
+    {
+      "file": "driving_age_abroad",
+      "title": "Driving Age Abroad"
+    },
+    {
+      "file": "driving_in_rain_abroad",
+      "title": "Driving In Rain Abroad"
+    },
+    {
+      "file": "driving_in_snow_abroad",
+      "title": "Driving In Snow Abroad"
+    },
+    {
+      "file": "driving_in_tunnels_abroad",
+      "title": "Driving In Tunnels Abroad"
+    },
+    {
+      "file": "driving_licence_abroad",
+      "title": "Driving Licence Abroad"
+    },
+    {
+      "file": "driving_on_ferries",
+      "title": "Driving On Ferries"
+    },
+    {
+      "file": "driving_on_left_or_right",
+      "title": "Driving On Left Or Right"
+    },
+    {
+      "file": "driving_with_pets_abroad",
+      "title": "Driving With Pets Abroad"
+    },
+    {
+      "file": "emergency_numbers_abroad",
+      "title": "Emergency Numbers Abroad"
+    },
+    {
+      "file": "fog_driving_abroad",
+      "title": "Fog Driving Abroad"
+    },
+    {
+      "file": "fuel_abroad",
+      "title": "Fuel Abroad"
+    },
+    {
+      "file": "giving_way_abroad",
+      "title": "Giving Way Abroad"
+    },
+    {
+      "file": "headlights_abroad",
+      "title": "Headlights Abroad"
+    },
+    {
+      "file": "hire_car_excess",
+      "title": "Hire Car Excess"
+    },
+    {
+      "file": "hire_car_requirements",
+      "title": "Hire Car Requirements"
+    },
+    {
+      "file": "international_driving_permit",
+      "title": "International Driving Permit"
+    },
+    {
+      "file": "low_emission_zones",
+      "title": "Low Emission Zones"
+    },
+    {
+      "file": "mobile_phone_driving_abroad",
+      "title": "Mobile Phone Driving Abroad"
+    },
+    {
+      "file": "motorbike_abroad",
+      "title": "Motorbike Abroad"
+    },
+    {
+      "file": "motorway_tolls",
+      "title": "Motorway Tolls"
+    },
+    {
+      "file": "mountain_driving_abroad",
+      "title": "Mountain Driving Abroad"
+    },
+    {
+      "file": "night_driving_abroad",
+      "title": "Night Driving Abroad"
+    },
+    {
+      "file": "overtaking_abroad",
+      "title": "Overtaking Abroad"
+    },
+    {
+      "file": "parking_abroad",
+      "title": "Parking Abroad"
+    },
+    {
+      "file": "pedestrian_priority_abroad",
+      "title": "Pedestrian Priority Abroad"
+    },
+    {
+      "file": "returning_hire_car",
+      "title": "Returning Hire Car"
+    },
+    {
+      "file": "road_signs_abroad",
+      "title": "Road Signs Abroad"
+    },
+    {
+      "file": "roadside_emergencies_abroad",
+      "title": "Roadside Emergencies Abroad"
+    },
+    {
+      "file": "roundabouts_abroad",
+      "title": "Roundabouts Abroad"
+    },
+    {
+      "file": "sat_nav_abroad",
+      "title": "Sat Nav Abroad"
+    },
+    {
+      "file": "seatbelts_abroad",
+      "title": "Seatbelts Abroad"
+    },
+    {
+      "file": "speed_cameras_abroad",
+      "title": "Speed Cameras Abroad"
+    },
+    {
+      "file": "speed_limits_abroad",
+      "title": "Speed Limits Abroad"
+    },
+    {
+      "file": "towing_a_trailer_abroad",
+      "title": "Towing A Trailer Abroad"
+    },
+    {
+      "file": "traffic_fines_abroad",
+      "title": "Traffic Fines Abroad"
+    },
+    {
+      "file": "unpaved_roads_abroad",
+      "title": "Unpaved Roads Abroad"
+    },
+    {
+      "file": "vehicle_documents_abroad",
+      "title": "Vehicle Documents Abroad"
+    },
+    {
+      "file": "winter_tyres_abroad",
+      "title": "Winter Tyres Abroad"
+    }
+  ]
+}

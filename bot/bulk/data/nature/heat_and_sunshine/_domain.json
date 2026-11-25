@@ -1,0 +1,207 @@
+{
+  "category": "nature",
+  "domain": "heat_and_sunshine",
+  "title": "Heat And Sunshine",
+  "modules": [
+    {
+      "file": "air_conditioning_use",
+      "title": "Air Conditioning Use"
+    },
+    {
+      "file": "city_heat_island",
+      "title": "City Heat Island"
+    },
+    {
+      "file": "cool_roofs_surfaces",
+      "title": "Cool Roofs Surfaces"
+    },
+    {
+      "file": "daylight_hours",
+      "title": "Daylight Hours"
+    },
+    {
+      "file": "dehydration_heat",
+      "title": "Dehydration Heat"
+    },
+    {
+      "file": "drinking_water_hot_weather",
+      "title": "Drinking Water Hot Weather"
+    },
+    {
+      "file": "evaporation_cooling",
+      "title": "Evaporation Cooling"
+    },
+    {
+      "file": "exercise_in_heat",
+      "title": "Exercise In Heat"
+    },
+    {
+      "file": "fainting_in_heat",
+      "title": "Fainting In Heat"
+    },
+    {
+      "file": "fans_and_airflow",
+      "title": "Fans And Airflow"
+    },
+    {
+      "file": "heat_and_air_movement",
+      "title": "Heat And Air Movement"
+    },
+    {
+      "file": "heat_and_food_safety",
+      "title": "Heat And Food Safety"
+    },
+    {
+      "file": "heat_and_humidity",
+      "title": "Heat And Humidity"
+    },
+    {
+      "file": "heat_and_pets",
+      "title": "Heat And Pets"
+    },
+    {
+      "file": "heat_and_plants",
+      "title": "Heat And Plants"
+    },
+    {
+      "file": "heat_conduction",
+      "title": "Heat Conduction"
+    },
+    {
+      "file": "heat_cramps",
+      "title": "Heat Cramps"
+    },
+    {
+      "file": "heat_exhaustion",
+      "title": "Heat Exhaustion"
+    },
+    {
+      "file": "heat_rash",
+      "title": "Heat Rash"
+    },
+    {
+      "file": "heatstroke_emergency",
+      "title": "Heatstroke Emergency"
+    },
+    {
+      "file": "heatwave_safety",
+      "title": "Heatwave Safety"
+    },
+    {
+      "file": "hot_car_interior",
+      "title": "Hot Car Interior"
+    },
+    {
+      "file": "hot_pavement",
+      "title": "Hot Pavement"
+    },
+    {
+      "file": "hottest_time_of_day",
+      "title": "Hottest Time Of Day"
+    },
+    {
+      "file": "keeping_home_cool",
+      "title": "Keeping Home Cool"
+    },
+    {
+      "file": "midday_sun_intensity",
+      "title": "Midday Sun Intensity"
+    },
+    {
+      "file": "mirages",
+      "title": "Mirages"
+    },
+    {
+      "file": "night_cooling",
+      "title": "Night Cooling"
+    },
+    {
+      "file": "outdoor_work_heat",
+      "title": "Outdoor Work Heat"
+    },
+    {
+      "file": "radiant_heat",
+      "title": "Radiant Heat"
+    },
+    {
+      "file": "sleeping_in_heat",
+      "title": "Sleeping In Heat"
+    },
+    {
+      "file": "summer_sun_angle",
+      "title": "Summer Sun Angle"
+    },
+    {
+      "file": "sun_and_skin_types",
+      "title": "Sun And Skin Types"
+    },
+    {
+      "file": "sun_and_weather_forecasts",
+      "title": "Sun And Weather Forecasts"
+    },
+    {
+      "file": "sun_glare",
+      "title": "Sun Glare"
+    },
+    {
+      "file": "sun_protective_clothing",
+      "title": "Sun Protective Clothing"
+    },
+    {
+      "file": "sun_shadows",
+      "title": "Sun Shadows"
+    },
+    {
+      "file": "sun_through_windows",
+      "title": "Sun Through Windows"
+    },
+    {
+      "file": "sun_warms_earth",
+      "title": "Sun Warms Earth"
+    },
+    {
+      "file": "sunburn_causes",
+      "title": "Sunburn Causes"
+    },
+    {
+      "file": "sunburn_in_children",
+      "title": "Sunburn In Children"
+    },
+    {
+      "file": "sunburn_treatment",
+      "title": "Sunburn Treatment"
+    },
+    {
+      "file": "sunscreen_basics",
+      "title": "Sunscreen Basics"
+    },
+    {
+      "file": "sweating_cooling",
+      "title": "Sweating Cooling"
+    },
+    {
+      "file": "tanning_skin",
+      "title": "Tanning Skin"
+    },
+    {
+      "file": "thermal_expansion",
+      "title": "Thermal Expansion"
+    },
+    {
+      "file": "thermometer_shade",
+      "title": "Thermometer Shade"
+    },
+    {
+      "file": "trees_and_shade",
+      "title": "Trees And Shade"
+    },
+    {
+      "file": "uv_index",
+      "title": "Uv Index"
+    },
+    {
+      "file": "vitamin_d_sunlight",
+      "title": "Vitamin D Sunlight"
+    }
+  ]
+}

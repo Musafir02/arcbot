@@ -1,0 +1,207 @@
+{
+  "category": "nature",
+  "domain": "wind",
+  "title": "Wind",
+  "modules": [
+    {
+      "file": "anabatic_winds",
+      "title": "Anabatic Winds"
+    },
+    {
+      "file": "anemometers",
+      "title": "Anemometers"
+    },
+    {
+      "file": "anticyclones",
+      "title": "Anticyclones"
+    },
+    {
+      "file": "beaufort_scale",
+      "title": "Beaufort Scale"
+    },
+    {
+      "file": "bora_wind",
+      "title": "Bora Wind"
+    },
+    {
+      "file": "chinook_winds",
+      "title": "Chinook Winds"
+    },
+    {
+      "file": "coriolis_effect",
+      "title": "Coriolis Effect"
+    },
+    {
+      "file": "crosswinds",
+      "title": "Crosswinds"
+    },
+    {
+      "file": "cyclones",
+      "title": "Cyclones"
+    },
+    {
+      "file": "dust_storms",
+      "title": "Dust Storms"
+    },
+    {
+      "file": "foehn_winds",
+      "title": "Foehn Winds"
+    },
+    {
+      "file": "gales",
+      "title": "Gales"
+    },
+    {
+      "file": "gap_winds",
+      "title": "Gap Winds"
+    },
+    {
+      "file": "geostrophic_wind",
+      "title": "Geostrophic Wind"
+    },
+    {
+      "file": "gusts",
+      "title": "Gusts"
+    },
+    {
+      "file": "haboobs",
+      "title": "Haboobs"
+    },
+    {
+      "file": "harmattan_wind",
+      "title": "Harmattan Wind"
+    },
+    {
+      "file": "jet_stream",
+      "title": "Jet Stream"
+    },
+    {
+      "file": "katabatic_winds",
+      "title": "Katabatic Winds"
+    },
+    {
+      "file": "land_breezes",
+      "title": "Land Breezes"
+    },
+    {
+      "file": "mistral_wind",
+      "title": "Mistral Wind"
+    },
+    {
+      "file": "monsoons",
+      "title": "Monsoons"
+    },
+    {
+      "file": "mountain_breezes",
+      "title": "Mountain Breezes"
+    },
+    {
+      "file": "night_winds",
+      "title": "Night Winds"
+    },
+    {
+      "file": "polar_easterlies",
+      "title": "Polar Easterlies"
+    },
+    {
+      "file": "pressure_gradient",
+      "title": "Pressure Gradient"
+    },
+    {
+      "file": "prevailing_winds",
+      "title": "Prevailing Winds"
+    },
+    {
+      "file": "sailing_winds",
+      "title": "Sailing Winds"
+    },
+    {
+      "file": "sea_breezes",
+      "title": "Sea Breezes"
+    },
+    {
+      "file": "sirocco_wind",
+      "title": "Sirocco Wind"
+    },
+    {
+      "file": "squalls",
+      "title": "Squalls"
+    },
+    {
+      "file": "trade_winds",
+      "title": "Trade Winds"
+    },
+    {
+      "file": "tropical_cyclone_winds",
+      "title": "Tropical Cyclone Winds"
+    },
+    {
+      "file": "turbulence",
+      "title": "Turbulence"
+    },
+    {
+      "file": "urban_winds",
+      "title": "Urban Winds"
+    },
+    {
+      "file": "valley_breezes",
+      "title": "Valley Breezes"
+    },
+    {
+      "file": "westerlies",
+      "title": "Westerlies"
+    },
+    {
+      "file": "what_is_wind",
+      "title": "What Is Wind"
+    },
+    {
+      "file": "whirlwinds",
+      "title": "Whirlwinds"
+    },
+    {
+      "file": "wind_chill",
+      "title": "Wind Chill"
+    },
+    {
+      "file": "wind_direction",
+      "title": "Wind Direction"
+    },
+    {
+      "file": "wind_erosion",
+      "title": "Wind Erosion"
+    },
+    {
+      "file": "wind_forecasting",
+      "title": "Wind Forecasting"
+    },
+    {
+      "file": "wind_roses",
+      "title": "Wind Roses"
+    },
+    {
+      "file": "wind_shear",
+      "title": "Wind Shear"
+    },
+    {
+      "file": "wind_shelters",
+      "title": "Wind Shelters"
+    },
+    {
+      "file": "wind_speed_at_height",
+      "title": "Wind Speed At Height"
+    },
+    {
+      "file": "wind_turbines",
+      "title": "Wind Turbines"
+    },
+    {
+      "file": "wind_vanes",
+      "title": "Wind Vanes"
+    },
+    {
+      "file": "windmills",
+      "title": "Windmills"
+    }
+  ]
+}

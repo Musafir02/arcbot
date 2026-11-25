@@ -1,0 +1,207 @@
+{
+  "category": "nature",
+  "domain": "seasons",
+  "title": "Seasons",
+  "modules": [
+    {
+      "file": "animals_hibernating_in_winter",
+      "title": "Animals Hibernating In Winter"
+    },
+    {
+      "file": "autumn_bird_migration",
+      "title": "Autumn Bird Migration"
+    },
+    {
+      "file": "autumn_equinox",
+      "title": "Autumn Equinox"
+    },
+    {
+      "file": "autumn_frost_and_first_freeze",
+      "title": "Autumn Frost And First Freeze"
+    },
+    {
+      "file": "autumn_harvest_season",
+      "title": "Autumn Harvest Season"
+    },
+    {
+      "file": "axial_tilt_and_seasons",
+      "title": "Axial Tilt And Seasons"
+    },
+    {
+      "file": "clocks_go_back_in_autumn",
+      "title": "Clocks Go Back In Autumn"
+    },
+    {
+      "file": "daylight_saving_time_in_spring",
+      "title": "Daylight Saving Time In Spring"
+    },
+    {
+      "file": "distance_from_sun_and_seasons",
+      "title": "Distance From Sun And Seasons"
+    },
+    {
+      "file": "earth_orbit_and_seasons",
+      "title": "Earth Orbit And Seasons"
+    },
+    {
+      "file": "equinox_day_and_night",
+      "title": "Equinox Day And Night"
+    },
+    {
+      "file": "first_day_of_autumn",
+      "title": "First Day Of Autumn"
+    },
+    {
+      "file": "first_day_of_spring",
+      "title": "First Day Of Spring"
+    },
+    {
+      "file": "frost_in_late_spring",
+      "title": "Frost In Late Spring"
+    },
+    {
+      "file": "hay_fever_in_pollen_season",
+      "title": "Hay Fever In Pollen Season"
+    },
+    {
+      "file": "hurricane_season",
+      "title": "Hurricane Season"
+    },
+    {
+      "file": "longer_days_in_summer",
+      "title": "Longer Days In Summer"
+    },
+    {
+      "file": "meteorological_vs_astronomical_seasons",
+      "title": "Meteorological Vs Astronomical Seasons"
+    },
+    {
+      "file": "monsoon_season",
+      "title": "Monsoon Season"
+    },
+    {
+      "file": "pollen_season_in_spring",
+      "title": "Pollen Season In Spring"
+    },
+    {
+      "file": "seasonal_affective_disorder_in_winter",
+      "title": "Seasonal Affective Disorder In Winter"
+    },
+    {
+      "file": "seasonal_daylight_hours",
+      "title": "Seasonal Daylight Hours"
+    },
+    {
+      "file": "seasonal_fruit_and_vegetables",
+      "title": "Seasonal Fruit And Vegetables"
+    },
+    {
+      "file": "seasonal_temperature_lag",
+      "title": "Seasonal Temperature Lag"
+    },
+    {
+      "file": "seasonal_winds_and_breezes",
+      "title": "Seasonal Winds And Breezes"
+    },
+    {
+      "file": "seasons_and_farming_calendar",
+      "title": "Seasons And Farming Calendar"
+    },
+    {
+      "file": "seasons_and_jet_stream",
+      "title": "Seasons And Jet Stream"
+    },
+    {
+      "file": "seasons_and_ocean_currents",
+      "title": "Seasons And Ocean Currents"
+    },
+    {
+      "file": "seasons_at_the_equator",
+      "title": "Seasons At The Equator"
+    },
+    {
+      "file": "seasons_in_southern_hemisphere",
+      "title": "Seasons In Southern Hemisphere"
+    },
+    {
+      "file": "seasons_in_the_arctic",
+      "title": "Seasons In The Arctic"
+    },
+    {
+      "file": "shorter_days_in_winter",
+      "title": "Shorter Days In Winter"
+    },
+    {
+      "file": "spring_birdsong_and_nesting",
+      "title": "Spring Birdsong And Nesting"
+    },
+    {
+      "file": "spring_equinox",
+      "title": "Spring Equinox"
+    },
+    {
+      "file": "spring_flowering_season",
+      "title": "Spring Flowering Season"
+    },
+    {
+      "file": "spring_leaves_and_growth",
+      "title": "Spring Leaves And Growth"
+    },
+    {
+      "file": "summer_heat_and_sun_safety",
+      "title": "Summer Heat And Sun Safety"
+    },
+    {
+      "file": "summer_plant_growth",
+      "title": "Summer Plant Growth"
+    },
+    {
+      "file": "summer_solstice",
+      "title": "Summer Solstice"
+    },
+    {
+      "file": "sun_angle_in_summer_and_winter",
+      "title": "Sun Angle In Summer And Winter"
+    },
+    {
+      "file": "wet_and_dry_seasons",
+      "title": "Wet And Dry Seasons"
+    },
+    {
+      "file": "why_autumn_follows_summer",
+      "title": "Why Autumn Follows Summer"
+    },
+    {
+      "file": "why_four_seasons",
+      "title": "Why Four Seasons"
+    },
+    {
+      "file": "why_leaves_change_colour_in_autumn",
+      "title": "Why Leaves Change Colour In Autumn"
+    },
+    {
+      "file": "why_leaves_fall_in_autumn",
+      "title": "Why Leaves Fall In Autumn"
+    },
+    {
+      "file": "why_spring_follows_winter",
+      "title": "Why Spring Follows Winter"
+    },
+    {
+      "file": "wildfire_season_in_summer",
+      "title": "Wildfire Season In Summer"
+    },
+    {
+      "file": "winter_plant_dormancy",
+      "title": "Winter Plant Dormancy"
+    },
+    {
+      "file": "winter_solstice",
+      "title": "Winter Solstice"
+    },
+    {
+      "file": "winter_sunlight_and_mood",
+      "title": "Winter Sunlight And Mood"
+    }
+  ]
+}

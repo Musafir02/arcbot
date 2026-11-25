@@ -1,0 +1,207 @@
+{
+  "category": "nature",
+  "domain": "rain_and_storms",
+  "title": "Rain And Storms",
+  "modules": [
+    {
+      "file": "aquaplaning",
+      "title": "Aquaplaning"
+    },
+    {
+      "file": "barometer_and_storms",
+      "title": "Barometer And Storms"
+    },
+    {
+      "file": "choosing_a_raincoat",
+      "title": "Choosing A Raincoat"
+    },
+    {
+      "file": "choosing_an_umbrella",
+      "title": "Choosing An Umbrella"
+    },
+    {
+      "file": "desert_rainfall",
+      "title": "Desert Rainfall"
+    },
+    {
+      "file": "driving_in_heavy_rain",
+      "title": "Driving In Heavy Rain"
+    },
+    {
+      "file": "drizzle_and_light_rain",
+      "title": "Drizzle And Light Rain"
+    },
+    {
+      "file": "drying_wet_clothes",
+      "title": "Drying Wet Clothes"
+    },
+    {
+      "file": "flash_floods",
+      "title": "Flash Floods"
+    },
+    {
+      "file": "flood_warnings",
+      "title": "Flood Warnings"
+    },
+    {
+      "file": "freezing_rain",
+      "title": "Freezing Rain"
+    },
+    {
+      "file": "garden_drainage_after_rain",
+      "title": "Garden Drainage After Rain"
+    },
+    {
+      "file": "hailstones",
+      "title": "Hailstones"
+    },
+    {
+      "file": "how_rain_forms",
+      "title": "How Rain Forms"
+    },
+    {
+      "file": "hurricane_formation",
+      "title": "Hurricane Formation"
+    },
+    {
+      "file": "hurricane_preparation",
+      "title": "Hurricane Preparation"
+    },
+    {
+      "file": "lightning_formation",
+      "title": "Lightning Formation"
+    },
+    {
+      "file": "monsoons",
+      "title": "Monsoons"
+    },
+    {
+      "file": "mountain_rainfall",
+      "title": "Mountain Rainfall"
+    },
+    {
+      "file": "passing_showers",
+      "title": "Passing Showers"
+    },
+    {
+      "file": "power_cuts_in_storms",
+      "title": "Power Cuts In Storms"
+    },
+    {
+      "file": "preparing_home_for_storms",
+      "title": "Preparing Home For Storms"
+    },
+    {
+      "file": "rain_and_air_quality",
+      "title": "Rain And Air Quality"
+    },
+    {
+      "file": "rain_and_garden_plants",
+      "title": "Rain And Garden Plants"
+    },
+    {
+      "file": "rain_forecasting",
+      "title": "Rain Forecasting"
+    },
+    {
+      "file": "rain_shadows",
+      "title": "Rain Shadows"
+    },
+    {
+      "file": "rain_sounds_for_sleep",
+      "title": "Rain Sounds For Sleep"
+    },
+    {
+      "file": "rainbows",
+      "title": "Rainbows"
+    },
+    {
+      "file": "rainfall_measurement",
+      "title": "Rainfall Measurement"
+    },
+    {
+      "file": "rainforest_rainfall",
+      "title": "Rainforest Rainfall"
+    },
+    {
+      "file": "regional_rainfall_differences",
+      "title": "Regional Rainfall Differences"
+    },
+    {
+      "file": "roof_leaks_in_storms",
+      "title": "Roof Leaks In Storms"
+    },
+    {
+      "file": "seasonal_rain_patterns",
+      "title": "Seasonal Rain Patterns"
+    },
+    {
+      "file": "sleet_and_winter_rain",
+      "title": "Sleet And Winter Rain"
+    },
+    {
+      "file": "smell_of_rain",
+      "title": "Smell Of Rain"
+    },
+    {
+      "file": "storm_damaged_trees",
+      "title": "Storm Damaged Trees"
+    },
+    {
+      "file": "storm_safety_indoors",
+      "title": "Storm Safety Indoors"
+    },
+    {
+      "file": "storm_surge",
+      "title": "Storm Surge"
+    },
+    {
+      "file": "storm_updrafts",
+      "title": "Storm Updrafts"
+    },
+    {
+      "file": "storm_warning_signs",
+      "title": "Storm Warning Signs"
+    },
+    {
+      "file": "thunder_sound",
+      "title": "Thunder Sound"
+    },
+    {
+      "file": "thunderstorm_formation",
+      "title": "Thunderstorm Formation"
+    },
+    {
+      "file": "thunderstorm_life_cycle",
+      "title": "Thunderstorm Life Cycle"
+    },
+    {
+      "file": "tornado_formation",
+      "title": "Tornado Formation"
+    },
+    {
+      "file": "tornado_safety",
+      "title": "Tornado Safety"
+    },
+    {
+      "file": "walking_in_the_rain",
+      "title": "Walking In The Rain"
+    },
+    {
+      "file": "waterproof_clothing_care",
+      "title": "Waterproof Clothing Care"
+    },
+    {
+      "file": "weather_radar_for_rain",
+      "title": "Weather Radar For Rain"
+    },
+    {
+      "file": "weather_warnings_explained",
+      "title": "Weather Warnings Explained"
+    },
+    {
+      "file": "wellington_boots",
+      "title": "Wellington Boots"
+    }
+  ]
+}

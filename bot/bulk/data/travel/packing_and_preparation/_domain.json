@@ -1,0 +1,207 @@
+{
+  "category": "travel",
+  "domain": "packing_and_preparation",
+  "title": "Packing And Preparation",
+  "modules": [
+    {
+      "file": "airport_liquid_rules",
+      "title": "Airport Liquid Rules"
+    },
+    {
+      "file": "baby_travel_essentials",
+      "title": "Baby Travel Essentials"
+    },
+    {
+      "file": "backpacking_packing",
+      "title": "Backpacking Packing"
+    },
+    {
+      "file": "beach_holiday_packing",
+      "title": "Beach Holiday Packing"
+    },
+    {
+      "file": "business_trip_packing",
+      "title": "Business Trip Packing"
+    },
+    {
+      "file": "camera_gear_packing",
+      "title": "Camera Gear Packing"
+    },
+    {
+      "file": "camping_trip_packing",
+      "title": "Camping Trip Packing"
+    },
+    {
+      "file": "carry_on_luggage",
+      "title": "Carry On Luggage"
+    },
+    {
+      "file": "checked_luggage",
+      "title": "Checked Luggage"
+    },
+    {
+      "file": "city_break_packing",
+      "title": "City Break Packing"
+    },
+    {
+      "file": "clothes_for_flying",
+      "title": "Clothes For Flying"
+    },
+    {
+      "file": "cold_weather_trip_packing",
+      "title": "Cold Weather Trip Packing"
+    },
+    {
+      "file": "copies_of_travel_documents",
+      "title": "Copies Of Travel Documents"
+    },
+    {
+      "file": "cruise_packing",
+      "title": "Cruise Packing"
+    },
+    {
+      "file": "final_packing_check",
+      "title": "Final Packing Check"
+    },
+    {
+      "file": "hiking_trip_packing",
+      "title": "Hiking Trip Packing"
+    },
+    {
+      "file": "hot_weather_packing",
+      "title": "Hot Weather Packing"
+    },
+    {
+      "file": "jewellery_for_travel",
+      "title": "Jewellery For Travel"
+    },
+    {
+      "file": "laptop_and_tablet_packing",
+      "title": "Laptop And Tablet Packing"
+    },
+    {
+      "file": "laundry_while_travelling",
+      "title": "Laundry While Travelling"
+    },
+    {
+      "file": "left_luggage_storage",
+      "title": "Left Luggage Storage"
+    },
+    {
+      "file": "long_flight_essentials",
+      "title": "Long Flight Essentials"
+    },
+    {
+      "file": "luggage_locks",
+      "title": "Luggage Locks"
+    },
+    {
+      "file": "luggage_tags",
+      "title": "Luggage Tags"
+    },
+    {
+      "file": "luggage_weight_limits",
+      "title": "Luggage Weight Limits"
+    },
+    {
+      "file": "mixing_and_matching_outfits",
+      "title": "Mixing And Matching Outfits"
+    },
+    {
+      "file": "packing_clothes_for_a_week",
+      "title": "Packing Clothes For A Week"
+    },
+    {
+      "file": "packing_cubes",
+      "title": "Packing Cubes"
+    },
+    {
+      "file": "packing_for_children",
+      "title": "Packing For Children"
+    },
+    {
+      "file": "packing_list_basics",
+      "title": "Packing List Basics"
+    },
+    {
+      "file": "packing_toiletries",
+      "title": "Packing Toiletries"
+    },
+    {
+      "file": "passport_and_visa_checks",
+      "title": "Passport And Visa Checks"
+    },
+    {
+      "file": "pet_travel_packing",
+      "title": "Pet Travel Packing"
+    },
+    {
+      "file": "power_banks_for_flights",
+      "title": "Power Banks For Flights"
+    },
+    {
+      "file": "rainy_city_break_packing",
+      "title": "Rainy City Break Packing"
+    },
+    {
+      "file": "road_trip_packing",
+      "title": "Road Trip Packing"
+    },
+    {
+      "file": "rolling_clothes",
+      "title": "Rolling Clothes"
+    },
+    {
+      "file": "ski_trip_packing",
+      "title": "Ski Trip Packing"
+    },
+    {
+      "file": "spare_clothes_in_carry_on",
+      "title": "Spare Clothes In Carry On"
+    },
+    {
+      "file": "train_travel_packing",
+      "title": "Train Travel Packing"
+    },
+    {
+      "file": "travel_accessories",
+      "title": "Travel Accessories"
+    },
+    {
+      "file": "travel_adapters_and_chargers",
+      "title": "Travel Adapters And Chargers"
+    },
+    {
+      "file": "travel_documents",
+      "title": "Travel Documents"
+    },
+    {
+      "file": "travel_first_aid_kit",
+      "title": "Travel First Aid Kit"
+    },
+    {
+      "file": "travel_insurance_documents",
+      "title": "Travel Insurance Documents"
+    },
+    {
+      "file": "travel_medication",
+      "title": "Travel Medication"
+    },
+    {
+      "file": "travel_shoes",
+      "title": "Travel Shoes"
+    },
+    {
+      "file": "travel_sleep_essentials",
+      "title": "Travel Sleep Essentials"
+    },
+    {
+      "file": "wedding_guest_packing",
+      "title": "Wedding Guest Packing"
+    },
+    {
+      "file": "weekend_away_packing",
+      "title": "Weekend Away Packing"
+    }
+  ]
+}

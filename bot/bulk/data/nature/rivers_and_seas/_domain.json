@@ -1,0 +1,207 @@
+{
+  "category": "nature",
+  "domain": "rivers_and_seas",
+  "title": "Rivers And Seas",
+  "modules": [
+    {
+      "file": "coastal_deposition",
+      "title": "Coastal Deposition"
+    },
+    {
+      "file": "coastal_erosion",
+      "title": "Coastal Erosion"
+    },
+    {
+      "file": "coral_reefs",
+      "title": "Coral Reefs"
+    },
+    {
+      "file": "deep_sea",
+      "title": "Deep Sea"
+    },
+    {
+      "file": "ocean_currents",
+      "title": "Ocean Currents"
+    },
+    {
+      "file": "ocean_waves",
+      "title": "Ocean Waves"
+    },
+    {
+      "file": "rip_currents",
+      "title": "Rip Currents"
+    },
+    {
+      "file": "river_banks",
+      "title": "River Banks"
+    },
+    {
+      "file": "river_basins",
+      "title": "River Basins"
+    },
+    {
+      "file": "river_canals",
+      "title": "River Canals"
+    },
+    {
+      "file": "river_dams",
+      "title": "River Dams"
+    },
+    {
+      "file": "river_deltas",
+      "title": "River Deltas"
+    },
+    {
+      "file": "river_deposition",
+      "title": "River Deposition"
+    },
+    {
+      "file": "river_erosion",
+      "title": "River Erosion"
+    },
+    {
+      "file": "river_estuaries",
+      "title": "River Estuaries"
+    },
+    {
+      "file": "river_floodplains",
+      "title": "River Floodplains"
+    },
+    {
+      "file": "river_floods",
+      "title": "River Floods"
+    },
+    {
+      "file": "river_flow",
+      "title": "River Flow"
+    },
+    {
+      "file": "river_meanders",
+      "title": "River Meanders"
+    },
+    {
+      "file": "river_mouths",
+      "title": "River Mouths"
+    },
+    {
+      "file": "river_pollution",
+      "title": "River Pollution"
+    },
+    {
+      "file": "river_rapids",
+      "title": "River Rapids"
+    },
+    {
+      "file": "river_sources",
+      "title": "River Sources"
+    },
+    {
+      "file": "river_terraces",
+      "title": "River Terraces"
+    },
+    {
+      "file": "river_transport",
+      "title": "River Transport"
+    },
+    {
+      "file": "river_tributaries",
+      "title": "River Tributaries"
+    },
+    {
+      "file": "river_valleys",
+      "title": "River Valleys"
+    },
+    {
+      "file": "river_water_quality",
+      "title": "River Water Quality"
+    },
+    {
+      "file": "river_waterfalls",
+      "title": "River Waterfalls"
+    },
+    {
+      "file": "river_wildlife",
+      "title": "River Wildlife"
+    },
+    {
+      "file": "salt_marshes",
+      "title": "Salt Marshes"
+    },
+    {
+      "file": "sea_beaches",
+      "title": "Sea Beaches"
+    },
+    {
+      "file": "sea_cliffs",
+      "title": "Sea Cliffs"
+    },
+    {
+      "file": "sea_defences",
+      "title": "Sea Defences"
+    },
+    {
+      "file": "sea_floor",
+      "title": "Sea Floor"
+    },
+    {
+      "file": "sea_ice",
+      "title": "Sea Ice"
+    },
+    {
+      "file": "sea_levels",
+      "title": "Sea Levels"
+    },
+    {
+      "file": "sea_salt",
+      "title": "Sea Salt"
+    },
+    {
+      "file": "sea_storms",
+      "title": "Sea Storms"
+    },
+    {
+      "file": "sea_temperature",
+      "title": "Sea Temperature"
+    },
+    {
+      "file": "sea_tides",
+      "title": "Sea Tides"
+    },
+    {
+      "file": "sea_water",
+      "title": "Sea Water"
+    },
+    {
+      "file": "sea_wildlife",
+      "title": "Sea Wildlife"
+    },
+    {
+      "file": "spring_neap_tides",
+      "title": "Spring Neap Tides"
+    },
+    {
+      "file": "tidal_bore",
+      "title": "Tidal Bore"
+    },
+    {
+      "file": "tidal_ranges",
+      "title": "Tidal Ranges"
+    },
+    {
+      "file": "tidal_rivers",
+      "title": "Tidal Rivers"
+    },
+    {
+      "file": "tsunamis",
+      "title": "Tsunamis"
+    },
+    {
+      "file": "underground_rivers",
+      "title": "Underground Rivers"
+    },
+    {
+      "file": "wave_erosion",
+      "title": "Wave Erosion"
+    }
+  ]
+}

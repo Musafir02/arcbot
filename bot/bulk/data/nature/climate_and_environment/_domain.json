@@ -1,0 +1,207 @@
+{
+  "category": "nature",
+  "domain": "climate_and_environment",
+  "title": "Climate And Environment",
+  "modules": [
+    {
+      "file": "air_pollution",
+      "title": "Air Pollution"
+    },
+    {
+      "file": "biodiversity_loss",
+      "title": "Biodiversity Loss"
+    },
+    {
+      "file": "carbon_footprint",
+      "title": "Carbon Footprint"
+    },
+    {
+      "file": "climate_adaptation",
+      "title": "Climate Adaptation"
+    },
+    {
+      "file": "climate_and_food_security",
+      "title": "Climate And Food Security"
+    },
+    {
+      "file": "climate_and_health",
+      "title": "Climate And Health"
+    },
+    {
+      "file": "climate_change_basics",
+      "title": "Climate Change Basics"
+    },
+    {
+      "file": "climate_forecasting_models",
+      "title": "Climate Forecasting Models"
+    },
+    {
+      "file": "climate_mitigation",
+      "title": "Climate Mitigation"
+    },
+    {
+      "file": "community_climate_action",
+      "title": "Community Climate Action"
+    },
+    {
+      "file": "composting_food_waste",
+      "title": "Composting Food Waste"
+    },
+    {
+      "file": "coral_reefs_climate",
+      "title": "Coral Reefs Climate"
+    },
+    {
+      "file": "deforestation",
+      "title": "Deforestation"
+    },
+    {
+      "file": "desertification",
+      "title": "Desertification"
+    },
+    {
+      "file": "drought_preparation",
+      "title": "Drought Preparation"
+    },
+    {
+      "file": "electronic_waste",
+      "title": "Electronic Waste"
+    },
+    {
+      "file": "energy_efficiency_home",
+      "title": "Energy Efficiency Home"
+    },
+    {
+      "file": "environmental_volunteering",
+      "title": "Environmental Volunteering"
+    },
+    {
+      "file": "extreme_heat_health",
+      "title": "Extreme Heat Health"
+    },
+    {
+      "file": "extreme_weather_preparedness",
+      "title": "Extreme Weather Preparedness"
+    },
+    {
+      "file": "fast_fashion_impact",
+      "title": "Fast Fashion Impact"
+    },
+    {
+      "file": "flooding_preparedness",
+      "title": "Flooding Preparedness"
+    },
+    {
+      "file": "food_miles",
+      "title": "Food Miles"
+    },
+    {
+      "file": "green_buildings",
+      "title": "Green Buildings"
+    },
+    {
+      "file": "greenhouse_effect",
+      "title": "Greenhouse Effect"
+    },
+    {
+      "file": "habitat_conservation",
+      "title": "Habitat Conservation"
+    },
+    {
+      "file": "heatwave_safety",
+      "title": "Heatwave Safety"
+    },
+    {
+      "file": "household_waste_reduction",
+      "title": "Household Waste Reduction"
+    },
+    {
+      "file": "landfill_and_impact",
+      "title": "Landfill And Impact"
+    },
+    {
+      "file": "ocean_acidification",
+      "title": "Ocean Acidification"
+    },
+    {
+      "file": "ocean_pollution",
+      "title": "Ocean Pollution"
+    },
+    {
+      "file": "plant_based_diet_environment",
+      "title": "Plant Based Diet Environment"
+    },
+    {
+      "file": "plastic_pollution",
+      "title": "Plastic Pollution"
+    },
+    {
+      "file": "public_transport_benefits",
+      "title": "Public Transport Benefits"
+    },
+    {
+      "file": "recycling_basics",
+      "title": "Recycling Basics"
+    },
+    {
+      "file": "reforestation",
+      "title": "Reforestation"
+    },
+    {
+      "file": "renewable_energy_solar",
+      "title": "Renewable Energy Solar"
+    },
+    {
+      "file": "reusable_products",
+      "title": "Reusable Products"
+    },
+    {
+      "file": "sea_level_rise",
+      "title": "Sea Level Rise"
+    },
+    {
+      "file": "seasonal_eating",
+      "title": "Seasonal Eating"
+    },
+    {
+      "file": "soil_erosion",
+      "title": "Soil Erosion"
+    },
+    {
+      "file": "sustainable_shopping",
+      "title": "Sustainable Shopping"
+    },
+    {
+      "file": "sustainable_transport",
+      "title": "Sustainable Transport"
+    },
+    {
+      "file": "waste_separation",
+      "title": "Waste Separation"
+    },
+    {
+      "file": "waste_to_energy",
+      "title": "Waste To Energy"
+    },
+    {
+      "file": "water_conservation",
+      "title": "Water Conservation"
+    },
+    {
+      "file": "water_pollution",
+      "title": "Water Pollution"
+    },
+    {
+      "file": "weather_extremes_trends",
+      "title": "Weather Extremes Trends"
+    },
+    {
+      "file": "weather_vs_climate",
+      "title": "Weather Vs Climate"
+    },
+    {
+      "file": "wind_power",
+      "title": "Wind Power"
+    }
+  ]
+}
