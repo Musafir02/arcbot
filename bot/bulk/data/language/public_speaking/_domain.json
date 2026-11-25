@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "public_speaking",
+  "title": "Public Speaking",
+  "modules": [
+    {
+      "file": "accent_and_dialect",
+      "title": "Accent And Dialect"
+    },
+    {
+      "file": "articulation",
+      "title": "Articulation"
+    },
+    {
+      "file": "audience_questions",
+      "title": "Audience Questions"
+    },
+    {
+      "file": "body_language",
+      "title": "Body Language"
+    },
+    {
+      "file": "breathing_for_speakers",
+      "title": "Breathing For Speakers"
+    },
+    {
+      "file": "building_confidence",
+      "title": "Building Confidence"
+    },
+    {
+      "file": "call_to_action",
+      "title": "Call To Action"
+    },
+    {
+      "file": "delivering_a_eulogy",
+      "title": "Delivering A Eulogy"
+    },
+    {
+      "file": "engaging_the_audience",
+      "title": "Engaging The Audience"
+    },
+    {
+      "file": "eye_contact",
+      "title": "Eye Contact"
+    },
+    {
+      "file": "fear_of_public_speaking",
+      "title": "Fear Of Public Speaking"
+    },
+    {
+      "file": "filler_words",
+      "title": "Filler Words"
+    },
+    {
+      "file": "focusing_on_one_message",
+      "title": "Focusing On One Message"
+    },
+    {
+      "file": "gestures",
+      "title": "Gestures"
+    },
+    {
+      "file": "giving_a_toast",
+      "title": "Giving A Toast"
+    },
+    {
+      "file": "handling_forgetting_words",
+      "title": "Handling Forgetting Words"
+    },
+    {
+      "file": "handling_hecklers",
+      "title": "Handling Hecklers"
+    },
+    {
+      "file": "humour_in_speeches",
+      "title": "Humour In Speeches"
+    },
+    {
+      "file": "impromptu_speaking",
+      "title": "Impromptu Speaking"
+    },
+    {
+      "file": "informative_speeches",
+      "title": "Informative Speeches"
+    },
+    {
+      "file": "memorising_a_speech",
+      "title": "Memorising A Speech"
+    },
+    {
+      "file": "motivational_speeches",
+      "title": "Motivational Speeches"
+    },
+    {
+      "file": "nerves_and_shaking",
+      "title": "Nerves And Shaking"
+    },
+    {
+      "file": "opening_hooks",
+      "title": "Opening Hooks"
+    },
+    {
+      "file": "organising_main_points",
+      "title": "Organising Main Points"
+    },
+    {
+      "file": "persuasive_speaking",
+      "title": "Persuasive Speaking"
+    },
+    {
+      "file": "pitching_an_idea",
+      "title": "Pitching An Idea"
+    },
+    {
+      "file": "posture_and_stance",
+      "title": "Posture And Stance"
+    },
+    {
+      "file": "presentation_slides",
+      "title": "Presentation Slides"
+    },
+    {
+      "file": "presenting_on_video_calls",
+      "title": "Presenting On Video Calls"
+    },
+    {
+      "file": "reading_a_speech_aloud",
+      "title": "Reading A Speech Aloud"
+    },
+    {
+      "file": "rehearsing_a_speech",
+      "title": "Rehearsing A Speech"
+    },
+    {
+      "file": "rhetorical_devices",
+      "title": "Rhetorical Devices"
+    },
+    {
+      "file": "short_talk_length",
+      "title": "Short Talk Length"
+    },
+    {
+      "file": "signposting_a_talk",
+      "title": "Signposting A Talk"
+    },
+    {
+      "file": "speaking_at_meetings",
+      "title": "Speaking At Meetings"
+    },
+    {
+      "file": "speaking_clubs_and_coaching",
+      "title": "Speaking Clubs And Coaching"
+    },
+    {
+      "file": "speaking_from_notes",
+      "title": "Speaking From Notes"
+    },
+    {
+      "file": "speaking_pace",
+      "title": "Speaking Pace"
+    },
+    {
+      "file": "speech_closings",
+      "title": "Speech Closings"
+    },
+    {
+      "file": "speech_openings",
+      "title": "Speech Openings"
+    },
+    {
+      "file": "stage_movement",
+      "title": "Stage Movement"
+    },
+    {
+      "file": "storytelling_in_speeches",
+      "title": "Storytelling In Speeches"
+    },
+    {
+      "file": "structuring_a_short_speech",
+      "title": "Structuring A Short Speech"
+    },
+    {
+      "file": "using_a_microphone",
+      "title": "Using A Microphone"
+    },
+    {
+      "file": "using_pauses",
+      "title": "Using Pauses"
+    },
+    {
+      "file": "visual_aids",
+      "title": "Visual Aids"
+    },
+    {
+      "file": "vocal_variety",
+      "title": "Vocal Variety"
+    },
+    {
+      "file": "voice_projection",
+      "title": "Voice Projection"
+    },
+    {
+      "file": "writing_a_speech_script",
+      "title": "Writing A Speech Script"
+    }
+  ]
+}

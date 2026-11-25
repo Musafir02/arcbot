@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "translation",
+  "title": "Translation",
+  "modules": [
+    {
+      "file": "cultural_references",
+      "title": "Cultural References"
+    },
+    {
+      "file": "formality_and_tone",
+      "title": "Formality And Tone"
+    },
+    {
+      "file": "gendered_language",
+      "title": "Gendered Language"
+    },
+    {
+      "file": "hiring_a_translator",
+      "title": "Hiring A Translator"
+    },
+    {
+      "file": "literal_vs_free_translation",
+      "title": "Literal Vs Free Translation"
+    },
+    {
+      "file": "machine_translation_limits",
+      "title": "Machine Translation Limits"
+    },
+    {
+      "file": "software_localisation",
+      "title": "Software Localisation"
+    },
+    {
+      "file": "translating_academic_papers",
+      "title": "Translating Academic Papers"
+    },
+    {
+      "file": "translating_books",
+      "title": "Translating Books"
+    },
+    {
+      "file": "translating_business_emails",
+      "title": "Translating Business Emails"
+    },
+    {
+      "file": "translating_certificates",
+      "title": "Translating Certificates"
+    },
+    {
+      "file": "translating_childrens_books",
+      "title": "Translating Childrens Books"
+    },
+    {
+      "file": "translating_contracts",
+      "title": "Translating Contracts"
+    },
+    {
+      "file": "translating_currency",
+      "title": "Translating Currency"
+    },
+    {
+      "file": "translating_cvs",
+      "title": "Translating Cvs"
+    },
+    {
+      "file": "translating_dates_and_numbers",
+      "title": "Translating Dates And Numbers"
+    },
+    {
+      "file": "translating_dialects",
+      "title": "Translating Dialects"
+    },
+    {
+      "file": "translating_dubbing",
+      "title": "Translating Dubbing"
+    },
+    {
+      "file": "translating_financial_documents",
+      "title": "Translating Financial Documents"
+    },
+    {
+      "file": "translating_humour",
+      "title": "Translating Humour"
+    },
+    {
+      "file": "translating_idioms",
+      "title": "Translating Idioms"
+    },
+    {
+      "file": "translating_instructions",
+      "title": "Translating Instructions"
+    },
+    {
+      "file": "translating_invitations",
+      "title": "Translating Invitations"
+    },
+    {
+      "file": "translating_legal_documents",
+      "title": "Translating Legal Documents"
+    },
+    {
+      "file": "translating_marketing_copy",
+      "title": "Translating Marketing Copy"
+    },
+    {
+      "file": "translating_measurements",
+      "title": "Translating Measurements"
+    },
+    {
+      "file": "translating_medical_texts",
+      "title": "Translating Medical Texts"
+    },
+    {
+      "file": "translating_menus",
+      "title": "Translating Menus"
+    },
+    {
+      "file": "translating_metaphors",
+      "title": "Translating Metaphors"
+    },
+    {
+      "file": "translating_names",
+      "title": "Translating Names"
+    },
+    {
+      "file": "translating_patents",
+      "title": "Translating Patents"
+    },
+    {
+      "file": "translating_personal_letters",
+      "title": "Translating Personal Letters"
+    },
+    {
+      "file": "translating_place_names",
+      "title": "Translating Place Names"
+    },
+    {
+      "file": "translating_poetry",
+      "title": "Translating Poetry"
+    },
+    {
+      "file": "translating_product_descriptions",
+      "title": "Translating Product Descriptions"
+    },
+    {
+      "file": "translating_proverbs",
+      "title": "Translating Proverbs"
+    },
+    {
+      "file": "translating_recipes",
+      "title": "Translating Recipes"
+    },
+    {
+      "file": "translating_signs_and_notices",
+      "title": "Translating Signs And Notices"
+    },
+    {
+      "file": "translating_slogans",
+      "title": "Translating Slogans"
+    },
+    {
+      "file": "translating_social_media",
+      "title": "Translating Social Media"
+    },
+    {
+      "file": "translating_subtitles",
+      "title": "Translating Subtitles"
+    },
+    {
+      "file": "translating_technical_terms",
+      "title": "Translating Technical Terms"
+    },
+    {
+      "file": "translating_travel_phrases",
+      "title": "Translating Travel Phrases"
+    },
+    {
+      "file": "translating_user_manuals",
+      "title": "Translating User Manuals"
+    },
+    {
+      "file": "translating_video_games",
+      "title": "Translating Video Games"
+    },
+    {
+      "file": "translating_websites",
+      "title": "Translating Websites"
+    },
+    {
+      "file": "translating_wordplay",
+      "title": "Translating Wordplay"
+    },
+    {
+      "file": "translation_accuracy",
+      "title": "Translation Accuracy"
+    },
+    {
+      "file": "translation_glossaries",
+      "title": "Translation Glossaries"
+    },
+    {
+      "file": "translation_memory",
+      "title": "Translation Memory"
+    }
+  ]
+}

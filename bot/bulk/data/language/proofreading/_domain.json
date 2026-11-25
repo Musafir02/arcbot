@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "proofreading",
+  "title": "Proofreading",
+  "modules": [
+    {
+      "file": "abbreviations",
+      "title": "Abbreviations"
+    },
+    {
+      "file": "acronyms",
+      "title": "Acronyms"
+    },
+    {
+      "file": "affect_versus_effect",
+      "title": "Affect Versus Effect"
+    },
+    {
+      "file": "apostrophe_checks",
+      "title": "Apostrophe Checks"
+    },
+    {
+      "file": "bibliography_checks",
+      "title": "Bibliography Checks"
+    },
+    {
+      "file": "brackets",
+      "title": "Brackets"
+    },
+    {
+      "file": "capitalisation_checks",
+      "title": "Capitalisation Checks"
+    },
+    {
+      "file": "citation_checks",
+      "title": "Citation Checks"
+    },
+    {
+      "file": "comma_checks",
+      "title": "Comma Checks"
+    },
+    {
+      "file": "commonly_confused_words",
+      "title": "Commonly Confused Words"
+    },
+    {
+      "file": "dashes",
+      "title": "Dashes"
+    },
+    {
+      "file": "essay_final_checks",
+      "title": "Essay Final Checks"
+    },
+    {
+      "file": "fewer_versus_less",
+      "title": "Fewer Versus Less"
+    },
+    {
+      "file": "formatting_checks",
+      "title": "Formatting Checks"
+    },
+    {
+      "file": "fresh_eyes",
+      "title": "Fresh Eyes"
+    },
+    {
+      "file": "grammar_check_tools",
+      "title": "Grammar Check Tools"
+    },
+    {
+      "file": "heading_consistency",
+      "title": "Heading Consistency"
+    },
+    {
+      "file": "hyphenation",
+      "title": "Hyphenation"
+    },
+    {
+      "file": "its_versus_its",
+      "title": "Its Versus Its"
+    },
+    {
+      "file": "names_and_terms",
+      "title": "Names And Terms"
+    },
+    {
+      "file": "numbered_lists",
+      "title": "Numbered Lists"
+    },
+    {
+      "file": "numbers_and_dates",
+      "title": "Numbers And Dates"
+    },
+    {
+      "file": "paragraph_flow",
+      "title": "Paragraph Flow"
+    },
+    {
+      "file": "passive_voice",
+      "title": "Passive Voice"
+    },
+    {
+      "file": "peer_proofreading",
+      "title": "Peer Proofreading"
+    },
+    {
+      "file": "pronoun_agreement",
+      "title": "Pronoun Agreement"
+    },
+    {
+      "file": "proofreading_checklist",
+      "title": "Proofreading Checklist"
+    },
+    {
+      "file": "proofreading_on_screen",
+      "title": "Proofreading On Screen"
+    },
+    {
+      "file": "proofreading_order",
+      "title": "Proofreading Order"
+    },
+    {
+      "file": "proofreading_own_writing",
+      "title": "Proofreading Own Writing"
+    },
+    {
+      "file": "proofreading_printouts",
+      "title": "Proofreading Printouts"
+    },
+    {
+      "file": "punctuation_checks",
+      "title": "Punctuation Checks"
+    },
+    {
+      "file": "quotation_marks",
+      "title": "Quotation Marks"
+    },
+    {
+      "file": "quote_accuracy",
+      "title": "Quote Accuracy"
+    },
+    {
+      "file": "reading_aloud",
+      "title": "Reading Aloud"
+    },
+    {
+      "file": "redundant_words",
+      "title": "Redundant Words"
+    },
+    {
+      "file": "repeated_words",
+      "title": "Repeated Words"
+    },
+    {
+      "file": "run_on_sentences",
+      "title": "Run On Sentences"
+    },
+    {
+      "file": "semicolon_checks",
+      "title": "Semicolon Checks"
+    },
+    {
+      "file": "sentence_fragments",
+      "title": "Sentence Fragments"
+    },
+    {
+      "file": "sentence_length",
+      "title": "Sentence Length"
+    },
+    {
+      "file": "spellchecker_limits",
+      "title": "Spellchecker Limits"
+    },
+    {
+      "file": "spotting_typos",
+      "title": "Spotting Typos"
+    },
+    {
+      "file": "style_consistency",
+      "title": "Style Consistency"
+    },
+    {
+      "file": "subject_verb_agreement",
+      "title": "Subject Verb Agreement"
+    },
+    {
+      "file": "tense_consistency",
+      "title": "Tense Consistency"
+    },
+    {
+      "file": "who_versus_whom",
+      "title": "Who Versus Whom"
+    },
+    {
+      "file": "word_choice",
+      "title": "Word Choice"
+    },
+    {
+      "file": "wordiness",
+      "title": "Wordiness"
+    },
+    {
+      "file": "your_versus_youre",
+      "title": "Your Versus Youre"
+    }
+  ]
+}

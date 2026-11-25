@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "online_courses",
+  "title": "Online Courses",
+  "modules": [
+    {
+      "file": "ai_tools_online_courses",
+      "title": "Ai Tools Online Courses"
+    },
+    {
+      "file": "auditing_online_courses",
+      "title": "Auditing Online Courses"
+    },
+    {
+      "file": "choosing_an_online_course",
+      "title": "Choosing An Online Course"
+    },
+    {
+      "file": "dropping_online_course",
+      "title": "Dropping Online Course"
+    },
+    {
+      "file": "free_online_courses",
+      "title": "Free Online Courses"
+    },
+    {
+      "file": "online_coding_course",
+      "title": "Online Coding Course"
+    },
+    {
+      "file": "online_course_accessibility",
+      "title": "Online Course Accessibility"
+    },
+    {
+      "file": "online_course_assignments",
+      "title": "Online Course Assignments"
+    },
+    {
+      "file": "online_course_breaks",
+      "title": "Online Course Breaks"
+    },
+    {
+      "file": "online_course_career_change",
+      "title": "Online Course Career Change"
+    },
+    {
+      "file": "online_course_certificates",
+      "title": "Online Course Certificates"
+    },
+    {
+      "file": "online_course_completion",
+      "title": "Online Course Completion"
+    },
+    {
+      "file": "online_course_costs",
+      "title": "Online Course Costs"
+    },
+    {
+      "file": "online_course_credit",
+      "title": "Online Course Credit"
+    },
+    {
+      "file": "online_course_cv",
+      "title": "Online Course Cv"
+    },
+    {
+      "file": "online_course_deadlines",
+      "title": "Online Course Deadlines"
+    },
+    {
+      "file": "online_course_enrolment",
+      "title": "Online Course Enrolment"
+    },
+    {
+      "file": "online_course_exams",
+      "title": "Online Course Exams"
+    },
+    {
+      "file": "online_course_feedback",
+      "title": "Online Course Feedback"
+    },
+    {
+      "file": "online_course_forums",
+      "title": "Online Course Forums"
+    },
+    {
+      "file": "online_course_goals",
+      "title": "Online Course Goals"
+    },
+    {
+      "file": "online_course_group_work",
+      "title": "Online Course Group Work"
+    },
+    {
+      "file": "online_course_help",
+      "title": "Online Course Help"
+    },
+    {
+      "file": "online_course_internet",
+      "title": "Online Course Internet"
+    },
+    {
+      "file": "online_course_job_skills",
+      "title": "Online Course Job Skills"
+    },
+    {
+      "file": "online_course_live_sessions",
+      "title": "Online Course Live Sessions"
+    },
+    {
+      "file": "online_course_mobile",
+      "title": "Online Course Mobile"
+    },
+    {
+      "file": "online_course_notes",
+      "title": "Online Course Notes"
+    },
+    {
+      "file": "online_course_offline",
+      "title": "Online Course Offline"
+    },
+    {
+      "file": "online_course_peer_review",
+      "title": "Online Course Peer Review"
+    },
+    {
+      "file": "online_course_plagiarism",
+      "title": "Online Course Plagiarism"
+    },
+    {
+      "file": "online_course_platforms",
+      "title": "Online Course Platforms"
+    },
+    {
+      "file": "online_course_prerequisites",
+      "title": "Online Course Prerequisites"
+    },
+    {
+      "file": "online_course_procrastination",
+      "title": "Online Course Procrastination"
+    },
+    {
+      "file": "online_course_progress",
+      "title": "Online Course Progress"
+    },
+    {
+      "file": "online_course_quizzes",
+      "title": "Online Course Quizzes"
+    },
+    {
+      "file": "online_course_recordings",
+      "title": "Online Course Recordings"
+    },
+    {
+      "file": "online_course_refunds",
+      "title": "Online Course Refunds"
+    },
+    {
+      "file": "online_course_schedule",
+      "title": "Online Course Schedule"
+    },
+    {
+      "file": "online_course_syllabus",
+      "title": "Online Course Syllabus"
+    },
+    {
+      "file": "online_course_time_management",
+      "title": "Online Course Time Management"
+    },
+    {
+      "file": "online_course_tutors",
+      "title": "Online Course Tutors"
+    },
+    {
+      "file": "online_data_course",
+      "title": "Online Data Course"
+    },
+    {
+      "file": "online_language_course",
+      "title": "Online Language Course"
+    },
+    {
+      "file": "online_study_distraction",
+      "title": "Online Study Distraction"
+    },
+    {
+      "file": "online_study_space",
+      "title": "Online Study Space"
+    },
+    {
+      "file": "online_video_lectures",
+      "title": "Online Video Lectures"
+    },
+    {
+      "file": "pausing_online_course",
+      "title": "Pausing Online Course"
+    },
+    {
+      "file": "self_paced_online_course",
+      "title": "Self Paced Online Course"
+    },
+    {
+      "file": "staying_motivated_online",
+      "title": "Staying Motivated Online"
+    }
+  ]
+}

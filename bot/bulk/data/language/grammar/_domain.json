@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "grammar",
+  "title": "Grammar",
+  "modules": [
+    {
+      "file": "active_voice",
+      "title": "Active Voice"
+    },
+    {
+      "file": "adjectives",
+      "title": "Adjectives"
+    },
+    {
+      "file": "adverb_placement",
+      "title": "Adverb Placement"
+    },
+    {
+      "file": "adverbs",
+      "title": "Adverbs"
+    },
+    {
+      "file": "affect_vs_effect",
+      "title": "Affect Vs Effect"
+    },
+    {
+      "file": "articles_a_an_the",
+      "title": "Articles A An The"
+    },
+    {
+      "file": "articles_basics",
+      "title": "Articles Basics"
+    },
+    {
+      "file": "articles_problems",
+      "title": "Articles Problems"
+    },
+    {
+      "file": "comparative_adjectives",
+      "title": "Comparative Adjectives"
+    },
+    {
+      "file": "conditional_sentences",
+      "title": "Conditional Sentences"
+    },
+    {
+      "file": "conditional_sentences_basics",
+      "title": "Conditional Sentences Basics"
+    },
+    {
+      "file": "conditional_sentences_problems",
+      "title": "Conditional Sentences Problems"
+    },
+    {
+      "file": "conjunctions",
+      "title": "Conjunctions"
+    },
+    {
+      "file": "countable_uncountable_nouns",
+      "title": "Countable Uncountable Nouns"
+    },
+    {
+      "file": "demonstrative_pronouns",
+      "title": "Demonstrative Pronouns"
+    },
+    {
+      "file": "future_tenses",
+      "title": "Future Tenses"
+    },
+    {
+      "file": "gerunds",
+      "title": "Gerunds"
+    },
+    {
+      "file": "infinitives",
+      "title": "Infinitives"
+    },
+    {
+      "file": "modal_verbs",
+      "title": "Modal Verbs"
+    },
+    {
+      "file": "participles",
+      "title": "Participles"
+    },
+    {
+      "file": "passive_voice",
+      "title": "Passive Voice"
+    },
+    {
+      "file": "past_perfect_tense",
+      "title": "Past Perfect Tense"
+    },
+    {
+      "file": "past_tense",
+      "title": "Past Tense"
+    },
+    {
+      "file": "personal_pronouns",
+      "title": "Personal Pronouns"
+    },
+    {
+      "file": "phrasal_verbs",
+      "title": "Phrasal Verbs"
+    },
+    {
+      "file": "plural_nouns",
+      "title": "Plural Nouns"
+    },
+    {
+      "file": "possessive_nouns",
+      "title": "Possessive Nouns"
+    },
+    {
+      "file": "prepositions",
+      "title": "Prepositions"
+    },
+    {
+      "file": "prepositions_basics",
+      "title": "Prepositions Basics"
+    },
+    {
+      "file": "prepositions_of_place",
+      "title": "Prepositions Of Place"
+    },
+    {
+      "file": "prepositions_of_time",
+      "title": "Prepositions Of Time"
+    },
+    {
+      "file": "prepositions_problems",
+      "title": "Prepositions Problems"
+    },
+    {
+      "file": "present_perfect_tense",
+      "title": "Present Perfect Tense"
+    },
+    {
+      "file": "pronoun_use_basics",
+      "title": "Pronoun Use Basics"
+    },
+    {
+      "file": "pronoun_use_problems",
+      "title": "Pronoun Use Problems"
+    },
+    {
+      "file": "reflexive_pronouns",
+      "title": "Reflexive Pronouns"
+    },
+    {
+      "file": "relative_clauses",
+      "title": "Relative Clauses"
+    },
+    {
+      "file": "relative_clauses_basics",
+      "title": "Relative Clauses Basics"
+    },
+    {
+      "file": "relative_pronouns",
+      "title": "Relative Pronouns"
+    },
+    {
+      "file": "reported_speech_basics",
+      "title": "Reported Speech Basics"
+    },
+    {
+      "file": "sentence_structure_basics",
+      "title": "Sentence Structure Basics"
+    },
+    {
+      "file": "sentence_structure_problems",
+      "title": "Sentence Structure Problems"
+    },
+    {
+      "file": "subject_agreement_basics",
+      "title": "Subject Agreement Basics"
+    },
+    {
+      "file": "subject_agreement_problems",
+      "title": "Subject Agreement Problems"
+    },
+    {
+      "file": "subject_verb_agreement",
+      "title": "Subject Verb Agreement"
+    },
+    {
+      "file": "subordinating_conjunctions",
+      "title": "Subordinating Conjunctions"
+    },
+    {
+      "file": "superlative_adjectives",
+      "title": "Superlative Adjectives"
+    },
+    {
+      "file": "verb_tense_basics",
+      "title": "Verb Tense Basics"
+    },
+    {
+      "file": "verb_tense_problems",
+      "title": "Verb Tense Problems"
+    },
+    {
+      "file": "word_order_basics",
+      "title": "Word Order Basics"
+    }
+  ]
+}

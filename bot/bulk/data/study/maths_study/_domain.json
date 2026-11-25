@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "maths_study",
+  "title": "Maths Study",
+  "modules": [
+    {
+      "file": "angles_and_shapes",
+      "title": "Angles And Shapes"
+    },
+    {
+      "file": "area_and_perimeter",
+      "title": "Area And Perimeter"
+    },
+    {
+      "file": "arithmetic_sequences",
+      "title": "Arithmetic Sequences"
+    },
+    {
+      "file": "circle_theorems",
+      "title": "Circle Theorems"
+    },
+    {
+      "file": "complex_numbers",
+      "title": "Complex Numbers"
+    },
+    {
+      "file": "congruence",
+      "title": "Congruence"
+    },
+    {
+      "file": "coordinate_geometry",
+      "title": "Coordinate Geometry"
+    },
+    {
+      "file": "differentiation_basics",
+      "title": "Differentiation Basics"
+    },
+    {
+      "file": "expanding_brackets",
+      "title": "Expanding Brackets"
+    },
+    {
+      "file": "exponential_equations",
+      "title": "Exponential Equations"
+    },
+    {
+      "file": "factorising_expressions",
+      "title": "Factorising Expressions"
+    },
+    {
+      "file": "fractions_in_algebra",
+      "title": "Fractions In Algebra"
+    },
+    {
+      "file": "functions_and_mappings",
+      "title": "Functions And Mappings"
+    },
+    {
+      "file": "geometric_sequences",
+      "title": "Geometric Sequences"
+    },
+    {
+      "file": "histograms_and_charts",
+      "title": "Histograms And Charts"
+    },
+    {
+      "file": "improving_algebra_skills",
+      "title": "Improving Algebra Skills"
+    },
+    {
+      "file": "indices_and_powers",
+      "title": "Indices And Powers"
+    },
+    {
+      "file": "inequalities",
+      "title": "Inequalities"
+    },
+    {
+      "file": "integration_basics",
+      "title": "Integration Basics"
+    },
+    {
+      "file": "limits_and_continuity",
+      "title": "Limits And Continuity"
+    },
+    {
+      "file": "logarithms",
+      "title": "Logarithms"
+    },
+    {
+      "file": "maths_exam_timing",
+      "title": "Maths Exam Timing"
+    },
+    {
+      "file": "maths_word_problems",
+      "title": "Maths Word Problems"
+    },
+    {
+      "file": "matrices_basics",
+      "title": "Matrices Basics"
+    },
+    {
+      "file": "mean_median_mode",
+      "title": "Mean Median Mode"
+    },
+    {
+      "file": "mental_maths_speed",
+      "title": "Mental Maths Speed"
+    },
+    {
+      "file": "modular_arithmetic",
+      "title": "Modular Arithmetic"
+    },
+    {
+      "file": "number_bases",
+      "title": "Number Bases"
+    },
+    {
+      "file": "probability_basics",
+      "title": "Probability Basics"
+    },
+    {
+      "file": "probability_trees",
+      "title": "Probability Trees"
+    },
+    {
+      "file": "pythagoras_theorem",
+      "title": "Pythagoras Theorem"
+    },
+    {
+      "file": "quadratic_graphs",
+      "title": "Quadratic Graphs"
+    },
+    {
+      "file": "rearranging_formulae",
+      "title": "Rearranging Formulae"
+    },
+    {
+      "file": "revising_for_maths_exam",
+      "title": "Revising For Maths Exam"
+    },
+    {
+      "file": "scatter_graphs_and_correlation",
+      "title": "Scatter Graphs And Correlation"
+    },
+    {
+      "file": "sequences_and_series",
+      "title": "Sequences And Series"
+    },
+    {
+      "file": "sets_and_venn_diagrams",
+      "title": "Sets And Venn Diagrams"
+    },
+    {
+      "file": "similarity_and_scale",
+      "title": "Similarity And Scale"
+    },
+    {
+      "file": "simplifying_algebraic_expressions",
+      "title": "Simplifying Algebraic Expressions"
+    },
+    {
+      "file": "simultaneous_equations",
+      "title": "Simultaneous Equations"
+    },
+    {
+      "file": "sine_and_cosine_rule",
+      "title": "Sine And Cosine Rule"
+    },
+    {
+      "file": "solving_linear_equations",
+      "title": "Solving Linear Equations"
+    },
+    {
+      "file": "solving_quadratic_equations",
+      "title": "Solving Quadratic Equations"
+    },
+    {
+      "file": "standard_deviation",
+      "title": "Standard Deviation"
+    },
+    {
+      "file": "statistics_averages",
+      "title": "Statistics Averages"
+    },
+    {
+      "file": "straight_line_graphs",
+      "title": "Straight Line Graphs"
+    },
+    {
+      "file": "surds_and_radicals",
+      "title": "Surds And Radicals"
+    },
+    {
+      "file": "trigonometry_basics",
+      "title": "Trigonometry Basics"
+    },
+    {
+      "file": "vectors_basics",
+      "title": "Vectors Basics"
+    },
+    {
+      "file": "volume_and_surface_area",
+      "title": "Volume And Surface Area"
+    }
+  ]
+}

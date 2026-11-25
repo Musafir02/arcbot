@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "science_study",
+  "title": "Science Study",
+  "modules": [
+    {
+      "file": "biology_cells",
+      "title": "Biology Cells"
+    },
+    {
+      "file": "biology_ecology",
+      "title": "Biology Ecology"
+    },
+    {
+      "file": "biology_genetics",
+      "title": "Biology Genetics"
+    },
+    {
+      "file": "biology_human_body",
+      "title": "Biology Human Body"
+    },
+    {
+      "file": "biology_photosynthesis",
+      "title": "Biology Photosynthesis"
+    },
+    {
+      "file": "biology_revision",
+      "title": "Biology Revision"
+    },
+    {
+      "file": "chemistry_acids_alkalis",
+      "title": "Chemistry Acids Alkalis"
+    },
+    {
+      "file": "chemistry_atomic_structure",
+      "title": "Chemistry Atomic Structure"
+    },
+    {
+      "file": "chemistry_bonding",
+      "title": "Chemistry Bonding"
+    },
+    {
+      "file": "chemistry_reactions",
+      "title": "Chemistry Reactions"
+    },
+    {
+      "file": "chemistry_revision",
+      "title": "Chemistry Revision"
+    },
+    {
+      "file": "maths_for_science",
+      "title": "Maths For Science"
+    },
+    {
+      "file": "physics_electricity",
+      "title": "Physics Electricity"
+    },
+    {
+      "file": "physics_energy",
+      "title": "Physics Energy"
+    },
+    {
+      "file": "physics_forces",
+      "title": "Physics Forces"
+    },
+    {
+      "file": "physics_revision",
+      "title": "Physics Revision"
+    },
+    {
+      "file": "physics_waves",
+      "title": "Physics Waves"
+    },
+    {
+      "file": "science_calculations",
+      "title": "Science Calculations"
+    },
+    {
+      "file": "science_confidence",
+      "title": "Science Confidence"
+    },
+    {
+      "file": "science_data_analysis",
+      "title": "Science Data Analysis"
+    },
+    {
+      "file": "science_definitions",
+      "title": "Science Definitions"
+    },
+    {
+      "file": "science_diagrams",
+      "title": "Science Diagrams"
+    },
+    {
+      "file": "science_error_analysis",
+      "title": "Science Error Analysis"
+    },
+    {
+      "file": "science_essay_answers",
+      "title": "Science Essay Answers"
+    },
+    {
+      "file": "science_exam_technique",
+      "title": "Science Exam Technique"
+    },
+    {
+      "file": "science_exam_timing",
+      "title": "Science Exam Timing"
+    },
+    {
+      "file": "science_experiments",
+      "title": "Science Experiments"
+    },
+    {
+      "file": "science_fieldwork_notes",
+      "title": "Science Fieldwork Notes"
+    },
+    {
+      "file": "science_final_revision",
+      "title": "Science Final Revision"
+    },
+    {
+      "file": "science_flashcards",
+      "title": "Science Flashcards"
+    },
+    {
+      "file": "science_graph_skills",
+      "title": "Science Graph Skills"
+    },
+    {
+      "file": "science_hypotheses",
+      "title": "Science Hypotheses"
+    },
+    {
+      "file": "science_lab_reports",
+      "title": "Science Lab Reports"
+    },
+    {
+      "file": "science_memory_techniques",
+      "title": "Science Memory Techniques"
+    },
+    {
+      "file": "science_mind_maps",
+      "title": "Science Mind Maps"
+    },
+    {
+      "file": "science_mock_exams",
+      "title": "Science Mock Exams"
+    },
+    {
+      "file": "science_multiple_choice",
+      "title": "Science Multiple Choice"
+    },
+    {
+      "file": "science_note_taking",
+      "title": "Science Note Taking"
+    },
+    {
+      "file": "science_online_resources",
+      "title": "Science Online Resources"
+    },
+    {
+      "file": "science_past_papers",
+      "title": "Science Past Papers"
+    },
+    {
+      "file": "science_practical_skills",
+      "title": "Science Practical Skills"
+    },
+    {
+      "file": "science_practice_questions",
+      "title": "Science Practice Questions"
+    },
+    {
+      "file": "science_revision_timetable",
+      "title": "Science Revision Timetable"
+    },
+    {
+      "file": "science_structured_questions",
+      "title": "Science Structured Questions"
+    },
+    {
+      "file": "science_study_group",
+      "title": "Science Study Group"
+    },
+    {
+      "file": "science_textbook_reading",
+      "title": "Science Textbook Reading"
+    },
+    {
+      "file": "science_vocabulary",
+      "title": "Science Vocabulary"
+    },
+    {
+      "file": "scientific_equations",
+      "title": "Scientific Equations"
+    },
+    {
+      "file": "scientific_method",
+      "title": "Scientific Method"
+    },
+    {
+      "file": "units_and_measurements",
+      "title": "Units And Measurements"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "exam_preparation",
+  "title": "Exam Preparation",
+  "modules": [
+    {
+      "file": "active_recall_revision",
+      "title": "Active Recall Revision"
+    },
+    {
+      "file": "checking_exam_answers",
+      "title": "Checking Exam Answers"
+    },
+    {
+      "file": "choosing_revision_methods",
+      "title": "Choosing Revision Methods"
+    },
+    {
+      "file": "coping_with_exam_results",
+      "title": "Coping With Exam Results"
+    },
+    {
+      "file": "creating_a_revision_timetable",
+      "title": "Creating A Revision Timetable"
+    },
+    {
+      "file": "exam_bag_checklist",
+      "title": "Exam Bag Checklist"
+    },
+    {
+      "file": "exam_day_contingencies",
+      "title": "Exam Day Contingencies"
+    },
+    {
+      "file": "exam_day_food",
+      "title": "Exam Day Food"
+    },
+    {
+      "file": "exam_day_travel",
+      "title": "Exam Day Travel"
+    },
+    {
+      "file": "exam_essay_questions",
+      "title": "Exam Essay Questions"
+    },
+    {
+      "file": "exam_mark_schemes",
+      "title": "Exam Mark Schemes"
+    },
+    {
+      "file": "exam_morning_routine",
+      "title": "Exam Morning Routine"
+    },
+    {
+      "file": "exam_motivation",
+      "title": "Exam Motivation"
+    },
+    {
+      "file": "exam_notes",
+      "title": "Exam Notes"
+    },
+    {
+      "file": "exam_preparation_for_adult_learners",
+      "title": "Exam Preparation For Adult Learners"
+    },
+    {
+      "file": "exam_stress_relief",
+      "title": "Exam Stress Relief"
+    },
+    {
+      "file": "exam_time_management",
+      "title": "Exam Time Management"
+    },
+    {
+      "file": "flashcards_for_exams",
+      "title": "Flashcards For Exams"
+    },
+    {
+      "file": "handling_difficult_exam_questions",
+      "title": "Handling Difficult Exam Questions"
+    },
+    {
+      "file": "language_exam_preparation",
+      "title": "Language Exam Preparation"
+    },
+    {
+      "file": "learning_from_exam_mistakes",
+      "title": "Learning From Exam Mistakes"
+    },
+    {
+      "file": "managing_exam_nerves",
+      "title": "Managing Exam Nerves"
+    },
+    {
+      "file": "maths_exam_revision",
+      "title": "Maths Exam Revision"
+    },
+    {
+      "file": "memorising_key_facts",
+      "title": "Memorising Key Facts"
+    },
+    {
+      "file": "mind_maps_for_revision",
+      "title": "Mind Maps For Revision"
+    },
+    {
+      "file": "mock_exams",
+      "title": "Mock Exams"
+    },
+    {
+      "file": "multiple_choice_exam_questions",
+      "title": "Multiple Choice Exam Questions"
+    },
+    {
+      "file": "night_before_exam",
+      "title": "Night Before Exam"
+    },
+    {
+      "file": "online_exam_preparation",
+      "title": "Online Exam Preparation"
+    },
+    {
+      "file": "open_book_exam_preparation",
+      "title": "Open Book Exam Preparation"
+    },
+    {
+      "file": "oral_exam_preparation",
+      "title": "Oral Exam Preparation"
+    },
+    {
+      "file": "past_paper_practice",
+      "title": "Past Paper Practice"
+    },
+    {
+      "file": "peer_revision_sessions",
+      "title": "Peer Revision Sessions"
+    },
+    {
+      "file": "planning_exam_answers",
+      "title": "Planning Exam Answers"
+    },
+    {
+      "file": "planning_revision_for_multiple_exams",
+      "title": "Planning Revision For Multiple Exams"
+    },
+    {
+      "file": "practical_exam_preparation",
+      "title": "Practical Exam Preparation"
+    },
+    {
+      "file": "reading_the_exam_paper",
+      "title": "Reading The Exam Paper"
+    },
+    {
+      "file": "resitting_an_exam",
+      "title": "Resitting An Exam"
+    },
+    {
+      "file": "revision_at_home",
+      "title": "Revision At Home"
+    },
+    {
+      "file": "revision_breaks",
+      "title": "Revision Breaks"
+    },
+    {
+      "file": "revision_burnout",
+      "title": "Revision Burnout"
+    },
+    {
+      "file": "revision_checklist",
+      "title": "Revision Checklist"
+    },
+    {
+      "file": "revision_study_groups",
+      "title": "Revision Study Groups"
+    },
+    {
+      "file": "science_exam_revision",
+      "title": "Science Exam Revision"
+    },
+    {
+      "file": "sleep_before_exams",
+      "title": "Sleep Before Exams"
+    },
+    {
+      "file": "spaced_repetition_revision",
+      "title": "Spaced Repetition Revision"
+    },
+    {
+      "file": "study_space_for_exams",
+      "title": "Study Space For Exams"
+    },
+    {
+      "file": "timed_exam_practice",
+      "title": "Timed Exam Practice"
+    },
+    {
+      "file": "understanding_exam_questions",
+      "title": "Understanding Exam Questions"
+    },
+    {
+      "file": "why_cramming_fails",
+      "title": "Why Cramming Fails"
+    }
+  ]
+}

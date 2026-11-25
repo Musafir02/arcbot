@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "adult_learning",
+  "title": "Adult Learning",
+  "modules": [
+    {
+      "file": "active_recall_for_adults",
+      "title": "Active Recall For Adults"
+    },
+    {
+      "file": "adult_education_funding",
+      "title": "Adult Education Funding"
+    },
+    {
+      "file": "adult_learning_styles",
+      "title": "Adult Learning Styles"
+    },
+    {
+      "file": "adult_qualifications_and_accreditation",
+      "title": "Adult Qualifications And Accreditation"
+    },
+    {
+      "file": "asking_questions_in_adult_classes",
+      "title": "Asking Questions In Adult Classes"
+    },
+    {
+      "file": "building_a_study_routine",
+      "title": "Building A Study Routine"
+    },
+    {
+      "file": "career_change_training",
+      "title": "Career Change Training"
+    },
+    {
+      "file": "choosing_an_adult_course",
+      "title": "Choosing An Adult Course"
+    },
+    {
+      "file": "dealing_with_study_fatigue",
+      "title": "Dealing With Study Fatigue"
+    },
+    {
+      "file": "distance_learning_tips",
+      "title": "Distance Learning Tips"
+    },
+    {
+      "file": "evening_classes",
+      "title": "Evening Classes"
+    },
+    {
+      "file": "finding_a_mentor_for_learning",
+      "title": "Finding A Mentor For Learning"
+    },
+    {
+      "file": "getting_feedback_on_your_learning",
+      "title": "Getting Feedback On Your Learning"
+    },
+    {
+      "file": "improving_reading_skills_as_an_adult",
+      "title": "Improving Reading Skills As An Adult"
+    },
+    {
+      "file": "learning_a_new_language_as_an_adult",
+      "title": "Learning A New Language As An Adult"
+    },
+    {
+      "file": "learning_a_trade_as_an_adult",
+      "title": "Learning A Trade As An Adult"
+    },
+    {
+      "file": "learning_after_work_hours",
+      "title": "Learning After Work Hours"
+    },
+    {
+      "file": "learning_at_your_own_pace",
+      "title": "Learning At Your Own Pace"
+    },
+    {
+      "file": "learning_by_doing_projects",
+      "title": "Learning By Doing Projects"
+    },
+    {
+      "file": "learning_digital_skills_as_an_adult",
+      "title": "Learning Digital Skills As An Adult"
+    },
+    {
+      "file": "learning_from_books_as_an_adult",
+      "title": "Learning From Books As An Adult"
+    },
+    {
+      "file": "learning_from_online_tutorials",
+      "title": "Learning From Online Tutorials"
+    },
+    {
+      "file": "learning_from_podcasts",
+      "title": "Learning From Podcasts"
+    },
+    {
+      "file": "learning_new_skills_as_an_adult",
+      "title": "Learning New Skills As An Adult"
+    },
+    {
+      "file": "learning_to_code_as_an_adult",
+      "title": "Learning To Code As An Adult"
+    },
+    {
+      "file": "learning_to_read_music_as_an_adult",
+      "title": "Learning To Read Music As An Adult"
+    },
+    {
+      "file": "learning_while_commuting",
+      "title": "Learning While Commuting"
+    },
+    {
+      "file": "maths_refresher_for_adults",
+      "title": "Maths Refresher For Adults"
+    },
+    {
+      "file": "note_taking_for_adults",
+      "title": "Note Taking For Adults"
+    },
+    {
+      "file": "overcoming_learning_anxiety",
+      "title": "Overcoming Learning Anxiety"
+    },
+    {
+      "file": "part_time_course_planning",
+      "title": "Part Time Course Planning"
+    },
+    {
+      "file": "practical_learning_at_home",
+      "title": "Practical Learning At Home"
+    },
+    {
+      "file": "prior_learning_recognition",
+      "title": "Prior Learning Recognition"
+    },
+    {
+      "file": "public_speaking_for_adults",
+      "title": "Public Speaking For Adults"
+    },
+    {
+      "file": "remembering_what_you_study",
+      "title": "Remembering What You Study"
+    },
+    {
+      "file": "restarting_study_after_a_long_break",
+      "title": "Restarting Study After A Long Break"
+    },
+    {
+      "file": "returning_to_study_as_an_adult",
+      "title": "Returning To Study As An Adult"
+    },
+    {
+      "file": "setting_learning_goals",
+      "title": "Setting Learning Goals"
+    },
+    {
+      "file": "spacing_out_revision_sessions",
+      "title": "Spacing Out Revision Sessions"
+    },
+    {
+      "file": "staying_consistent_with_study",
+      "title": "Staying Consistent With Study"
+    },
+    {
+      "file": "study_around_full_time_job",
+      "title": "Study Around Full Time Job"
+    },
+    {
+      "file": "study_breaks_and_rests",
+      "title": "Study Breaks And Rests"
+    },
+    {
+      "file": "study_groups_for_adults",
+      "title": "Study Groups For Adults"
+    },
+    {
+      "file": "study_motivation_as_an_adult",
+      "title": "Study Motivation As An Adult"
+    },
+    {
+      "file": "tracking_learning_progress",
+      "title": "Tracking Learning Progress"
+    },
+    {
+      "file": "upskilling_for_work",
+      "title": "Upskilling For Work"
+    },
+    {
+      "file": "using_flashcards_as_an_adult",
+      "title": "Using Flashcards As An Adult"
+    },
+    {
+      "file": "using_lunch_breaks_for_study",
+      "title": "Using Lunch Breaks For Study"
+    },
+    {
+      "file": "weekend_study_plan",
+      "title": "Weekend Study Plan"
+    },
+    {
+      "file": "writing_skills_for_adults",
+      "title": "Writing Skills For Adults"
+    }
+  ]
+}

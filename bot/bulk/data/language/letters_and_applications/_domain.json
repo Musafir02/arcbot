@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "letters_and_applications",
+  "title": "Letters And Applications",
+  "modules": [
+    {
+      "file": "acceptance_letter",
+      "title": "Acceptance Letter"
+    },
+    {
+      "file": "apology_letter",
+      "title": "Apology Letter"
+    },
+    {
+      "file": "application_form_fields",
+      "title": "Application Form Fields"
+    },
+    {
+      "file": "application_letter_experience",
+      "title": "Application Letter Experience"
+    },
+    {
+      "file": "application_letter_mistakes",
+      "title": "Application Letter Mistakes"
+    },
+    {
+      "file": "application_letter_qualifications",
+      "title": "Application Letter Qualifications"
+    },
+    {
+      "file": "application_letter_references",
+      "title": "Application Letter References"
+    },
+    {
+      "file": "application_letter_skills",
+      "title": "Application Letter Skills"
+    },
+    {
+      "file": "application_letter_to_recruiter",
+      "title": "Application Letter To Recruiter"
+    },
+    {
+      "file": "apprenticeship_application",
+      "title": "Apprenticeship Application"
+    },
+    {
+      "file": "career_change_cover_letter",
+      "title": "Career Change Cover Letter"
+    },
+    {
+      "file": "character_reference",
+      "title": "Character Reference"
+    },
+    {
+      "file": "complaint_letter",
+      "title": "Complaint Letter"
+    },
+    {
+      "file": "cover_letter_closing",
+      "title": "Cover Letter Closing"
+    },
+    {
+      "file": "cover_letter_opening",
+      "title": "Cover Letter Opening"
+    },
+    {
+      "file": "cover_letter_without_name",
+      "title": "Cover Letter Without Name"
+    },
+    {
+      "file": "cv_and_cover_letter",
+      "title": "Cv And Cover Letter"
+    },
+    {
+      "file": "employee_reference_letter",
+      "title": "Employee Reference Letter"
+    },
+    {
+      "file": "enquiry_letter",
+      "title": "Enquiry Letter"
+    },
+    {
+      "file": "follow_up_letter",
+      "title": "Follow Up Letter"
+    },
+    {
+      "file": "formal_letter_address_block",
+      "title": "Formal Letter Address Block"
+    },
+    {
+      "file": "formal_letter_date",
+      "title": "Formal Letter Date"
+    },
+    {
+      "file": "formal_letter_format",
+      "title": "Formal Letter Format"
+    },
+    {
+      "file": "formal_letter_signature",
+      "title": "Formal Letter Signature"
+    },
+    {
+      "file": "graduate_cover_letter",
+      "title": "Graduate Cover Letter"
+    },
+    {
+      "file": "internship_cover_letter",
+      "title": "Internship Cover Letter"
+    },
+    {
+      "file": "job_application_email",
+      "title": "Job Application Email"
+    },
+    {
+      "file": "job_application_letter",
+      "title": "Job Application Letter"
+    },
+    {
+      "file": "letter_enclosures",
+      "title": "Letter Enclosures"
+    },
+    {
+      "file": "letter_length",
+      "title": "Letter Length"
+    },
+    {
+      "file": "letter_of_interest",
+      "title": "Letter Of Interest"
+    },
+    {
+      "file": "letter_of_introduction",
+      "title": "Letter Of Introduction"
+    },
+    {
+      "file": "letter_of_motivation",
+      "title": "Letter Of Motivation"
+    },
+    {
+      "file": "letter_of_reference",
+      "title": "Letter Of Reference"
+    },
+    {
+      "file": "letter_paragraph_structure",
+      "title": "Letter Paragraph Structure"
+    },
+    {
+      "file": "letter_postscript",
+      "title": "Letter Postscript"
+    },
+    {
+      "file": "letter_proofreading",
+      "title": "Letter Proofreading"
+    },
+    {
+      "file": "letter_salutation",
+      "title": "Letter Salutation"
+    },
+    {
+      "file": "letter_subject_line",
+      "title": "Letter Subject Line"
+    },
+    {
+      "file": "letter_to_employer",
+      "title": "Letter To Employer"
+    },
+    {
+      "file": "letter_tone",
+      "title": "Letter Tone"
+    },
+    {
+      "file": "permission_letter",
+      "title": "Permission Letter"
+    },
+    {
+      "file": "personal_statement",
+      "title": "Personal Statement"
+    },
+    {
+      "file": "rejection_letter",
+      "title": "Rejection Letter"
+    },
+    {
+      "file": "request_letter",
+      "title": "Request Letter"
+    },
+    {
+      "file": "resignation_letter",
+      "title": "Resignation Letter"
+    },
+    {
+      "file": "scholarship_application",
+      "title": "Scholarship Application"
+    },
+    {
+      "file": "speculative_application",
+      "title": "Speculative Application"
+    },
+    {
+      "file": "thank_you_letter",
+      "title": "Thank You Letter"
+    },
+    {
+      "file": "university_application_letter",
+      "title": "University Application Letter"
+    }
+  ]
+}

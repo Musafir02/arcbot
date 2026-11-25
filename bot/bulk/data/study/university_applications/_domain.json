@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "university_applications",
+  "title": "University Applications",
+  "modules": [
+    {
+      "file": "a_level_grades",
+      "title": "A Level Grades"
+    },
+    {
+      "file": "accepting_an_offer",
+      "title": "Accepting An Offer"
+    },
+    {
+      "file": "admission_tests",
+      "title": "Admission Tests"
+    },
+    {
+      "file": "application_gap_year",
+      "title": "Application Gap Year"
+    },
+    {
+      "file": "choosing_referees",
+      "title": "Choosing Referees"
+    },
+    {
+      "file": "choosing_universities",
+      "title": "Choosing Universities"
+    },
+    {
+      "file": "choosing_university_course",
+      "title": "Choosing University Course"
+    },
+    {
+      "file": "clearing",
+      "title": "Clearing"
+    },
+    {
+      "file": "conditional_offers",
+      "title": "Conditional Offers"
+    },
+    {
+      "file": "english_language_requirements",
+      "title": "English Language Requirements"
+    },
+    {
+      "file": "gcse_results",
+      "title": "Gcse Results"
+    },
+    {
+      "file": "international_applications",
+      "title": "International Applications"
+    },
+    {
+      "file": "interview_questions",
+      "title": "Interview Questions"
+    },
+    {
+      "file": "personal_statement",
+      "title": "Personal Statement"
+    },
+    {
+      "file": "personal_statement_achievements",
+      "title": "Personal Statement Achievements"
+    },
+    {
+      "file": "personal_statement_editing",
+      "title": "Personal Statement Editing"
+    },
+    {
+      "file": "personal_statement_ending",
+      "title": "Personal Statement Ending"
+    },
+    {
+      "file": "personal_statement_extracurriculars",
+      "title": "Personal Statement Extracurriculars"
+    },
+    {
+      "file": "personal_statement_length",
+      "title": "Personal Statement Length"
+    },
+    {
+      "file": "personal_statement_opening",
+      "title": "Personal Statement Opening"
+    },
+    {
+      "file": "personal_statement_structure",
+      "title": "Personal Statement Structure"
+    },
+    {
+      "file": "personal_statement_style",
+      "title": "Personal Statement Style"
+    },
+    {
+      "file": "personal_statement_work_experience",
+      "title": "Personal Statement Work Experience"
+    },
+    {
+      "file": "portfolio_submission",
+      "title": "Portfolio Submission"
+    },
+    {
+      "file": "predicted_grades",
+      "title": "Predicted Grades"
+    },
+    {
+      "file": "reapplying_to_university",
+      "title": "Reapplying To University"
+    },
+    {
+      "file": "reference_letter",
+      "title": "Reference Letter"
+    },
+    {
+      "file": "researching_universities",
+      "title": "Researching Universities"
+    },
+    {
+      "file": "scholarships_and_bursaries",
+      "title": "Scholarships And Bursaries"
+    },
+    {
+      "file": "student_finance_application",
+      "title": "Student Finance Application"
+    },
+    {
+      "file": "student_visa",
+      "title": "Student Visa"
+    },
+    {
+      "file": "ucas_application",
+      "title": "Ucas Application"
+    },
+    {
+      "file": "ucas_choices",
+      "title": "Ucas Choices"
+    },
+    {
+      "file": "ucas_personal_details",
+      "title": "Ucas Personal Details"
+    },
+    {
+      "file": "ucas_points",
+      "title": "Ucas Points"
+    },
+    {
+      "file": "university_accommodation",
+      "title": "University Accommodation"
+    },
+    {
+      "file": "university_application_checklist",
+      "title": "University Application Checklist"
+    },
+    {
+      "file": "university_application_deadlines",
+      "title": "University Application Deadlines"
+    },
+    {
+      "file": "university_application_documents",
+      "title": "University Application Documents"
+    },
+    {
+      "file": "university_application_fee",
+      "title": "University Application Fee"
+    },
+    {
+      "file": "university_application_forms",
+      "title": "University Application Forms"
+    },
+    {
+      "file": "university_application_portal",
+      "title": "University Application Portal"
+    },
+    {
+      "file": "university_application_requirements",
+      "title": "University Application Requirements"
+    },
+    {
+      "file": "university_application_timeline",
+      "title": "University Application Timeline"
+    },
+    {
+      "file": "university_application_transcripts",
+      "title": "University Application Transcripts"
+    },
+    {
+      "file": "university_entry_requirements",
+      "title": "University Entry Requirements"
+    },
+    {
+      "file": "university_interview",
+      "title": "University Interview"
+    },
+    {
+      "file": "university_offers",
+      "title": "University Offers"
+    },
+    {
+      "file": "university_open_days",
+      "title": "University Open Days"
+    },
+    {
+      "file": "university_rankings",
+      "title": "University Rankings"
+    }
+  ]
+}

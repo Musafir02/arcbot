@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "essay_writing",
+  "title": "Essay Writing",
+  "modules": [
+    {
+      "file": "essay_admissions_essay",
+      "title": "Essay Admissions Essay"
+    },
+    {
+      "file": "essay_argument",
+      "title": "Essay Argument"
+    },
+    {
+      "file": "essay_argumentative_writing",
+      "title": "Essay Argumentative Writing"
+    },
+    {
+      "file": "essay_body_paragraphs",
+      "title": "Essay Body Paragraphs"
+    },
+    {
+      "file": "essay_brainstorming",
+      "title": "Essay Brainstorming"
+    },
+    {
+      "file": "essay_citations",
+      "title": "Essay Citations"
+    },
+    {
+      "file": "essay_clarity",
+      "title": "Essay Clarity"
+    },
+    {
+      "file": "essay_cohesion",
+      "title": "Essay Cohesion"
+    },
+    {
+      "file": "essay_common_mistakes",
+      "title": "Essay Common Mistakes"
+    },
+    {
+      "file": "essay_compare_and_contrast",
+      "title": "Essay Compare And Contrast"
+    },
+    {
+      "file": "essay_conclusion",
+      "title": "Essay Conclusion"
+    },
+    {
+      "file": "essay_counterargument",
+      "title": "Essay Counterargument"
+    },
+    {
+      "file": "essay_critical_analysis",
+      "title": "Essay Critical Analysis"
+    },
+    {
+      "file": "essay_descriptive_writing",
+      "title": "Essay Descriptive Writing"
+    },
+    {
+      "file": "essay_drafts",
+      "title": "Essay Drafts"
+    },
+    {
+      "file": "essay_editing",
+      "title": "Essay Editing"
+    },
+    {
+      "file": "essay_evaluative_writing",
+      "title": "Essay Evaluative Writing"
+    },
+    {
+      "file": "essay_exam_conditions",
+      "title": "Essay Exam Conditions"
+    },
+    {
+      "file": "essay_expository_writing",
+      "title": "Essay Expository Writing"
+    },
+    {
+      "file": "essay_feedback",
+      "title": "Essay Feedback"
+    },
+    {
+      "file": "essay_grammar_checks",
+      "title": "Essay Grammar Checks"
+    },
+    {
+      "file": "essay_introduction",
+      "title": "Essay Introduction"
+    },
+    {
+      "file": "essay_introduction_hooks",
+      "title": "Essay Introduction Hooks"
+    },
+    {
+      "file": "essay_literary_analysis",
+      "title": "Essay Literary Analysis"
+    },
+    {
+      "file": "essay_narrative_writing",
+      "title": "Essay Narrative Writing"
+    },
+    {
+      "file": "essay_outline",
+      "title": "Essay Outline"
+    },
+    {
+      "file": "essay_paragraph_structure",
+      "title": "Essay Paragraph Structure"
+    },
+    {
+      "file": "essay_personal_statement",
+      "title": "Essay Personal Statement"
+    },
+    {
+      "file": "essay_persuasive_writing",
+      "title": "Essay Persuasive Writing"
+    },
+    {
+      "file": "essay_plagiarism",
+      "title": "Essay Plagiarism"
+    },
+    {
+      "file": "essay_planning",
+      "title": "Essay Planning"
+    },
+    {
+      "file": "essay_prompts",
+      "title": "Essay Prompts"
+    },
+    {
+      "file": "essay_proofreading",
+      "title": "Essay Proofreading"
+    },
+    {
+      "file": "essay_question_analysis",
+      "title": "Essay Question Analysis"
+    },
+    {
+      "file": "essay_referencing",
+      "title": "Essay Referencing"
+    },
+    {
+      "file": "essay_research",
+      "title": "Essay Research"
+    },
+    {
+      "file": "essay_revision",
+      "title": "Essay Revision"
+    },
+    {
+      "file": "essay_sentence_variety",
+      "title": "Essay Sentence Variety"
+    },
+    {
+      "file": "essay_sources",
+      "title": "Essay Sources"
+    },
+    {
+      "file": "essay_structure",
+      "title": "Essay Structure"
+    },
+    {
+      "file": "essay_thesis_statement",
+      "title": "Essay Thesis Statement"
+    },
+    {
+      "file": "essay_time_management",
+      "title": "Essay Time Management"
+    },
+    {
+      "file": "essay_title",
+      "title": "Essay Title"
+    },
+    {
+      "file": "essay_tone",
+      "title": "Essay Tone"
+    },
+    {
+      "file": "essay_topic_selection",
+      "title": "Essay Topic Selection"
+    },
+    {
+      "file": "essay_topic_sentences",
+      "title": "Essay Topic Sentences"
+    },
+    {
+      "file": "essay_transitions",
+      "title": "Essay Transitions"
+    },
+    {
+      "file": "essay_vocabulary",
+      "title": "Essay Vocabulary"
+    },
+    {
+      "file": "essay_voice",
+      "title": "Essay Voice"
+    },
+    {
+      "file": "essay_word_count",
+      "title": "Essay Word Count"
+    }
+  ]
+}

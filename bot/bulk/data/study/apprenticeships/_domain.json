@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "apprenticeships",
+  "title": "Apprenticeships",
+  "modules": [
+    {
+      "file": "advanced_apprenticeship",
+      "title": "Advanced Apprenticeship"
+    },
+    {
+      "file": "apprenticeship_age_limits",
+      "title": "Apprenticeship Age Limits"
+    },
+    {
+      "file": "apprenticeship_agreement_basics",
+      "title": "Apprenticeship Agreement Basics"
+    },
+    {
+      "file": "apprenticeship_agreement_planning",
+      "title": "Apprenticeship Agreement Planning"
+    },
+    {
+      "file": "apprenticeship_agreement_problems",
+      "title": "Apprenticeship Agreement Problems"
+    },
+    {
+      "file": "apprenticeship_application",
+      "title": "Apprenticeship Application"
+    },
+    {
+      "file": "apprenticeship_application_basics",
+      "title": "Apprenticeship Application Basics"
+    },
+    {
+      "file": "apprenticeship_application_planning",
+      "title": "Apprenticeship Application Planning"
+    },
+    {
+      "file": "apprenticeship_application_problems",
+      "title": "Apprenticeship Application Problems"
+    },
+    {
+      "file": "apprenticeship_assessment",
+      "title": "Apprenticeship Assessment"
+    },
+    {
+      "file": "apprenticeship_cv",
+      "title": "Apprenticeship Cv"
+    },
+    {
+      "file": "apprenticeship_duration",
+      "title": "Apprenticeship Duration"
+    },
+    {
+      "file": "apprenticeship_eligibility",
+      "title": "Apprenticeship Eligibility"
+    },
+    {
+      "file": "apprenticeship_frameworks",
+      "title": "Apprenticeship Frameworks"
+    },
+    {
+      "file": "apprenticeship_hours",
+      "title": "Apprenticeship Hours"
+    },
+    {
+      "file": "apprenticeship_interview",
+      "title": "Apprenticeship Interview"
+    },
+    {
+      "file": "apprenticeship_interview_basics",
+      "title": "Apprenticeship Interview Basics"
+    },
+    {
+      "file": "apprenticeship_interview_planning",
+      "title": "Apprenticeship Interview Planning"
+    },
+    {
+      "file": "apprenticeship_interview_problems",
+      "title": "Apprenticeship Interview Problems"
+    },
+    {
+      "file": "apprenticeship_levels",
+      "title": "Apprenticeship Levels"
+    },
+    {
+      "file": "apprenticeship_pay",
+      "title": "Apprenticeship Pay"
+    },
+    {
+      "file": "apprenticeship_pay_basics",
+      "title": "Apprenticeship Pay Basics"
+    },
+    {
+      "file": "apprenticeship_pay_planning",
+      "title": "Apprenticeship Pay Planning"
+    },
+    {
+      "file": "apprenticeship_pay_problems",
+      "title": "Apprenticeship Pay Problems"
+    },
+    {
+      "file": "apprenticeship_qualifications",
+      "title": "Apprenticeship Qualifications"
+    },
+    {
+      "file": "apprenticeship_qualifications_basics",
+      "title": "Apprenticeship Qualifications Basics"
+    },
+    {
+      "file": "apprenticeship_qualifications_planning",
+      "title": "Apprenticeship Qualifications Planning"
+    },
+    {
+      "file": "apprenticeship_qualifications_problems",
+      "title": "Apprenticeship Qualifications Problems"
+    },
+    {
+      "file": "apprenticeship_rights_basics",
+      "title": "Apprenticeship Rights Basics"
+    },
+    {
+      "file": "apprenticeship_rights_planning",
+      "title": "Apprenticeship Rights Planning"
+    },
+    {
+      "file": "apprenticeship_rights_problems",
+      "title": "Apprenticeship Rights Problems"
+    },
+    {
+      "file": "apprenticeship_search_basics",
+      "title": "Apprenticeship Search Basics"
+    },
+    {
+      "file": "apprenticeship_search_planning",
+      "title": "Apprenticeship Search Planning"
+    },
+    {
+      "file": "apprenticeship_search_problems",
+      "title": "Apprenticeship Search Problems"
+    },
+    {
+      "file": "apprenticeship_standards",
+      "title": "Apprenticeship Standards"
+    },
+    {
+      "file": "apprenticeship_vs_university",
+      "title": "Apprenticeship Vs University"
+    },
+    {
+      "file": "career_starting_basics",
+      "title": "Career Starting Basics"
+    },
+    {
+      "file": "career_starting_planning",
+      "title": "Career Starting Planning"
+    },
+    {
+      "file": "career_starting_problems",
+      "title": "Career Starting Problems"
+    },
+    {
+      "file": "degree_apprenticeship",
+      "title": "Degree Apprenticeship"
+    },
+    {
+      "file": "finding_apprenticeship",
+      "title": "Finding Apprenticeship"
+    },
+    {
+      "file": "higher_apprenticeship",
+      "title": "Higher Apprenticeship"
+    },
+    {
+      "file": "intermediate_apprenticeship",
+      "title": "Intermediate Apprenticeship"
+    },
+    {
+      "file": "training_plan_basics",
+      "title": "Training Plan Basics"
+    },
+    {
+      "file": "training_plan_planning",
+      "title": "Training Plan Planning"
+    },
+    {
+      "file": "training_plan_problems",
+      "title": "Training Plan Problems"
+    },
+    {
+      "file": "what_is_an_apprenticeship",
+      "title": "What Is An Apprenticeship"
+    },
+    {
+      "file": "workplace_learning_basics",
+      "title": "Workplace Learning Basics"
+    },
+    {
+      "file": "workplace_learning_planning",
+      "title": "Workplace Learning Planning"
+    },
+    {
+      "file": "workplace_learning_problems",
+      "title": "Workplace Learning Problems"
+    }
+  ]
+}

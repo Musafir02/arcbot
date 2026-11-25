@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "spelling",
+  "title": "Spelling",
+  "modules": [
+    {
+      "file": "accept_or_except",
+      "title": "Accept Or Except"
+    },
+    {
+      "file": "accommodation_spelling",
+      "title": "Accommodation Spelling"
+    },
+    {
+      "file": "adding_prefixes",
+      "title": "Adding Prefixes"
+    },
+    {
+      "file": "adding_suffixes",
+      "title": "Adding Suffixes"
+    },
+    {
+      "file": "advice_or_advise",
+      "title": "Advice Or Advise"
+    },
+    {
+      "file": "affect_or_effect",
+      "title": "Affect Or Effect"
+    },
+    {
+      "file": "allowed_or_aloud",
+      "title": "Allowed Or Aloud"
+    },
+    {
+      "file": "apostrophes_in_spelling",
+      "title": "Apostrophes In Spelling"
+    },
+    {
+      "file": "british_american_spelling",
+      "title": "British American Spelling"
+    },
+    {
+      "file": "checking_your_spelling",
+      "title": "Checking Your Spelling"
+    },
+    {
+      "file": "colour_spelling",
+      "title": "Colour Spelling"
+    },
+    {
+      "file": "commonly_misspelled_words",
+      "title": "Commonly Misspelled Words"
+    },
+    {
+      "file": "complement_or_compliment",
+      "title": "Complement Or Compliment"
+    },
+    {
+      "file": "compound_word_spelling",
+      "title": "Compound Word Spelling"
+    },
+    {
+      "file": "defence_spelling",
+      "title": "Defence Spelling"
+    },
+    {
+      "file": "dependent_or_dependant",
+      "title": "Dependent Or Dependant"
+    },
+    {
+      "file": "dictionary_for_spelling",
+      "title": "Dictionary For Spelling"
+    },
+    {
+      "file": "discreet_or_discrete",
+      "title": "Discreet Or Discrete"
+    },
+    {
+      "file": "doubling_letters",
+      "title": "Doubling Letters"
+    },
+    {
+      "file": "dropping_silent_e",
+      "title": "Dropping Silent E"
+    },
+    {
+      "file": "embarrassing_spelling",
+      "title": "Embarrassing Spelling"
+    },
+    {
+      "file": "favourite_spelling",
+      "title": "Favourite Spelling"
+    },
+    {
+      "file": "homophones",
+      "title": "Homophones"
+    },
+    {
+      "file": "hyphenated_words",
+      "title": "Hyphenated Words"
+    },
+    {
+      "file": "ie_and_ei_spelling",
+      "title": "Ie And Ei Spelling"
+    },
+    {
+      "file": "its_and_its",
+      "title": "Its And Its"
+    },
+    {
+      "file": "judgement_spelling",
+      "title": "Judgement Spelling"
+    },
+    {
+      "file": "licence_or_license",
+      "title": "Licence Or License"
+    },
+    {
+      "file": "necessary_spelling",
+      "title": "Necessary Spelling"
+    },
+    {
+      "file": "organisation_spelling",
+      "title": "Organisation Spelling"
+    },
+    {
+      "file": "practise_or_practice",
+      "title": "Practise Or Practice"
+    },
+    {
+      "file": "principal_or_principle",
+      "title": "Principal Or Principle"
+    },
+    {
+      "file": "pronounce_and_pronunciation",
+      "title": "Pronounce And Pronunciation"
+    },
+    {
+      "file": "receive_and_deceive",
+      "title": "Receive And Deceive"
+    },
+    {
+      "file": "remembering_tricky_spellings",
+      "title": "Remembering Tricky Spellings"
+    },
+    {
+      "file": "silent_letters",
+      "title": "Silent Letters"
+    },
+    {
+      "file": "sounding_out_words",
+      "title": "Sounding Out Words"
+    },
+    {
+      "file": "spell_checker_limits",
+      "title": "Spell Checker Limits"
+    },
+    {
+      "file": "spelling_exam_preparation",
+      "title": "Spelling Exam Preparation"
+    },
+    {
+      "file": "spelling_long_words",
+      "title": "Spelling Long Words"
+    },
+    {
+      "file": "spelling_numbers",
+      "title": "Spelling Numbers"
+    },
+    {
+      "file": "spelling_plurals",
+      "title": "Spelling Plurals"
+    },
+    {
+      "file": "spelling_practice",
+      "title": "Spelling Practice"
+    },
+    {
+      "file": "spellings_from_other_languages",
+      "title": "Spellings From Other Languages"
+    },
+    {
+      "file": "stationery_or_stationary",
+      "title": "Stationery Or Stationary"
+    },
+    {
+      "file": "teaching_spelling",
+      "title": "Teaching Spelling"
+    },
+    {
+      "file": "there_their_theyre",
+      "title": "There Their Theyre"
+    },
+    {
+      "file": "to_too_two",
+      "title": "To Too Two"
+    },
+    {
+      "file": "y_to_i_spelling",
+      "title": "Y To I Spelling"
+    },
+    {
+      "file": "your_and_youre",
+      "title": "Your And Youre"
+    }
+  ]
+}

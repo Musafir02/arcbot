@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "creative_writing",
+  "title": "Creative Writing",
+  "modules": [
+    {
+      "file": "antagonists",
+      "title": "Antagonists"
+    },
+    {
+      "file": "believable_characters",
+      "title": "Believable Characters"
+    },
+    {
+      "file": "beta_readers",
+      "title": "Beta Readers"
+    },
+    {
+      "file": "building_a_writing_habit",
+      "title": "Building A Writing Habit"
+    },
+    {
+      "file": "chapter_endings",
+      "title": "Chapter Endings"
+    },
+    {
+      "file": "character_arcs",
+      "title": "Character Arcs"
+    },
+    {
+      "file": "character_backstory",
+      "title": "Character Backstory"
+    },
+    {
+      "file": "character_dialogue",
+      "title": "Character Dialogue"
+    },
+    {
+      "file": "character_flaws",
+      "title": "Character Flaws"
+    },
+    {
+      "file": "character_motivation",
+      "title": "Character Motivation"
+    },
+    {
+      "file": "character_names",
+      "title": "Character Names"
+    },
+    {
+      "file": "choosing_tense",
+      "title": "Choosing Tense"
+    },
+    {
+      "file": "critique_groups",
+      "title": "Critique Groups"
+    },
+    {
+      "file": "describing_settings",
+      "title": "Describing Settings"
+    },
+    {
+      "file": "editing_your_work",
+      "title": "Editing Your Work"
+    },
+    {
+      "file": "flash_fiction",
+      "title": "Flash Fiction"
+    },
+    {
+      "file": "foreshadowing",
+      "title": "Foreshadowing"
+    },
+    {
+      "file": "generating_story_ideas",
+      "title": "Generating Story Ideas"
+    },
+    {
+      "file": "imagery",
+      "title": "Imagery"
+    },
+    {
+      "file": "interior_monologue",
+      "title": "Interior Monologue"
+    },
+    {
+      "file": "metaphors_and_similes",
+      "title": "Metaphors And Similes"
+    },
+    {
+      "file": "novel_outlining",
+      "title": "Novel Outlining"
+    },
+    {
+      "file": "pacing",
+      "title": "Pacing"
+    },
+    {
+      "file": "plot_structure",
+      "title": "Plot Structure"
+    },
+    {
+      "file": "plot_twists",
+      "title": "Plot Twists"
+    },
+    {
+      "file": "point_of_view",
+      "title": "Point Of View"
+    },
+    {
+      "file": "protagonists",
+      "title": "Protagonists"
+    },
+    {
+      "file": "revising_drafts",
+      "title": "Revising Drafts"
+    },
+    {
+      "file": "scene_structure",
+      "title": "Scene Structure"
+    },
+    {
+      "file": "scene_transitions",
+      "title": "Scene Transitions"
+    },
+    {
+      "file": "secondary_characters",
+      "title": "Secondary Characters"
+    },
+    {
+      "file": "sentence_rhythm",
+      "title": "Sentence Rhythm"
+    },
+    {
+      "file": "short_story_structure",
+      "title": "Short Story Structure"
+    },
+    {
+      "file": "show_dont_tell",
+      "title": "Show Dont Tell"
+    },
+    {
+      "file": "story_conflict",
+      "title": "Story Conflict"
+    },
+    {
+      "file": "story_openings",
+      "title": "Story Openings"
+    },
+    {
+      "file": "subtext_in_dialogue",
+      "title": "Subtext In Dialogue"
+    },
+    {
+      "file": "symbols_and_motifs",
+      "title": "Symbols And Motifs"
+    },
+    {
+      "file": "unreliable_narrators",
+      "title": "Unreliable Narrators"
+    },
+    {
+      "file": "voice_and_tone",
+      "title": "Voice And Tone"
+    },
+    {
+      "file": "word_choice",
+      "title": "Word Choice"
+    },
+    {
+      "file": "worldbuilding",
+      "title": "Worldbuilding"
+    },
+    {
+      "file": "writers_block",
+      "title": "Writers Block"
+    },
+    {
+      "file": "writing_action_scenes",
+      "title": "Writing Action Scenes"
+    },
+    {
+      "file": "writing_dialect",
+      "title": "Writing Dialect"
+    },
+    {
+      "file": "writing_emotion",
+      "title": "Writing Emotion"
+    },
+    {
+      "file": "writing_poetry",
+      "title": "Writing Poetry"
+    },
+    {
+      "file": "writing_romance",
+      "title": "Writing Romance"
+    },
+    {
+      "file": "writing_scripts",
+      "title": "Writing Scripts"
+    },
+    {
+      "file": "writing_suspense",
+      "title": "Writing Suspense"
+    }
+  ]
+}

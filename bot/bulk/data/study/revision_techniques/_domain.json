@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "revision_techniques",
+  "title": "Revision Techniques",
+  "modules": [
+    {
+      "file": "active_recall_basics",
+      "title": "Active Recall Basics"
+    },
+    {
+      "file": "active_recall_mistakes",
+      "title": "Active Recall Mistakes"
+    },
+    {
+      "file": "active_recall_planning",
+      "title": "Active Recall Planning"
+    },
+    {
+      "file": "active_recall_problems",
+      "title": "Active Recall Problems"
+    },
+    {
+      "file": "exam_planning_basics",
+      "title": "Exam Planning Basics"
+    },
+    {
+      "file": "exam_planning_planning",
+      "title": "Exam Planning Planning"
+    },
+    {
+      "file": "exam_planning_problems",
+      "title": "Exam Planning Problems"
+    },
+    {
+      "file": "flashcards_basics",
+      "title": "Flashcards Basics"
+    },
+    {
+      "file": "flashcards_planning",
+      "title": "Flashcards Planning"
+    },
+    {
+      "file": "flashcards_problems",
+      "title": "Flashcards Problems"
+    },
+    {
+      "file": "group_study_basics",
+      "title": "Group Study Basics"
+    },
+    {
+      "file": "group_study_planning",
+      "title": "Group Study Planning"
+    },
+    {
+      "file": "group_study_problems",
+      "title": "Group Study Problems"
+    },
+    {
+      "file": "memory_techniques_basics",
+      "title": "Memory Techniques Basics"
+    },
+    {
+      "file": "memory_techniques_planning",
+      "title": "Memory Techniques Planning"
+    },
+    {
+      "file": "memory_techniques_problems",
+      "title": "Memory Techniques Problems"
+    },
+    {
+      "file": "mind_maps_basics",
+      "title": "Mind Maps Basics"
+    },
+    {
+      "file": "mind_maps_mistakes",
+      "title": "Mind Maps Mistakes"
+    },
+    {
+      "file": "mind_maps_planning",
+      "title": "Mind Maps Planning"
+    },
+    {
+      "file": "mind_maps_problems",
+      "title": "Mind Maps Problems"
+    },
+    {
+      "file": "note_taking_basics",
+      "title": "Note Taking Basics"
+    },
+    {
+      "file": "note_taking_planning",
+      "title": "Note Taking Planning"
+    },
+    {
+      "file": "note_taking_problems",
+      "title": "Note Taking Problems"
+    },
+    {
+      "file": "past_papers_basics",
+      "title": "Past Papers Basics"
+    },
+    {
+      "file": "past_papers_mistakes",
+      "title": "Past Papers Mistakes"
+    },
+    {
+      "file": "past_papers_planning",
+      "title": "Past Papers Planning"
+    },
+    {
+      "file": "past_papers_problems",
+      "title": "Past Papers Problems"
+    },
+    {
+      "file": "practice_questions_basics",
+      "title": "Practice Questions Basics"
+    },
+    {
+      "file": "practice_questions_planning",
+      "title": "Practice Questions Planning"
+    },
+    {
+      "file": "practice_questions_problems",
+      "title": "Practice Questions Problems"
+    },
+    {
+      "file": "revision_goals_basics",
+      "title": "Revision Goals Basics"
+    },
+    {
+      "file": "revision_goals_planning",
+      "title": "Revision Goals Planning"
+    },
+    {
+      "file": "revision_goals_problems",
+      "title": "Revision Goals Problems"
+    },
+    {
+      "file": "revision_routine_basics",
+      "title": "Revision Routine Basics"
+    },
+    {
+      "file": "revision_routine_planning",
+      "title": "Revision Routine Planning"
+    },
+    {
+      "file": "revision_routine_problems",
+      "title": "Revision Routine Problems"
+    },
+    {
+      "file": "revision_timetable_basics",
+      "title": "Revision Timetable Basics"
+    },
+    {
+      "file": "revision_timetable_mistakes",
+      "title": "Revision Timetable Mistakes"
+    },
+    {
+      "file": "revision_timetable_planning",
+      "title": "Revision Timetable Planning"
+    },
+    {
+      "file": "revision_timetable_problems",
+      "title": "Revision Timetable Problems"
+    },
+    {
+      "file": "spaced_repetition_basics",
+      "title": "Spaced Repetition Basics"
+    },
+    {
+      "file": "spaced_repetition_mistakes",
+      "title": "Spaced Repetition Mistakes"
+    },
+    {
+      "file": "spaced_repetition_planning",
+      "title": "Spaced Repetition Planning"
+    },
+    {
+      "file": "spaced_repetition_problems",
+      "title": "Spaced Repetition Problems"
+    },
+    {
+      "file": "study_breaks_basics",
+      "title": "Study Breaks Basics"
+    },
+    {
+      "file": "study_breaks_planning",
+      "title": "Study Breaks Planning"
+    },
+    {
+      "file": "study_breaks_problems",
+      "title": "Study Breaks Problems"
+    },
+    {
+      "file": "summary_sheets_basics",
+      "title": "Summary Sheets Basics"
+    },
+    {
+      "file": "summary_sheets_planning",
+      "title": "Summary Sheets Planning"
+    },
+    {
+      "file": "summary_sheets_problems",
+      "title": "Summary Sheets Problems"
+    }
+  ]
+}

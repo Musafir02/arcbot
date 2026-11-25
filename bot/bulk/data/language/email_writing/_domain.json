@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "email_writing",
+  "title": "Email Writing",
+  "modules": [
+    {
+      "file": "addressing_someone_by_email",
+      "title": "Addressing Someone By Email"
+    },
+    {
+      "file": "apology_email",
+      "title": "Apology Email"
+    },
+    {
+      "file": "checking_email_before_sending",
+      "title": "Checking Email Before Sending"
+    },
+    {
+      "file": "condolence_email",
+      "title": "Condolence Email"
+    },
+    {
+      "file": "congratulations_email",
+      "title": "Congratulations Email"
+    },
+    {
+      "file": "customer_service_email",
+      "title": "Customer Service Email"
+    },
+    {
+      "file": "declining_email_politely",
+      "title": "Declining Email Politely"
+    },
+    {
+      "file": "delivery_complaint_email",
+      "title": "Delivery Complaint Email"
+    },
+    {
+      "file": "email_attachments",
+      "title": "Email Attachments"
+    },
+    {
+      "file": "email_capitalisation",
+      "title": "Email Capitalisation"
+    },
+    {
+      "file": "email_cc_and_bcc",
+      "title": "Email Cc And Bcc"
+    },
+    {
+      "file": "email_etiquette",
+      "title": "Email Etiquette"
+    },
+    {
+      "file": "email_greetings",
+      "title": "Email Greetings"
+    },
+    {
+      "file": "email_length",
+      "title": "Email Length"
+    },
+    {
+      "file": "email_postscript",
+      "title": "Email Postscript"
+    },
+    {
+      "file": "email_proofreading",
+      "title": "Email Proofreading"
+    },
+    {
+      "file": "email_punctuation",
+      "title": "Email Punctuation"
+    },
+    {
+      "file": "email_reply_all",
+      "title": "Email Reply All"
+    },
+    {
+      "file": "email_sign_offs",
+      "title": "Email Sign Offs"
+    },
+    {
+      "file": "email_subject_lines",
+      "title": "Email Subject Lines"
+    },
+    {
+      "file": "email_to_client",
+      "title": "Email To Client"
+    },
+    {
+      "file": "email_to_colleague",
+      "title": "Email To Colleague"
+    },
+    {
+      "file": "email_to_government_office",
+      "title": "Email To Government Office"
+    },
+    {
+      "file": "email_to_landlord",
+      "title": "Email To Landlord"
+    },
+    {
+      "file": "email_to_manager",
+      "title": "Email To Manager"
+    },
+    {
+      "file": "email_to_teacher",
+      "title": "Email To Teacher"
+    },
+    {
+      "file": "email_to_university",
+      "title": "Email To University"
+    },
+    {
+      "file": "email_tone",
+      "title": "Email Tone"
+    },
+    {
+      "file": "ending_an_email_politely",
+      "title": "Ending An Email Politely"
+    },
+    {
+      "file": "follow_up_emails",
+      "title": "Follow Up Emails"
+    },
+    {
+      "file": "formal_complaint_email",
+      "title": "Formal Complaint Email"
+    },
+    {
+      "file": "forwarding_email",
+      "title": "Forwarding Email"
+    },
+    {
+      "file": "introductory_email",
+      "title": "Introductory Email"
+    },
+    {
+      "file": "invitation_email",
+      "title": "Invitation Email"
+    },
+    {
+      "file": "job_application_email",
+      "title": "Job Application Email"
+    },
+    {
+      "file": "leave_request_email",
+      "title": "Leave Request Email"
+    },
+    {
+      "file": "meeting_request_email",
+      "title": "Meeting Request Email"
+    },
+    {
+      "file": "networking_email",
+      "title": "Networking Email"
+    },
+    {
+      "file": "out_of_office_email_reply",
+      "title": "Out Of Office Email Reply"
+    },
+    {
+      "file": "professional_email_signature",
+      "title": "Professional Email Signature"
+    },
+    {
+      "file": "reference_request_email",
+      "title": "Reference Request Email"
+    },
+    {
+      "file": "refund_request_email",
+      "title": "Refund Request Email"
+    },
+    {
+      "file": "reminder_email",
+      "title": "Reminder Email"
+    },
+    {
+      "file": "requesting_information_by_email",
+      "title": "Requesting Information By Email"
+    },
+    {
+      "file": "rescheduling_email",
+      "title": "Rescheduling Email"
+    },
+    {
+      "file": "resignation_email",
+      "title": "Resignation Email"
+    },
+    {
+      "file": "rsvp_email",
+      "title": "Rsvp Email"
+    },
+    {
+      "file": "sick_leave_email",
+      "title": "Sick Leave Email"
+    },
+    {
+      "file": "starting_a_formal_email",
+      "title": "Starting A Formal Email"
+    },
+    {
+      "file": "thank_you_email",
+      "title": "Thank You Email"
+    }
+  ]
+}

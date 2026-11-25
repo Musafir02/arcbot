@@ -1,0 +1,207 @@
+{
+  "category": "study",
+  "domain": "language_learning",
+  "title": "Language Learning",
+  "modules": [
+    {
+      "file": "alphabets",
+      "title": "Alphabets"
+    },
+    {
+      "file": "asking_directions",
+      "title": "Asking Directions"
+    },
+    {
+      "file": "business_language",
+      "title": "Business Language"
+    },
+    {
+      "file": "children_learning",
+      "title": "Children Learning"
+    },
+    {
+      "file": "daily_word_goal",
+      "title": "Daily Word Goal"
+    },
+    {
+      "file": "dictionary_use",
+      "title": "Dictionary Use"
+    },
+    {
+      "file": "everyday_phrases",
+      "title": "Everyday Phrases"
+    },
+    {
+      "file": "exam_preparation_language",
+      "title": "Exam Preparation Language"
+    },
+    {
+      "file": "false_friends",
+      "title": "False Friends"
+    },
+    {
+      "file": "fear_of_speaking",
+      "title": "Fear Of Speaking"
+    },
+    {
+      "file": "films_and_tv",
+      "title": "Films And Tv"
+    },
+    {
+      "file": "flashcards",
+      "title": "Flashcards"
+    },
+    {
+      "file": "graded_readers",
+      "title": "Graded Readers"
+    },
+    {
+      "file": "grammar_study",
+      "title": "Grammar Study"
+    },
+    {
+      "file": "handwriting",
+      "title": "Handwriting"
+    },
+    {
+      "file": "immersion",
+      "title": "Immersion"
+    },
+    {
+      "file": "introducing_yourself",
+      "title": "Introducing Yourself"
+    },
+    {
+      "file": "journaling",
+      "title": "Journaling"
+    },
+    {
+      "file": "language_apps",
+      "title": "Language Apps"
+    },
+    {
+      "file": "language_exchange",
+      "title": "Language Exchange"
+    },
+    {
+      "file": "learning_from_mistakes",
+      "title": "Learning From Mistakes"
+    },
+    {
+      "file": "learning_language_faster",
+      "title": "Learning Language Faster"
+    },
+    {
+      "file": "listening_practice",
+      "title": "Listening Practice"
+    },
+    {
+      "file": "memory_techniques",
+      "title": "Memory Techniques"
+    },
+    {
+      "file": "motivation",
+      "title": "Motivation"
+    },
+    {
+      "file": "music",
+      "title": "Music"
+    },
+    {
+      "file": "newspapers",
+      "title": "Newspapers"
+    },
+    {
+      "file": "numbers_and_time",
+      "title": "Numbers And Time"
+    },
+    {
+      "file": "ordering_food",
+      "title": "Ordering Food"
+    },
+    {
+      "file": "plateau",
+      "title": "Plateau"
+    },
+    {
+      "file": "podcasts",
+      "title": "Podcasts"
+    },
+    {
+      "file": "pronunciation",
+      "title": "Pronunciation"
+    },
+    {
+      "file": "reading_practice",
+      "title": "Reading Practice"
+    },
+    {
+      "file": "register",
+      "title": "Register"
+    },
+    {
+      "file": "setting_goals",
+      "title": "Setting Goals"
+    },
+    {
+      "file": "shadowing",
+      "title": "Shadowing"
+    },
+    {
+      "file": "slang_and_idioms",
+      "title": "Slang And Idioms"
+    },
+    {
+      "file": "small_talk",
+      "title": "Small Talk"
+    },
+    {
+      "file": "spaced_repetition",
+      "title": "Spaced Repetition"
+    },
+    {
+      "file": "speaking_practice_alone",
+      "title": "Speaking Practice Alone"
+    },
+    {
+      "file": "study_routine",
+      "title": "Study Routine"
+    },
+    {
+      "file": "subtitles",
+      "title": "Subtitles"
+    },
+    {
+      "file": "testing_progress",
+      "title": "Testing Progress"
+    },
+    {
+      "file": "thinking_in_language",
+      "title": "Thinking In Language"
+    },
+    {
+      "file": "travel_phrases",
+      "title": "Travel Phrases"
+    },
+    {
+      "file": "travel_survival",
+      "title": "Travel Survival"
+    },
+    {
+      "file": "tutoring",
+      "title": "Tutoring"
+    },
+    {
+      "file": "typing_accents",
+      "title": "Typing Accents"
+    },
+    {
+      "file": "word_roots",
+      "title": "Word Roots"
+    },
+    {
+      "file": "writing_practice",
+      "title": "Writing Practice"
+    }
+  ]
+}

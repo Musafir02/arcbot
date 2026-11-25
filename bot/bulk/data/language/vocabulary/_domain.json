@@ -1,0 +1,207 @@
+{
+  "category": "language",
+  "domain": "vocabulary",
+  "title": "Vocabulary",
+  "modules": [
+    {
+      "file": "academic_vocabulary",
+      "title": "Academic Vocabulary"
+    },
+    {
+      "file": "academic_vocabulary_basics",
+      "title": "Academic Vocabulary Basics"
+    },
+    {
+      "file": "antonyms_basics",
+      "title": "Antonyms Basics"
+    },
+    {
+      "file": "antonyms_problems",
+      "title": "Antonyms Problems"
+    },
+    {
+      "file": "business_vocabulary",
+      "title": "Business Vocabulary"
+    },
+    {
+      "file": "collocations_basics",
+      "title": "Collocations Basics"
+    },
+    {
+      "file": "commonly_confused_words",
+      "title": "Commonly Confused Words"
+    },
+    {
+      "file": "context_clues_basics",
+      "title": "Context Clues Basics"
+    },
+    {
+      "file": "context_clues_for_words",
+      "title": "Context Clues For Words"
+    },
+    {
+      "file": "context_clues_problems",
+      "title": "Context Clues Problems"
+    },
+    {
+      "file": "descriptive_adjectives",
+      "title": "Descriptive Adjectives"
+    },
+    {
+      "file": "dictionary_skills",
+      "title": "Dictionary Skills"
+    },
+    {
+      "file": "everyday_conversation_words",
+      "title": "Everyday Conversation Words"
+    },
+    {
+      "file": "everyday_vocabulary_basics",
+      "title": "Everyday Vocabulary Basics"
+    },
+    {
+      "file": "flashcards_for_vocabulary",
+      "title": "Flashcards For Vocabulary"
+    },
+    {
+      "file": "formal_and_informal_words",
+      "title": "Formal And Informal Words"
+    },
+    {
+      "file": "learning_collocations",
+      "title": "Learning Collocations"
+    },
+    {
+      "file": "learning_idioms",
+      "title": "Learning Idioms"
+    },
+    {
+      "file": "learning_new_words_faster",
+      "title": "Learning New Words Faster"
+    },
+    {
+      "file": "learning_nouns",
+      "title": "Learning Nouns"
+    },
+    {
+      "file": "learning_phrasal_verbs",
+      "title": "Learning Phrasal Verbs"
+    },
+    {
+      "file": "learning_verbs",
+      "title": "Learning Verbs"
+    },
+    {
+      "file": "listening_to_build_vocabulary",
+      "title": "Listening To Build Vocabulary"
+    },
+    {
+      "file": "reading_to_build_vocabulary",
+      "title": "Reading To Build Vocabulary"
+    },
+    {
+      "file": "regional_vocabulary",
+      "title": "Regional Vocabulary"
+    },
+    {
+      "file": "remembering_words_basics",
+      "title": "Remembering Words Basics"
+    },
+    {
+      "file": "remembering_words_long_term",
+      "title": "Remembering Words Long Term"
+    },
+    {
+      "file": "revisiting_forgotten_words",
+      "title": "Revisiting Forgotten Words"
+    },
+    {
+      "file": "spaced_repetition",
+      "title": "Spaced Repetition"
+    },
+    {
+      "file": "speaking_practice_vocabulary",
+      "title": "Speaking Practice Vocabulary"
+    },
+    {
+      "file": "suffixes_and_word_formation",
+      "title": "Suffixes And Word Formation"
+    },
+    {
+      "file": "synonyms_and_antonyms",
+      "title": "Synonyms And Antonyms"
+    },
+    {
+      "file": "synonyms_basics",
+      "title": "Synonyms Basics"
+    },
+    {
+      "file": "synonyms_problems",
+      "title": "Synonyms Problems"
+    },
+    {
+      "file": "technical_vocabulary",
+      "title": "Technical Vocabulary"
+    },
+    {
+      "file": "thesaurus_use",
+      "title": "Thesaurus Use"
+    },
+    {
+      "file": "understanding_slang",
+      "title": "Understanding Slang"
+    },
+    {
+      "file": "using_new_words_basics",
+      "title": "Using New Words Basics"
+    },
+    {
+      "file": "vocabulary_apps",
+      "title": "Vocabulary Apps"
+    },
+    {
+      "file": "vocabulary_games",
+      "title": "Vocabulary Games"
+    },
+    {
+      "file": "vocabulary_notebook",
+      "title": "Vocabulary Notebook"
+    },
+    {
+      "file": "vocabulary_quizzes",
+      "title": "Vocabulary Quizzes"
+    },
+    {
+      "file": "word_families",
+      "title": "Word Families"
+    },
+    {
+      "file": "word_families_basics",
+      "title": "Word Families Basics"
+    },
+    {
+      "file": "word_families_problems",
+      "title": "Word Families Problems"
+    },
+    {
+      "file": "word_frequency_lists",
+      "title": "Word Frequency Lists"
+    },
+    {
+      "file": "word_learning_basics",
+      "title": "Word Learning Basics"
+    },
+    {
+      "file": "word_learning_problems",
+      "title": "Word Learning Problems"
+    },
+    {
+      "file": "word_roots_and_prefixes",
+      "title": "Word Roots And Prefixes"
+    },
+    {
+      "file": "writing_practice_vocabulary",
+      "title": "Writing Practice Vocabulary"
+    }
+  ]
+}
