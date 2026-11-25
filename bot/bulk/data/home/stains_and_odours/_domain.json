@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "stains_and_odours",
+  "title": "Stains And Odours",
+  "modules": [
+    {
+      "file": "acrylic_paint_stains_on_clothes",
+      "title": "Acrylic Paint Stains On Clothes"
+    },
+    {
+      "file": "berry_juice_stains",
+      "title": "Berry Juice Stains"
+    },
+    {
+      "file": "bin_odours",
+      "title": "Bin Odours"
+    },
+    {
+      "file": "blood_stains_on_fabric",
+      "title": "Blood Stains On Fabric"
+    },
+    {
+      "file": "candle_wax_on_fabric",
+      "title": "Candle Wax On Fabric"
+    },
+    {
+      "file": "carpet_stain_removal",
+      "title": "Carpet Stain Removal"
+    },
+    {
+      "file": "cat_urine_odour_in_carpet",
+      "title": "Cat Urine Odour In Carpet"
+    },
+    {
+      "file": "cigarette_smell_in_car",
+      "title": "Cigarette Smell In Car"
+    },
+    {
+      "file": "coffee_stains_on_clothes",
+      "title": "Coffee Stains On Clothes"
+    },
+    {
+      "file": "cooking_odours_in_kitchen",
+      "title": "Cooking Odours In Kitchen"
+    },
+    {
+      "file": "cooking_oil_stains_on_fabric",
+      "title": "Cooking Oil Stains On Fabric"
+    },
+    {
+      "file": "curry_stains_on_clothes",
+      "title": "Curry Stains On Clothes"
+    },
+    {
+      "file": "damp_smell_in_bathroom",
+      "title": "Damp Smell In Bathroom"
+    },
+    {
+      "file": "deodorant_stains_on_shirts",
+      "title": "Deodorant Stains On Shirts"
+    },
+    {
+      "file": "egg_stains_on_clothes",
+      "title": "Egg Stains On Clothes"
+    },
+    {
+      "file": "fish_smell_in_fridge",
+      "title": "Fish Smell In Fridge"
+    },
+    {
+      "file": "fridge_odours",
+      "title": "Fridge Odours"
+    },
+    {
+      "file": "garlic_smell_on_hands",
+      "title": "Garlic Smell On Hands"
+    },
+    {
+      "file": "grass_stains_on_trousers",
+      "title": "Grass Stains On Trousers"
+    },
+    {
+      "file": "grease_stains_on_shirts",
+      "title": "Grease Stains On Shirts"
+    },
+    {
+      "file": "gym_bag_odours",
+      "title": "Gym Bag Odours"
+    },
+    {
+      "file": "ink_stains_on_clothes",
+      "title": "Ink Stains On Clothes"
+    },
+    {
+      "file": "limescale_on_taps",
+      "title": "Limescale On Taps"
+    },
+    {
+      "file": "lipstick_stains_on_fabric",
+      "title": "Lipstick Stains On Fabric"
+    },
+    {
+      "file": "makeup_stains_on_clothes",
+      "title": "Makeup Stains On Clothes"
+    },
+    {
+      "file": "mildew_stains_on_fabric",
+      "title": "Mildew Stains On Fabric"
+    },
+    {
+      "file": "milk_stains_on_fabric",
+      "title": "Milk Stains On Fabric"
+    },
+    {
+      "file": "mud_stains_on_clothes",
+      "title": "Mud Stains On Clothes"
+    },
+    {
+      "file": "musty_smell_in_wardrobe",
+      "title": "Musty Smell In Wardrobe"
+    },
+    {
+      "file": "nail_varnish_stains",
+      "title": "Nail Varnish Stains"
+    },
+    {
+      "file": "onion_smell_on_hands",
+      "title": "Onion Smell On Hands"
+    },
+    {
+      "file": "paint_fume_smell",
+      "title": "Paint Fume Smell"
+    },
+    {
+      "file": "pet_odours_in_home",
+      "title": "Pet Odours In Home"
+    },
+    {
+      "file": "pet_urine_stains_on_carpet",
+      "title": "Pet Urine Stains On Carpet"
+    },
+    {
+      "file": "red_wine_stains_on_clothes",
+      "title": "Red Wine Stains On Clothes"
+    },
+    {
+      "file": "rust_stains_on_clothes",
+      "title": "Rust Stains On Clothes"
+    },
+    {
+      "file": "shoe_odours",
+      "title": "Shoe Odours"
+    },
+    {
+      "file": "sink_drain_odours",
+      "title": "Sink Drain Odours"
+    },
+    {
+      "file": "smoke_odour_on_clothes",
+      "title": "Smoke Odour On Clothes"
+    },
+    {
+      "file": "smoke_smell_in_room",
+      "title": "Smoke Smell In Room"
+    },
+    {
+      "file": "smoke_smell_on_curtains",
+      "title": "Smoke Smell On Curtains"
+    },
+    {
+      "file": "soap_scum_on_tiles",
+      "title": "Soap Scum On Tiles"
+    },
+    {
+      "file": "sour_smelling_towels",
+      "title": "Sour Smelling Towels"
+    },
+    {
+      "file": "stains_on_white_clothes",
+      "title": "Stains On White Clothes"
+    },
+    {
+      "file": "sweat_odour_on_clothes",
+      "title": "Sweat Odour On Clothes"
+    },
+    {
+      "file": "sweat_stains_on_shirts",
+      "title": "Sweat Stains On Shirts"
+    },
+    {
+      "file": "tea_stains_in_mugs",
+      "title": "Tea Stains In Mugs"
+    },
+    {
+      "file": "tomato_sauce_stains",
+      "title": "Tomato Sauce Stains"
+    },
+    {
+      "file": "upholstery_stain_removal",
+      "title": "Upholstery Stain Removal"
+    },
+    {
+      "file": "urine_odour_on_mattress",
+      "title": "Urine Odour On Mattress"
+    }
+  ]
+}

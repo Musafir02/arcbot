@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "cleaning_and_laundry",
+  "title": "Cleaning And Laundry",
+  "modules": [
+    {
+      "file": "choosing_wash_temperature",
+      "title": "Choosing Wash Temperature"
+    },
+    {
+      "file": "cleaning_bathrooms",
+      "title": "Cleaning Bathrooms"
+    },
+    {
+      "file": "cleaning_carpets_and_upholstery",
+      "title": "Cleaning Carpets And Upholstery"
+    },
+    {
+      "file": "cleaning_cutting_boards",
+      "title": "Cleaning Cutting Boards"
+    },
+    {
+      "file": "cleaning_hard_floors",
+      "title": "Cleaning Hard Floors"
+    },
+    {
+      "file": "cleaning_high_areas_safely",
+      "title": "Cleaning High Areas Safely"
+    },
+    {
+      "file": "cleaning_ironing_boards",
+      "title": "Cleaning Ironing Boards"
+    },
+    {
+      "file": "cleaning_irons",
+      "title": "Cleaning Irons"
+    },
+    {
+      "file": "cleaning_kitchen_sinks",
+      "title": "Cleaning Kitchen Sinks"
+    },
+    {
+      "file": "cleaning_kitchen_worktops",
+      "title": "Cleaning Kitchen Worktops"
+    },
+    {
+      "file": "cleaning_mirrors_and_glass",
+      "title": "Cleaning Mirrors And Glass"
+    },
+    {
+      "file": "cleaning_showers_and_baths",
+      "title": "Cleaning Showers And Baths"
+    },
+    {
+      "file": "cleaning_sofas_and_cushions",
+      "title": "Cleaning Sofas And Cushions"
+    },
+    {
+      "file": "cleaning_the_fridge",
+      "title": "Cleaning The Fridge"
+    },
+    {
+      "file": "cleaning_the_hob",
+      "title": "Cleaning The Hob"
+    },
+    {
+      "file": "cleaning_the_oven",
+      "title": "Cleaning The Oven"
+    },
+    {
+      "file": "cleaning_toilets",
+      "title": "Cleaning Toilets"
+    },
+    {
+      "file": "cleaning_washing_machine_drum",
+      "title": "Cleaning Washing Machine Drum"
+    },
+    {
+      "file": "cleaning_windows",
+      "title": "Cleaning Windows"
+    },
+    {
+      "file": "drying_delicates_flat",
+      "title": "Drying Delicates Flat"
+    },
+    {
+      "file": "dusting_and_polishing_furniture",
+      "title": "Dusting And Polishing Furniture"
+    },
+    {
+      "file": "folding_clothes",
+      "title": "Folding Clothes"
+    },
+    {
+      "file": "hand_washing_clothes",
+      "title": "Hand Washing Clothes"
+    },
+    {
+      "file": "ironing_temperature_settings",
+      "title": "Ironing Temperature Settings"
+    },
+    {
+      "file": "line_drying_clothes",
+      "title": "Line Drying Clothes"
+    },
+    {
+      "file": "measuring_laundry_detergent",
+      "title": "Measuring Laundry Detergent"
+    },
+    {
+      "file": "pretreating_laundry_stains",
+      "title": "Pretreating Laundry Stains"
+    },
+    {
+      "file": "preventing_clothes_shrinking",
+      "title": "Preventing Clothes Shrinking"
+    },
+    {
+      "file": "reading_care_labels",
+      "title": "Reading Care Labels"
+    },
+    {
+      "file": "removing_creases_from_shirts",
+      "title": "Removing Creases From Shirts"
+    },
+    {
+      "file": "removing_laundry_odours",
+      "title": "Removing Laundry Odours"
+    },
+    {
+      "file": "removing_limescale",
+      "title": "Removing Limescale"
+    },
+    {
+      "file": "running_a_dishwasher",
+      "title": "Running A Dishwasher"
+    },
+    {
+      "file": "sorting_laundry_by_colour",
+      "title": "Sorting Laundry By Colour"
+    },
+    {
+      "file": "steaming_clothes",
+      "title": "Steaming Clothes"
+    },
+    {
+      "file": "storing_clean_laundry",
+      "title": "Storing Clean Laundry"
+    },
+    {
+      "file": "using_a_tumble_dryer",
+      "title": "Using A Tumble Dryer"
+    },
+    {
+      "file": "using_fabric_conditioner",
+      "title": "Using Fabric Conditioner"
+    },
+    {
+      "file": "vacuuming_carpets",
+      "title": "Vacuuming Carpets"
+    },
+    {
+      "file": "washing_baby_clothes",
+      "title": "Washing Baby Clothes"
+    },
+    {
+      "file": "washing_bedding_and_duvets",
+      "title": "Washing Bedding And Duvets"
+    },
+    {
+      "file": "washing_dark_clothes",
+      "title": "Washing Dark Clothes"
+    },
+    {
+      "file": "washing_delicate_fabrics",
+      "title": "Washing Delicate Fabrics"
+    },
+    {
+      "file": "washing_mouldy_clothes",
+      "title": "Washing Mouldy Clothes"
+    },
+    {
+      "file": "washing_socks_and_underwear",
+      "title": "Washing Socks And Underwear"
+    },
+    {
+      "file": "washing_sportswear",
+      "title": "Washing Sportswear"
+    },
+    {
+      "file": "washing_towels",
+      "title": "Washing Towels"
+    },
+    {
+      "file": "washing_up_by_hand",
+      "title": "Washing Up By Hand"
+    },
+    {
+      "file": "washing_white_clothes",
+      "title": "Washing White Clothes"
+    },
+    {
+      "file": "washing_wool_and_knitwear",
+      "title": "Washing Wool And Knitwear"
+    }
+  ]
+}

@@ -58,7 +58,7 @@ ITEMS = (
             'what to do with surplus bread rolls',
             'can i thaw bread rolls in oven',
             'how long do frozen rolls keep freezing',
-            'should rolls be cool before freezing freezing',
+            'should rolls be cool before freezing at home',
             'how to refresh frozen rolls',
             'can i freeze burger buns freezing',
             'what happens to rolls in freezer',

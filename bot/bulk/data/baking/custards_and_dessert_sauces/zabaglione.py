@@ -1,9 +1,9 @@
-MODULE = "baking.custards_and_dessert_sauces.zabaglione"
-CATEGORY = "baking"
-DOMAIN = "custards_and_dessert_sauces"
+MODULE = 'baking.custards_and_dessert_sauces.zabaglione'
+CATEGORY = 'baking'
+DOMAIN = 'custards_and_dessert_sauces'
 TOPIC = 'zabaglione'
 PRIORITY = 5000
-ANSWERS = ("cooking-and-food",)
+ANSWERS = ('cooking-and-food',)
 ITEMS = (
     (
         (
@@ -41,7 +41,7 @@ ITEMS = (
             'what wine can replace marsala in zabaglione',
             'is there a non alcoholic version in zabaglione',
             'what if zabaglione tastes too boozy',
-            'how much wine goes in in zabaglione',
+            'how much wine goes in zabaglione',
             'can i use madeira instead in zabaglione',
             'what liqueur works in zabaglione',
             'should i use sweet or dry wine in zabaglione',
@@ -119,7 +119,7 @@ ITEMS = (
             'what if zabaglione is not sweet enough',
             'can i add cocoa in zabaglione',
             'what spice works well in zabaglione',
-            'when should flavourings go in in zabaglione',
+            'when should flavourings go in zabaglione',
             'can i add coffee in zabaglione',
             'how do i make a lighter version in zabaglione',
         ),

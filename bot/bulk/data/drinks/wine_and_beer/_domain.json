@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "wine_and_beer",
+  "title": "Wine And Beer",
+  "modules": [
+    {
+      "file": "adding_hops_to_beer",
+      "title": "Adding Hops To Beer"
+    },
+    {
+      "file": "beer_and_light",
+      "title": "Beer And Light"
+    },
+    {
+      "file": "beer_head_and_foam",
+      "title": "Beer Head And Foam"
+    },
+    {
+      "file": "beer_shelf_life",
+      "title": "Beer Shelf Life"
+    },
+    {
+      "file": "beer_tasting_basics",
+      "title": "Beer Tasting Basics"
+    },
+    {
+      "file": "beer_with_food",
+      "title": "Beer With Food"
+    },
+    {
+      "file": "boiling_the_wort",
+      "title": "Boiling The Wort"
+    },
+    {
+      "file": "bottling_homebrew",
+      "title": "Bottling Homebrew"
+    },
+    {
+      "file": "cans_or_bottles_of_beer",
+      "title": "Cans Or Bottles Of Beer"
+    },
+    {
+      "file": "carbonating_homebrew",
+      "title": "Carbonating Homebrew"
+    },
+    {
+      "file": "choosing_beer_glasses",
+      "title": "Choosing Beer Glasses"
+    },
+    {
+      "file": "choosing_wine_glasses",
+      "title": "Choosing Wine Glasses"
+    },
+    {
+      "file": "cloudy_homebrew_beer",
+      "title": "Cloudy Homebrew Beer"
+    },
+    {
+      "file": "decanting_wine",
+      "title": "Decanting Wine"
+    },
+    {
+      "file": "draught_beer_at_home",
+      "title": "Draught Beer At Home"
+    },
+    {
+      "file": "fermentation_temperature_for_beer",
+      "title": "Fermentation Temperature For Beer"
+    },
+    {
+      "file": "homebrew_equipment",
+      "title": "Homebrew Equipment"
+    },
+    {
+      "file": "homebrew_ingredients",
+      "title": "Homebrew Ingredients"
+    },
+    {
+      "file": "homebrew_sour_beer",
+      "title": "Homebrew Sour Beer"
+    },
+    {
+      "file": "homebrewing_basics",
+      "title": "Homebrewing Basics"
+    },
+    {
+      "file": "mashing_grain_for_beer",
+      "title": "Mashing Grain For Beer"
+    },
+    {
+      "file": "measuring_gravity_in_homebrew",
+      "title": "Measuring Gravity In Homebrew"
+    },
+    {
+      "file": "opening_a_wine_bottle",
+      "title": "Opening A Wine Bottle"
+    },
+    {
+      "file": "pouring_beer",
+      "title": "Pouring Beer"
+    },
+    {
+      "file": "pouring_wine",
+      "title": "Pouring Wine"
+    },
+    {
+      "file": "sanitising_homebrew_equipment",
+      "title": "Sanitising Homebrew Equipment"
+    },
+    {
+      "file": "serving_beer_temperature",
+      "title": "Serving Beer Temperature"
+    },
+    {
+      "file": "serving_dessert_wine",
+      "title": "Serving Dessert Wine"
+    },
+    {
+      "file": "serving_red_wine",
+      "title": "Serving Red Wine"
+    },
+    {
+      "file": "serving_rose_wine",
+      "title": "Serving Rose Wine"
+    },
+    {
+      "file": "serving_sparkling_wine",
+      "title": "Serving Sparkling Wine"
+    },
+    {
+      "file": "serving_white_wine",
+      "title": "Serving White Wine"
+    },
+    {
+      "file": "serving_wine_at_a_party",
+      "title": "Serving Wine At A Party"
+    },
+    {
+      "file": "storing_opened_wine",
+      "title": "Storing Opened Wine"
+    },
+    {
+      "file": "storing_wine_bottles",
+      "title": "Storing Wine Bottles"
+    },
+    {
+      "file": "stuck_homebrew_fermentation",
+      "title": "Stuck Homebrew Fermentation"
+    },
+    {
+      "file": "wine_aging_and_vintage",
+      "title": "Wine Aging And Vintage"
+    },
+    {
+      "file": "wine_and_light",
+      "title": "Wine And Light"
+    },
+    {
+      "file": "wine_bottle_position",
+      "title": "Wine Bottle Position"
+    },
+    {
+      "file": "wine_cellaring_temperature",
+      "title": "Wine Cellaring Temperature"
+    },
+    {
+      "file": "wine_faults_and_corking",
+      "title": "Wine Faults And Corking"
+    },
+    {
+      "file": "wine_grape_varieties",
+      "title": "Wine Grape Varieties"
+    },
+    {
+      "file": "wine_humidity_storage",
+      "title": "Wine Humidity Storage"
+    },
+    {
+      "file": "wine_sediment",
+      "title": "Wine Sediment"
+    },
+    {
+      "file": "wine_serving_temperature",
+      "title": "Wine Serving Temperature"
+    },
+    {
+      "file": "wine_sulphites_and_headaches",
+      "title": "Wine Sulphites And Headaches"
+    },
+    {
+      "file": "wine_tasting_basics",
+      "title": "Wine Tasting Basics"
+    },
+    {
+      "file": "wine_terroir",
+      "title": "Wine Terroir"
+    },
+    {
+      "file": "wine_with_food",
+      "title": "Wine With Food"
+    },
+    {
+      "file": "yeast_for_homebrew",
+      "title": "Yeast For Homebrew"
+    }
+  ]
+}

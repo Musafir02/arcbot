@@ -53,7 +53,7 @@ ITEMS = (
     (
         (
             'how to press pastry into a tin',
-            'what to use to push pastry in in a pie tin',
+            'what to use to push pastry in a pie tin',
             'how to avoid air pockets in pastry in a pie tin',
             'how to get pastry into corners in a pie tin',
             'should i press pastry firmly in a pie tin',

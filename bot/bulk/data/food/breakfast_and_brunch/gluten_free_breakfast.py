@@ -99,7 +99,7 @@ ITEMS = (
         (
             'is muesli gluten free',
             'can i buy gluten free granola',
-            'what should i look for for gluten free breakfast',
+            'what should i look for gluten free breakfast',
             'can i make my own for gluten free breakfast',
             'what ingredients are safe for gluten free breakfast',
             'how do i store the gluten free breakfast safely',

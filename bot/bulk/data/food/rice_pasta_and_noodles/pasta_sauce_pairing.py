@@ -78,7 +78,7 @@ ITEMS = (
             'what is the correct method for match pasta',
             'how would i match pasta at home',
         ),
-        'Match sauce to shape so the pasta carries it, and toss the two together before serving. The small details depend on the exact type, so check the packet and adapt the method to your pan.',
+        'Match sauce to shape so the pasta carries it, and toss the two together before serving. the details depend on the situation type, so check the packet and adapt the method to your pan.',
     ),
     (
         (

@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "cocktails_and_mocktails",
+  "title": "Cocktails And Mocktails",
+  "modules": [
+    {
+      "file": "alcohol_free_substitutes",
+      "title": "Alcohol Free Substitutes"
+    },
+    {
+      "file": "bar_tools",
+      "title": "Bar Tools"
+    },
+    {
+      "file": "batching_cocktails",
+      "title": "Batching Cocktails"
+    },
+    {
+      "file": "chilling_glasses",
+      "title": "Chilling Glasses"
+    },
+    {
+      "file": "cocktail_bitters",
+      "title": "Cocktail Bitters"
+    },
+    {
+      "file": "cocktail_building_basics",
+      "title": "Cocktail Building Basics"
+    },
+    {
+      "file": "cocktail_dilution",
+      "title": "Cocktail Dilution"
+    },
+    {
+      "file": "cocktail_garnishes",
+      "title": "Cocktail Garnishes"
+    },
+    {
+      "file": "cocktail_glassware",
+      "title": "Cocktail Glassware"
+    },
+    {
+      "file": "cocktail_pitchers",
+      "title": "Cocktail Pitchers"
+    },
+    {
+      "file": "cocktail_shaker_ice",
+      "title": "Cocktail Shaker Ice"
+    },
+    {
+      "file": "coffee_cocktails",
+      "title": "Coffee Cocktails"
+    },
+    {
+      "file": "daiquiri_making",
+      "title": "Daiquiri Making"
+    },
+    {
+      "file": "dairy_in_cocktails",
+      "title": "Dairy In Cocktails"
+    },
+    {
+      "file": "egg_white_foam",
+      "title": "Egg White Foam"
+    },
+    {
+      "file": "fresh_citrus_juice",
+      "title": "Fresh Citrus Juice"
+    },
+    {
+      "file": "frozen_cocktails",
+      "title": "Frozen Cocktails"
+    },
+    {
+      "file": "fruit_puree_cocktails",
+      "title": "Fruit Puree Cocktails"
+    },
+    {
+      "file": "gin_cocktails",
+      "title": "Gin Cocktails"
+    },
+    {
+      "file": "glass_rimming_salt",
+      "title": "Glass Rimming Salt"
+    },
+    {
+      "file": "herb_garnishes",
+      "title": "Herb Garnishes"
+    },
+    {
+      "file": "highball_cocktails",
+      "title": "Highball Cocktails"
+    },
+    {
+      "file": "ice_types",
+      "title": "Ice Types"
+    },
+    {
+      "file": "margarita_making",
+      "title": "Margarita Making"
+    },
+    {
+      "file": "martini_making",
+      "title": "Martini Making"
+    },
+    {
+      "file": "measuring_jigger",
+      "title": "Measuring Jigger"
+    },
+    {
+      "file": "mocktail_basics",
+      "title": "Mocktail Basics"
+    },
+    {
+      "file": "mocktail_sweetness",
+      "title": "Mocktail Sweetness"
+    },
+    {
+      "file": "mocktails_for_kids",
+      "title": "Mocktails For Kids"
+    },
+    {
+      "file": "mojito_making",
+      "title": "Mojito Making"
+    },
+    {
+      "file": "muddling_fruit",
+      "title": "Muddling Fruit"
+    },
+    {
+      "file": "non_alcoholic_spirits",
+      "title": "Non Alcoholic Spirits"
+    },
+    {
+      "file": "old_fashioned",
+      "title": "Old Fashioned"
+    },
+    {
+      "file": "party_mocktail_ideas",
+      "title": "Party Mocktail Ideas"
+    },
+    {
+      "file": "responsible_drinking",
+      "title": "Responsible Drinking"
+    },
+    {
+      "file": "rum_cocktails",
+      "title": "Rum Cocktails"
+    },
+    {
+      "file": "shaking_vs_stirring",
+      "title": "Shaking Vs Stirring"
+    },
+    {
+      "file": "simple_syrup",
+      "title": "Simple Syrup"
+    },
+    {
+      "file": "smoked_cocktails",
+      "title": "Smoked Cocktails"
+    },
+    {
+      "file": "sour_cocktails",
+      "title": "Sour Cocktails"
+    },
+    {
+      "file": "spicy_cocktails",
+      "title": "Spicy Cocktails"
+    },
+    {
+      "file": "straining_cocktails",
+      "title": "Straining Cocktails"
+    },
+    {
+      "file": "sweet_vs_dry",
+      "title": "Sweet Vs Dry"
+    },
+    {
+      "file": "tea_cocktails",
+      "title": "Tea Cocktails"
+    },
+    {
+      "file": "tequila_cocktails",
+      "title": "Tequila Cocktails"
+    },
+    {
+      "file": "vermouth_storage",
+      "title": "Vermouth Storage"
+    },
+    {
+      "file": "virgin_cocktails",
+      "title": "Virgin Cocktails"
+    },
+    {
+      "file": "vodka_cocktails",
+      "title": "Vodka Cocktails"
+    },
+    {
+      "file": "water_in_cocktails",
+      "title": "Water In Cocktails"
+    },
+    {
+      "file": "whiskey_cocktails",
+      "title": "Whiskey Cocktails"
+    }
+  ]
+}

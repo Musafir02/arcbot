@@ -1,9 +1,9 @@
-MODULE = "baking.custards_and_dessert_sauces.butterscotch_sauce"
-CATEGORY = "baking"
-DOMAIN = "custards_and_dessert_sauces"
+MODULE = 'baking.custards_and_dessert_sauces.butterscotch_sauce'
+CATEGORY = 'baking'
+DOMAIN = 'custards_and_dessert_sauces'
 TOPIC = 'butterscotch sauce'
 PRIORITY = 5000
-ANSWERS = ("cooking-and-food",)
+ANSWERS = ('cooking-and-food',)
 ITEMS = (
     (
         (
@@ -105,7 +105,7 @@ ITEMS = (
             'how much salt is enough in butterscotch sauce',
             'can i add coffee in butterscotch sauce',
             'what spices suit butterscotch sauce',
-            'when should flavourings go in in butterscotch sauce',
+            'when should flavourings go in butterscotch sauce',
             'how do i balance richness in butterscotch sauce',
         ),
         'A pinch of salt is the classic partner for butterscotch and offsets the sweetness. Vanilla, rum or coffee also work. Add flavourings at the end and taste once the sauce has cooled slightly.',

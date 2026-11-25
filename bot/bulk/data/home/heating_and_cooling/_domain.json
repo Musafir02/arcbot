@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "heating_and_cooling",
+  "title": "Heating And Cooling",
+  "modules": [
+    {
+      "file": "air_conditioning_units",
+      "title": "Air Conditioning Units"
+    },
+    {
+      "file": "air_filters",
+      "title": "Air Filters"
+    },
+    {
+      "file": "bleeding_radiators",
+      "title": "Bleeding Radiators"
+    },
+    {
+      "file": "boiler_fault_codes",
+      "title": "Boiler Fault Codes"
+    },
+    {
+      "file": "boiler_not_starting",
+      "title": "Boiler Not Starting"
+    },
+    {
+      "file": "boiler_pressure",
+      "title": "Boiler Pressure"
+    },
+    {
+      "file": "boiler_servicing",
+      "title": "Boiler Servicing"
+    },
+    {
+      "file": "carbon_monoxide_safety",
+      "title": "Carbon Monoxide Safety"
+    },
+    {
+      "file": "ceiling_fans",
+      "title": "Ceiling Fans"
+    },
+    {
+      "file": "central_heating_zones",
+      "title": "Central Heating Zones"
+    },
+    {
+      "file": "chimney_and_flue",
+      "title": "Chimney And Flue"
+    },
+    {
+      "file": "circulation_pump",
+      "title": "Circulation Pump"
+    },
+    {
+      "file": "cold_room_in_house",
+      "title": "Cold Room In House"
+    },
+    {
+      "file": "condensation_and_mould",
+      "title": "Condensation And Mould"
+    },
+    {
+      "file": "cooling_a_room_in_summer",
+      "title": "Cooling A Room In Summer"
+    },
+    {
+      "file": "curtains_and_blinds",
+      "title": "Curtains And Blinds"
+    },
+    {
+      "file": "dehumidifiers",
+      "title": "Dehumidifiers"
+    },
+    {
+      "file": "double_glazing",
+      "title": "Double Glazing"
+    },
+    {
+      "file": "draught_proofing",
+      "title": "Draught Proofing"
+    },
+    {
+      "file": "electric_heaters",
+      "title": "Electric Heaters"
+    },
+    {
+      "file": "extractor_fans",
+      "title": "Extractor Fans"
+    },
+    {
+      "file": "fireplace_hearth",
+      "title": "Fireplace Hearth"
+    },
+    {
+      "file": "frozen_pipes",
+      "title": "Frozen Pipes"
+    },
+    {
+      "file": "heat_loss_survey",
+      "title": "Heat Loss Survey"
+    },
+    {
+      "file": "heat_pumps",
+      "title": "Heat Pumps"
+    },
+    {
+      "file": "heating_and_health",
+      "title": "Heating And Health"
+    },
+    {
+      "file": "heating_bills",
+      "title": "Heating Bills"
+    },
+    {
+      "file": "heating_timers",
+      "title": "Heating Timers"
+    },
+    {
+      "file": "hot_water_cylinder",
+      "title": "Hot Water Cylinder"
+    },
+    {
+      "file": "humidifiers",
+      "title": "Humidifiers"
+    },
+    {
+      "file": "immersion_heater",
+      "title": "Immersion Heater"
+    },
+    {
+      "file": "loft_insulation",
+      "title": "Loft Insulation"
+    },
+    {
+      "file": "log_burners_and_stoves",
+      "title": "Log Burners And Stoves"
+    },
+    {
+      "file": "night_ventilation",
+      "title": "Night Ventilation"
+    },
+    {
+      "file": "pipe_lagging",
+      "title": "Pipe Lagging"
+    },
+    {
+      "file": "portable_fans",
+      "title": "Portable Fans"
+    },
+    {
+      "file": "radiator_accessories",
+      "title": "Radiator Accessories"
+    },
+    {
+      "file": "radiator_leaks",
+      "title": "Radiator Leaks"
+    },
+    {
+      "file": "radiator_noise",
+      "title": "Radiator Noise"
+    },
+    {
+      "file": "radiator_not_heating",
+      "title": "Radiator Not Heating"
+    },
+    {
+      "file": "radiator_painting",
+      "title": "Radiator Painting"
+    },
+    {
+      "file": "room_temperature_guidance",
+      "title": "Room Temperature Guidance"
+    },
+    {
+      "file": "storage_heaters",
+      "title": "Storage Heaters"
+    },
+    {
+      "file": "thermostat_settings",
+      "title": "Thermostat Settings"
+    },
+    {
+      "file": "thermostatic_radiator_valves",
+      "title": "Thermostatic Radiator Valves"
+    },
+    {
+      "file": "underfloor_heating",
+      "title": "Underfloor Heating"
+    },
+    {
+      "file": "ventilation_basics",
+      "title": "Ventilation Basics"
+    },
+    {
+      "file": "warm_air_heating",
+      "title": "Warm Air Heating"
+    },
+    {
+      "file": "window_insulation_film",
+      "title": "Window Insulation Film"
+    },
+    {
+      "file": "winter_preparation",
+      "title": "Winter Preparation"
+    }
+  ]
+}

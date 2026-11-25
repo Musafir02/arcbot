@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "furniture_and_repair",
+  "title": "Furniture And Repair",
+  "modules": [
+    {
+      "file": "antique_furniture_care",
+      "title": "Antique Furniture Care"
+    },
+    {
+      "file": "bed_frame_assembly",
+      "title": "Bed Frame Assembly"
+    },
+    {
+      "file": "bookshelf_assembly",
+      "title": "Bookshelf Assembly"
+    },
+    {
+      "file": "bookshelf_repair",
+      "title": "Bookshelf Repair"
+    },
+    {
+      "file": "broken_bed_slats",
+      "title": "Broken Bed Slats"
+    },
+    {
+      "file": "broken_chair_rung",
+      "title": "Broken Chair Rung"
+    },
+    {
+      "file": "cane_chair_repair",
+      "title": "Cane Chair Repair"
+    },
+    {
+      "file": "cracked_leather_sofa",
+      "title": "Cracked Leather Sofa"
+    },
+    {
+      "file": "cracked_plastic_furniture",
+      "title": "Cracked Plastic Furniture"
+    },
+    {
+      "file": "creaky_bed_frame",
+      "title": "Creaky Bed Frame"
+    },
+    {
+      "file": "creaky_wooden_chair",
+      "title": "Creaky Wooden Chair"
+    },
+    {
+      "file": "cupboard_door_alignment",
+      "title": "Cupboard Door Alignment"
+    },
+    {
+      "file": "desk_repair",
+      "title": "Desk Repair"
+    },
+    {
+      "file": "dining_table_care",
+      "title": "Dining Table Care"
+    },
+    {
+      "file": "drawer_runner_replacement",
+      "title": "Drawer Runner Replacement"
+    },
+    {
+      "file": "felt_pads_for_furniture",
+      "title": "Felt Pads For Furniture"
+    },
+    {
+      "file": "flat_pack_assembly",
+      "title": "Flat Pack Assembly"
+    },
+    {
+      "file": "furniture_disassembly",
+      "title": "Furniture Disassembly"
+    },
+    {
+      "file": "furniture_paint_touch_up",
+      "title": "Furniture Paint Touch Up"
+    },
+    {
+      "file": "furniture_wax_fill",
+      "title": "Furniture Wax Fill"
+    },
+    {
+      "file": "glue_wood_joints",
+      "title": "Glue Wood Joints"
+    },
+    {
+      "file": "heat_marks_on_wood",
+      "title": "Heat Marks On Wood"
+    },
+    {
+      "file": "laminate_furniture_chips",
+      "title": "Laminate Furniture Chips"
+    },
+    {
+      "file": "leather_sofa_conditioning",
+      "title": "Leather Sofa Conditioning"
+    },
+    {
+      "file": "levelling_furniture",
+      "title": "Levelling Furniture"
+    },
+    {
+      "file": "loose_cabinet_handle",
+      "title": "Loose Cabinet Handle"
+    },
+    {
+      "file": "loose_cupboard_hinge",
+      "title": "Loose Cupboard Hinge"
+    },
+    {
+      "file": "loose_table_leg",
+      "title": "Loose Table Leg"
+    },
+    {
+      "file": "metal_chair_repair",
+      "title": "Metal Chair Repair"
+    },
+    {
+      "file": "rattan_furniture_care",
+      "title": "Rattan Furniture Care"
+    },
+    {
+      "file": "refinishing_wooden_furniture",
+      "title": "Refinishing Wooden Furniture"
+    },
+    {
+      "file": "rust_on_metal_furniture",
+      "title": "Rust On Metal Furniture"
+    },
+    {
+      "file": "scratched_wooden_table",
+      "title": "Scratched Wooden Table"
+    },
+    {
+      "file": "sofa_cushion_repair",
+      "title": "Sofa Cushion Repair"
+    },
+    {
+      "file": "sofa_fabric_tear",
+      "title": "Sofa Fabric Tear"
+    },
+    {
+      "file": "soft_close_hinges",
+      "title": "Soft Close Hinges"
+    },
+    {
+      "file": "sticky_drawer",
+      "title": "Sticky Drawer"
+    },
+    {
+      "file": "stripped_screw_holes",
+      "title": "Stripped Screw Holes"
+    },
+    {
+      "file": "tightening_furniture_screws",
+      "title": "Tightening Furniture Screws"
+    },
+    {
+      "file": "upholstery_cleaning",
+      "title": "Upholstery Cleaning"
+    },
+    {
+      "file": "veneer_repair",
+      "title": "Veneer Repair"
+    },
+    {
+      "file": "wardrobe_door_repair",
+      "title": "Wardrobe Door Repair"
+    },
+    {
+      "file": "warped_wooden_furniture",
+      "title": "Warped Wooden Furniture"
+    },
+    {
+      "file": "white_rings_on_wood",
+      "title": "White Rings On Wood"
+    },
+    {
+      "file": "wobbly_chair_leg",
+      "title": "Wobbly Chair Leg"
+    },
+    {
+      "file": "wobbly_dining_table",
+      "title": "Wobbly Dining Table"
+    },
+    {
+      "file": "wood_filler_for_furniture",
+      "title": "Wood Filler For Furniture"
+    },
+    {
+      "file": "wood_water_stains",
+      "title": "Wood Water Stains"
+    },
+    {
+      "file": "wooden_dowel_repair",
+      "title": "Wooden Dowel Repair"
+    },
+    {
+      "file": "wooden_furniture_polish",
+      "title": "Wooden Furniture Polish"
+    }
+  ]
+}

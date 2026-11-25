@@ -90,7 +90,7 @@ ITEMS = (
             'should i add liquid slowly for pastry',
             'what changes with storage for pastry',
             'how to avoid wet dough for pastry',
-            'what consistency to aim for for pastry',
+            'what consistency to aim for pastry',
             'how to adjust for flour',
         ),
         'Flour absorbs liquid at different rates depending on how dry it is and how it was stored. Add water gradually rather than following the amount exactly. The dough should just hold together without feeling wet.',

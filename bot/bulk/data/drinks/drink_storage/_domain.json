@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "drink_storage",
+  "title": "Drink Storage",
+  "modules": [
+    {
+      "file": "beer_storage_temperature",
+      "title": "Beer Storage Temperature"
+    },
+    {
+      "file": "freezing_coffee_beans",
+      "title": "Freezing Coffee Beans"
+    },
+    {
+      "file": "labelling_and_dating_drinks",
+      "title": "Labelling And Dating Drinks"
+    },
+    {
+      "file": "long_term_drink_storage",
+      "title": "Long Term Drink Storage"
+    },
+    {
+      "file": "organising_a_drinks_cupboard",
+      "title": "Organising A Drinks Cupboard"
+    },
+    {
+      "file": "storing_bar_tools",
+      "title": "Storing Bar Tools"
+    },
+    {
+      "file": "storing_beer_cans_and_bottles",
+      "title": "Storing Beer Cans And Bottles"
+    },
+    {
+      "file": "storing_beer_kegs",
+      "title": "Storing Beer Kegs"
+    },
+    {
+      "file": "storing_brewed_coffee",
+      "title": "Storing Brewed Coffee"
+    },
+    {
+      "file": "storing_cider",
+      "title": "Storing Cider"
+    },
+    {
+      "file": "storing_cocktail_ingredients",
+      "title": "Storing Cocktail Ingredients"
+    },
+    {
+      "file": "storing_cocoa_powder",
+      "title": "Storing Cocoa Powder"
+    },
+    {
+      "file": "storing_coffee_beans",
+      "title": "Storing Coffee Beans"
+    },
+    {
+      "file": "storing_coffee_in_the_fridge",
+      "title": "Storing Coffee In The Fridge"
+    },
+    {
+      "file": "storing_cold_brew_coffee",
+      "title": "Storing Cold Brew Coffee"
+    },
+    {
+      "file": "storing_cordial",
+      "title": "Storing Cordial"
+    },
+    {
+      "file": "storing_drinks_after_a_power_cut",
+      "title": "Storing Drinks After A Power Cut"
+    },
+    {
+      "file": "storing_drinks_for_a_party",
+      "title": "Storing Drinks For A Party"
+    },
+    {
+      "file": "storing_fizzy_drinks",
+      "title": "Storing Fizzy Drinks"
+    },
+    {
+      "file": "storing_fortified_wine",
+      "title": "Storing Fortified Wine"
+    },
+    {
+      "file": "storing_fresh_juice",
+      "title": "Storing Fresh Juice"
+    },
+    {
+      "file": "storing_glassware",
+      "title": "Storing Glassware"
+    },
+    {
+      "file": "storing_ground_coffee",
+      "title": "Storing Ground Coffee"
+    },
+    {
+      "file": "storing_herbal_tea",
+      "title": "Storing Herbal Tea"
+    },
+    {
+      "file": "storing_homebrew_beer",
+      "title": "Storing Homebrew Beer"
+    },
+    {
+      "file": "storing_hot_chocolate_mix",
+      "title": "Storing Hot Chocolate Mix"
+    },
+    {
+      "file": "storing_ice_for_drinks",
+      "title": "Storing Ice For Drinks"
+    },
+    {
+      "file": "storing_leftover_cocktails",
+      "title": "Storing Leftover Cocktails"
+    },
+    {
+      "file": "storing_liqueurs",
+      "title": "Storing Liqueurs"
+    },
+    {
+      "file": "storing_matcha",
+      "title": "Storing Matcha"
+    },
+    {
+      "file": "storing_milk_for_drinks",
+      "title": "Storing Milk For Drinks"
+    },
+    {
+      "file": "storing_opened_beer",
+      "title": "Storing Opened Beer"
+    },
+    {
+      "file": "storing_opened_spirits",
+      "title": "Storing Opened Spirits"
+    },
+    {
+      "file": "storing_opened_wine",
+      "title": "Storing Opened Wine"
+    },
+    {
+      "file": "storing_recorked_wine",
+      "title": "Storing Recorked Wine"
+    },
+    {
+      "file": "storing_shop_bought_juice",
+      "title": "Storing Shop Bought Juice"
+    },
+    {
+      "file": "storing_smoothies",
+      "title": "Storing Smoothies"
+    },
+    {
+      "file": "storing_sparkling_wine",
+      "title": "Storing Sparkling Wine"
+    },
+    {
+      "file": "storing_spirits",
+      "title": "Storing Spirits"
+    },
+    {
+      "file": "storing_syrups",
+      "title": "Storing Syrups"
+    },
+    {
+      "file": "storing_tea_bags",
+      "title": "Storing Tea Bags"
+    },
+    {
+      "file": "storing_tea_leaves",
+      "title": "Storing Tea Leaves"
+    },
+    {
+      "file": "storing_water_bottles",
+      "title": "Storing Water Bottles"
+    },
+    {
+      "file": "storing_water_in_hot_weather",
+      "title": "Storing Water In Hot Weather"
+    },
+    {
+      "file": "storing_wine_bottles",
+      "title": "Storing Wine Bottles"
+    },
+    {
+      "file": "travelling_with_drinks",
+      "title": "Travelling With Drinks"
+    },
+    {
+      "file": "wine_light_and_air",
+      "title": "Wine Light And Air"
+    },
+    {
+      "file": "wine_savers_and_vacuum_pumps",
+      "title": "Wine Savers And Vacuum Pumps"
+    },
+    {
+      "file": "wine_storage_humidity",
+      "title": "Wine Storage Humidity"
+    },
+    {
+      "file": "wine_storage_temperature",
+      "title": "Wine Storage Temperature"
+    }
+  ]
+}

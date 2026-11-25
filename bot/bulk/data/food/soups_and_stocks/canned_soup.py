@@ -148,7 +148,7 @@ ITEMS = (
             'what toppings suit canned soup',
             'should i add cream for soup to canned soup',
             'can i add croutons for soup to tinned soup',
-            'what to serve alongside for soup soup',
+            'what to serve alongside for soup',
             'how to present canned soup',
             'what makes canned soup filling',
             'would grated cheese help the soup to soup',

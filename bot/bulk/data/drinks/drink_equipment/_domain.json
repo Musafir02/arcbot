@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "drink_equipment",
+  "title": "Drink Equipment",
+  "modules": [
+    {
+      "file": "bar_tools",
+      "title": "Bar Tools"
+    },
+    {
+      "file": "blender_blade_care",
+      "title": "Blender Blade Care"
+    },
+    {
+      "file": "blender_choosing",
+      "title": "Blender Choosing"
+    },
+    {
+      "file": "blender_cleaning",
+      "title": "Blender Cleaning"
+    },
+    {
+      "file": "blender_safety",
+      "title": "Blender Safety"
+    },
+    {
+      "file": "blender_troubleshooting",
+      "title": "Blender Troubleshooting"
+    },
+    {
+      "file": "citrus_juicer",
+      "title": "Citrus Juicer"
+    },
+    {
+      "file": "cocktail_strainer",
+      "title": "Cocktail Strainer"
+    },
+    {
+      "file": "coffee_filters",
+      "title": "Coffee Filters"
+    },
+    {
+      "file": "coffee_grinder",
+      "title": "Coffee Grinder"
+    },
+    {
+      "file": "coffee_machine_buying",
+      "title": "Coffee Machine Buying"
+    },
+    {
+      "file": "coffee_machine_cleaning",
+      "title": "Coffee Machine Cleaning"
+    },
+    {
+      "file": "coffee_machine_descaling",
+      "title": "Coffee Machine Descaling"
+    },
+    {
+      "file": "coffee_machine_maintenance",
+      "title": "Coffee Machine Maintenance"
+    },
+    {
+      "file": "coffee_machine_safety",
+      "title": "Coffee Machine Safety"
+    },
+    {
+      "file": "coffee_machine_steam_wand",
+      "title": "Coffee Machine Steam Wand"
+    },
+    {
+      "file": "coffee_machine_troubleshooting",
+      "title": "Coffee Machine Troubleshooting"
+    },
+    {
+      "file": "coffee_machine_water_tank",
+      "title": "Coffee Machine Water Tank"
+    },
+    {
+      "file": "corkscrew_broken_cork",
+      "title": "Corkscrew Broken Cork"
+    },
+    {
+      "file": "corkscrew_care",
+      "title": "Corkscrew Care"
+    },
+    {
+      "file": "corkscrew_storage",
+      "title": "Corkscrew Storage"
+    },
+    {
+      "file": "corkscrew_types",
+      "title": "Corkscrew Types"
+    },
+    {
+      "file": "corkscrew_using",
+      "title": "Corkscrew Using"
+    },
+    {
+      "file": "espresso_machine_pressure",
+      "title": "Espresso Machine Pressure"
+    },
+    {
+      "file": "filter_cleaning",
+      "title": "Filter Cleaning"
+    },
+    {
+      "file": "filter_clogging",
+      "title": "Filter Clogging"
+    },
+    {
+      "file": "filter_replacement",
+      "title": "Filter Replacement"
+    },
+    {
+      "file": "filter_types",
+      "title": "Filter Types"
+    },
+    {
+      "file": "glassware_chips",
+      "title": "Glassware Chips"
+    },
+    {
+      "file": "glassware_cleaning",
+      "title": "Glassware Cleaning"
+    },
+    {
+      "file": "glassware_polishing",
+      "title": "Glassware Polishing"
+    },
+    {
+      "file": "glassware_storage",
+      "title": "Glassware Storage"
+    },
+    {
+      "file": "glassware_streaks",
+      "title": "Glassware Streaks"
+    },
+    {
+      "file": "glassware_types",
+      "title": "Glassware Types"
+    },
+    {
+      "file": "ice_cube_trays",
+      "title": "Ice Cube Trays"
+    },
+    {
+      "file": "kettle_boiling_speed",
+      "title": "Kettle Boiling Speed"
+    },
+    {
+      "file": "kettle_care",
+      "title": "Kettle Care"
+    },
+    {
+      "file": "kettle_choosing",
+      "title": "Kettle Choosing"
+    },
+    {
+      "file": "kettle_cleaning",
+      "title": "Kettle Cleaning"
+    },
+    {
+      "file": "kettle_descaling",
+      "title": "Kettle Descaling"
+    },
+    {
+      "file": "kettle_safety",
+      "title": "Kettle Safety"
+    },
+    {
+      "file": "kettle_water_filter",
+      "title": "Kettle Water Filter"
+    },
+    {
+      "file": "measuring_jugs",
+      "title": "Measuring Jugs"
+    },
+    {
+      "file": "muddler",
+      "title": "Muddler"
+    },
+    {
+      "file": "shaker_cleaning",
+      "title": "Shaker Cleaning"
+    },
+    {
+      "file": "shaker_leaking",
+      "title": "Shaker Leaking"
+    },
+    {
+      "file": "shaker_storage",
+      "title": "Shaker Storage"
+    },
+    {
+      "file": "shaker_types",
+      "title": "Shaker Types"
+    },
+    {
+      "file": "shaker_using",
+      "title": "Shaker Using"
+    },
+    {
+      "file": "water_filter_jug",
+      "title": "Water Filter Jug"
+    }
+  ]
+}

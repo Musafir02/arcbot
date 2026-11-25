@@ -43,7 +43,7 @@ ITEMS = (
             'can i use aquafaba for aioli',
             'what does egg do in aioli',
             'is it safe to eat raw egg in aioli',
-            'can i use pasteurised egg at home',
+            'can i use pasteurised egg at home at home',
             'how do i make vegan aioli',
             'what if i cannot eat eggs',
             'how do i thicken egg free aioli',

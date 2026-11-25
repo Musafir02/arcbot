@@ -135,7 +135,7 @@ ITEMS = (
             'how to keep bread roll crust soft',
             'can i stack warm bread rolls',
             'when to serve bread rolls',
-            'should i cover rolls while cooling cooling',
+            'should i cover rolls while cooling at home',
             'what if bread rolls are still doughy',
         ),
         'Small rolls and buns cool much faster than a large loaf and can be eaten warm after a short rest. Give them ten minutes or so on a rack so the crumb sets. Cover them loosely if you want to keep the crust soft.',

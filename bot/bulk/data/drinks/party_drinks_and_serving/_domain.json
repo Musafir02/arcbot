@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "party_drinks_and_serving",
+  "title": "Party Drinks And Serving",
+  "modules": [
+    {
+      "file": "alcoholic_punch",
+      "title": "Alcoholic Punch"
+    },
+    {
+      "file": "batching_cocktails",
+      "title": "Batching Cocktails"
+    },
+    {
+      "file": "beer_quantity_for_party",
+      "title": "Beer Quantity For Party"
+    },
+    {
+      "file": "cider_for_parties",
+      "title": "Cider For Parties"
+    },
+    {
+      "file": "cleaning_drink_spills",
+      "title": "Cleaning Drink Spills"
+    },
+    {
+      "file": "disposable_cups_for_drinks",
+      "title": "Disposable Cups For Drinks"
+    },
+    {
+      "file": "drink_allergens_at_parties",
+      "title": "Drink Allergens At Parties"
+    },
+    {
+      "file": "drink_portion_measures",
+      "title": "Drink Portion Measures"
+    },
+    {
+      "file": "drink_quantities_per_guest",
+      "title": "Drink Quantities Per Guest"
+    },
+    {
+      "file": "drink_table_layout",
+      "title": "Drink Table Layout"
+    },
+    {
+      "file": "drink_waste_at_parties",
+      "title": "Drink Waste At Parties"
+    },
+    {
+      "file": "drinks_and_children_at_parties",
+      "title": "Drinks And Children At Parties"
+    },
+    {
+      "file": "drinks_for_large_group",
+      "title": "Drinks For Large Group"
+    },
+    {
+      "file": "easy_punch_for_large_group",
+      "title": "Easy Punch For Large Group"
+    },
+    {
+      "file": "fruit_punch_recipe",
+      "title": "Fruit Punch Recipe"
+    },
+    {
+      "file": "glassware_for_parties",
+      "title": "Glassware For Parties"
+    },
+    {
+      "file": "hot_drinks_for_winter_parties",
+      "title": "Hot Drinks For Winter Parties"
+    },
+    {
+      "file": "ice_for_punch",
+      "title": "Ice For Punch"
+    },
+    {
+      "file": "ice_quantity_for_party",
+      "title": "Ice Quantity For Party"
+    },
+    {
+      "file": "keeping_drinks_cold_outdoors",
+      "title": "Keeping Drinks Cold Outdoors"
+    },
+    {
+      "file": "keeping_ice_from_melting",
+      "title": "Keeping Ice From Melting"
+    },
+    {
+      "file": "keeping_punch_cold",
+      "title": "Keeping Punch Cold"
+    },
+    {
+      "file": "labelling_party_drinks",
+      "title": "Labelling Party Drinks"
+    },
+    {
+      "file": "making_punch_ahead",
+      "title": "Making Punch Ahead"
+    },
+    {
+      "file": "margaritas_for_a_party",
+      "title": "Margaritas For A Party"
+    },
+    {
+      "file": "mocktails_for_parties",
+      "title": "Mocktails For Parties"
+    },
+    {
+      "file": "mojitos_for_a_party",
+      "title": "Mojitos For A Party"
+    },
+    {
+      "file": "non_alcoholic_party_drinks",
+      "title": "Non Alcoholic Party Drinks"
+    },
+    {
+      "file": "non_alcoholic_punch",
+      "title": "Non Alcoholic Punch"
+    },
+    {
+      "file": "party_drink_budget",
+      "title": "Party Drink Budget"
+    },
+    {
+      "file": "punch_bowl_size",
+      "title": "Punch Bowl Size"
+    },
+    {
+      "file": "punch_flavour_combinations",
+      "title": "Punch Flavour Combinations"
+    },
+    {
+      "file": "punch_garnishes",
+      "title": "Punch Garnishes"
+    },
+    {
+      "file": "punch_too_strong",
+      "title": "Punch Too Strong"
+    },
+    {
+      "file": "punch_too_sweet",
+      "title": "Punch Too Sweet"
+    },
+    {
+      "file": "responsible_drink_serving",
+      "title": "Responsible Drink Serving"
+    },
+    {
+      "file": "running_out_of_party_drinks",
+      "title": "Running Out Of Party Drinks"
+    },
+    {
+      "file": "sangria_for_a_crowd",
+      "title": "Sangria For A Crowd"
+    },
+    {
+      "file": "self_service_drink_station",
+      "title": "Self Service Drink Station"
+    },
+    {
+      "file": "serving_drinks_at_parties",
+      "title": "Serving Drinks At Parties"
+    },
+    {
+      "file": "serving_drinks_in_summer_heat",
+      "title": "Serving Drinks In Summer Heat"
+    },
+    {
+      "file": "serving_drinks_with_food",
+      "title": "Serving Drinks With Food"
+    },
+    {
+      "file": "soft_drink_quantities",
+      "title": "Soft Drink Quantities"
+    },
+    {
+      "file": "spirits_quantity_for_party",
+      "title": "Spirits Quantity For Party"
+    },
+    {
+      "file": "spritzers_for_parties",
+      "title": "Spritzers For Parties"
+    },
+    {
+      "file": "storing_leftover_party_drinks",
+      "title": "Storing Leftover Party Drinks"
+    },
+    {
+      "file": "transporting_drinks_to_venue",
+      "title": "Transporting Drinks To Venue"
+    },
+    {
+      "file": "water_station_at_parties",
+      "title": "Water Station At Parties"
+    },
+    {
+      "file": "wedding_drink_planning",
+      "title": "Wedding Drink Planning"
+    },
+    {
+      "file": "wine_quantity_for_party",
+      "title": "Wine Quantity For Party"
+    }
+  ]
+}

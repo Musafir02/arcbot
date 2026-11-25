@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "coffee_shop_drinks",
+  "title": "Coffee Shop Drinks",
+  "modules": [
+    {
+      "file": "affogato",
+      "title": "Affogato"
+    },
+    {
+      "file": "americano",
+      "title": "Americano"
+    },
+    {
+      "file": "cafe_mocha",
+      "title": "Cafe Mocha"
+    },
+    {
+      "file": "cappuccino_name",
+      "title": "Cappuccino Name"
+    },
+    {
+      "file": "cappuccino_recipe",
+      "title": "Cappuccino Recipe"
+    },
+    {
+      "file": "cappuccino_vs_latte",
+      "title": "Cappuccino Vs Latte"
+    },
+    {
+      "file": "caramel_latte",
+      "title": "Caramel Latte"
+    },
+    {
+      "file": "coffee_serving_temperature",
+      "title": "Coffee Serving Temperature"
+    },
+    {
+      "file": "coffee_shop_cup_types",
+      "title": "Coffee Shop Cup Types"
+    },
+    {
+      "file": "coffee_shop_drink_sizes",
+      "title": "Coffee Shop Drink Sizes"
+    },
+    {
+      "file": "coffee_shop_menu_terms",
+      "title": "Coffee Shop Menu Terms"
+    },
+    {
+      "file": "coffee_shop_ordering_basics",
+      "title": "Coffee Shop Ordering Basics"
+    },
+    {
+      "file": "cold_brew_coffee",
+      "title": "Cold Brew Coffee"
+    },
+    {
+      "file": "cortado",
+      "title": "Cortado"
+    },
+    {
+      "file": "customising_coffee_orders",
+      "title": "Customising Coffee Orders"
+    },
+    {
+      "file": "dairy_free_latte",
+      "title": "Dairy Free Latte"
+    },
+    {
+      "file": "decaf_coffee_shop",
+      "title": "Decaf Coffee Shop"
+    },
+    {
+      "file": "espresso_crema",
+      "title": "Espresso Crema"
+    },
+    {
+      "file": "espresso_dose",
+      "title": "Espresso Dose"
+    },
+    {
+      "file": "espresso_extraction_time",
+      "title": "Espresso Extraction Time"
+    },
+    {
+      "file": "espresso_grind_size",
+      "title": "Espresso Grind Size"
+    },
+    {
+      "file": "espresso_machine_basics",
+      "title": "Espresso Machine Basics"
+    },
+    {
+      "file": "espresso_tonic",
+      "title": "Espresso Tonic"
+    },
+    {
+      "file": "extra_shot_coffee",
+      "title": "Extra Shot Coffee"
+    },
+    {
+      "file": "flat_white_origin",
+      "title": "Flat White Origin"
+    },
+    {
+      "file": "flat_white_recipe",
+      "title": "Flat White Recipe"
+    },
+    {
+      "file": "flavoured_lattes",
+      "title": "Flavoured Lattes"
+    },
+    {
+      "file": "iced_americano",
+      "title": "Iced Americano"
+    },
+    {
+      "file": "iced_latte",
+      "title": "Iced Latte"
+    },
+    {
+      "file": "latte_art_basics",
+      "title": "Latte Art Basics"
+    },
+    {
+      "file": "latte_art_heart",
+      "title": "Latte Art Heart"
+    },
+    {
+      "file": "latte_art_rosetta",
+      "title": "Latte Art Rosetta"
+    },
+    {
+      "file": "latte_pronunciation",
+      "title": "Latte Pronunciation"
+    },
+    {
+      "file": "latte_recipe",
+      "title": "Latte Recipe"
+    },
+    {
+      "file": "latte_vs_flat_white",
+      "title": "Latte Vs Flat White"
+    },
+    {
+      "file": "long_black",
+      "title": "Long Black"
+    },
+    {
+      "file": "macchiato",
+      "title": "Macchiato"
+    },
+    {
+      "file": "microfoam_texture",
+      "title": "Microfoam Texture"
+    },
+    {
+      "file": "milk_frothing_technique",
+      "title": "Milk Frothing Technique"
+    },
+    {
+      "file": "milk_steaming_faults",
+      "title": "Milk Steaming Faults"
+    },
+    {
+      "file": "milk_steaming_temperature",
+      "title": "Milk Steaming Temperature"
+    },
+    {
+      "file": "oat_milk_coffee",
+      "title": "Oat Milk Coffee"
+    },
+    {
+      "file": "piccolo_latte",
+      "title": "Piccolo Latte"
+    },
+    {
+      "file": "pulling_an_espresso_shot",
+      "title": "Pulling An Espresso Shot"
+    },
+    {
+      "file": "skinny_latte",
+      "title": "Skinny Latte"
+    },
+    {
+      "file": "steaming_milk_for_cappuccino",
+      "title": "Steaming Milk For Cappuccino"
+    },
+    {
+      "file": "steaming_milk_for_latte_art",
+      "title": "Steaming Milk For Latte Art"
+    },
+    {
+      "file": "steaming_milk_pitcher",
+      "title": "Steaming Milk Pitcher"
+    },
+    {
+      "file": "tamping_espresso",
+      "title": "Tamping Espresso"
+    },
+    {
+      "file": "what_is_espresso",
+      "title": "What Is Espresso"
+    }
+  ]
+}

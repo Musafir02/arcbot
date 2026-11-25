@@ -146,7 +146,7 @@ ITEMS = (
             'are oat milk pancakes safe for lactose intolerance',
             'can i make pancakes for a milk allergy',
             'which pancake ingredients contain hidden milk',
-            'is soya milk safe for everyone',
+            'is soya milk safe for everyone at home',
             'can i use almond milk if i have nut allergies',
             'what milk substitute suits a dairy free diet',
             'do i need a dietitian about pancake ingredients',

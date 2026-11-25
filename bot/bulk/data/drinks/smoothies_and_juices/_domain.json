@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "smoothies_and_juices",
+  "title": "Smoothies And Juices",
+  "modules": [
+    {
+      "file": "apple_juice",
+      "title": "Apple Juice"
+    },
+    {
+      "file": "beetroot_juice",
+      "title": "Beetroot Juice"
+    },
+    {
+      "file": "berry_smoothies",
+      "title": "Berry Smoothies"
+    },
+    {
+      "file": "blender_order",
+      "title": "Blender Order"
+    },
+    {
+      "file": "carrot_juice",
+      "title": "Carrot Juice"
+    },
+    {
+      "file": "celery_juice",
+      "title": "Celery Juice"
+    },
+    {
+      "file": "fresh_vs_pasteurised_juice",
+      "title": "Fresh Vs Pasteurised Juice"
+    },
+    {
+      "file": "frozen_fruit_smoothies",
+      "title": "Frozen Fruit Smoothies"
+    },
+    {
+      "file": "ginger_juice",
+      "title": "Ginger Juice"
+    },
+    {
+      "file": "green_smoothies",
+      "title": "Green Smoothies"
+    },
+    {
+      "file": "juice_at_home",
+      "title": "Juice At Home"
+    },
+    {
+      "file": "juice_pulp",
+      "title": "Juice Pulp"
+    },
+    {
+      "file": "juice_safety",
+      "title": "Juice Safety"
+    },
+    {
+      "file": "juice_storage",
+      "title": "Juice Storage"
+    },
+    {
+      "file": "juice_sugar",
+      "title": "Juice Sugar"
+    },
+    {
+      "file": "juice_temperature",
+      "title": "Juice Temperature"
+    },
+    {
+      "file": "juice_vs_whole_fruit",
+      "title": "Juice Vs Whole Fruit"
+    },
+    {
+      "file": "juice_without_juicer",
+      "title": "Juice Without Juicer"
+    },
+    {
+      "file": "juice_yield",
+      "title": "Juice Yield"
+    },
+    {
+      "file": "juicer_cleaning",
+      "title": "Juicer Cleaning"
+    },
+    {
+      "file": "juicer_types",
+      "title": "Juicer Types"
+    },
+    {
+      "file": "leafy_green_juice",
+      "title": "Leafy Green Juice"
+    },
+    {
+      "file": "mango_smoothies",
+      "title": "Mango Smoothies"
+    },
+    {
+      "file": "orange_juice",
+      "title": "Orange Juice"
+    },
+    {
+      "file": "smoothie_after_workout",
+      "title": "Smoothie After Workout"
+    },
+    {
+      "file": "smoothie_basics",
+      "title": "Smoothie Basics"
+    },
+    {
+      "file": "smoothie_bowls",
+      "title": "Smoothie Bowls"
+    },
+    {
+      "file": "smoothie_breakfast",
+      "title": "Smoothie Breakfast"
+    },
+    {
+      "file": "smoothie_chia_seeds",
+      "title": "Smoothie Chia Seeds"
+    },
+    {
+      "file": "smoothie_freezing",
+      "title": "Smoothie Freezing"
+    },
+    {
+      "file": "smoothie_fruit_combinations",
+      "title": "Smoothie Fruit Combinations"
+    },
+    {
+      "file": "smoothie_nut_butter",
+      "title": "Smoothie Nut Butter"
+    },
+    {
+      "file": "smoothie_on_the_go",
+      "title": "Smoothie On The Go"
+    },
+    {
+      "file": "smoothie_protein_powder",
+      "title": "Smoothie Protein Powder"
+    },
+    {
+      "file": "smoothie_pulp",
+      "title": "Smoothie Pulp"
+    },
+    {
+      "file": "smoothie_storage",
+      "title": "Smoothie Storage"
+    },
+    {
+      "file": "smoothie_sweeteners",
+      "title": "Smoothie Sweeteners"
+    },
+    {
+      "file": "smoothie_tartness",
+      "title": "Smoothie Tartness"
+    },
+    {
+      "file": "smoothie_thickness",
+      "title": "Smoothie Thickness"
+    },
+    {
+      "file": "smoothie_vs_juice",
+      "title": "Smoothie Vs Juice"
+    },
+    {
+      "file": "smoothie_with_avocado",
+      "title": "Smoothie With Avocado"
+    },
+    {
+      "file": "smoothie_with_banana",
+      "title": "Smoothie With Banana"
+    },
+    {
+      "file": "smoothie_with_coconut_milk",
+      "title": "Smoothie With Coconut Milk"
+    },
+    {
+      "file": "smoothie_with_milk",
+      "title": "Smoothie With Milk"
+    },
+    {
+      "file": "smoothie_with_oats",
+      "title": "Smoothie With Oats"
+    },
+    {
+      "file": "smoothie_with_seeds",
+      "title": "Smoothie With Seeds"
+    },
+    {
+      "file": "smoothie_without_blender",
+      "title": "Smoothie Without Blender"
+    },
+    {
+      "file": "smoothie_without_milk",
+      "title": "Smoothie Without Milk"
+    },
+    {
+      "file": "smoothie_without_yogurt",
+      "title": "Smoothie Without Yogurt"
+    },
+    {
+      "file": "weak_blender_smoothies",
+      "title": "Weak Blender Smoothies"
+    }
+  ]
+}

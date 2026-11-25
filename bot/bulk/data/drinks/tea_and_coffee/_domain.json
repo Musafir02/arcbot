@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "tea_and_coffee",
+  "title": "Tea And Coffee",
+  "modules": [
+    {
+      "file": "aeropress_coffee",
+      "title": "Aeropress Coffee"
+    },
+    {
+      "file": "bitter_coffee",
+      "title": "Bitter Coffee"
+    },
+    {
+      "file": "bitter_tea",
+      "title": "Bitter Tea"
+    },
+    {
+      "file": "black_tea_brewing",
+      "title": "Black Tea Brewing"
+    },
+    {
+      "file": "caffeine_in_coffee",
+      "title": "Caffeine In Coffee"
+    },
+    {
+      "file": "chai_tea_brewing",
+      "title": "Chai Tea Brewing"
+    },
+    {
+      "file": "coffee_bean_freshness",
+      "title": "Coffee Bean Freshness"
+    },
+    {
+      "file": "coffee_bean_varieties",
+      "title": "Coffee Bean Varieties"
+    },
+    {
+      "file": "coffee_bloom",
+      "title": "Coffee Bloom"
+    },
+    {
+      "file": "coffee_brewing_methods",
+      "title": "Coffee Brewing Methods"
+    },
+    {
+      "file": "coffee_crema",
+      "title": "Coffee Crema"
+    },
+    {
+      "file": "coffee_extraction",
+      "title": "Coffee Extraction"
+    },
+    {
+      "file": "coffee_grind_size",
+      "title": "Coffee Grind Size"
+    },
+    {
+      "file": "coffee_roast_levels",
+      "title": "Coffee Roast Levels"
+    },
+    {
+      "file": "coffee_to_water_ratio",
+      "title": "Coffee To Water Ratio"
+    },
+    {
+      "file": "coffee_water_quality",
+      "title": "Coffee Water Quality"
+    },
+    {
+      "file": "coffee_with_milk",
+      "title": "Coffee With Milk"
+    },
+    {
+      "file": "cold_brew_coffee",
+      "title": "Cold Brew Coffee"
+    },
+    {
+      "file": "decaf_coffee",
+      "title": "Decaf Coffee"
+    },
+    {
+      "file": "drip_coffee_maker",
+      "title": "Drip Coffee Maker"
+    },
+    {
+      "file": "earl_grey_tea",
+      "title": "Earl Grey Tea"
+    },
+    {
+      "file": "espresso_brewing",
+      "title": "Espresso Brewing"
+    },
+    {
+      "file": "french_press_coffee",
+      "title": "French Press Coffee"
+    },
+    {
+      "file": "green_tea_temperature",
+      "title": "Green Tea Temperature"
+    },
+    {
+      "file": "grinding_coffee_beans",
+      "title": "Grinding Coffee Beans"
+    },
+    {
+      "file": "herbal_tea_brewing",
+      "title": "Herbal Tea Brewing"
+    },
+    {
+      "file": "iced_coffee",
+      "title": "Iced Coffee"
+    },
+    {
+      "file": "iced_tea",
+      "title": "Iced Tea"
+    },
+    {
+      "file": "instant_coffee",
+      "title": "Instant Coffee"
+    },
+    {
+      "file": "loose_leaf_tea",
+      "title": "Loose Leaf Tea"
+    },
+    {
+      "file": "matcha_preparation",
+      "title": "Matcha Preparation"
+    },
+    {
+      "file": "mocha_pot_coffee",
+      "title": "Mocha Pot Coffee"
+    },
+    {
+      "file": "oolong_tea_brewing",
+      "title": "Oolong Tea Brewing"
+    },
+    {
+      "file": "pour_over_coffee",
+      "title": "Pour Over Coffee"
+    },
+    {
+      "file": "reusing_coffee_grounds",
+      "title": "Reusing Coffee Grounds"
+    },
+    {
+      "file": "reusing_tea_leaves",
+      "title": "Reusing Tea Leaves"
+    },
+    {
+      "file": "sour_coffee",
+      "title": "Sour Coffee"
+    },
+    {
+      "file": "strong_coffee",
+      "title": "Strong Coffee"
+    },
+    {
+      "file": "tea_caffeine",
+      "title": "Tea Caffeine"
+    },
+    {
+      "file": "tea_infusions",
+      "title": "Tea Infusions"
+    },
+    {
+      "file": "tea_quality",
+      "title": "Tea Quality"
+    },
+    {
+      "file": "tea_steeping_time",
+      "title": "Tea Steeping Time"
+    },
+    {
+      "file": "tea_storage_freshness",
+      "title": "Tea Storage Freshness"
+    },
+    {
+      "file": "tea_to_water_ratio",
+      "title": "Tea To Water Ratio"
+    },
+    {
+      "file": "tea_water_temperature",
+      "title": "Tea Water Temperature"
+    },
+    {
+      "file": "tea_with_milk",
+      "title": "Tea With Milk"
+    },
+    {
+      "file": "warming_coffee_cups",
+      "title": "Warming Coffee Cups"
+    },
+    {
+      "file": "water_temperature_coffee",
+      "title": "Water Temperature Coffee"
+    },
+    {
+      "file": "weak_coffee",
+      "title": "Weak Coffee"
+    },
+    {
+      "file": "white_tea_brewing",
+      "title": "White Tea Brewing"
+    }
+  ]
+}

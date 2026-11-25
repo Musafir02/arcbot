@@ -134,7 +134,7 @@ ITEMS = (
             'can i toast seeds ahead for soup',
             'should i keep toppings separate for soup',
             'how to store cream for soup',
-            'what to do before serving for soup soup',
+            'what to do before serving for soup at home',
             'can i prepare cheese earlier for soup',
             'how to keep garnishes fresh',
         ),

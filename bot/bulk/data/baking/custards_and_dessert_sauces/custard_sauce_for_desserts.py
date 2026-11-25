@@ -1,9 +1,9 @@
-MODULE = "baking.custards_and_dessert_sauces.custard_sauce_for_desserts"
-CATEGORY = "baking"
-DOMAIN = "custards_and_dessert_sauces"
+MODULE = 'baking.custards_and_dessert_sauces.custard_sauce_for_desserts'
+CATEGORY = 'baking'
+DOMAIN = 'custards_and_dessert_sauces'
 TOPIC = 'custard sauce for desserts'
 PRIORITY = 5000
-ANSWERS = ("cooking-and-food",)
+ANSWERS = ('cooking-and-food',)
 ITEMS = (
     (
         (
@@ -134,7 +134,7 @@ ITEMS = (
             'does sugar stop a skin in custard sauce for desserts',
             'how do i serve sauce without a membrane',
             'what if sauce sits in a jug',
-            'can i whisk the skin back in in custard sauce for desserts',
+            'can i whisk the skin back in custard sauce for desserts',
             'how do i hold sauce before serving',
             'why does a dry layer appear in custard sauce for desserts',
         ),

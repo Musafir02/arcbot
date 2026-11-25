@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "moving_house",
+  "title": "Moving House",
+  "modules": [
+    {
+      "file": "change_of_address",
+      "title": "Change Of Address"
+    },
+    {
+      "file": "choosing_moving_boxes",
+      "title": "Choosing Moving Boxes"
+    },
+    {
+      "file": "choosing_removal_company",
+      "title": "Choosing Removal Company"
+    },
+    {
+      "file": "cleaning_the_new_home",
+      "title": "Cleaning The New Home"
+    },
+    {
+      "file": "cleaning_the_old_home",
+      "title": "Cleaning The Old Home"
+    },
+    {
+      "file": "decluttering_before_moving",
+      "title": "Decluttering Before Moving"
+    },
+    {
+      "file": "dismantling_furniture",
+      "title": "Dismantling Furniture"
+    },
+    {
+      "file": "getting_removal_quotes",
+      "title": "Getting Removal Quotes"
+    },
+    {
+      "file": "hiring_a_moving_van",
+      "title": "Hiring A Moving Van"
+    },
+    {
+      "file": "insurance_for_house_move",
+      "title": "Insurance For House Move"
+    },
+    {
+      "file": "labelling_moving_boxes",
+      "title": "Labelling Moving Boxes"
+    },
+    {
+      "file": "loading_the_moving_van",
+      "title": "Loading The Moving Van"
+    },
+    {
+      "file": "long_distance_move",
+      "title": "Long Distance Move"
+    },
+    {
+      "file": "measuring_for_the_move",
+      "title": "Measuring For The Move"
+    },
+    {
+      "file": "moving_a_fish_tank",
+      "title": "Moving A Fish Tank"
+    },
+    {
+      "file": "moving_a_piano",
+      "title": "Moving A Piano"
+    },
+    {
+      "file": "moving_day_essentials",
+      "title": "Moving Day Essentials"
+    },
+    {
+      "file": "moving_food_and_freezer",
+      "title": "Moving Food And Freezer"
+    },
+    {
+      "file": "moving_furniture_up_stairs",
+      "title": "Moving Furniture Up Stairs"
+    },
+    {
+      "file": "moving_house_checklist",
+      "title": "Moving House Checklist"
+    },
+    {
+      "file": "moving_house_on_a_budget",
+      "title": "Moving House On A Budget"
+    },
+    {
+      "file": "moving_house_plants",
+      "title": "Moving House Plants"
+    },
+    {
+      "file": "moving_house_with_children",
+      "title": "Moving House With Children"
+    },
+    {
+      "file": "moving_house_with_pets",
+      "title": "Moving House With Pets"
+    },
+    {
+      "file": "moving_important_documents",
+      "title": "Moving Important Documents"
+    },
+    {
+      "file": "moving_large_appliances",
+      "title": "Moving Large Appliances"
+    },
+    {
+      "file": "moving_school_and_gp_records",
+      "title": "Moving School And Gp Records"
+    },
+    {
+      "file": "organising_moving_documents",
+      "title": "Organising Moving Documents"
+    },
+    {
+      "file": "packing_bathroom",
+      "title": "Packing Bathroom"
+    },
+    {
+      "file": "packing_bedroom",
+      "title": "Packing Bedroom"
+    },
+    {
+      "file": "packing_books",
+      "title": "Packing Books"
+    },
+    {
+      "file": "packing_childrens_toys",
+      "title": "Packing Childrens Toys"
+    },
+    {
+      "file": "packing_clothes",
+      "title": "Packing Clothes"
+    },
+    {
+      "file": "packing_electronics",
+      "title": "Packing Electronics"
+    },
+    {
+      "file": "packing_fragile_items",
+      "title": "Packing Fragile Items"
+    },
+    {
+      "file": "packing_jewellery",
+      "title": "Packing Jewellery"
+    },
+    {
+      "file": "packing_kitchen_items",
+      "title": "Packing Kitchen Items"
+    },
+    {
+      "file": "packing_materials",
+      "title": "Packing Materials"
+    },
+    {
+      "file": "packing_pictures_and_mirrors",
+      "title": "Packing Pictures And Mirrors"
+    },
+    {
+      "file": "packing_shoes",
+      "title": "Packing Shoes"
+    },
+    {
+      "file": "packing_sports_equipment",
+      "title": "Packing Sports Equipment"
+    },
+    {
+      "file": "packing_tools_for_move",
+      "title": "Packing Tools For Move"
+    },
+    {
+      "file": "parking_the_moving_van",
+      "title": "Parking The Moving Van"
+    },
+    {
+      "file": "protecting_furniture",
+      "title": "Protecting Furniture"
+    },
+    {
+      "file": "setting_up_utilities",
+      "title": "Setting Up Utilities"
+    },
+    {
+      "file": "temporary_storage_during_move",
+      "title": "Temporary Storage During Move"
+    },
+    {
+      "file": "unloading_the_moving_van",
+      "title": "Unloading The Moving Van"
+    },
+    {
+      "file": "unpacking_after_move",
+      "title": "Unpacking After Move"
+    },
+    {
+      "file": "what_to_pack_first",
+      "title": "What To Pack First"
+    },
+    {
+      "file": "when_to_start_packing",
+      "title": "When To Start Packing"
+    }
+  ]
+}

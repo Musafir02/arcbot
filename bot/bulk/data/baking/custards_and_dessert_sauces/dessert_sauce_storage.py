@@ -1,9 +1,9 @@
-MODULE = "baking.custards_and_dessert_sauces.dessert_sauce_storage"
-CATEGORY = "baking"
-DOMAIN = "custards_and_dessert_sauces"
+MODULE = 'baking.custards_and_dessert_sauces.dessert_sauce_storage'
+CATEGORY = 'baking'
+DOMAIN = 'custards_and_dessert_sauces'
 TOPIC = 'dessert sauce storage'
 PRIORITY = 5000
-ANSWERS = ("cooking-and-food",)
+ANSWERS = ('cooking-and-food',)
 ITEMS = (
     (
         (
@@ -71,7 +71,7 @@ ITEMS = (
             'how do i stop a film on stored sauce',
             'should film touch the surface in dessert sauce storage',
             'what if sauce dries out in the fridge',
-            'can i whisk the skin back in in dessert sauce storage',
+            'can i whisk the skin back in dessert sauce storage',
             'does a lid prevent a skin in dessert sauce storage',
             'how do i cover custard sauce',
             'what if the sauce is still hot',

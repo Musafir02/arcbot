@@ -45,7 +45,7 @@ ITEMS = (
             'what fruit suits greek yoghurt',
             'should i add fruit just before eating yoghurt',
             'can i add lemon to yoghurt',
-            'what fruit looks good in a bowl',
+            'what fruit looks good in a bowl at home',
             'how do i choose fruit for yoghurt',
         ),
         'Berries, sliced banana, mango and apple all work in yoghurt bowls, and frozen fruit thawed slightly is useful too. Add fruit just before serving so it does not release too much liquid. A squeeze of lemon lifts the flavour.',

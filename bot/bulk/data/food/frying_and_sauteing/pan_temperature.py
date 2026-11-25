@@ -33,7 +33,7 @@ ITEMS = (
             'what is the trick for oil temperature during heating a pan',
             'what advice helps with oil temperature in heating a pan',
         ),
-        'A thermometer takes the guesswork out of frying food. If you do not have one, drop in a small piece and look for steady bubbles around it. Adjust the heat in small steps and let the oil recover between batches.',
+        'With pan heat, the everyday method works well for most people. A thermometer takes the guesswork out of frying food. If you do not have one, drop in a small piece and look for steady bubbles around it.',
     ),
     (
         (
@@ -48,7 +48,7 @@ ITEMS = (
             'what is the trick for sticking during heating a pan',
             'what advice helps with sticking in heating a pan',
         ),
-        'Sticking happens when the pan is too cold or food is moved before a crust forms. For food, let the surface set and use a thin film of oil. Test with a spatula before turning, and favour a heavy pan with a flat base.',
+        'For pan heat, make one change at a time so you can see what helps. Sticking happens when the pan is too cold or food is moved before a crust forms. For food, let the surface set and use a thin film of oil.',
     ),
     (
         (
@@ -63,7 +63,7 @@ ITEMS = (
             'what is the trick for oil smoke during heating a pan',
             'what advice helps with oil smoke in heating a pan',
         ),
-        'Oil smokes when it is past its usable temperature. Choose a refined oil with a high smoke point for food and keep the heat moderate. If you see smoke, lower the heat and open a window; change the oil if it smells acrid.',
+        'For pan heat, begin with the least disruptive option and judge the result. Oil smokes when it is past its usable temperature. Choose a refined oil with a high smoke point for food and keep the heat moderate.',
     ),
     (
         (
@@ -78,7 +78,7 @@ ITEMS = (
             'what is the trick for pan choice during heating a pan',
             'what advice helps with pan choice in heating a pan',
         ),
-        'A heavy pan with a flat base holds heat evenly and suits food well. Nonstick is convenient for delicate items, while cast iron gives a good sear once properly hot. Match the pan size to the amount you are cooking so nothing is crowded.',
+        'With pan heat, check the item itself before you choose a method. A heavy pan with a flat base holds heat evenly and suits food well. Nonstick is convenient for delicate items, while cast iron gives a good sear once properly hot.',
     ),
     (
         (
@@ -93,7 +93,7 @@ ITEMS = (
             'what is the trick for preparation during heating a pan',
             'what advice helps with preparation in heating a pan',
         ),
-        'Dry food well and cut it into even pieces so everything cooks at the same rate. Bring thick pieces out of the fridge a little ahead of time. Keep all your tools within reach before the pan gets hot, because frying moves quickly.',
+        'When handling pan heat, work slowly and stop as soon as the result looks right. Dry food well and cut it into even pieces so everything cooks at the same rate. Bring thick pieces out of the fridge a little ahead of time.',
     ),
     (
         (
@@ -108,7 +108,7 @@ ITEMS = (
             'what is the trick for soggy food during heating a pan',
             'what advice helps with soggy food in heating a pan',
         ),
-        'Soggy food means steam has replaced browning. Dry food well, use a hot pan and give pieces space. Cook in batches, drain on kitchen paper and serve straight away instead of leaving it to sit in a covered dish.',
+        'For pan heat, keep the first attempt small so you can adjust it easily. Soggy food means steam has replaced browning. Dry food well, use a hot pan and give pieces space.',
     ),
     (
         (
@@ -123,7 +123,7 @@ ITEMS = (
             'what is the trick for oil splashes during heating a pan',
             'what advice helps with oil splashes in heating a pan',
         ),
-        'Splashes happen when water meets hot fat. Dry food thoroughly and lower it into the pan away from you. Use a deep pan and a splatter screen if you have one, and keep children and pets clear of the stove.',
+        'With pan heat, the cheapest safe option is usually the simplest one. Splashes happen when water meets hot fat. Dry food thoroughly and lower it into the pan away from you.',
     ),
     (
         (
@@ -138,7 +138,7 @@ ITEMS = (
             'what is the trick for kitchen safety during heating a pan',
             'what advice helps with kitchen safety in heating a pan',
         ),
-        'Keep a lid or a fire blanket nearby and never leave hot oil unattended. Turn handles inwards and use long tongs for food. If fat catches fire, switch off the heat and cover the pan; never use water, and get help if it does not go out.',
+        'For pan heat, a careful first attempt makes the rest much easier. Keep a lid or a fire blanket nearby and never leave hot oil unattended. Turn handles inwards and use long tongs for food.',
     ),
     (
         (
@@ -153,6 +153,6 @@ ITEMS = (
             'what is the trick for pan cleaning during heating a pan',
             'what advice helps with pan cleaning in heating a pan',
         ),
-        'Let the pan cool a little, then wipe out excess fat with kitchen paper before washing. Soak stubborn residue in warm soapy water rather than scraping with metal. Dry the pan straight away and store it with the lid off to prevent rust.',
+        'With pan heat, it helps to know what you are trying to change. Let the pan cool a little, then wipe out excess fat with kitchen paper before washing. Soak stubborn residue in warm soapy water rather than scraping with metal.',
     ),
 )

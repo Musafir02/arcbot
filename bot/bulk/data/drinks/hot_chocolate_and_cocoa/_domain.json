@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "hot_chocolate_and_cocoa",
+  "title": "Hot Chocolate And Cocoa",
+  "modules": [
+    {
+      "file": "bitter_hot_chocolate",
+      "title": "Bitter Hot Chocolate"
+    },
+    {
+      "file": "blooming_cocoa_powder",
+      "title": "Blooming Cocoa Powder"
+    },
+    {
+      "file": "caffeine_in_hot_chocolate",
+      "title": "Caffeine In Hot Chocolate"
+    },
+    {
+      "file": "cleaning_hot_chocolate_pan",
+      "title": "Cleaning Hot Chocolate Pan"
+    },
+    {
+      "file": "cocoa_powder_clumping",
+      "title": "Cocoa Powder Clumping"
+    },
+    {
+      "file": "cocoa_powder_storage",
+      "title": "Cocoa Powder Storage"
+    },
+    {
+      "file": "dark_chocolate_hot_chocolate",
+      "title": "Dark Chocolate Hot Chocolate"
+    },
+    {
+      "file": "dutch_process_cocoa",
+      "title": "Dutch Process Cocoa"
+    },
+    {
+      "file": "grainy_hot_chocolate",
+      "title": "Grainy Hot Chocolate"
+    },
+    {
+      "file": "hot_chocolate_drink_mix",
+      "title": "Hot Chocolate Drink Mix"
+    },
+    {
+      "file": "hot_chocolate_for_a_crowd",
+      "title": "Hot Chocolate For A Crowd"
+    },
+    {
+      "file": "hot_chocolate_for_children",
+      "title": "Hot Chocolate For Children"
+    },
+    {
+      "file": "hot_chocolate_for_one",
+      "title": "Hot Chocolate For One"
+    },
+    {
+      "file": "hot_chocolate_from_chocolate_bar",
+      "title": "Hot Chocolate From Chocolate Bar"
+    },
+    {
+      "file": "hot_chocolate_in_a_microwave",
+      "title": "Hot Chocolate In A Microwave"
+    },
+    {
+      "file": "hot_chocolate_in_a_saucepan",
+      "title": "Hot Chocolate In A Saucepan"
+    },
+    {
+      "file": "hot_chocolate_in_a_slow_cooker",
+      "title": "Hot Chocolate In A Slow Cooker"
+    },
+    {
+      "file": "hot_chocolate_too_sweet",
+      "title": "Hot Chocolate Too Sweet"
+    },
+    {
+      "file": "hot_chocolate_too_thick",
+      "title": "Hot Chocolate Too Thick"
+    },
+    {
+      "file": "hot_chocolate_too_thin",
+      "title": "Hot Chocolate Too Thin"
+    },
+    {
+      "file": "hot_chocolate_with_almond_milk",
+      "title": "Hot Chocolate With Almond Milk"
+    },
+    {
+      "file": "hot_chocolate_with_coconut_milk",
+      "title": "Hot Chocolate With Coconut Milk"
+    },
+    {
+      "file": "hot_chocolate_with_condensed_milk",
+      "title": "Hot Chocolate With Condensed Milk"
+    },
+    {
+      "file": "hot_chocolate_with_cream",
+      "title": "Hot Chocolate With Cream"
+    },
+    {
+      "file": "hot_chocolate_with_evaporated_milk",
+      "title": "Hot Chocolate With Evaporated Milk"
+    },
+    {
+      "file": "hot_chocolate_with_honey",
+      "title": "Hot Chocolate With Honey"
+    },
+    {
+      "file": "hot_chocolate_with_oat_milk",
+      "title": "Hot Chocolate With Oat Milk"
+    },
+    {
+      "file": "hot_chocolate_with_soya_milk",
+      "title": "Hot Chocolate With Soya Milk"
+    },
+    {
+      "file": "hot_chocolate_with_sugar",
+      "title": "Hot Chocolate With Sugar"
+    },
+    {
+      "file": "hot_chocolate_with_water",
+      "title": "Hot Chocolate With Water"
+    },
+    {
+      "file": "hot_chocolate_without_milk",
+      "title": "Hot Chocolate Without Milk"
+    },
+    {
+      "file": "instant_hot_chocolate",
+      "title": "Instant Hot Chocolate"
+    },
+    {
+      "file": "keeping_hot_chocolate_warm",
+      "title": "Keeping Hot Chocolate Warm"
+    },
+    {
+      "file": "lumpy_hot_chocolate",
+      "title": "Lumpy Hot Chocolate"
+    },
+    {
+      "file": "making_hot_chocolate_from_scratch",
+      "title": "Making Hot Chocolate From Scratch"
+    },
+    {
+      "file": "marshmallows_in_hot_chocolate",
+      "title": "Marshmallows In Hot Chocolate"
+    },
+    {
+      "file": "melting_chocolate_for_hot_chocolate",
+      "title": "Melting Chocolate For Hot Chocolate"
+    },
+    {
+      "file": "mocha_hot_chocolate",
+      "title": "Mocha Hot Chocolate"
+    },
+    {
+      "file": "natural_cocoa_vs_dutch",
+      "title": "Natural Cocoa Vs Dutch"
+    },
+    {
+      "file": "orange_hot_chocolate",
+      "title": "Orange Hot Chocolate"
+    },
+    {
+      "file": "peppermint_hot_chocolate",
+      "title": "Peppermint Hot Chocolate"
+    },
+    {
+      "file": "reheating_hot_chocolate",
+      "title": "Reheating Hot Chocolate"
+    },
+    {
+      "file": "spiced_hot_chocolate",
+      "title": "Spiced Hot Chocolate"
+    },
+    {
+      "file": "storing_hot_chocolate",
+      "title": "Storing Hot Chocolate"
+    },
+    {
+      "file": "storing_hot_chocolate_mix",
+      "title": "Storing Hot Chocolate Mix"
+    },
+    {
+      "file": "sweetening_hot_chocolate",
+      "title": "Sweetening Hot Chocolate"
+    },
+    {
+      "file": "thickening_hot_chocolate",
+      "title": "Thickening Hot Chocolate"
+    },
+    {
+      "file": "vegan_hot_chocolate",
+      "title": "Vegan Hot Chocolate"
+    },
+    {
+      "file": "whipped_cream_on_hot_chocolate",
+      "title": "Whipped Cream On Hot Chocolate"
+    },
+    {
+      "file": "white_chocolate_hot_chocolate",
+      "title": "White Chocolate Hot Chocolate"
+    }
+  ]
+}

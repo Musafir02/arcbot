@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "storage_and_organisation",
+  "title": "Storage And Organisation",
+  "modules": [
+    {
+      "file": "decluttering_a_wardrobe",
+      "title": "Decluttering A Wardrobe"
+    },
+    {
+      "file": "organising_a_bedside_table",
+      "title": "Organising A Bedside Table"
+    },
+    {
+      "file": "organising_a_laundry_room",
+      "title": "Organising A Laundry Room"
+    },
+    {
+      "file": "organising_a_playroom",
+      "title": "Organising A Playroom"
+    },
+    {
+      "file": "organising_a_small_bedroom",
+      "title": "Organising A Small Bedroom"
+    },
+    {
+      "file": "organising_a_small_kitchen_cupboard",
+      "title": "Organising A Small Kitchen Cupboard"
+    },
+    {
+      "file": "organising_a_study_desk",
+      "title": "Organising A Study Desk"
+    },
+    {
+      "file": "organising_a_toolbox",
+      "title": "Organising A Toolbox"
+    },
+    {
+      "file": "organising_bathroom_storage",
+      "title": "Organising Bathroom Storage"
+    },
+    {
+      "file": "organising_cables_and_chargers",
+      "title": "Organising Cables And Chargers"
+    },
+    {
+      "file": "organising_kitchen_drawers",
+      "title": "Organising Kitchen Drawers"
+    },
+    {
+      "file": "organising_kitchen_shelves",
+      "title": "Organising Kitchen Shelves"
+    },
+    {
+      "file": "organising_shared_storage",
+      "title": "Organising Shared Storage"
+    },
+    {
+      "file": "organising_the_dining_room",
+      "title": "Organising The Dining Room"
+    },
+    {
+      "file": "organising_the_freezer",
+      "title": "Organising The Freezer"
+    },
+    {
+      "file": "organising_the_fridge",
+      "title": "Organising The Fridge"
+    },
+    {
+      "file": "organising_the_garage",
+      "title": "Organising The Garage"
+    },
+    {
+      "file": "organising_the_hallway",
+      "title": "Organising The Hallway"
+    },
+    {
+      "file": "organising_the_kitchen_worktop",
+      "title": "Organising The Kitchen Worktop"
+    },
+    {
+      "file": "organising_the_loft",
+      "title": "Organising The Loft"
+    },
+    {
+      "file": "organising_the_pantry",
+      "title": "Organising The Pantry"
+    },
+    {
+      "file": "organising_under_the_stairs",
+      "title": "Organising Under The Stairs"
+    },
+    {
+      "file": "storing_bed_linen",
+      "title": "Storing Bed Linen"
+    },
+    {
+      "file": "storing_bicycles_indoors",
+      "title": "Storing Bicycles Indoors"
+    },
+    {
+      "file": "storing_blankets_and_throws",
+      "title": "Storing Blankets And Throws"
+    },
+    {
+      "file": "storing_books",
+      "title": "Storing Books"
+    },
+    {
+      "file": "storing_cards_and_gift_wrap",
+      "title": "Storing Cards And Gift Wrap"
+    },
+    {
+      "file": "storing_craft_supplies",
+      "title": "Storing Craft Supplies"
+    },
+    {
+      "file": "storing_crockery_and_glassware",
+      "title": "Storing Crockery And Glassware"
+    },
+    {
+      "file": "storing_cutlery",
+      "title": "Storing Cutlery"
+    },
+    {
+      "file": "storing_food_containers",
+      "title": "Storing Food Containers"
+    },
+    {
+      "file": "storing_handbags_and_bags",
+      "title": "Storing Handbags And Bags"
+    },
+    {
+      "file": "storing_hats_and_accessories",
+      "title": "Storing Hats And Accessories"
+    },
+    {
+      "file": "storing_holiday_luggage",
+      "title": "Storing Holiday Luggage"
+    },
+    {
+      "file": "storing_important_documents",
+      "title": "Storing Important Documents"
+    },
+    {
+      "file": "storing_jewellery",
+      "title": "Storing Jewellery"
+    },
+    {
+      "file": "storing_mattresses",
+      "title": "Storing Mattresses"
+    },
+    {
+      "file": "storing_paperwork_and_files",
+      "title": "Storing Paperwork And Files"
+    },
+    {
+      "file": "storing_photos_and_albums",
+      "title": "Storing Photos And Albums"
+    },
+    {
+      "file": "storing_seasonal_decorations",
+      "title": "Storing Seasonal Decorations"
+    },
+    {
+      "file": "storing_shoes",
+      "title": "Storing Shoes"
+    },
+    {
+      "file": "storing_sports_equipment",
+      "title": "Storing Sports Equipment"
+    },
+    {
+      "file": "storing_stationery",
+      "title": "Storing Stationery"
+    },
+    {
+      "file": "storing_tins_and_jars",
+      "title": "Storing Tins And Jars"
+    },
+    {
+      "file": "storing_towels",
+      "title": "Storing Towels"
+    },
+    {
+      "file": "storing_toys",
+      "title": "Storing Toys"
+    },
+    {
+      "file": "storing_umbrellas_and_coats",
+      "title": "Storing Umbrellas And Coats"
+    },
+    {
+      "file": "storing_winter_boots",
+      "title": "Storing Winter Boots"
+    },
+    {
+      "file": "storing_winter_clothes",
+      "title": "Storing Winter Clothes"
+    },
+    {
+      "file": "under_bed_storage",
+      "title": "Under Bed Storage"
+    }
+  ]
+}

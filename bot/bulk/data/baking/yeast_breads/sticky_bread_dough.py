@@ -67,7 +67,7 @@ ITEMS = (
     ),
     (
         (
-            'why is enriched dough sticky sticky',
+            'why is enriched dough sticky at home',
             'does butter make bread sticky',
             'how to handle sticky brioche dough sticky',
             'is sticky sweet dough normal',

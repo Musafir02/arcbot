@@ -53,7 +53,7 @@ ITEMS = (
     (
         (
             'can i reheat lasagne in the oven',
-            'how do i reheat pizza in the oven in the oven',
+            'how do i reheat pizza in the oven baked',
             'should i reheat roast potatoes in the oven',
             'can i reheat a shepherd pie in the oven',
             'how do i reheat a baked potato in the oven',
@@ -67,7 +67,7 @@ ITEMS = (
     ),
     (
         (
-            'can i reheat a frozen meal in the oven in the oven',
+            'can i reheat a frozen meal in the oven baked',
             'should i thaw before oven reheating',
             'how do i reheat from frozen in the oven',
             'does a frozen dish take longer in the oven',

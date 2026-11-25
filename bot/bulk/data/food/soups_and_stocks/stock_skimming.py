@@ -113,7 +113,7 @@ ITEMS = (
     (
         (
             'should i stir stock before skimming',
-            'can i stir scum back in in stock',
+            'can i stir scum back in stock',
             'does stirring affect skimming',
             'how to check stock without stirring in skimming soup',
             'should i move the bones in stock',

@@ -149,7 +149,7 @@ ITEMS = (
             'how do i know eggs are cooked',
             'who should avoid soft eggs',
             'can i serve the breakfast casserole to vulnerable guests',
-            'should i use pasteurised eggs',
+            'should i use pasteurised eggs at home',
             'what if casserole was left out',
             'when should i ask about food safety for breakfast casserole',
         ),

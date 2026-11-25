@@ -134,7 +134,7 @@ ITEMS = (
             'what desserts use it for sweet pastry at home',
             'when to choose sweet',
             'what about savoury pies for sweet pastry',
-            'what is it best for for sweet pastry',
+            'what is it best for sweet pastry',
             'can i use for tartlets for sweet pastry',
             'what dishes suit for sweet pastry',
         ),

@@ -72,7 +72,7 @@ ITEMS = (
             'is pineapple good with other fruit',
             'what fruit adds sharpness',
             'how do i choose fruit for a salad',
-            'should i use ripe fruit',
+            'should i use ripe fruit at home',
             'what makes a fruit salad balanced',
             'can i add mango to fruit salad',
             'what fruit is too soft',

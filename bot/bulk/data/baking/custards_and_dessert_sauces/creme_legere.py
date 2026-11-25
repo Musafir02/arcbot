@@ -1,9 +1,9 @@
-MODULE = "baking.custards_and_dessert_sauces.creme_legere"
-CATEGORY = "baking"
-DOMAIN = "custards_and_dessert_sauces"
+MODULE = 'baking.custards_and_dessert_sauces.creme_legere'
+CATEGORY = 'baking'
+DOMAIN = 'custards_and_dessert_sauces'
 TOPIC = 'creme legere'
 PRIORITY = 5000
-ANSWERS = ("cooking-and-food",)
+ANSWERS = ('cooking-and-food',)
 ITEMS = (
     (
         (
@@ -120,7 +120,7 @@ ITEMS = (
             'what if the cream deflates in creme legere',
             'can i whisk creme legere smooth',
             'why does creme legere look separated',
-            'what if overwhipped cream is folded in in creme legere',
+            'what if overwhipped cream is folded in creme legere',
             'how do i rescue a rough texture in creme legere',
         ),
         'Strain the pastry cream base while warm and fold the whipped cream in gently. If it looks grainy, a light whisk and a sieve can help. Overwhipped cream creates a rough texture, so whip to soft peaks only.',

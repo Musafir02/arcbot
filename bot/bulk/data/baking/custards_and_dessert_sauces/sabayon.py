@@ -101,7 +101,7 @@ ITEMS = (
             'can i add vanilla to sabayon',
             'what if sabayon tastes bland',
             'can i add citrus zest in sabayon',
-            'how much sugar goes in in sabayon',
+            'how much sugar goes in sabayon',
             'what spices work in sabayon',
             'can i serve sabayon with berries',
             'when should flavourings be added in sabayon',

@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "painting_and_decorating",
+  "title": "Painting And Decorating",
+  "modules": [
+    {
+      "file": "brush_vs_roller_for_painting",
+      "title": "Brush Vs Roller For Painting"
+    },
+    {
+      "file": "choosing_paint_colours",
+      "title": "Choosing Paint Colours"
+    },
+    {
+      "file": "cleaning_paint_brushes",
+      "title": "Cleaning Paint Brushes"
+    },
+    {
+      "file": "cleaning_paint_rollers",
+      "title": "Cleaning Paint Rollers"
+    },
+    {
+      "file": "colour_matching_paint",
+      "title": "Colour Matching Paint"
+    },
+    {
+      "file": "cutting_in_paintwork",
+      "title": "Cutting In Paintwork"
+    },
+    {
+      "file": "damp_stains_on_walls",
+      "title": "Damp Stains On Walls"
+    },
+    {
+      "file": "estimating_paint_quantities",
+      "title": "Estimating Paint Quantities"
+    },
+    {
+      "file": "filling_holes_and_cracks",
+      "title": "Filling Holes And Cracks"
+    },
+    {
+      "file": "flaking_paint_on_woodwork",
+      "title": "Flaking Paint On Woodwork"
+    },
+    {
+      "file": "hanging_wallpaper",
+      "title": "Hanging Wallpaper"
+    },
+    {
+      "file": "masking_tape_for_painting",
+      "title": "Masking Tape For Painting"
+    },
+    {
+      "file": "matching_wallpaper_patterns",
+      "title": "Matching Wallpaper Patterns"
+    },
+    {
+      "file": "mould_on_painted_walls",
+      "title": "Mould On Painted Walls"
+    },
+    {
+      "file": "paint_blistering",
+      "title": "Paint Blistering"
+    },
+    {
+      "file": "paint_bubbling",
+      "title": "Paint Bubbling"
+    },
+    {
+      "file": "paint_cracking_and_alligatoring",
+      "title": "Paint Cracking And Alligatoring"
+    },
+    {
+      "file": "paint_discolouration_and_yellowing",
+      "title": "Paint Discolouration And Yellowing"
+    },
+    {
+      "file": "paint_drips_and_runs",
+      "title": "Paint Drips And Runs"
+    },
+    {
+      "file": "paint_drying_times",
+      "title": "Paint Drying Times"
+    },
+    {
+      "file": "paint_finish_types",
+      "title": "Paint Finish Types"
+    },
+    {
+      "file": "paint_peeling_and_flaking",
+      "title": "Paint Peeling And Flaking"
+    },
+    {
+      "file": "paint_safety_and_ventilation",
+      "title": "Paint Safety And Ventilation"
+    },
+    {
+      "file": "paint_streaks_and_roller_marks",
+      "title": "Paint Streaks And Roller Marks"
+    },
+    {
+      "file": "paint_touch_ups",
+      "title": "Paint Touch Ups"
+    },
+    {
+      "file": "painting_a_ceiling",
+      "title": "Painting A Ceiling"
+    },
+    {
+      "file": "painting_doors",
+      "title": "Painting Doors"
+    },
+    {
+      "file": "painting_exterior_walls",
+      "title": "Painting Exterior Walls"
+    },
+    {
+      "file": "painting_fences_and_gates",
+      "title": "Painting Fences And Gates"
+    },
+    {
+      "file": "painting_furniture",
+      "title": "Painting Furniture"
+    },
+    {
+      "file": "painting_kitchen_cabinets",
+      "title": "Painting Kitchen Cabinets"
+    },
+    {
+      "file": "painting_new_plaster",
+      "title": "Painting New Plaster"
+    },
+    {
+      "file": "painting_over_wallpaper",
+      "title": "Painting Over Wallpaper"
+    },
+    {
+      "file": "painting_plasterboard",
+      "title": "Painting Plasterboard"
+    },
+    {
+      "file": "painting_radiators",
+      "title": "Painting Radiators"
+    },
+    {
+      "file": "painting_skirting_boards",
+      "title": "Painting Skirting Boards"
+    },
+    {
+      "file": "painting_techniques",
+      "title": "Painting Techniques"
+    },
+    {
+      "file": "painting_textured_walls",
+      "title": "Painting Textured Walls"
+    },
+    {
+      "file": "painting_tiled_walls",
+      "title": "Painting Tiled Walls"
+    },
+    {
+      "file": "painting_windows_and_frames",
+      "title": "Painting Windows And Frames"
+    },
+    {
+      "file": "preparing_walls_for_paint",
+      "title": "Preparing Walls For Paint"
+    },
+    {
+      "file": "priming_and_undercoating",
+      "title": "Priming And Undercoating"
+    },
+    {
+      "file": "protecting_floors_and_furniture",
+      "title": "Protecting Floors And Furniture"
+    },
+    {
+      "file": "removing_wallpaper",
+      "title": "Removing Wallpaper"
+    },
+    {
+      "file": "sanding_between_coats",
+      "title": "Sanding Between Coats"
+    },
+    {
+      "file": "stain_blocking_primer",
+      "title": "Stain Blocking Primer"
+    },
+    {
+      "file": "stirring_and_mixing_paint",
+      "title": "Stirring And Mixing Paint"
+    },
+    {
+      "file": "storing_leftover_paint",
+      "title": "Storing Leftover Paint"
+    },
+    {
+      "file": "wallpaper_bubbles_and_wrinkles",
+      "title": "Wallpaper Bubbles And Wrinkles"
+    },
+    {
+      "file": "weather_for_exterior_painting",
+      "title": "Weather For Exterior Painting"
+    }
+  ]
+}

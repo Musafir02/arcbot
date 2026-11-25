@@ -54,7 +54,7 @@ ITEMS = (
         (
             'can i reheat creamy soup in reheated soup',
             'does cream soup split when reheated',
-            'how to reheat for soup soup with milk',
+            'how to reheat for soup with milk',
             'should i reheat cream soup gently',
             'what if reheated soup curdles',
             'is it safe to microwave a creamy soup in reheated soup',
@@ -127,7 +127,7 @@ ITEMS = (
     ),
     (
         (
-            'how to reheat for soup soup without splitting',
+            'how to reheat for soup without splitting',
             'what to avoid when reheating soup',
             'should i use low heat for soup when reheating soup',
             'can i burn soup when reheating',

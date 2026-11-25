@@ -38,7 +38,7 @@ ITEMS = (
     (
         (
             'can i use chickpea liquid instead of eggs',
-            'what is aquafaba for for egg substitutes',
+            'what is aquafaba for egg substitutes',
             'does aquafaba work in pancakes for egg substitutes',
             'how do i whip aquafaba for egg substitutes',
             'what can i make with chickpea water for egg substitutes',

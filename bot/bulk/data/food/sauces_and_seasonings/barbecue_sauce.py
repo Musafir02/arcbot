@@ -40,7 +40,7 @@ ITEMS = (
             'what sweetener goes in barbecue sauce',
             'can i use brown sugar in bbq sauce',
             'how much sugar in barbecue sauce',
-            'can i use honey instead of sugar at home',
+            'can i use honey instead of sugar at home at home',
             'does treacle work in barbecue sauce',
             'what if barbecue sauce is too sweet',
             'can i use maple syrup in barbecue sauce',

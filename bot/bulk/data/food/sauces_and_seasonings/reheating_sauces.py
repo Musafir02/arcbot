@@ -39,7 +39,7 @@ ITEMS = (
         (
             'should i add liquid when reheating sauce',
             'what liquid to add to sauce when reheating',
-            'how much liquid to add',
+            'how much liquid to add at home',
             'can i use water for gravy',
             'should i use milk for cream sauce',
             'what if sauce is already thin',

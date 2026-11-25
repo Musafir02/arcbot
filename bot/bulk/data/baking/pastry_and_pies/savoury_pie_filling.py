@@ -76,7 +76,7 @@ ITEMS = (
             'can i use pepper for a savoury pie',
             'what spices work for a savoury pie',
             'how to flavour filling at home',
-            'what to taste for for a savoury pie',
+            'what to taste for a savoury pie',
         ),
         'Season with salt, pepper and herbs that suit the filling, such as thyme with beef or sage with pork. Add herbs near the end of cooking so their flavour stays fresh. Taste before filling the pastry.',
     ),

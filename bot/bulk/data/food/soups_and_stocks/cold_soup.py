@@ -76,7 +76,7 @@ ITEMS = (
             'how to present cold soup',
             'what toppings suit gazpacho for soup',
             'should i serve in bowls for soup',
-            'what to serve alongside for soup',
+            'what to serve alongside for soup at home',
         ),
         'Serve cold soup in chilled bowls with small garnishes such as diced vegetables, herbs or croutons. A drizzle of olive oil adds richness. Keep portions modest and offer bread or a light salad alongside.',
     ),

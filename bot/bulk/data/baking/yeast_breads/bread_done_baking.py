@@ -22,7 +22,7 @@ ITEMS = (
     ),
     (
         (
-            'how to do the hollow sound check on bread bread',
+            'how to do the hollow sound check on bread at home',
             'what does a hollow bread loaf mean',
             'can i tap bread to check it',
             'why does bread sound hollow',
@@ -46,7 +46,7 @@ ITEMS = (
             'what if crumbs stick to the bread skewer',
             'should i poke bread to check it',
             'how to check bread without breaking crust',
-            'when to use a skewer on bread bread',
+            'when to use a skewer on bread at home',
         ),
         'A quick way to check bread is to insert a thin skewer or knife into the centre and see if it comes out clean, with no wet crumbs sticking. This is useful for enriched loaves that brown before they are cooked. The hole will not be noticeable once sliced.',
     ),

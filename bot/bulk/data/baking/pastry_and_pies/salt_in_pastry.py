@@ -23,7 +23,7 @@ ITEMS = (
     (
         (
             'when to add salt',
-            'how to mix it in in pastry',
+            'how to mix it in pastry',
             'how much is enough in pastry',
             'what if using salted butter at home',
             'can i add too much in pastry',

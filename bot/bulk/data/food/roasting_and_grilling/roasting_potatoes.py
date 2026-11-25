@@ -7,7 +7,7 @@ ANSWERS = ('cooking-and-food',)
 ITEMS = (
     (
         (
-            'what temperature should i roast potatoes at at home',
+            'what temperature should i roast potatoes at home',
             'what oven temperature is best for roasting potatoes',
             'how hot should the oven be to roast potatoes',
             'what heat do i need to roast potatoes in the oven',

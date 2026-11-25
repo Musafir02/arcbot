@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "renting_and_household_admin",
+  "title": "Renting And Household Admin",
+  "modules": [
+    {
+      "file": "breaking_a_tenancy_early",
+      "title": "Breaking A Tenancy Early"
+    },
+    {
+      "file": "broadband_setup",
+      "title": "Broadband Setup"
+    },
+    {
+      "file": "carbon_monoxide_alarms",
+      "title": "Carbon Monoxide Alarms"
+    },
+    {
+      "file": "contents_insurance_claims",
+      "title": "Contents Insurance Claims"
+    },
+    {
+      "file": "council_housing_applications",
+      "title": "Council Housing Applications"
+    },
+    {
+      "file": "council_tax_bands",
+      "title": "Council Tax Bands"
+    },
+    {
+      "file": "council_tax_bill_queries",
+      "title": "Council Tax Bill Queries"
+    },
+    {
+      "file": "council_tax_discounts",
+      "title": "Council Tax Discounts"
+    },
+    {
+      "file": "council_tax_payment_plans",
+      "title": "Council Tax Payment Plans"
+    },
+    {
+      "file": "deposit_deduction_challenges",
+      "title": "Deposit Deduction Challenges"
+    },
+    {
+      "file": "deposit_return_disputes",
+      "title": "Deposit Return Disputes"
+    },
+    {
+      "file": "electrical_safety_certificates",
+      "title": "Electrical Safety Certificates"
+    },
+    {
+      "file": "ending_a_tenancy_notice",
+      "title": "Ending A Tenancy Notice"
+    },
+    {
+      "file": "energy_meter_readings",
+      "title": "Energy Meter Readings"
+    },
+    {
+      "file": "energy_tariff_switching",
+      "title": "Energy Tariff Switching"
+    },
+    {
+      "file": "eviction_notices",
+      "title": "Eviction Notices"
+    },
+    {
+      "file": "gas_safety_checks",
+      "title": "Gas Safety Checks"
+    },
+    {
+      "file": "guarantor_requirements",
+      "title": "Guarantor Requirements"
+    },
+    {
+      "file": "home_security_checks",
+      "title": "Home Security Checks"
+    },
+    {
+      "file": "homelessness_help",
+      "title": "Homelessness Help"
+    },
+    {
+      "file": "household_budget_setup",
+      "title": "Household Budget Setup"
+    },
+    {
+      "file": "household_insurance",
+      "title": "Household Insurance"
+    },
+    {
+      "file": "housing_benefit_claims",
+      "title": "Housing Benefit Claims"
+    },
+    {
+      "file": "inventory_checklist",
+      "title": "Inventory Checklist"
+    },
+    {
+      "file": "landlord_access_notice",
+      "title": "Landlord Access Notice"
+    },
+    {
+      "file": "landlord_contact_details",
+      "title": "Landlord Contact Details"
+    },
+    {
+      "file": "landlord_repair_duties",
+      "title": "Landlord Repair Duties"
+    },
+    {
+      "file": "move_in_condition_report",
+      "title": "Move In Condition Report"
+    },
+    {
+      "file": "move_out_cleaning_expectations",
+      "title": "Move Out Cleaning Expectations"
+    },
+    {
+      "file": "neighbours_noise_complaints",
+      "title": "Neighbours Noise Complaints"
+    },
+    {
+      "file": "recycling_collections",
+      "title": "Recycling Collections"
+    },
+    {
+      "file": "rent_arrears_help",
+      "title": "Rent Arrears Help"
+    },
+    {
+      "file": "rent_increase_notices",
+      "title": "Rent Increase Notices"
+    },
+    {
+      "file": "rent_payment_methods",
+      "title": "Rent Payment Methods"
+    },
+    {
+      "file": "rent_receipts_records",
+      "title": "Rent Receipts Records"
+    },
+    {
+      "file": "rent_reduction_requests",
+      "title": "Rent Reduction Requests"
+    },
+    {
+      "file": "rental_application_references",
+      "title": "Rental Application References"
+    },
+    {
+      "file": "rental_viewings",
+      "title": "Rental Viewings"
+    },
+    {
+      "file": "renting_with_pets",
+      "title": "Renting With Pets"
+    },
+    {
+      "file": "repairs_reporting",
+      "title": "Repairs Reporting"
+    },
+    {
+      "file": "smoke_alarm_maintenance",
+      "title": "Smoke Alarm Maintenance"
+    },
+    {
+      "file": "subletting_and_roommates",
+      "title": "Subletting And Roommates"
+    },
+    {
+      "file": "tenancy_agreement_checks",
+      "title": "Tenancy Agreement Checks"
+    },
+    {
+      "file": "tenancy_deposit_protection",
+      "title": "Tenancy Deposit Protection"
+    },
+    {
+      "file": "tenancy_renewal",
+      "title": "Tenancy Renewal"
+    },
+    {
+      "file": "tenant_rights_overview",
+      "title": "Tenant Rights Overview"
+    },
+    {
+      "file": "universal_credit_housing_costs",
+      "title": "Universal Credit Housing Costs"
+    },
+    {
+      "file": "utility_bill_setup",
+      "title": "Utility Bill Setup"
+    },
+    {
+      "file": "waste_collection_days",
+      "title": "Waste Collection Days"
+    },
+    {
+      "file": "water_bill_queries",
+      "title": "Water Bill Queries"
+    }
+  ]
+}

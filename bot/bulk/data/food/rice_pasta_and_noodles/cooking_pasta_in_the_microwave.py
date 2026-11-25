@@ -48,7 +48,7 @@ ITEMS = (
             'what is the correct method for cover pasta in the microwave',
             'how would i cover pasta in the microwave at home',
         ),
-        'Cover the bowl loosely and stir part way through so the pasta cooks evenly. The small details depend on the exact type, so check the packet and adapt the method to your pan.',
+        'Cover the bowl loosely and stir part way through so the pasta cooks evenly. the details depend on the situation type, so check the packet and adapt the method to your pan.',
     ),
     (
         (
@@ -63,7 +63,7 @@ ITEMS = (
             'what is the correct method for drain pasta in the microwave',
             'how would i drain pasta in the microwave at home',
         ),
-        'Drain with care using oven gloves, since the bowl and water will be very hot. The small details depend on the exact type, so check the packet and adapt the method to your pan.',
+        'Drain with care using oven gloves, since the bowl and water will be very hot. the details depend on the situation type, so check the packet and adapt the method to your pan.',
     ),
     (
         (
@@ -118,7 +118,7 @@ ITEMS = (
             'is a stockpot better for cooking pasta in the microwave',
             'should i use a sieve when cooking pasta in the microwave',
             'what size saucepan suits cooking pasta in the microwave',
-            'can i cook pasta in the microwave in the microwave',
+            'can i cook pasta in the microwave the item',
             'do i need tongs to handle pasta in the microwave',
             'is a pressure cooker suitable for pasta in the microwave',
             'what tools help when cooking pasta in the microwave',

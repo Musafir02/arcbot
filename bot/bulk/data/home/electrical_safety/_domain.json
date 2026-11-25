@@ -1,0 +1,207 @@
+{
+  "category": "home",
+  "domain": "electrical_safety",
+  "title": "Electrical Safety",
+  "modules": [
+    {
+      "file": "adapter_and_multi_plug_safety",
+      "title": "Adapter And Multi Plug Safety"
+    },
+    {
+      "file": "aluminium_wiring",
+      "title": "Aluminium Wiring"
+    },
+    {
+      "file": "appliance_disposal_electrical",
+      "title": "Appliance Disposal Electrical"
+    },
+    {
+      "file": "appliance_plug_safety",
+      "title": "Appliance Plug Safety"
+    },
+    {
+      "file": "appliance_recall_check",
+      "title": "Appliance Recall Check"
+    },
+    {
+      "file": "appliance_shock_risk",
+      "title": "Appliance Shock Risk"
+    },
+    {
+      "file": "bathroom_electrical_safety",
+      "title": "Bathroom Electrical Safety"
+    },
+    {
+      "file": "burning_smell_electrics",
+      "title": "Burning Smell Electrics"
+    },
+    {
+      "file": "buzzing_electrics",
+      "title": "Buzzing Electrics"
+    },
+    {
+      "file": "cable_clips_and_routes",
+      "title": "Cable Clips And Routes"
+    },
+    {
+      "file": "ceiling_rose_safety",
+      "title": "Ceiling Rose Safety"
+    },
+    {
+      "file": "child_electrical_safety",
+      "title": "Child Electrical Safety"
+    },
+    {
+      "file": "circuit_breaker_tripping",
+      "title": "Circuit Breaker Tripping"
+    },
+    {
+      "file": "consumer_unit_safety",
+      "title": "Consumer Unit Safety"
+    },
+    {
+      "file": "damaged_cable_signs",
+      "title": "Damaged Cable Signs"
+    },
+    {
+      "file": "earth_wiring",
+      "title": "Earth Wiring"
+    },
+    {
+      "file": "electrical_certificates",
+      "title": "Electrical Certificates"
+    },
+    {
+      "file": "electrical_fire_extinguisher",
+      "title": "Electrical Fire Extinguisher"
+    },
+    {
+      "file": "electrical_fire_response",
+      "title": "Electrical Fire Response"
+    },
+    {
+      "file": "electrical_inspection",
+      "title": "Electrical Inspection"
+    },
+    {
+      "file": "electrical_shock_first_aid",
+      "title": "Electrical Shock First Aid"
+    },
+    {
+      "file": "electrical_tools_safety",
+      "title": "Electrical Tools Safety"
+    },
+    {
+      "file": "ev_charging_safety",
+      "title": "Ev Charging Safety"
+    },
+    {
+      "file": "extension_cord_safety",
+      "title": "Extension Cord Safety"
+    },
+    {
+      "file": "flickering_lights",
+      "title": "Flickering Lights"
+    },
+    {
+      "file": "fuse_keeps_blowing",
+      "title": "Fuse Keeps Blowing"
+    },
+    {
+      "file": "fuse_rating_basics",
+      "title": "Fuse Rating Basics"
+    },
+    {
+      "file": "generator_safety",
+      "title": "Generator Safety"
+    },
+    {
+      "file": "home_battery_safety",
+      "title": "Home Battery Safety"
+    },
+    {
+      "file": "home_office_electrics",
+      "title": "Home Office Electrics"
+    },
+    {
+      "file": "kettle_electrical_safety",
+      "title": "Kettle Electrical Safety"
+    },
+    {
+      "file": "light_fitting_safety",
+      "title": "Light Fitting Safety"
+    },
+    {
+      "file": "old_wiring_hazards",
+      "title": "Old Wiring Hazards"
+    },
+    {
+      "file": "overheating_plug_signs",
+      "title": "Overheating Plug Signs"
+    },
+    {
+      "file": "overloaded_circuit",
+      "title": "Overloaded Circuit"
+    },
+    {
+      "file": "pet_cable_safety",
+      "title": "Pet Cable Safety"
+    },
+    {
+      "file": "portable_appliance_checks",
+      "title": "Portable Appliance Checks"
+    },
+    {
+      "file": "power_cut_safety",
+      "title": "Power Cut Safety"
+    },
+    {
+      "file": "rcd_safety_checks",
+      "title": "Rcd Safety Checks"
+    },
+    {
+      "file": "rewire_safety",
+      "title": "Rewire Safety"
+    },
+    {
+      "file": "smart_meter_safety",
+      "title": "Smart Meter Safety"
+    },
+    {
+      "file": "socket_safety",
+      "title": "Socket Safety"
+    },
+    {
+      "file": "solar_panel_electrics",
+      "title": "Solar Panel Electrics"
+    },
+    {
+      "file": "space_heater_electrical",
+      "title": "Space Heater Electrical"
+    },
+    {
+      "file": "surge_protection",
+      "title": "Surge Protection"
+    },
+    {
+      "file": "switch_replacement_safety",
+      "title": "Switch Replacement Safety"
+    },
+    {
+      "file": "washing_machine_electrics",
+      "title": "Washing Machine Electrics"
+    },
+    {
+      "file": "water_electricity_safety",
+      "title": "Water Electricity Safety"
+    },
+    {
+      "file": "when_to_call_electrician",
+      "title": "When To Call Electrician"
+    },
+    {
+      "file": "wiring_colours",
+      "title": "Wiring Colours"
+    }
+  ]
+}

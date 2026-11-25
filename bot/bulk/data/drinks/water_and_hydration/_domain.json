@@ -1,0 +1,207 @@
+{
+  "category": "drinks",
+  "domain": "water_and_hydration",
+  "title": "Water And Hydration",
+  "modules": [
+    {
+      "file": "boiling_water_to_make_safe",
+      "title": "Boiling Water To Make Safe"
+    },
+    {
+      "file": "daily_water_intake",
+      "title": "Daily Water Intake"
+    },
+    {
+      "file": "dehydration_symptoms",
+      "title": "Dehydration Symptoms"
+    },
+    {
+      "file": "distilled_water",
+      "title": "Distilled Water"
+    },
+    {
+      "file": "drinking_rainwater",
+      "title": "Drinking Rainwater"
+    },
+    {
+      "file": "drinking_water_and_weight",
+      "title": "Drinking Water And Weight"
+    },
+    {
+      "file": "electrolyte_drinks",
+      "title": "Electrolyte Drinks"
+    },
+    {
+      "file": "emergency_water_supply",
+      "title": "Emergency Water Supply"
+    },
+    {
+      "file": "homemade_rehydration_drink",
+      "title": "Homemade Rehydration Drink"
+    },
+    {
+      "file": "hydration_at_school",
+      "title": "Hydration At School"
+    },
+    {
+      "file": "hydration_at_work",
+      "title": "Hydration At Work"
+    },
+    {
+      "file": "hydration_during_pregnancy",
+      "title": "Hydration During Pregnancy"
+    },
+    {
+      "file": "hydration_for_babies",
+      "title": "Hydration For Babies"
+    },
+    {
+      "file": "hydration_for_children",
+      "title": "Hydration For Children"
+    },
+    {
+      "file": "hydration_for_older_adults",
+      "title": "Hydration For Older Adults"
+    },
+    {
+      "file": "mineral_water",
+      "title": "Mineral Water"
+    },
+    {
+      "file": "morning_hydration",
+      "title": "Morning Hydration"
+    },
+    {
+      "file": "overhydration_and_water_intoxication",
+      "title": "Overhydration And Water Intoxication"
+    },
+    {
+      "file": "reusable_bottle_cleaning",
+      "title": "Reusable Bottle Cleaning"
+    },
+    {
+      "file": "sparkling_vs_still_water",
+      "title": "Sparkling Vs Still Water"
+    },
+    {
+      "file": "sports_drinks_vs_water",
+      "title": "Sports Drinks Vs Water"
+    },
+    {
+      "file": "tap_vs_bottled_water",
+      "title": "Tap Vs Bottled Water"
+    },
+    {
+      "file": "travelling_with_water",
+      "title": "Travelling With Water"
+    },
+    {
+      "file": "water_after_diarrhoea",
+      "title": "Water After Diarrhoea"
+    },
+    {
+      "file": "water_and_caffeine",
+      "title": "Water And Caffeine"
+    },
+    {
+      "file": "water_and_digestion",
+      "title": "Water And Digestion"
+    },
+    {
+      "file": "water_and_fever",
+      "title": "Water And Fever"
+    },
+    {
+      "file": "water_and_heatstroke",
+      "title": "Water And Heatstroke"
+    },
+    {
+      "file": "water_and_kidney_health",
+      "title": "Water And Kidney Health"
+    },
+    {
+      "file": "water_and_salt_balance",
+      "title": "Water And Salt Balance"
+    },
+    {
+      "file": "water_and_sleep",
+      "title": "Water And Sleep"
+    },
+    {
+      "file": "water_and_urine_colour",
+      "title": "Water And Urine Colour"
+    },
+    {
+      "file": "water_at_high_altitude",
+      "title": "Water At High Altitude"
+    },
+    {
+      "file": "water_before_and_after_exercise",
+      "title": "Water Before And After Exercise"
+    },
+    {
+      "file": "water_before_bed",
+      "title": "Water Before Bed"
+    },
+    {
+      "file": "water_bottles_and_reuse",
+      "title": "Water Bottles And Reuse"
+    },
+    {
+      "file": "water_dispensers_and_coolers",
+      "title": "Water Dispensers And Coolers"
+    },
+    {
+      "file": "water_during_illness",
+      "title": "Water During Illness"
+    },
+    {
+      "file": "water_filter_jugs",
+      "title": "Water Filter Jugs"
+    },
+    {
+      "file": "water_for_cycling",
+      "title": "Water For Cycling"
+    },
+    {
+      "file": "water_for_running",
+      "title": "Water For Running"
+    },
+    {
+      "file": "water_for_swimming",
+      "title": "Water For Swimming"
+    },
+    {
+      "file": "water_for_walking_and_hiking",
+      "title": "Water For Walking And Hiking"
+    },
+    {
+      "file": "water_in_hot_weather",
+      "title": "Water In Hot Weather"
+    },
+    {
+      "file": "water_on_a_plane",
+      "title": "Water On A Plane"
+    },
+    {
+      "file": "water_purification_tablets",
+      "title": "Water Purification Tablets"
+    },
+    {
+      "file": "water_storage_at_home",
+      "title": "Water Storage At Home"
+    },
+    {
+      "file": "water_temperature_preferences",
+      "title": "Water Temperature Preferences"
+    },
+    {
+      "file": "water_vs_sugary_drinks",
+      "title": "Water Vs Sugary Drinks"
+    },
+    {
+      "file": "water_with_meals",
+      "title": "Water With Meals"
+    }
+  ]
+}
