@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "pruning_and_propagation",
+  "title": "Pruning And Propagation",
+  "modules": [
+    {
+      "file": "air_layering",
+      "title": "Air Layering"
+    },
+    {
+      "file": "budding_roses",
+      "title": "Budding Roses"
+    },
+    {
+      "file": "bulb_offsets",
+      "title": "Bulb Offsets"
+    },
+    {
+      "file": "dividing_hostas",
+      "title": "Dividing Hostas"
+    },
+    {
+      "file": "dividing_perennials",
+      "title": "Dividing Perennials"
+    },
+    {
+      "file": "grafting_fruit_trees",
+      "title": "Grafting Fruit Trees"
+    },
+    {
+      "file": "growing_from_seed",
+      "title": "Growing From Seed"
+    },
+    {
+      "file": "hardwood_cuttings",
+      "title": "Hardwood Cuttings"
+    },
+    {
+      "file": "herb_cuttings",
+      "title": "Herb Cuttings"
+    },
+    {
+      "file": "layering_plants",
+      "title": "Layering Plants"
+    },
+    {
+      "file": "leaf_cuttings",
+      "title": "Leaf Cuttings"
+    },
+    {
+      "file": "propagating_succulents",
+      "title": "Propagating Succulents"
+    },
+    {
+      "file": "pruning_apple_trees",
+      "title": "Pruning Apple Trees"
+    },
+    {
+      "file": "pruning_blackberry_brambles",
+      "title": "Pruning Blackberry Brambles"
+    },
+    {
+      "file": "pruning_blueberry_bushes",
+      "title": "Pruning Blueberry Bushes"
+    },
+    {
+      "file": "pruning_buddlejas",
+      "title": "Pruning Buddlejas"
+    },
+    {
+      "file": "pruning_cherry_trees",
+      "title": "Pruning Cherry Trees"
+    },
+    {
+      "file": "pruning_citrus_trees",
+      "title": "Pruning Citrus Trees"
+    },
+    {
+      "file": "pruning_clematis",
+      "title": "Pruning Clematis"
+    },
+    {
+      "file": "pruning_climbing_roses",
+      "title": "Pruning Climbing Roses"
+    },
+    {
+      "file": "pruning_conifers",
+      "title": "Pruning Conifers"
+    },
+    {
+      "file": "pruning_currant_bushes",
+      "title": "Pruning Currant Bushes"
+    },
+    {
+      "file": "pruning_dead_wood",
+      "title": "Pruning Dead Wood"
+    },
+    {
+      "file": "pruning_deciduous_trees",
+      "title": "Pruning Deciduous Trees"
+    },
+    {
+      "file": "pruning_evergreen_shrubs",
+      "title": "Pruning Evergreen Shrubs"
+    },
+    {
+      "file": "pruning_fig_trees",
+      "title": "Pruning Fig Trees"
+    },
+    {
+      "file": "pruning_frost_damage",
+      "title": "Pruning Frost Damage"
+    },
+    {
+      "file": "pruning_gooseberry_bushes",
+      "title": "Pruning Gooseberry Bushes"
+    },
+    {
+      "file": "pruning_grape_vines",
+      "title": "Pruning Grape Vines"
+    },
+    {
+      "file": "pruning_hedges",
+      "title": "Pruning Hedges"
+    },
+    {
+      "file": "pruning_hydrangeas",
+      "title": "Pruning Hydrangeas"
+    },
+    {
+      "file": "pruning_kiwi_vines",
+      "title": "Pruning Kiwi Vines"
+    },
+    {
+      "file": "pruning_lavender",
+      "title": "Pruning Lavender"
+    },
+    {
+      "file": "pruning_lilacs",
+      "title": "Pruning Lilacs"
+    },
+    {
+      "file": "pruning_olive_trees",
+      "title": "Pruning Olive Trees"
+    },
+    {
+      "file": "pruning_peach_trees",
+      "title": "Pruning Peach Trees"
+    },
+    {
+      "file": "pruning_pear_trees",
+      "title": "Pruning Pear Trees"
+    },
+    {
+      "file": "pruning_plum_trees",
+      "title": "Pruning Plum Trees"
+    },
+    {
+      "file": "pruning_raspberry_canes",
+      "title": "Pruning Raspberry Canes"
+    },
+    {
+      "file": "pruning_roses",
+      "title": "Pruning Roses"
+    },
+    {
+      "file": "pruning_storm_damage",
+      "title": "Pruning Storm Damage"
+    },
+    {
+      "file": "pruning_wisteria",
+      "title": "Pruning Wisteria"
+    },
+    {
+      "file": "rejuvenating_old_shrubs",
+      "title": "Rejuvenating Old Shrubs"
+    },
+    {
+      "file": "root_cuttings",
+      "title": "Root Cuttings"
+    },
+    {
+      "file": "rose_cuttings",
+      "title": "Rose Cuttings"
+    },
+    {
+      "file": "saving_seeds",
+      "title": "Saving Seeds"
+    },
+    {
+      "file": "semi_ripe_cuttings",
+      "title": "Semi Ripe Cuttings"
+    },
+    {
+      "file": "softwood_cuttings",
+      "title": "Softwood Cuttings"
+    },
+    {
+      "file": "stem_cuttings",
+      "title": "Stem Cuttings"
+    },
+    {
+      "file": "strawberry_runners",
+      "title": "Strawberry Runners"
+    }
+  ]
+}

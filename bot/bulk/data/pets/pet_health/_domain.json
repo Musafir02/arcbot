@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "pet_health",
+  "title": "Pet Health",
+  "modules": [
+    {
+      "file": "cat_vomiting",
+      "title": "Cat Vomiting"
+    },
+    {
+      "file": "checking_pets_for_fleas",
+      "title": "Checking Pets For Fleas"
+    },
+    {
+      "file": "dog_vomiting",
+      "title": "Dog Vomiting"
+    },
+    {
+      "file": "giving_pet_medication",
+      "title": "Giving Pet Medication"
+    },
+    {
+      "file": "pet_allergies",
+      "title": "Pet Allergies"
+    },
+    {
+      "file": "pet_anal_glands",
+      "title": "Pet Anal Glands"
+    },
+    {
+      "file": "pet_appetite_loss",
+      "title": "Pet Appetite Loss"
+    },
+    {
+      "file": "pet_bites_and_stings",
+      "title": "Pet Bites And Stings"
+    },
+    {
+      "file": "pet_choking",
+      "title": "Pet Choking"
+    },
+    {
+      "file": "pet_coughing",
+      "title": "Pet Coughing"
+    },
+    {
+      "file": "pet_dental_health",
+      "title": "Pet Dental Health"
+    },
+    {
+      "file": "pet_deworming",
+      "title": "Pet Deworming"
+    },
+    {
+      "file": "pet_diarrhoea",
+      "title": "Pet Diarrhoea"
+    },
+    {
+      "file": "pet_digestive_health",
+      "title": "Pet Digestive Health"
+    },
+    {
+      "file": "pet_ear_infections",
+      "title": "Pet Ear Infections"
+    },
+    {
+      "file": "pet_emergency_signs",
+      "title": "Pet Emergency Signs"
+    },
+    {
+      "file": "pet_excessive_thirst",
+      "title": "Pet Excessive Thirst"
+    },
+    {
+      "file": "pet_exercise_and_health",
+      "title": "Pet Exercise And Health"
+    },
+    {
+      "file": "pet_eye_problems",
+      "title": "Pet Eye Problems"
+    },
+    {
+      "file": "pet_first_aid",
+      "title": "Pet First Aid"
+    },
+    {
+      "file": "pet_flea_treatment",
+      "title": "Pet Flea Treatment"
+    },
+    {
+      "file": "pet_grooming_hygiene",
+      "title": "Pet Grooming Hygiene"
+    },
+    {
+      "file": "pet_hair_loss",
+      "title": "Pet Hair Loss"
+    },
+    {
+      "file": "pet_healthy_weight",
+      "title": "Pet Healthy Weight"
+    },
+    {
+      "file": "pet_heatstroke",
+      "title": "Pet Heatstroke"
+    },
+    {
+      "file": "pet_hydration",
+      "title": "Pet Hydration"
+    },
+    {
+      "file": "pet_joint_pain",
+      "title": "Pet Joint Pain"
+    },
+    {
+      "file": "pet_lameness",
+      "title": "Pet Lameness"
+    },
+    {
+      "file": "pet_neutering_aftercare",
+      "title": "Pet Neutering Aftercare"
+    },
+    {
+      "file": "pet_new_pet_checkup",
+      "title": "Pet New Pet Checkup"
+    },
+    {
+      "file": "pet_nutrition_basics",
+      "title": "Pet Nutrition Basics"
+    },
+    {
+      "file": "pet_obesity",
+      "title": "Pet Obesity"
+    },
+    {
+      "file": "pet_paw_and_nail_care",
+      "title": "Pet Paw And Nail Care"
+    },
+    {
+      "file": "pet_poisoning",
+      "title": "Pet Poisoning"
+    },
+    {
+      "file": "pet_regular_checkups",
+      "title": "Pet Regular Checkups"
+    },
+    {
+      "file": "pet_respiratory_health",
+      "title": "Pet Respiratory Health"
+    },
+    {
+      "file": "pet_senior_care",
+      "title": "Pet Senior Care"
+    },
+    {
+      "file": "pet_skin_problems",
+      "title": "Pet Skin Problems"
+    },
+    {
+      "file": "pet_sleep_habits",
+      "title": "Pet Sleep Habits"
+    },
+    {
+      "file": "pet_sneezing",
+      "title": "Pet Sneezing"
+    },
+    {
+      "file": "pet_stress_and_anxiety",
+      "title": "Pet Stress And Anxiety"
+    },
+    {
+      "file": "pet_ticks",
+      "title": "Pet Ticks"
+    },
+    {
+      "file": "pet_travel_health",
+      "title": "Pet Travel Health"
+    },
+    {
+      "file": "pet_urinary_problems",
+      "title": "Pet Urinary Problems"
+    },
+    {
+      "file": "pet_vaccinations",
+      "title": "Pet Vaccinations"
+    },
+    {
+      "file": "pet_weight_loss",
+      "title": "Pet Weight Loss"
+    },
+    {
+      "file": "pet_worms_and_parasites",
+      "title": "Pet Worms And Parasites"
+    },
+    {
+      "file": "pet_wound_care",
+      "title": "Pet Wound Care"
+    },
+    {
+      "file": "signs_of_illness_in_dogs",
+      "title": "Signs Of Illness In Dogs"
+    },
+    {
+      "file": "when_to_take_cat_to_vet",
+      "title": "When To Take Cat To Vet"
+    }
+  ]
+}

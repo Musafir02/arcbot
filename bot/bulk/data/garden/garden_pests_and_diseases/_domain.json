@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "garden_pests_and_diseases",
+  "title": "Garden Pests And Diseases",
+  "modules": [
+    {
+      "file": "ants_in_the_garden",
+      "title": "Ants In The Garden"
+    },
+    {
+      "file": "aphids_on_roses",
+      "title": "Aphids On Roses"
+    },
+    {
+      "file": "aphids_on_vegetables",
+      "title": "Aphids On Vegetables"
+    },
+    {
+      "file": "beneficial_insects_in_the_garden",
+      "title": "Beneficial Insects In The Garden"
+    },
+    {
+      "file": "birds_eating_fruit",
+      "title": "Birds Eating Fruit"
+    },
+    {
+      "file": "black_spot_on_roses",
+      "title": "Black Spot On Roses"
+    },
+    {
+      "file": "blackfly_on_broad_beans",
+      "title": "Blackfly On Broad Beans"
+    },
+    {
+      "file": "cabbage_caterpillars",
+      "title": "Cabbage Caterpillars"
+    },
+    {
+      "file": "cabbage_moth",
+      "title": "Cabbage Moth"
+    },
+    {
+      "file": "carrot_fly",
+      "title": "Carrot Fly"
+    },
+    {
+      "file": "clubroot_of_brassicas",
+      "title": "Clubroot Of Brassicas"
+    },
+    {
+      "file": "cucumber_beetles",
+      "title": "Cucumber Beetles"
+    },
+    {
+      "file": "cutworms",
+      "title": "Cutworms"
+    },
+    {
+      "file": "damping_off_seedlings",
+      "title": "Damping Off Seedlings"
+    },
+    {
+      "file": "deer_in_the_garden",
+      "title": "Deer In The Garden"
+    },
+    {
+      "file": "downy_mildew",
+      "title": "Downy Mildew"
+    },
+    {
+      "file": "early_blight_on_tomatoes",
+      "title": "Early Blight On Tomatoes"
+    },
+    {
+      "file": "flea_beetles",
+      "title": "Flea Beetles"
+    },
+    {
+      "file": "greenfly_on_shrubs",
+      "title": "Greenfly On Shrubs"
+    },
+    {
+      "file": "grey_mould_botrytis",
+      "title": "Grey Mould Botrytis"
+    },
+    {
+      "file": "lacewings_and_hoverflies",
+      "title": "Lacewings And Hoverflies"
+    },
+    {
+      "file": "ladybird_larvae",
+      "title": "Ladybird Larvae"
+    },
+    {
+      "file": "ladybirds_in_the_garden",
+      "title": "Ladybirds In The Garden"
+    },
+    {
+      "file": "leaf_miners",
+      "title": "Leaf Miners"
+    },
+    {
+      "file": "leaf_spot_disease",
+      "title": "Leaf Spot Disease"
+    },
+    {
+      "file": "leafhoppers_on_plants",
+      "title": "Leafhoppers On Plants"
+    },
+    {
+      "file": "leatherjackets",
+      "title": "Leatherjackets"
+    },
+    {
+      "file": "mealybugs_on_plants",
+      "title": "Mealybugs On Plants"
+    },
+    {
+      "file": "mice_and_voles_in_the_garden",
+      "title": "Mice And Voles In The Garden"
+    },
+    {
+      "file": "moles_in_the_lawn",
+      "title": "Moles In The Lawn"
+    },
+    {
+      "file": "onion_fly",
+      "title": "Onion Fly"
+    },
+    {
+      "file": "potato_blight",
+      "title": "Potato Blight"
+    },
+    {
+      "file": "powdery_mildew_on_cucumbers",
+      "title": "Powdery Mildew On Cucumbers"
+    },
+    {
+      "file": "powdery_mildew_on_roses",
+      "title": "Powdery Mildew On Roses"
+    },
+    {
+      "file": "rabbits_in_the_garden",
+      "title": "Rabbits In The Garden"
+    },
+    {
+      "file": "red_spider_mites",
+      "title": "Red Spider Mites"
+    },
+    {
+      "file": "root_rot",
+      "title": "Root Rot"
+    },
+    {
+      "file": "rust_disease",
+      "title": "Rust Disease"
+    },
+    {
+      "file": "scale_insects",
+      "title": "Scale Insects"
+    },
+    {
+      "file": "slugs_in_the_garden",
+      "title": "Slugs In The Garden"
+    },
+    {
+      "file": "slugs_on_lettuce",
+      "title": "Slugs On Lettuce"
+    },
+    {
+      "file": "snails_in_the_garden",
+      "title": "Snails In The Garden"
+    },
+    {
+      "file": "squirrels_in_the_garden",
+      "title": "Squirrels In The Garden"
+    },
+    {
+      "file": "thrips_on_flowers",
+      "title": "Thrips On Flowers"
+    },
+    {
+      "file": "tomato_blight",
+      "title": "Tomato Blight"
+    },
+    {
+      "file": "tomato_hornworms",
+      "title": "Tomato Hornworms"
+    },
+    {
+      "file": "vine_weevils",
+      "title": "Vine Weevils"
+    },
+    {
+      "file": "wasps_in_the_garden",
+      "title": "Wasps In The Garden"
+    },
+    {
+      "file": "whitefly_on_tomatoes",
+      "title": "Whitefly On Tomatoes"
+    },
+    {
+      "file": "wireworms",
+      "title": "Wireworms"
+    }
+  ]
+}

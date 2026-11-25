@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "small_pets",
+  "title": "Small Pets",
+  "modules": [
+    {
+      "file": "baby_rabbit_care",
+      "title": "Baby Rabbit Care"
+    },
+    {
+      "file": "chinchilla_care",
+      "title": "Chinchilla Care"
+    },
+    {
+      "file": "degu_care",
+      "title": "Degu Care"
+    },
+    {
+      "file": "ferret_care",
+      "title": "Ferret Care"
+    },
+    {
+      "file": "gerbil_care",
+      "title": "Gerbil Care"
+    },
+    {
+      "file": "guinea_pig_bathing",
+      "title": "Guinea Pig Bathing"
+    },
+    {
+      "file": "guinea_pig_bedding",
+      "title": "Guinea Pig Bedding"
+    },
+    {
+      "file": "guinea_pig_cage_size",
+      "title": "Guinea Pig Cage Size"
+    },
+    {
+      "file": "guinea_pig_companionship",
+      "title": "Guinea Pig Companionship"
+    },
+    {
+      "file": "guinea_pig_diet",
+      "title": "Guinea Pig Diet"
+    },
+    {
+      "file": "guinea_pig_handling",
+      "title": "Guinea Pig Handling"
+    },
+    {
+      "file": "guinea_pig_hay",
+      "title": "Guinea Pig Hay"
+    },
+    {
+      "file": "guinea_pig_hides_tunnels",
+      "title": "Guinea Pig Hides Tunnels"
+    },
+    {
+      "file": "guinea_pig_illness_signs",
+      "title": "Guinea Pig Illness Signs"
+    },
+    {
+      "file": "guinea_pig_teeth",
+      "title": "Guinea Pig Teeth"
+    },
+    {
+      "file": "guinea_pig_vitamin_c",
+      "title": "Guinea Pig Vitamin C"
+    },
+    {
+      "file": "hamster_bedding",
+      "title": "Hamster Bedding"
+    },
+    {
+      "file": "hamster_cage_setup",
+      "title": "Hamster Cage Setup"
+    },
+    {
+      "file": "hamster_cheek_pouches",
+      "title": "Hamster Cheek Pouches"
+    },
+    {
+      "file": "hamster_diet",
+      "title": "Hamster Diet"
+    },
+    {
+      "file": "hamster_handling",
+      "title": "Hamster Handling"
+    },
+    {
+      "file": "hamster_hibernation",
+      "title": "Hamster Hibernation"
+    },
+    {
+      "file": "hamster_illness_signs",
+      "title": "Hamster Illness Signs"
+    },
+    {
+      "file": "hamster_sand_bath",
+      "title": "Hamster Sand Bath"
+    },
+    {
+      "file": "hamster_teeth",
+      "title": "Hamster Teeth"
+    },
+    {
+      "file": "hamster_wheel_exercise",
+      "title": "Hamster Wheel Exercise"
+    },
+    {
+      "file": "hedgehog_care",
+      "title": "Hedgehog Care"
+    },
+    {
+      "file": "pet_mouse_care",
+      "title": "Pet Mouse Care"
+    },
+    {
+      "file": "pet_rat_care",
+      "title": "Pet Rat Care"
+    },
+    {
+      "file": "rabbit_bonding",
+      "title": "Rabbit Bonding"
+    },
+    {
+      "file": "rabbit_exercise",
+      "title": "Rabbit Exercise"
+    },
+    {
+      "file": "rabbit_grooming",
+      "title": "Rabbit Grooming"
+    },
+    {
+      "file": "rabbit_guinea_pig_together",
+      "title": "Rabbit Guinea Pig Together"
+    },
+    {
+      "file": "rabbit_hay_diet",
+      "title": "Rabbit Hay Diet"
+    },
+    {
+      "file": "rabbit_hutch_setup",
+      "title": "Rabbit Hutch Setup"
+    },
+    {
+      "file": "rabbit_illness_signs",
+      "title": "Rabbit Illness Signs"
+    },
+    {
+      "file": "rabbit_litter_training",
+      "title": "Rabbit Litter Training"
+    },
+    {
+      "file": "rabbit_not_eating",
+      "title": "Rabbit Not Eating"
+    },
+    {
+      "file": "rabbit_teeth_care",
+      "title": "Rabbit Teeth Care"
+    },
+    {
+      "file": "rabbit_treats_and_greens",
+      "title": "Rabbit Treats And Greens"
+    },
+    {
+      "file": "small_pet_and_children",
+      "title": "Small Pet And Children"
+    },
+    {
+      "file": "small_pet_first_aid",
+      "title": "Small Pet First Aid"
+    },
+    {
+      "file": "small_pet_holiday_care",
+      "title": "Small Pet Holiday Care"
+    },
+    {
+      "file": "small_pet_home_health_checks",
+      "title": "Small Pet Home Health Checks"
+    },
+    {
+      "file": "small_pet_housing_temperature",
+      "title": "Small Pet Housing Temperature"
+    },
+    {
+      "file": "small_pet_poisonous_plants",
+      "title": "Small Pet Poisonous Plants"
+    },
+    {
+      "file": "small_pet_transport",
+      "title": "Small Pet Transport"
+    },
+    {
+      "file": "small_pet_vet_checks",
+      "title": "Small Pet Vet Checks"
+    },
+    {
+      "file": "small_pet_weighing",
+      "title": "Small Pet Weighing"
+    },
+    {
+      "file": "syrian_vs_dwarf_hamster",
+      "title": "Syrian Vs Dwarf Hamster"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "lawn_care",
+  "title": "Lawn Care",
+  "modules": [
+    {
+      "file": "autumn_lawn_care",
+      "title": "Autumn Lawn Care"
+    },
+    {
+      "file": "bare_patches",
+      "title": "Bare Patches"
+    },
+    {
+      "file": "brown_patches",
+      "title": "Brown Patches"
+    },
+    {
+      "file": "clearing_lawn_leaves",
+      "title": "Clearing Lawn Leaves"
+    },
+    {
+      "file": "clover_in_lawn",
+      "title": "Clover In Lawn"
+    },
+    {
+      "file": "compacted_soil",
+      "title": "Compacted Soil"
+    },
+    {
+      "file": "crabgrass_control",
+      "title": "Crabgrass Control"
+    },
+    {
+      "file": "dandelion_control",
+      "title": "Dandelion Control"
+    },
+    {
+      "file": "dog_urine_lawn",
+      "title": "Dog Urine Lawn"
+    },
+    {
+      "file": "grass_types_for_lawn",
+      "title": "Grass Types For Lawn"
+    },
+    {
+      "file": "lawn_aeration",
+      "title": "Lawn Aeration"
+    },
+    {
+      "file": "lawn_disease_prevention",
+      "title": "Lawn Disease Prevention"
+    },
+    {
+      "file": "lawn_drainage",
+      "title": "Lawn Drainage"
+    },
+    {
+      "file": "lawn_edges",
+      "title": "Lawn Edges"
+    },
+    {
+      "file": "lawn_fertilising",
+      "title": "Lawn Fertilising"
+    },
+    {
+      "file": "lawn_fungus",
+      "title": "Lawn Fungus"
+    },
+    {
+      "file": "lawn_grubs",
+      "title": "Lawn Grubs"
+    },
+    {
+      "file": "lawn_insect_pests",
+      "title": "Lawn Insect Pests"
+    },
+    {
+      "file": "lawn_irrigation_systems",
+      "title": "Lawn Irrigation Systems"
+    },
+    {
+      "file": "lawn_renovation",
+      "title": "Lawn Renovation"
+    },
+    {
+      "file": "lawn_salt_damage",
+      "title": "Lawn Salt Damage"
+    },
+    {
+      "file": "lawn_scarifying",
+      "title": "Lawn Scarifying"
+    },
+    {
+      "file": "lawn_soil_preparation",
+      "title": "Lawn Soil Preparation"
+    },
+    {
+      "file": "lawn_thatch",
+      "title": "Lawn Thatch"
+    },
+    {
+      "file": "lawn_topdressing",
+      "title": "Lawn Topdressing"
+    },
+    {
+      "file": "lawn_weed_control",
+      "title": "Lawn Weed Control"
+    },
+    {
+      "file": "laying_turf",
+      "title": "Laying Turf"
+    },
+    {
+      "file": "moss_prevention",
+      "title": "Moss Prevention"
+    },
+    {
+      "file": "moss_removal",
+      "title": "Moss Removal"
+    },
+    {
+      "file": "mower_blade_care",
+      "title": "Mower Blade Care"
+    },
+    {
+      "file": "mower_maintenance",
+      "title": "Mower Maintenance"
+    },
+    {
+      "file": "mower_safety",
+      "title": "Mower Safety"
+    },
+    {
+      "file": "mowing_frequency",
+      "title": "Mowing Frequency"
+    },
+    {
+      "file": "mowing_height",
+      "title": "Mowing Height"
+    },
+    {
+      "file": "mowing_lawn",
+      "title": "Mowing Lawn"
+    },
+    {
+      "file": "mowing_patterns",
+      "title": "Mowing Patterns"
+    },
+    {
+      "file": "new_turf_watering",
+      "title": "New Turf Watering"
+    },
+    {
+      "file": "overseeding_lawn",
+      "title": "Overseeding Lawn"
+    },
+    {
+      "file": "red_thread",
+      "title": "Red Thread"
+    },
+    {
+      "file": "seed_selection",
+      "title": "Seed Selection"
+    },
+    {
+      "file": "seedbed_preparation",
+      "title": "Seedbed Preparation"
+    },
+    {
+      "file": "shaded_lawn",
+      "title": "Shaded Lawn"
+    },
+    {
+      "file": "spring_lawn_care",
+      "title": "Spring Lawn Care"
+    },
+    {
+      "file": "summer_drought",
+      "title": "Summer Drought"
+    },
+    {
+      "file": "summer_lawn_care",
+      "title": "Summer Lawn Care"
+    },
+    {
+      "file": "watering_frequency",
+      "title": "Watering Frequency"
+    },
+    {
+      "file": "watering_lawn",
+      "title": "Watering Lawn"
+    },
+    {
+      "file": "watering_time",
+      "title": "Watering Time"
+    },
+    {
+      "file": "winter_lawn_care",
+      "title": "Winter Lawn Care"
+    },
+    {
+      "file": "yellow_grass",
+      "title": "Yellow Grass"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "compost_and_soil",
+  "title": "Compost And Soil",
+  "modules": [
+    {
+      "file": "adjusting_soil_ph",
+      "title": "Adjusting Soil Ph"
+    },
+    {
+      "file": "bokashi_composting",
+      "title": "Bokashi Composting"
+    },
+    {
+      "file": "compacted_soil",
+      "title": "Compacted Soil"
+    },
+    {
+      "file": "compost_as_mulch",
+      "title": "Compost As Mulch"
+    },
+    {
+      "file": "compost_bin_location",
+      "title": "Compost Bin Location"
+    },
+    {
+      "file": "compost_bin_setup",
+      "title": "Compost Bin Setup"
+    },
+    {
+      "file": "compost_bin_types",
+      "title": "Compost Bin Types"
+    },
+    {
+      "file": "compost_for_seedlings",
+      "title": "Compost For Seedlings"
+    },
+    {
+      "file": "compost_not_heating",
+      "title": "Compost Not Heating"
+    },
+    {
+      "file": "compost_pests_and_flies",
+      "title": "Compost Pests And Flies"
+    },
+    {
+      "file": "compost_smelling_bad",
+      "title": "Compost Smelling Bad"
+    },
+    {
+      "file": "compost_too_dry",
+      "title": "Compost Too Dry"
+    },
+    {
+      "file": "compost_too_wet",
+      "title": "Compost Too Wet"
+    },
+    {
+      "file": "composting_autumn_leaves",
+      "title": "Composting Autumn Leaves"
+    },
+    {
+      "file": "composting_bread_and_pasta",
+      "title": "Composting Bread And Pasta"
+    },
+    {
+      "file": "composting_coffee_grounds",
+      "title": "Composting Coffee Grounds"
+    },
+    {
+      "file": "composting_eggshells",
+      "title": "Composting Eggshells"
+    },
+    {
+      "file": "composting_fruit_peels",
+      "title": "Composting Fruit Peels"
+    },
+    {
+      "file": "composting_grass_clippings",
+      "title": "Composting Grass Clippings"
+    },
+    {
+      "file": "composting_in_winter",
+      "title": "Composting In Winter"
+    },
+    {
+      "file": "composting_kitchen_scraps",
+      "title": "Composting Kitchen Scraps"
+    },
+    {
+      "file": "composting_manure",
+      "title": "Composting Manure"
+    },
+    {
+      "file": "composting_meat_and_dairy",
+      "title": "Composting Meat And Dairy"
+    },
+    {
+      "file": "composting_onion_skins",
+      "title": "Composting Onion Skins"
+    },
+    {
+      "file": "composting_paper_cardboard",
+      "title": "Composting Paper Cardboard"
+    },
+    {
+      "file": "composting_pet_waste",
+      "title": "Composting Pet Waste"
+    },
+    {
+      "file": "composting_tea_bags",
+      "title": "Composting Tea Bags"
+    },
+    {
+      "file": "composting_weeds",
+      "title": "Composting Weeds"
+    },
+    {
+      "file": "composting_woody_prunings",
+      "title": "Composting Woody Prunings"
+    },
+    {
+      "file": "container_potting_soil",
+      "title": "Container Potting Soil"
+    },
+    {
+      "file": "green_manure_crops",
+      "title": "Green Manure Crops"
+    },
+    {
+      "file": "greens_and_browns_ratio",
+      "title": "Greens And Browns Ratio"
+    },
+    {
+      "file": "hot_and_cold_composting",
+      "title": "Hot And Cold Composting"
+    },
+    {
+      "file": "improving_clay_soil",
+      "title": "Improving Clay Soil"
+    },
+    {
+      "file": "improving_sandy_soil",
+      "title": "Improving Sandy Soil"
+    },
+    {
+      "file": "knowing_when_compost_ready",
+      "title": "Knowing When Compost Ready"
+    },
+    {
+      "file": "no_dig_soil_care",
+      "title": "No Dig Soil Care"
+    },
+    {
+      "file": "raised_bed_soil",
+      "title": "Raised Bed Soil"
+    },
+    {
+      "file": "sieving_compost",
+      "title": "Sieving Compost"
+    },
+    {
+      "file": "soil_drainage",
+      "title": "Soil Drainage"
+    },
+    {
+      "file": "soil_fertility_feeding",
+      "title": "Soil Fertility Feeding"
+    },
+    {
+      "file": "soil_organic_matter",
+      "title": "Soil Organic Matter"
+    },
+    {
+      "file": "soil_ph_testing",
+      "title": "Soil Ph Testing"
+    },
+    {
+      "file": "soil_salinity",
+      "title": "Soil Salinity"
+    },
+    {
+      "file": "soil_structure_crumb",
+      "title": "Soil Structure Crumb"
+    },
+    {
+      "file": "turning_compost_heap",
+      "title": "Turning Compost Heap"
+    },
+    {
+      "file": "using_compost_in_garden",
+      "title": "Using Compost In Garden"
+    },
+    {
+      "file": "what_not_to_compost",
+      "title": "What Not To Compost"
+    },
+    {
+      "file": "what_to_compost",
+      "title": "What To Compost"
+    },
+    {
+      "file": "worm_bin_composting",
+      "title": "Worm Bin Composting"
+    }
+  ]
+}

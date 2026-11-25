@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "vegetables_and_herbs",
+  "title": "Vegetables And Herbs",
+  "modules": [
+    {
+      "file": "companion_planting_vegetables",
+      "title": "Companion Planting Vegetables"
+    },
+    {
+      "file": "fertilising_vegetables",
+      "title": "Fertilising Vegetables"
+    },
+    {
+      "file": "growing_asparagus",
+      "title": "Growing Asparagus"
+    },
+    {
+      "file": "growing_aubergines",
+      "title": "Growing Aubergines"
+    },
+    {
+      "file": "growing_basil",
+      "title": "Growing Basil"
+    },
+    {
+      "file": "growing_beans",
+      "title": "Growing Beans"
+    },
+    {
+      "file": "growing_beetroot",
+      "title": "Growing Beetroot"
+    },
+    {
+      "file": "growing_broccoli",
+      "title": "Growing Broccoli"
+    },
+    {
+      "file": "growing_brussels_sprouts",
+      "title": "Growing Brussels Sprouts"
+    },
+    {
+      "file": "growing_cabbage",
+      "title": "Growing Cabbage"
+    },
+    {
+      "file": "growing_carrots",
+      "title": "Growing Carrots"
+    },
+    {
+      "file": "growing_cauliflower",
+      "title": "Growing Cauliflower"
+    },
+    {
+      "file": "growing_celery",
+      "title": "Growing Celery"
+    },
+    {
+      "file": "growing_chillies",
+      "title": "Growing Chillies"
+    },
+    {
+      "file": "growing_coriander",
+      "title": "Growing Coriander"
+    },
+    {
+      "file": "growing_courgettes",
+      "title": "Growing Courgettes"
+    },
+    {
+      "file": "growing_cucumbers",
+      "title": "Growing Cucumbers"
+    },
+    {
+      "file": "growing_garlic",
+      "title": "Growing Garlic"
+    },
+    {
+      "file": "growing_kale",
+      "title": "Growing Kale"
+    },
+    {
+      "file": "growing_leeks",
+      "title": "Growing Leeks"
+    },
+    {
+      "file": "growing_lettuce",
+      "title": "Growing Lettuce"
+    },
+    {
+      "file": "growing_mint",
+      "title": "Growing Mint"
+    },
+    {
+      "file": "growing_onions",
+      "title": "Growing Onions"
+    },
+    {
+      "file": "growing_parsley",
+      "title": "Growing Parsley"
+    },
+    {
+      "file": "growing_parsnips",
+      "title": "Growing Parsnips"
+    },
+    {
+      "file": "growing_peas",
+      "title": "Growing Peas"
+    },
+    {
+      "file": "growing_potatoes",
+      "title": "Growing Potatoes"
+    },
+    {
+      "file": "growing_pumpkins",
+      "title": "Growing Pumpkins"
+    },
+    {
+      "file": "growing_radishes",
+      "title": "Growing Radishes"
+    },
+    {
+      "file": "growing_rhubarb",
+      "title": "Growing Rhubarb"
+    },
+    {
+      "file": "growing_rosemary",
+      "title": "Growing Rosemary"
+    },
+    {
+      "file": "growing_sage",
+      "title": "Growing Sage"
+    },
+    {
+      "file": "growing_spinach",
+      "title": "Growing Spinach"
+    },
+    {
+      "file": "growing_sweet_peppers",
+      "title": "Growing Sweet Peppers"
+    },
+    {
+      "file": "growing_sweetcorn",
+      "title": "Growing Sweetcorn"
+    },
+    {
+      "file": "growing_thyme",
+      "title": "Growing Thyme"
+    },
+    {
+      "file": "growing_vegetables_containers",
+      "title": "Growing Vegetables Containers"
+    },
+    {
+      "file": "harvesting_and_drying_herbs",
+      "title": "Harvesting And Drying Herbs"
+    },
+    {
+      "file": "herb_leaves_going_brown",
+      "title": "Herb Leaves Going Brown"
+    },
+    {
+      "file": "planting_tomatoes",
+      "title": "Planting Tomatoes"
+    },
+    {
+      "file": "raised_bed_vegetables",
+      "title": "Raised Bed Vegetables"
+    },
+    {
+      "file": "ripening_tomatoes",
+      "title": "Ripening Tomatoes"
+    },
+    {
+      "file": "sowing_seed_depth",
+      "title": "Sowing Seed Depth"
+    },
+    {
+      "file": "starting_seeds_indoors",
+      "title": "Starting Seeds Indoors"
+    },
+    {
+      "file": "starting_tomato_seeds",
+      "title": "Starting Tomato Seeds"
+    },
+    {
+      "file": "tomato_blossom_end_rot",
+      "title": "Tomato Blossom End Rot"
+    },
+    {
+      "file": "tomato_pruning_and_training",
+      "title": "Tomato Pruning And Training"
+    },
+    {
+      "file": "transplanting_seedlings",
+      "title": "Transplanting Seedlings"
+    },
+    {
+      "file": "vegetable_rotation",
+      "title": "Vegetable Rotation"
+    },
+    {
+      "file": "watering_vegetables",
+      "title": "Watering Vegetables"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "cats",
+  "title": "Cats",
+  "modules": [
+    {
+      "file": "adopting_a_rescue_cat",
+      "title": "Adopting A Rescue Cat"
+    },
+    {
+      "file": "cat_aggression",
+      "title": "Cat Aggression"
+    },
+    {
+      "file": "cat_allergies",
+      "title": "Cat Allergies"
+    },
+    {
+      "file": "cat_and_dog_introduction",
+      "title": "Cat And Dog Introduction"
+    },
+    {
+      "file": "cat_arthritis_and_mobility",
+      "title": "Cat Arthritis And Mobility"
+    },
+    {
+      "file": "cat_bathing",
+      "title": "Cat Bathing"
+    },
+    {
+      "file": "cat_body_language",
+      "title": "Cat Body Language"
+    },
+    {
+      "file": "cat_car_travel",
+      "title": "Cat Car Travel"
+    },
+    {
+      "file": "cat_choking_hazards",
+      "title": "Cat Choking Hazards"
+    },
+    {
+      "file": "cat_constipation",
+      "title": "Cat Constipation"
+    },
+    {
+      "file": "cat_dental_care",
+      "title": "Cat Dental Care"
+    },
+    {
+      "file": "cat_diarrhoea",
+      "title": "Cat Diarrhoea"
+    },
+    {
+      "file": "cat_diet_and_nutrition",
+      "title": "Cat Diet And Nutrition"
+    },
+    {
+      "file": "cat_ear_cleaning",
+      "title": "Cat Ear Cleaning"
+    },
+    {
+      "file": "cat_eating_too_much",
+      "title": "Cat Eating Too Much"
+    },
+    {
+      "file": "cat_emergency_first_aid",
+      "title": "Cat Emergency First Aid"
+    },
+    {
+      "file": "cat_exercise_and_play",
+      "title": "Cat Exercise And Play"
+    },
+    {
+      "file": "cat_eye_care",
+      "title": "Cat Eye Care"
+    },
+    {
+      "file": "cat_first_vet_visit",
+      "title": "Cat First Vet Visit"
+    },
+    {
+      "file": "cat_fleas_and_ticks",
+      "title": "Cat Fleas And Ticks"
+    },
+    {
+      "file": "cat_grooming_and_shedding",
+      "title": "Cat Grooming And Shedding"
+    },
+    {
+      "file": "cat_hairballs",
+      "title": "Cat Hairballs"
+    },
+    {
+      "file": "cat_hiding_more_than_usual",
+      "title": "Cat Hiding More Than Usual"
+    },
+    {
+      "file": "cat_holidays_and_boarding",
+      "title": "Cat Holidays And Boarding"
+    },
+    {
+      "file": "cat_hot_weather_safety",
+      "title": "Cat Hot Weather Safety"
+    },
+    {
+      "file": "cat_litter_box_avoidance",
+      "title": "Cat Litter Box Avoidance"
+    },
+    {
+      "file": "cat_litter_box_training",
+      "title": "Cat Litter Box Training"
+    },
+    {
+      "file": "cat_microchipping",
+      "title": "Cat Microchipping"
+    },
+    {
+      "file": "cat_nail_clipping",
+      "title": "Cat Nail Clipping"
+    },
+    {
+      "file": "cat_neutering",
+      "title": "Cat Neutering"
+    },
+    {
+      "file": "cat_not_eating",
+      "title": "Cat Not Eating"
+    },
+    {
+      "file": "cat_poisoning_risks",
+      "title": "Cat Poisoning Risks"
+    },
+    {
+      "file": "cat_scratching_furniture",
+      "title": "Cat Scratching Furniture"
+    },
+    {
+      "file": "cat_scratching_post_training",
+      "title": "Cat Scratching Post Training"
+    },
+    {
+      "file": "cat_senior_care",
+      "title": "Cat Senior Care"
+    },
+    {
+      "file": "cat_skin_problems",
+      "title": "Cat Skin Problems"
+    },
+    {
+      "file": "cat_sleeping_habits",
+      "title": "Cat Sleeping Habits"
+    },
+    {
+      "file": "cat_stress_and_anxiety",
+      "title": "Cat Stress And Anxiety"
+    },
+    {
+      "file": "cat_urinary_problems",
+      "title": "Cat Urinary Problems"
+    },
+    {
+      "file": "cat_vaccinations",
+      "title": "Cat Vaccinations"
+    },
+    {
+      "file": "cat_vocalisation",
+      "title": "Cat Vocalisation"
+    },
+    {
+      "file": "cat_vomiting",
+      "title": "Cat Vomiting"
+    },
+    {
+      "file": "cat_water_intake",
+      "title": "Cat Water Intake"
+    },
+    {
+      "file": "cat_weight_management",
+      "title": "Cat Weight Management"
+    },
+    {
+      "file": "cat_worms_and_parasites",
+      "title": "Cat Worms And Parasites"
+    },
+    {
+      "file": "choosing_a_cat_breed",
+      "title": "Choosing A Cat Breed"
+    },
+    {
+      "file": "indoor_cat_care",
+      "title": "Indoor Cat Care"
+    },
+    {
+      "file": "introducing_cats_to_each_other",
+      "title": "Introducing Cats To Each Other"
+    },
+    {
+      "file": "kitten_care_basics",
+      "title": "Kitten Care Basics"
+    },
+    {
+      "file": "outdoor_cat_safety",
+      "title": "Outdoor Cat Safety"
+    }
+  ]
+}

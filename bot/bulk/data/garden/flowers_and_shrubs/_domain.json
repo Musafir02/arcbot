@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "flowers_and_shrubs",
+  "title": "Flowers And Shrubs",
+  "modules": [
+    {
+      "file": "azalea_care",
+      "title": "Azalea Care"
+    },
+    {
+      "file": "begonia_care",
+      "title": "Begonia Care"
+    },
+    {
+      "file": "buddleia_pruning",
+      "title": "Buddleia Pruning"
+    },
+    {
+      "file": "bulb_planting",
+      "title": "Bulb Planting"
+    },
+    {
+      "file": "bulb_storage",
+      "title": "Bulb Storage"
+    },
+    {
+      "file": "camellia_care",
+      "title": "Camellia Care"
+    },
+    {
+      "file": "chrysanthemum_care",
+      "title": "Chrysanthemum Care"
+    },
+    {
+      "file": "clematis_care",
+      "title": "Clematis Care"
+    },
+    {
+      "file": "clematis_pruning",
+      "title": "Clematis Pruning"
+    },
+    {
+      "file": "climbing_roses",
+      "title": "Climbing Roses"
+    },
+    {
+      "file": "container_roses",
+      "title": "Container Roses"
+    },
+    {
+      "file": "daffodil_care",
+      "title": "Daffodil Care"
+    },
+    {
+      "file": "dahlia_care",
+      "title": "Dahlia Care"
+    },
+    {
+      "file": "dahlia_overwintering",
+      "title": "Dahlia Overwintering"
+    },
+    {
+      "file": "daylily_care",
+      "title": "Daylily Care"
+    },
+    {
+      "file": "deadheading_flowers",
+      "title": "Deadheading Flowers"
+    },
+    {
+      "file": "deadheading_roses",
+      "title": "Deadheading Roses"
+    },
+    {
+      "file": "delphinium_care",
+      "title": "Delphinium Care"
+    },
+    {
+      "file": "forsythia_pruning",
+      "title": "Forsythia Pruning"
+    },
+    {
+      "file": "foxglove_growing",
+      "title": "Foxglove Growing"
+    },
+    {
+      "file": "geranium_care",
+      "title": "Geranium Care"
+    },
+    {
+      "file": "heather_care",
+      "title": "Heather Care"
+    },
+    {
+      "file": "hedge_trimming",
+      "title": "Hedge Trimming"
+    },
+    {
+      "file": "honeysuckle_care",
+      "title": "Honeysuckle Care"
+    },
+    {
+      "file": "hosta_care",
+      "title": "Hosta Care"
+    },
+    {
+      "file": "hydrangea_care",
+      "title": "Hydrangea Care"
+    },
+    {
+      "file": "hydrangea_flower_colour",
+      "title": "Hydrangea Flower Colour"
+    },
+    {
+      "file": "hydrangea_pruning",
+      "title": "Hydrangea Pruning"
+    },
+    {
+      "file": "iris_care",
+      "title": "Iris Care"
+    },
+    {
+      "file": "jasmine_care",
+      "title": "Jasmine Care"
+    },
+    {
+      "file": "lavender_growing",
+      "title": "Lavender Growing"
+    },
+    {
+      "file": "lavender_pruning",
+      "title": "Lavender Pruning"
+    },
+    {
+      "file": "lilac_care",
+      "title": "Lilac Care"
+    },
+    {
+      "file": "peony_care",
+      "title": "Peony Care"
+    },
+    {
+      "file": "peony_support",
+      "title": "Peony Support"
+    },
+    {
+      "file": "planting_roses",
+      "title": "Planting Roses"
+    },
+    {
+      "file": "rhododendron_care",
+      "title": "Rhododendron Care"
+    },
+    {
+      "file": "rose_aphids",
+      "title": "Rose Aphids"
+    },
+    {
+      "file": "rose_black_spot",
+      "title": "Rose Black Spot"
+    },
+    {
+      "file": "rose_powdery_mildew",
+      "title": "Rose Powdery Mildew"
+    },
+    {
+      "file": "rose_pruning",
+      "title": "Rose Pruning"
+    },
+    {
+      "file": "shrub_diseases",
+      "title": "Shrub Diseases"
+    },
+    {
+      "file": "shrub_frost_protection",
+      "title": "Shrub Frost Protection"
+    },
+    {
+      "file": "shrub_planting",
+      "title": "Shrub Planting"
+    },
+    {
+      "file": "shrub_pruning",
+      "title": "Shrub Pruning"
+    },
+    {
+      "file": "shrub_watering",
+      "title": "Shrub Watering"
+    },
+    {
+      "file": "sunflower_growing",
+      "title": "Sunflower Growing"
+    },
+    {
+      "file": "sweet_pea_growing",
+      "title": "Sweet Pea Growing"
+    },
+    {
+      "file": "tulip_care",
+      "title": "Tulip Care"
+    },
+    {
+      "file": "wisteria_pruning",
+      "title": "Wisteria Pruning"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "houseplants",
+  "title": "Houseplants",
+  "modules": [
+    {
+      "file": "african_violet_care",
+      "title": "African Violet Care"
+    },
+    {
+      "file": "air_purifying_houseplants",
+      "title": "Air Purifying Houseplants"
+    },
+    {
+      "file": "aloe_vera_care",
+      "title": "Aloe Vera Care"
+    },
+    {
+      "file": "begonia_care",
+      "title": "Begonia Care"
+    },
+    {
+      "file": "brown_leaf_tips",
+      "title": "Brown Leaf Tips"
+    },
+    {
+      "file": "buying_houseplants",
+      "title": "Buying Houseplants"
+    },
+    {
+      "file": "cactus_care",
+      "title": "Cactus Care"
+    },
+    {
+      "file": "calathea_care",
+      "title": "Calathea Care"
+    },
+    {
+      "file": "cleaning_houseplant_leaves",
+      "title": "Cleaning Houseplant Leaves"
+    },
+    {
+      "file": "fern_brown_leaves",
+      "title": "Fern Brown Leaves"
+    },
+    {
+      "file": "fern_indoor_light",
+      "title": "Fern Indoor Light"
+    },
+    {
+      "file": "fertilising_houseplants",
+      "title": "Fertilising Houseplants"
+    },
+    {
+      "file": "fiddle_leaf_fig_care",
+      "title": "Fiddle Leaf Fig Care"
+    },
+    {
+      "file": "houseplant_diseases",
+      "title": "Houseplant Diseases"
+    },
+    {
+      "file": "houseplant_holiday_care",
+      "title": "Houseplant Holiday Care"
+    },
+    {
+      "file": "houseplant_humidity",
+      "title": "Houseplant Humidity"
+    },
+    {
+      "file": "houseplant_leaf_drop",
+      "title": "Houseplant Leaf Drop"
+    },
+    {
+      "file": "houseplant_leaf_spots",
+      "title": "Houseplant Leaf Spots"
+    },
+    {
+      "file": "houseplant_pests",
+      "title": "Houseplant Pests"
+    },
+    {
+      "file": "houseplant_pet_safety",
+      "title": "Houseplant Pet Safety"
+    },
+    {
+      "file": "houseplant_pot_drainage",
+      "title": "Houseplant Pot Drainage"
+    },
+    {
+      "file": "houseplant_root_rot",
+      "title": "Houseplant Root Rot"
+    },
+    {
+      "file": "houseplant_slow_growth",
+      "title": "Houseplant Slow Growth"
+    },
+    {
+      "file": "houseplant_soil_mix",
+      "title": "Houseplant Soil Mix"
+    },
+    {
+      "file": "houseplant_sunburn",
+      "title": "Houseplant Sunburn"
+    },
+    {
+      "file": "houseplant_temperature",
+      "title": "Houseplant Temperature"
+    },
+    {
+      "file": "houseplant_winter_care",
+      "title": "Houseplant Winter Care"
+    },
+    {
+      "file": "indoor_palm_care",
+      "title": "Indoor Palm Care"
+    },
+    {
+      "file": "jade_plant_care",
+      "title": "Jade Plant Care"
+    },
+    {
+      "file": "light_for_houseplants",
+      "title": "Light For Houseplants"
+    },
+    {
+      "file": "monstera_care",
+      "title": "Monstera Care"
+    },
+    {
+      "file": "monstera_yellow_leaves",
+      "title": "Monstera Yellow Leaves"
+    },
+    {
+      "file": "orchid_care",
+      "title": "Orchid Care"
+    },
+    {
+      "file": "overwatering_houseplants",
+      "title": "Overwatering Houseplants"
+    },
+    {
+      "file": "peace_lily_care",
+      "title": "Peace Lily Care"
+    },
+    {
+      "file": "philodendron_care",
+      "title": "Philodendron Care"
+    },
+    {
+      "file": "pothos_care",
+      "title": "Pothos Care"
+    },
+    {
+      "file": "propagating_houseplants",
+      "title": "Propagating Houseplants"
+    },
+    {
+      "file": "pruning_houseplants",
+      "title": "Pruning Houseplants"
+    },
+    {
+      "file": "repotting_houseplants",
+      "title": "Repotting Houseplants"
+    },
+    {
+      "file": "rubber_plant_care",
+      "title": "Rubber Plant Care"
+    },
+    {
+      "file": "snake_plant_care",
+      "title": "Snake Plant Care"
+    },
+    {
+      "file": "snake_plant_watering",
+      "title": "Snake Plant Watering"
+    },
+    {
+      "file": "spider_plant_care",
+      "title": "Spider Plant Care"
+    },
+    {
+      "file": "succulent_care",
+      "title": "Succulent Care"
+    },
+    {
+      "file": "underwatering_houseplants",
+      "title": "Underwatering Houseplants"
+    },
+    {
+      "file": "watering_houseplants",
+      "title": "Watering Houseplants"
+    },
+    {
+      "file": "wilting_houseplants",
+      "title": "Wilting Houseplants"
+    },
+    {
+      "file": "yellow_houseplant_leaves",
+      "title": "Yellow Houseplant Leaves"
+    },
+    {
+      "file": "zz_plant_care",
+      "title": "Zz Plant Care"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "watering_and_drainage",
+  "title": "Watering And Drainage",
+  "modules": [
+    {
+      "file": "best_time_to_water",
+      "title": "Best Time To Water"
+    },
+    {
+      "file": "checking_soil_moisture",
+      "title": "Checking Soil Moisture"
+    },
+    {
+      "file": "deep_watering_roots",
+      "title": "Deep Watering Roots"
+    },
+    {
+      "file": "downpipe_drainage",
+      "title": "Downpipe Drainage"
+    },
+    {
+      "file": "drainage_clay_soil",
+      "title": "Drainage Clay Soil"
+    },
+    {
+      "file": "drainage_compacted_soil",
+      "title": "Drainage Compacted Soil"
+    },
+    {
+      "file": "drainage_ditches",
+      "title": "Drainage Ditches"
+    },
+    {
+      "file": "drainage_lawn",
+      "title": "Drainage Lawn"
+    },
+    {
+      "file": "drainage_pots_containers",
+      "title": "Drainage Pots Containers"
+    },
+    {
+      "file": "drainage_raised_beds",
+      "title": "Drainage Raised Beds"
+    },
+    {
+      "file": "drainage_sloping_garden",
+      "title": "Drainage Sloping Garden"
+    },
+    {
+      "file": "drainage_vegetable_garden",
+      "title": "Drainage Vegetable Garden"
+    },
+    {
+      "file": "drip_irrigation",
+      "title": "Drip Irrigation"
+    },
+    {
+      "file": "french_drains",
+      "title": "French Drains"
+    },
+    {
+      "file": "garden_path_drainage",
+      "title": "Garden Path Drainage"
+    },
+    {
+      "file": "greenhouse_drainage",
+      "title": "Greenhouse Drainage"
+    },
+    {
+      "file": "greywater_watering",
+      "title": "Greywater Watering"
+    },
+    {
+      "file": "mulching_for_moisture",
+      "title": "Mulching For Moisture"
+    },
+    {
+      "file": "patio_drainage",
+      "title": "Patio Drainage"
+    },
+    {
+      "file": "permeable_paving",
+      "title": "Permeable Paving"
+    },
+    {
+      "file": "rain_gardens",
+      "title": "Rain Gardens"
+    },
+    {
+      "file": "rainwater_harvesting",
+      "title": "Rainwater Harvesting"
+    },
+    {
+      "file": "soakaway_drains",
+      "title": "Soakaway Drains"
+    },
+    {
+      "file": "soaker_hoses",
+      "title": "Soaker Hoses"
+    },
+    {
+      "file": "sprinkler_systems",
+      "title": "Sprinkler Systems"
+    },
+    {
+      "file": "water_butts",
+      "title": "Water Butts"
+    },
+    {
+      "file": "water_pooling_vegetable_bed",
+      "title": "Water Pooling Vegetable Bed"
+    },
+    {
+      "file": "watering_clay_soil",
+      "title": "Watering Clay Soil"
+    },
+    {
+      "file": "watering_compost",
+      "title": "Watering Compost"
+    },
+    {
+      "file": "watering_container_plants",
+      "title": "Watering Container Plants"
+    },
+    {
+      "file": "watering_cucumbers",
+      "title": "Watering Cucumbers"
+    },
+    {
+      "file": "watering_established_lawn",
+      "title": "Watering Established Lawn"
+    },
+    {
+      "file": "watering_flowers",
+      "title": "Watering Flowers"
+    },
+    {
+      "file": "watering_fruit_trees",
+      "title": "Watering Fruit Trees"
+    },
+    {
+      "file": "watering_grass_seed",
+      "title": "Watering Grass Seed"
+    },
+    {
+      "file": "watering_hanging_baskets",
+      "title": "Watering Hanging Baskets"
+    },
+    {
+      "file": "watering_herbs",
+      "title": "Watering Herbs"
+    },
+    {
+      "file": "watering_houseplants",
+      "title": "Watering Houseplants"
+    },
+    {
+      "file": "watering_in_hot_weather",
+      "title": "Watering In Hot Weather"
+    },
+    {
+      "file": "watering_new_lawn",
+      "title": "Watering New Lawn"
+    },
+    {
+      "file": "watering_new_plants",
+      "title": "Watering New Plants"
+    },
+    {
+      "file": "watering_potatoes",
+      "title": "Watering Potatoes"
+    },
+    {
+      "file": "watering_raised_beds",
+      "title": "Watering Raised Beds"
+    },
+    {
+      "file": "watering_sandy_soil",
+      "title": "Watering Sandy Soil"
+    },
+    {
+      "file": "watering_seed_trays",
+      "title": "Watering Seed Trays"
+    },
+    {
+      "file": "watering_seedlings",
+      "title": "Watering Seedlings"
+    },
+    {
+      "file": "watering_shrubs",
+      "title": "Watering Shrubs"
+    },
+    {
+      "file": "watering_tomatoes",
+      "title": "Watering Tomatoes"
+    },
+    {
+      "file": "watering_vegetable_bed",
+      "title": "Watering Vegetable Bed"
+    },
+    {
+      "file": "waterlogged_soil",
+      "title": "Waterlogged Soil"
+    }
+  ]
+}

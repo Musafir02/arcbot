@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "reptiles",
+  "title": "Reptiles",
+  "modules": [
+    {
+      "file": "aquatic_turtle_tank",
+      "title": "Aquatic Turtle Tank"
+    },
+    {
+      "file": "baby_reptile_care",
+      "title": "Baby Reptile Care"
+    },
+    {
+      "file": "ball_python_care",
+      "title": "Ball Python Care"
+    },
+    {
+      "file": "bearded_dragon_diet",
+      "title": "Bearded Dragon Diet"
+    },
+    {
+      "file": "bearded_dragon_heating",
+      "title": "Bearded Dragon Heating"
+    },
+    {
+      "file": "bearded_dragon_temperature",
+      "title": "Bearded Dragon Temperature"
+    },
+    {
+      "file": "choosing_a_reptile",
+      "title": "Choosing A Reptile"
+    },
+    {
+      "file": "corn_snake_care",
+      "title": "Corn Snake Care"
+    },
+    {
+      "file": "crested_gecko_care",
+      "title": "Crested Gecko Care"
+    },
+    {
+      "file": "hermit_crab_care",
+      "title": "Hermit Crab Care"
+    },
+    {
+      "file": "leopard_gecko_care",
+      "title": "Leopard Gecko Care"
+    },
+    {
+      "file": "reptile_appetite_loss",
+      "title": "Reptile Appetite Loss"
+    },
+    {
+      "file": "reptile_basking_lamp",
+      "title": "Reptile Basking Lamp"
+    },
+    {
+      "file": "reptile_bathing",
+      "title": "Reptile Bathing"
+    },
+    {
+      "file": "reptile_breeding",
+      "title": "Reptile Breeding"
+    },
+    {
+      "file": "reptile_brumation",
+      "title": "Reptile Brumation"
+    },
+    {
+      "file": "reptile_calcium_supplements",
+      "title": "Reptile Calcium Supplements"
+    },
+    {
+      "file": "reptile_climbing_enrichment",
+      "title": "Reptile Climbing Enrichment"
+    },
+    {
+      "file": "reptile_costs",
+      "title": "Reptile Costs"
+    },
+    {
+      "file": "reptile_dehydration",
+      "title": "Reptile Dehydration"
+    },
+    {
+      "file": "reptile_egg_incubation",
+      "title": "Reptile Egg Incubation"
+    },
+    {
+      "file": "reptile_enclosure_cleaning",
+      "title": "Reptile Enclosure Cleaning"
+    },
+    {
+      "file": "reptile_escape_prevention",
+      "title": "Reptile Escape Prevention"
+    },
+    {
+      "file": "reptile_fasting",
+      "title": "Reptile Fasting"
+    },
+    {
+      "file": "reptile_fire_safety",
+      "title": "Reptile Fire Safety"
+    },
+    {
+      "file": "reptile_habitat_size",
+      "title": "Reptile Habitat Size"
+    },
+    {
+      "file": "reptile_handling",
+      "title": "Reptile Handling"
+    },
+    {
+      "file": "reptile_heat_equipment_safety",
+      "title": "Reptile Heat Equipment Safety"
+    },
+    {
+      "file": "reptile_holiday_care",
+      "title": "Reptile Holiday Care"
+    },
+    {
+      "file": "reptile_humidity",
+      "title": "Reptile Humidity"
+    },
+    {
+      "file": "reptile_illness_signs",
+      "title": "Reptile Illness Signs"
+    },
+    {
+      "file": "reptile_live_food",
+      "title": "Reptile Live Food"
+    },
+    {
+      "file": "reptile_metabolic_bone_disease",
+      "title": "Reptile Metabolic Bone Disease"
+    },
+    {
+      "file": "reptile_odour_control",
+      "title": "Reptile Odour Control"
+    },
+    {
+      "file": "reptile_parasites",
+      "title": "Reptile Parasites"
+    },
+    {
+      "file": "reptile_quarantine",
+      "title": "Reptile Quarantine"
+    },
+    {
+      "file": "reptile_respiratory_infection",
+      "title": "Reptile Respiratory Infection"
+    },
+    {
+      "file": "reptile_retained_shed",
+      "title": "Reptile Retained Shed"
+    },
+    {
+      "file": "reptile_substrate",
+      "title": "Reptile Substrate"
+    },
+    {
+      "file": "reptile_taming",
+      "title": "Reptile Taming"
+    },
+    {
+      "file": "reptile_thermometer",
+      "title": "Reptile Thermometer"
+    },
+    {
+      "file": "reptile_travel",
+      "title": "Reptile Travel"
+    },
+    {
+      "file": "reptile_uvb_lighting",
+      "title": "Reptile Uvb Lighting"
+    },
+    {
+      "file": "reptile_vet_care",
+      "title": "Reptile Vet Care"
+    },
+    {
+      "file": "reptile_water_bowl",
+      "title": "Reptile Water Bowl"
+    },
+    {
+      "file": "snake_bite_safety",
+      "title": "Snake Bite Safety"
+    },
+    {
+      "file": "snake_feeding_frequency",
+      "title": "Snake Feeding Frequency"
+    },
+    {
+      "file": "snake_hiding_places",
+      "title": "Snake Hiding Places"
+    },
+    {
+      "file": "snake_shedding",
+      "title": "Snake Shedding"
+    },
+    {
+      "file": "turtle_shell_rot",
+      "title": "Turtle Shell Rot"
+    }
+  ]
+}

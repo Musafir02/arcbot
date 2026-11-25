@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "pet_food_and_feeding",
+  "title": "Pet Food And Feeding",
+  "modules": [
+    {
+      "file": "adult_cat_portions",
+      "title": "Adult Cat Portions"
+    },
+    {
+      "file": "adult_dog_portions",
+      "title": "Adult Dog Portions"
+    },
+    {
+      "file": "appetite_loss_cats",
+      "title": "Appetite Loss Cats"
+    },
+    {
+      "file": "appetite_loss_dogs",
+      "title": "Appetite Loss Dogs"
+    },
+    {
+      "file": "cat_feeding_schedule",
+      "title": "Cat Feeding Schedule"
+    },
+    {
+      "file": "cat_food_allergies",
+      "title": "Cat Food Allergies"
+    },
+    {
+      "file": "cat_hairball_food",
+      "title": "Cat Hairball Food"
+    },
+    {
+      "file": "cat_treats",
+      "title": "Cat Treats"
+    },
+    {
+      "file": "cat_urinary_food",
+      "title": "Cat Urinary Food"
+    },
+    {
+      "file": "cat_wet_food",
+      "title": "Cat Wet Food"
+    },
+    {
+      "file": "dog_dental_diet",
+      "title": "Dog Dental Diet"
+    },
+    {
+      "file": "dog_dry_food",
+      "title": "Dog Dry Food"
+    },
+    {
+      "file": "dog_elimination_diet",
+      "title": "Dog Elimination Diet"
+    },
+    {
+      "file": "dog_feeding_schedule",
+      "title": "Dog Feeding Schedule"
+    },
+    {
+      "file": "dog_food_allergies",
+      "title": "Dog Food Allergies"
+    },
+    {
+      "file": "dog_sensitive_stomach_food",
+      "title": "Dog Sensitive Stomach Food"
+    },
+    {
+      "file": "dog_treats",
+      "title": "Dog Treats"
+    },
+    {
+      "file": "dogs_eating_bones",
+      "title": "Dogs Eating Bones"
+    },
+    {
+      "file": "feeding_aquarium_fish",
+      "title": "Feeding Aquarium Fish"
+    },
+    {
+      "file": "feeding_hamsters",
+      "title": "Feeding Hamsters"
+    },
+    {
+      "file": "feeding_multiple_pets",
+      "title": "Feeding Multiple Pets"
+    },
+    {
+      "file": "feeding_pet_birds",
+      "title": "Feeding Pet Birds"
+    },
+    {
+      "file": "free_feeding_pets",
+      "title": "Free Feeding Pets"
+    },
+    {
+      "file": "guinea_pig_feeding",
+      "title": "Guinea Pig Feeding"
+    },
+    {
+      "file": "homemade_cat_food",
+      "title": "Homemade Cat Food"
+    },
+    {
+      "file": "homemade_dog_food",
+      "title": "Homemade Dog Food"
+    },
+    {
+      "file": "kitten_feeding_amounts",
+      "title": "Kitten Feeding Amounts"
+    },
+    {
+      "file": "kitten_milk_replacer",
+      "title": "Kitten Milk Replacer"
+    },
+    {
+      "file": "kitten_vs_adult_cat_food",
+      "title": "Kitten Vs Adult Cat Food"
+    },
+    {
+      "file": "kitten_weaning",
+      "title": "Kitten Weaning"
+    },
+    {
+      "file": "measuring_pet_food",
+      "title": "Measuring Pet Food"
+    },
+    {
+      "file": "overweight_cat_feeding",
+      "title": "Overweight Cat Feeding"
+    },
+    {
+      "file": "overweight_dog_feeding",
+      "title": "Overweight Dog Feeding"
+    },
+    {
+      "file": "puppy_feeding_amounts",
+      "title": "Puppy Feeding Amounts"
+    },
+    {
+      "file": "puppy_milk_replacer",
+      "title": "Puppy Milk Replacer"
+    },
+    {
+      "file": "puppy_vs_adult_dog_food",
+      "title": "Puppy Vs Adult Dog Food"
+    },
+    {
+      "file": "puppy_weaning",
+      "title": "Puppy Weaning"
+    },
+    {
+      "file": "rabbit_hay_and_pellets",
+      "title": "Rabbit Hay And Pellets"
+    },
+    {
+      "file": "raw_feeding_dogs",
+      "title": "Raw Feeding Dogs"
+    },
+    {
+      "file": "reading_pet_food_labels",
+      "title": "Reading Pet Food Labels"
+    },
+    {
+      "file": "refrigerating_pet_food",
+      "title": "Refrigerating Pet Food"
+    },
+    {
+      "file": "senior_cat_feeding",
+      "title": "Senior Cat Feeding"
+    },
+    {
+      "file": "senior_dog_feeding",
+      "title": "Senior Dog Feeding"
+    },
+    {
+      "file": "storing_cat_food",
+      "title": "Storing Cat Food"
+    },
+    {
+      "file": "storing_dry_dog_food",
+      "title": "Storing Dry Dog Food"
+    },
+    {
+      "file": "switching_pet_food",
+      "title": "Switching Pet Food"
+    },
+    {
+      "file": "underweight_cat_feeding",
+      "title": "Underweight Cat Feeding"
+    },
+    {
+      "file": "underweight_dog_feeding",
+      "title": "Underweight Dog Feeding"
+    },
+    {
+      "file": "water_for_cats",
+      "title": "Water For Cats"
+    },
+    {
+      "file": "water_for_dogs",
+      "title": "Water For Dogs"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "pet_behaviour_and_training",
+  "title": "Pet Behaviour And Training",
+  "modules": [
+    {
+      "file": "cat_aggression_to_people",
+      "title": "Cat Aggression To People"
+    },
+    {
+      "file": "cat_and_dog_introduction",
+      "title": "Cat And Dog Introduction"
+    },
+    {
+      "file": "cat_biting_when_petted",
+      "title": "Cat Biting When Petted"
+    },
+    {
+      "file": "cat_body_language",
+      "title": "Cat Body Language"
+    },
+    {
+      "file": "cat_carrier_training",
+      "title": "Cat Carrier Training"
+    },
+    {
+      "file": "cat_excessive_meowing",
+      "title": "Cat Excessive Meowing"
+    },
+    {
+      "file": "cat_fighting_other_cats",
+      "title": "Cat Fighting Other Cats"
+    },
+    {
+      "file": "cat_hiding",
+      "title": "Cat Hiding"
+    },
+    {
+      "file": "cat_litter_tray_training",
+      "title": "Cat Litter Tray Training"
+    },
+    {
+      "file": "cat_new_home_introduction",
+      "title": "Cat New Home Introduction"
+    },
+    {
+      "file": "cat_night_activity",
+      "title": "Cat Night Activity"
+    },
+    {
+      "file": "cat_scratching_furniture",
+      "title": "Cat Scratching Furniture"
+    },
+    {
+      "file": "cat_spraying",
+      "title": "Cat Spraying"
+    },
+    {
+      "file": "dog_aggression_to_people",
+      "title": "Dog Aggression To People"
+    },
+    {
+      "file": "dog_attention_and_focus",
+      "title": "Dog Attention And Focus"
+    },
+    {
+      "file": "dog_barking_excessively",
+      "title": "Dog Barking Excessively"
+    },
+    {
+      "file": "dog_body_language",
+      "title": "Dog Body Language"
+    },
+    {
+      "file": "dog_chasing_cats",
+      "title": "Dog Chasing Cats"
+    },
+    {
+      "file": "dog_chewing_furniture",
+      "title": "Dog Chewing Furniture"
+    },
+    {
+      "file": "dog_clicker_training",
+      "title": "Dog Clicker Training"
+    },
+    {
+      "file": "dog_digging",
+      "title": "Dog Digging"
+    },
+    {
+      "file": "dog_fear_of_noises",
+      "title": "Dog Fear Of Noises"
+    },
+    {
+      "file": "dog_jumping_up",
+      "title": "Dog Jumping Up"
+    },
+    {
+      "file": "dog_leash_training",
+      "title": "Dog Leash Training"
+    },
+    {
+      "file": "dog_mounting_behaviour",
+      "title": "Dog Mounting Behaviour"
+    },
+    {
+      "file": "dog_positive_reinforcement",
+      "title": "Dog Positive Reinforcement"
+    },
+    {
+      "file": "dog_pulling_on_lead",
+      "title": "Dog Pulling On Lead"
+    },
+    {
+      "file": "dog_reactivity_to_other_dogs",
+      "title": "Dog Reactivity To Other Dogs"
+    },
+    {
+      "file": "dog_recall_with_distractions",
+      "title": "Dog Recall With Distractions"
+    },
+    {
+      "file": "dog_resource_guarding",
+      "title": "Dog Resource Guarding"
+    },
+    {
+      "file": "dog_separation_anxiety",
+      "title": "Dog Separation Anxiety"
+    },
+    {
+      "file": "dog_settle_on_bed",
+      "title": "Dog Settle On Bed"
+    },
+    {
+      "file": "dog_sit_and_stay",
+      "title": "Dog Sit And Stay"
+    },
+    {
+      "file": "dog_treat_rewards",
+      "title": "Dog Treat Rewards"
+    },
+    {
+      "file": "ferret_handling",
+      "title": "Ferret Handling"
+    },
+    {
+      "file": "hamster_taming",
+      "title": "Hamster Taming"
+    },
+    {
+      "file": "kitten_play_biting",
+      "title": "Kitten Play Biting"
+    },
+    {
+      "file": "older_dog_training",
+      "title": "Older Dog Training"
+    },
+    {
+      "file": "parrot_screaming",
+      "title": "Parrot Screaming"
+    },
+    {
+      "file": "parrot_step_up_training",
+      "title": "Parrot Step Up Training"
+    },
+    {
+      "file": "punishment_free_training",
+      "title": "Punishment Free Training"
+    },
+    {
+      "file": "puppy_biting_nipping",
+      "title": "Puppy Biting Nipping"
+    },
+    {
+      "file": "puppy_crate_training",
+      "title": "Puppy Crate Training"
+    },
+    {
+      "file": "puppy_house_training",
+      "title": "Puppy House Training"
+    },
+    {
+      "file": "puppy_recall_training",
+      "title": "Puppy Recall Training"
+    },
+    {
+      "file": "puppy_socialisation",
+      "title": "Puppy Socialisation"
+    },
+    {
+      "file": "rabbit_biting",
+      "title": "Rabbit Biting"
+    },
+    {
+      "file": "rabbit_litter_training",
+      "title": "Rabbit Litter Training"
+    },
+    {
+      "file": "rescue_dog_training",
+      "title": "Rescue Dog Training"
+    },
+    {
+      "file": "shy_cat_trust",
+      "title": "Shy Cat Trust"
+    }
+  ]
+}

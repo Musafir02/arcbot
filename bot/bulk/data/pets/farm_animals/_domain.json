@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "farm_animals",
+  "title": "Farm Animals",
+  "modules": [
+    {
+      "file": "alpaca_keeping",
+      "title": "Alpaca Keeping"
+    },
+    {
+      "file": "beekeeping_basics",
+      "title": "Beekeeping Basics"
+    },
+    {
+      "file": "beekeeping_winter",
+      "title": "Beekeeping Winter"
+    },
+    {
+      "file": "broiler_raising",
+      "title": "Broiler Raising"
+    },
+    {
+      "file": "calf_feeding",
+      "title": "Calf Feeding"
+    },
+    {
+      "file": "cattle_housing",
+      "title": "Cattle Housing"
+    },
+    {
+      "file": "cattle_winter_feeding",
+      "title": "Cattle Winter Feeding"
+    },
+    {
+      "file": "chicken_bedding",
+      "title": "Chicken Bedding"
+    },
+    {
+      "file": "chicken_brooding_chicks",
+      "title": "Chicken Brooding Chicks"
+    },
+    {
+      "file": "chicken_coop_cleaning",
+      "title": "Chicken Coop Cleaning"
+    },
+    {
+      "file": "chicken_drinking_water",
+      "title": "Chicken Drinking Water"
+    },
+    {
+      "file": "chicken_egg_collection",
+      "title": "Chicken Egg Collection"
+    },
+    {
+      "file": "chicken_heat_stress",
+      "title": "Chicken Heat Stress"
+    },
+    {
+      "file": "chicken_layer_feed",
+      "title": "Chicken Layer Feed"
+    },
+    {
+      "file": "chicken_moulting",
+      "title": "Chicken Moulting"
+    },
+    {
+      "file": "chicken_predator_protection",
+      "title": "Chicken Predator Protection"
+    },
+    {
+      "file": "composting_manure",
+      "title": "Composting Manure"
+    },
+    {
+      "file": "duck_keeping",
+      "title": "Duck Keeping"
+    },
+    {
+      "file": "egg_storage_farm",
+      "title": "Egg Storage Farm"
+    },
+    {
+      "file": "goat_feeding",
+      "title": "Goat Feeding"
+    },
+    {
+      "file": "goat_hoof_trimming",
+      "title": "Goat Hoof Trimming"
+    },
+    {
+      "file": "goat_housing",
+      "title": "Goat Housing"
+    },
+    {
+      "file": "goat_kidding",
+      "title": "Goat Kidding"
+    },
+    {
+      "file": "goat_milking",
+      "title": "Goat Milking"
+    },
+    {
+      "file": "guinea_fowl_keeping",
+      "title": "Guinea Fowl Keeping"
+    },
+    {
+      "file": "horse_feeding_hay",
+      "title": "Horse Feeding Hay"
+    },
+    {
+      "file": "horse_hoof_care",
+      "title": "Horse Hoof Care"
+    },
+    {
+      "file": "horse_pasture_grazing",
+      "title": "Horse Pasture Grazing"
+    },
+    {
+      "file": "horse_rugging",
+      "title": "Horse Rugging"
+    },
+    {
+      "file": "horse_watering",
+      "title": "Horse Watering"
+    },
+    {
+      "file": "livestock_fencing",
+      "title": "Livestock Fencing"
+    },
+    {
+      "file": "livestock_health_checks",
+      "title": "Livestock Health Checks"
+    },
+    {
+      "file": "livestock_winter_water",
+      "title": "Livestock Winter Water"
+    },
+    {
+      "file": "pig_feeding",
+      "title": "Pig Feeding"
+    },
+    {
+      "file": "pig_housing",
+      "title": "Pig Housing"
+    },
+    {
+      "file": "pig_wallowing",
+      "title": "Pig Wallowing"
+    },
+    {
+      "file": "pony_keeping",
+      "title": "Pony Keeping"
+    },
+    {
+      "file": "quail_keeping",
+      "title": "Quail Keeping"
+    },
+    {
+      "file": "rotating_pasture",
+      "title": "Rotating Pasture"
+    },
+    {
+      "file": "sheep_dipping",
+      "title": "Sheep Dipping"
+    },
+    {
+      "file": "sheep_foot_rot",
+      "title": "Sheep Foot Rot"
+    },
+    {
+      "file": "sheep_lambing",
+      "title": "Sheep Lambing"
+    },
+    {
+      "file": "sheep_shearing",
+      "title": "Sheep Shearing"
+    },
+    {
+      "file": "sheep_winter_feeding",
+      "title": "Sheep Winter Feeding"
+    },
+    {
+      "file": "stable_bedding",
+      "title": "Stable Bedding"
+    },
+    {
+      "file": "stable_mucking_out",
+      "title": "Stable Mucking Out"
+    },
+    {
+      "file": "turkey_keeping",
+      "title": "Turkey Keeping"
+    },
+    {
+      "file": "weaning_calves",
+      "title": "Weaning Calves"
+    },
+    {
+      "file": "weaning_lambs",
+      "title": "Weaning Lambs"
+    },
+    {
+      "file": "winter_chicken_feeding",
+      "title": "Winter Chicken Feeding"
+    }
+  ]
+}

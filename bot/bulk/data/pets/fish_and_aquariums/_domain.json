@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "fish_and_aquariums",
+  "title": "Fish And Aquariums",
+  "modules": [
+    {
+      "file": "acclimating_new_fish",
+      "title": "Acclimating New Fish"
+    },
+    {
+      "file": "air_pump_aeration",
+      "title": "Air Pump Aeration"
+    },
+    {
+      "file": "algae_control",
+      "title": "Algae Control"
+    },
+    {
+      "file": "ammonia_spikes",
+      "title": "Ammonia Spikes"
+    },
+    {
+      "file": "appetite_loss",
+      "title": "Appetite Loss"
+    },
+    {
+      "file": "aquarium_heater",
+      "title": "Aquarium Heater"
+    },
+    {
+      "file": "aquarium_lighting",
+      "title": "Aquarium Lighting"
+    },
+    {
+      "file": "aquarium_pests",
+      "title": "Aquarium Pests"
+    },
+    {
+      "file": "aquarium_salt_use",
+      "title": "Aquarium Salt Use"
+    },
+    {
+      "file": "aquarium_substrate",
+      "title": "Aquarium Substrate"
+    },
+    {
+      "file": "aquarium_thermometer",
+      "title": "Aquarium Thermometer"
+    },
+    {
+      "file": "betta_care",
+      "title": "Betta Care"
+    },
+    {
+      "file": "breeding_livebearers",
+      "title": "Breeding Livebearers"
+    },
+    {
+      "file": "buying_equipment",
+      "title": "Buying Equipment"
+    },
+    {
+      "file": "choosing_tank_size",
+      "title": "Choosing Tank Size"
+    },
+    {
+      "file": "cleaning_decor",
+      "title": "Cleaning Decor"
+    },
+    {
+      "file": "cleaning_the_filter",
+      "title": "Cleaning The Filter"
+    },
+    {
+      "file": "coldwater_tank",
+      "title": "Coldwater Tank"
+    },
+    {
+      "file": "community_tank",
+      "title": "Community Tank"
+    },
+    {
+      "file": "cycling_a_new_tank",
+      "title": "Cycling A New Tank"
+    },
+    {
+      "file": "dechlorinating_water",
+      "title": "Dechlorinating Water"
+    },
+    {
+      "file": "electrical_safety",
+      "title": "Electrical Safety"
+    },
+    {
+      "file": "feeding_aquarium_fish",
+      "title": "Feeding Aquarium Fish"
+    },
+    {
+      "file": "filter_types",
+      "title": "Filter Types"
+    },
+    {
+      "file": "fin_rot",
+      "title": "Fin Rot"
+    },
+    {
+      "file": "fish_compatibility",
+      "title": "Fish Compatibility"
+    },
+    {
+      "file": "fish_medications",
+      "title": "Fish Medications"
+    },
+    {
+      "file": "fish_stress_signs",
+      "title": "Fish Stress Signs"
+    },
+    {
+      "file": "gasping_at_surface",
+      "title": "Gasping At Surface"
+    },
+    {
+      "file": "goldfish_care",
+      "title": "Goldfish Care"
+    },
+    {
+      "file": "gravel_vacuuming",
+      "title": "Gravel Vacuuming"
+    },
+    {
+      "file": "healthy_fish_checks",
+      "title": "Healthy Fish Checks"
+    },
+    {
+      "file": "holiday_fish_care",
+      "title": "Holiday Fish Care"
+    },
+    {
+      "file": "ich_disease",
+      "title": "Ich Disease"
+    },
+    {
+      "file": "keeping_shrimp",
+      "title": "Keeping Shrimp"
+    },
+    {
+      "file": "keeping_snails",
+      "title": "Keeping Snails"
+    },
+    {
+      "file": "lethargic_fish",
+      "title": "Lethargic Fish"
+    },
+    {
+      "file": "live_aquarium_plants",
+      "title": "Live Aquarium Plants"
+    },
+    {
+      "file": "moving_aquarium",
+      "title": "Moving Aquarium"
+    },
+    {
+      "file": "nitrite_nitrate",
+      "title": "Nitrite Nitrate"
+    },
+    {
+      "file": "overfeeding_fish",
+      "title": "Overfeeding Fish"
+    },
+    {
+      "file": "ph_and_hardness",
+      "title": "Ph And Hardness"
+    },
+    {
+      "file": "quarantining_new_fish",
+      "title": "Quarantining New Fish"
+    },
+    {
+      "file": "raising_fry",
+      "title": "Raising Fry"
+    },
+    {
+      "file": "setting_up_a_new_tank",
+      "title": "Setting Up A New Tank"
+    },
+    {
+      "file": "stocking_a_tank",
+      "title": "Stocking A Tank"
+    },
+    {
+      "file": "swim_bladder",
+      "title": "Swim Bladder"
+    },
+    {
+      "file": "tank_stand_placement",
+      "title": "Tank Stand Placement"
+    },
+    {
+      "file": "topping_up_water",
+      "title": "Topping Up Water"
+    },
+    {
+      "file": "water_changes",
+      "title": "Water Changes"
+    }
+  ]
+}

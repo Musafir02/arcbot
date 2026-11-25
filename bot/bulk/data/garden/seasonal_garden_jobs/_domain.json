@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "seasonal_garden_jobs",
+  "title": "Seasonal Garden Jobs",
+  "modules": [
+    {
+      "file": "autumn_garden_cleanup",
+      "title": "Autumn Garden Cleanup"
+    },
+    {
+      "file": "autumn_lawn_care",
+      "title": "Autumn Lawn Care"
+    },
+    {
+      "file": "cleaning_garden_tools_for_winter",
+      "title": "Cleaning Garden Tools For Winter"
+    },
+    {
+      "file": "clearing_fallen_leaves",
+      "title": "Clearing Fallen Leaves"
+    },
+    {
+      "file": "collecting_seeds",
+      "title": "Collecting Seeds"
+    },
+    {
+      "file": "composting_autumn_debris",
+      "title": "Composting Autumn Debris"
+    },
+    {
+      "file": "crop_rotation_planning",
+      "title": "Crop Rotation Planning"
+    },
+    {
+      "file": "cutting_back_perennials",
+      "title": "Cutting Back Perennials"
+    },
+    {
+      "file": "deadheading_flowers",
+      "title": "Deadheading Flowers"
+    },
+    {
+      "file": "digging_over_beds",
+      "title": "Digging Over Beds"
+    },
+    {
+      "file": "dividing_perennials",
+      "title": "Dividing Perennials"
+    },
+    {
+      "file": "draining_watering_systems",
+      "title": "Draining Watering Systems"
+    },
+    {
+      "file": "early_spring_sowing",
+      "title": "Early Spring Sowing"
+    },
+    {
+      "file": "feeding_plants_in_spring",
+      "title": "Feeding Plants In Spring"
+    },
+    {
+      "file": "forcing_bulbs_indoors",
+      "title": "Forcing Bulbs Indoors"
+    },
+    {
+      "file": "growing_winter_vegetables",
+      "title": "Growing Winter Vegetables"
+    },
+    {
+      "file": "hardening_off_seedlings",
+      "title": "Hardening Off Seedlings"
+    },
+    {
+      "file": "harvesting_autumn_crops",
+      "title": "Harvesting Autumn Crops"
+    },
+    {
+      "file": "lifting_tender_bulbs",
+      "title": "Lifting Tender Bulbs"
+    },
+    {
+      "file": "moving_tender_plants_indoors",
+      "title": "Moving Tender Plants Indoors"
+    },
+    {
+      "file": "mulching_garden_beds",
+      "title": "Mulching Garden Beds"
+    },
+    {
+      "file": "overwintering_container_plants",
+      "title": "Overwintering Container Plants"
+    },
+    {
+      "file": "planting_autumn_bulbs",
+      "title": "Planting Autumn Bulbs"
+    },
+    {
+      "file": "planting_bare_root_trees",
+      "title": "Planting Bare Root Trees"
+    },
+    {
+      "file": "planting_dahlias_in_spring",
+      "title": "Planting Dahlias In Spring"
+    },
+    {
+      "file": "planting_spring_bulbs",
+      "title": "Planting Spring Bulbs"
+    },
+    {
+      "file": "planting_winter_greens",
+      "title": "Planting Winter Greens"
+    },
+    {
+      "file": "preparing_beds_for_winter",
+      "title": "Preparing Beds For Winter"
+    },
+    {
+      "file": "preparing_seed_trays",
+      "title": "Preparing Seed Trays"
+    },
+    {
+      "file": "protecting_plants_from_frost",
+      "title": "Protecting Plants From Frost"
+    },
+    {
+      "file": "pruning_fruit_trees_in_winter",
+      "title": "Pruning Fruit Trees In Winter"
+    },
+    {
+      "file": "pruning_roses_in_winter",
+      "title": "Pruning Roses In Winter"
+    },
+    {
+      "file": "pruning_summer_flowering_shrubs",
+      "title": "Pruning Summer Flowering Shrubs"
+    },
+    {
+      "file": "saving_seeds_for_next_year",
+      "title": "Saving Seeds For Next Year"
+    },
+    {
+      "file": "shading_plants_in_summer",
+      "title": "Shading Plants In Summer"
+    },
+    {
+      "file": "sowing_biennials_in_summer",
+      "title": "Sowing Biennials In Summer"
+    },
+    {
+      "file": "spring_garden_jobs",
+      "title": "Spring Garden Jobs"
+    },
+    {
+      "file": "spring_lawn_care",
+      "title": "Spring Lawn Care"
+    },
+    {
+      "file": "storing_home_grown_produce",
+      "title": "Storing Home Grown Produce"
+    },
+    {
+      "file": "summer_garden_jobs",
+      "title": "Summer Garden Jobs"
+    },
+    {
+      "file": "supporting_plants_against_wind",
+      "title": "Supporting Plants Against Wind"
+    },
+    {
+      "file": "taking_hardwood_cuttings",
+      "title": "Taking Hardwood Cuttings"
+    },
+    {
+      "file": "taking_softwood_cuttings",
+      "title": "Taking Softwood Cuttings"
+    },
+    {
+      "file": "tidying_the_greenhouse",
+      "title": "Tidying The Greenhouse"
+    },
+    {
+      "file": "top_dressing_beds",
+      "title": "Top Dressing Beds"
+    },
+    {
+      "file": "transplanting_shrubs",
+      "title": "Transplanting Shrubs"
+    },
+    {
+      "file": "watering_in_summer",
+      "title": "Watering In Summer"
+    },
+    {
+      "file": "weeding_in_spring",
+      "title": "Weeding In Spring"
+    },
+    {
+      "file": "winter_bird_feeding",
+      "title": "Winter Bird Feeding"
+    },
+    {
+      "file": "winter_garden_jobs",
+      "title": "Winter Garden Jobs"
+    }
+  ]
+}

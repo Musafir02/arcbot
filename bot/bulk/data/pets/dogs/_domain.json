@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "dogs",
+  "title": "Dogs",
+  "modules": [
+    {
+      "file": "adult_dog_walking",
+      "title": "Adult Dog Walking"
+    },
+    {
+      "file": "barking_at_postman",
+      "title": "Barking At Postman"
+    },
+    {
+      "file": "basic_obedience_training",
+      "title": "Basic Obedience Training"
+    },
+    {
+      "file": "chocolate_eating",
+      "title": "Chocolate Eating"
+    },
+    {
+      "file": "dog_aggression",
+      "title": "Dog Aggression"
+    },
+    {
+      "file": "dog_arthritis",
+      "title": "Dog Arthritis"
+    },
+    {
+      "file": "dog_bathing",
+      "title": "Dog Bathing"
+    },
+    {
+      "file": "dog_brushing",
+      "title": "Dog Brushing"
+    },
+    {
+      "file": "dog_car_sickness",
+      "title": "Dog Car Sickness"
+    },
+    {
+      "file": "dog_car_travel",
+      "title": "Dog Car Travel"
+    },
+    {
+      "file": "dog_chewing",
+      "title": "Dog Chewing"
+    },
+    {
+      "file": "dog_diarrhoea",
+      "title": "Dog Diarrhoea"
+    },
+    {
+      "file": "dog_digging",
+      "title": "Dog Digging"
+    },
+    {
+      "file": "dog_ear_cleaning",
+      "title": "Dog Ear Cleaning"
+    },
+    {
+      "file": "dog_exercise_needs",
+      "title": "Dog Exercise Needs"
+    },
+    {
+      "file": "dog_feeding_schedule",
+      "title": "Dog Feeding Schedule"
+    },
+    {
+      "file": "dog_firework_fear",
+      "title": "Dog Firework Fear"
+    },
+    {
+      "file": "dog_first_aid",
+      "title": "Dog First Aid"
+    },
+    {
+      "file": "dog_flea_control",
+      "title": "Dog Flea Control"
+    },
+    {
+      "file": "dog_grooming_basics",
+      "title": "Dog Grooming Basics"
+    },
+    {
+      "file": "dog_health_checks",
+      "title": "Dog Health Checks"
+    },
+    {
+      "file": "dog_heatstroke",
+      "title": "Dog Heatstroke"
+    },
+    {
+      "file": "dog_holiday_boarding",
+      "title": "Dog Holiday Boarding"
+    },
+    {
+      "file": "dog_insurance",
+      "title": "Dog Insurance"
+    },
+    {
+      "file": "dog_jumping_up",
+      "title": "Dog Jumping Up"
+    },
+    {
+      "file": "dog_lameness",
+      "title": "Dog Lameness"
+    },
+    {
+      "file": "dog_microchipping",
+      "title": "Dog Microchipping"
+    },
+    {
+      "file": "dog_nail_trimming",
+      "title": "Dog Nail Trimming"
+    },
+    {
+      "file": "dog_neutering",
+      "title": "Dog Neutering"
+    },
+    {
+      "file": "dog_portion_sizes",
+      "title": "Dog Portion Sizes"
+    },
+    {
+      "file": "dog_separation_anxiety",
+      "title": "Dog Separation Anxiety"
+    },
+    {
+      "file": "dog_skin_irritation",
+      "title": "Dog Skin Irritation"
+    },
+    {
+      "file": "dog_teeth_cleaning",
+      "title": "Dog Teeth Cleaning"
+    },
+    {
+      "file": "dog_tick_removal",
+      "title": "Dog Tick Removal"
+    },
+    {
+      "file": "dog_treats",
+      "title": "Dog Treats"
+    },
+    {
+      "file": "dog_vaccinations",
+      "title": "Dog Vaccinations"
+    },
+    {
+      "file": "dog_vomiting",
+      "title": "Dog Vomiting"
+    },
+    {
+      "file": "dog_water_intake",
+      "title": "Dog Water Intake"
+    },
+    {
+      "file": "dog_weight_management",
+      "title": "Dog Weight Management"
+    },
+    {
+      "file": "dog_worming",
+      "title": "Dog Worming"
+    },
+    {
+      "file": "dog_xylitol_poisoning",
+      "title": "Dog Xylitol Poisoning"
+    },
+    {
+      "file": "excessive_dog_barking",
+      "title": "Excessive Dog Barking"
+    },
+    {
+      "file": "leash_training",
+      "title": "Leash Training"
+    },
+    {
+      "file": "puppy_biting",
+      "title": "Puppy Biting"
+    },
+    {
+      "file": "puppy_crate_training",
+      "title": "Puppy Crate Training"
+    },
+    {
+      "file": "puppy_house_training",
+      "title": "Puppy House Training"
+    },
+    {
+      "file": "puppy_socialisation",
+      "title": "Puppy Socialisation"
+    },
+    {
+      "file": "puppy_walking",
+      "title": "Puppy Walking"
+    },
+    {
+      "file": "recall_training",
+      "title": "Recall Training"
+    },
+    {
+      "file": "senior_dog_care",
+      "title": "Senior Dog Care"
+    }
+  ]
+}

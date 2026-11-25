@@ -1,0 +1,207 @@
+{
+  "category": "garden",
+  "domain": "garden_tools",
+  "title": "Garden Tools",
+  "modules": [
+    {
+      "file": "bulb_planter",
+      "title": "Bulb Planter"
+    },
+    {
+      "file": "buying_garden_tools",
+      "title": "Buying Garden Tools"
+    },
+    {
+      "file": "chainsaw",
+      "title": "Chainsaw"
+    },
+    {
+      "file": "chainsaw_chain",
+      "title": "Chainsaw Chain"
+    },
+    {
+      "file": "chainsaw_safety",
+      "title": "Chainsaw Safety"
+    },
+    {
+      "file": "cleaning_garden_tools",
+      "title": "Cleaning Garden Tools"
+    },
+    {
+      "file": "compost_turner",
+      "title": "Compost Turner"
+    },
+    {
+      "file": "dutch_hoe",
+      "title": "Dutch Hoe"
+    },
+    {
+      "file": "garden_fork",
+      "title": "Garden Fork"
+    },
+    {
+      "file": "garden_hose",
+      "title": "Garden Hose"
+    },
+    {
+      "file": "garden_irrigation_kit",
+      "title": "Garden Irrigation Kit"
+    },
+    {
+      "file": "garden_knife",
+      "title": "Garden Knife"
+    },
+    {
+      "file": "garden_rake",
+      "title": "Garden Rake"
+    },
+    {
+      "file": "garden_shovel",
+      "title": "Garden Shovel"
+    },
+    {
+      "file": "garden_sieve",
+      "title": "Garden Sieve"
+    },
+    {
+      "file": "garden_spade",
+      "title": "Garden Spade"
+    },
+    {
+      "file": "garden_sprinkler",
+      "title": "Garden Sprinkler"
+    },
+    {
+      "file": "garden_tool_safety",
+      "title": "Garden Tool Safety"
+    },
+    {
+      "file": "gardening_gloves",
+      "title": "Gardening Gloves"
+    },
+    {
+      "file": "grass_shears",
+      "title": "Grass Shears"
+    },
+    {
+      "file": "hand_cultivator",
+      "title": "Hand Cultivator"
+    },
+    {
+      "file": "hand_trowel",
+      "title": "Hand Trowel"
+    },
+    {
+      "file": "hedge_trimmer",
+      "title": "Hedge Trimmer"
+    },
+    {
+      "file": "hedge_trimmer_maintenance",
+      "title": "Hedge Trimmer Maintenance"
+    },
+    {
+      "file": "hoeing_weeds",
+      "title": "Hoeing Weeds"
+    },
+    {
+      "file": "hose_nozzles",
+      "title": "Hose Nozzles"
+    },
+    {
+      "file": "lawn_mower",
+      "title": "Lawn Mower"
+    },
+    {
+      "file": "leaf_blower",
+      "title": "Leaf Blower"
+    },
+    {
+      "file": "leaf_sweeper",
+      "title": "Leaf Sweeper"
+    },
+    {
+      "file": "loppers",
+      "title": "Loppers"
+    },
+    {
+      "file": "maintaining_garden_tools",
+      "title": "Maintaining Garden Tools"
+    },
+    {
+      "file": "mower_blade_care",
+      "title": "Mower Blade Care"
+    },
+    {
+      "file": "mower_servicing",
+      "title": "Mower Servicing"
+    },
+    {
+      "file": "plant_labels",
+      "title": "Plant Labels"
+    },
+    {
+      "file": "plant_ties",
+      "title": "Plant Ties"
+    },
+    {
+      "file": "pruning_saw",
+      "title": "Pruning Saw"
+    },
+    {
+      "file": "pruning_shears",
+      "title": "Pruning Shears"
+    },
+    {
+      "file": "removing_rust",
+      "title": "Removing Rust"
+    },
+    {
+      "file": "secateurs_safety",
+      "title": "Secateurs Safety"
+    },
+    {
+      "file": "sharpening_hoes",
+      "title": "Sharpening Hoes"
+    },
+    {
+      "file": "sharpening_loppers",
+      "title": "Sharpening Loppers"
+    },
+    {
+      "file": "sharpening_secateurs",
+      "title": "Sharpening Secateurs"
+    },
+    {
+      "file": "sharpening_spades",
+      "title": "Sharpening Spades"
+    },
+    {
+      "file": "storing_garden_tools",
+      "title": "Storing Garden Tools"
+    },
+    {
+      "file": "strimmer",
+      "title": "Strimmer"
+    },
+    {
+      "file": "strimmer_line",
+      "title": "Strimmer Line"
+    },
+    {
+      "file": "tool_handles",
+      "title": "Tool Handles"
+    },
+    {
+      "file": "tool_oiling",
+      "title": "Tool Oiling"
+    },
+    {
+      "file": "watering_can",
+      "title": "Watering Can"
+    },
+    {
+      "file": "wheelbarrow",
+      "title": "Wheelbarrow"
+    }
+  ]
+}

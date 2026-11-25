@@ -1,0 +1,207 @@
+{
+  "category": "pets",
+  "domain": "birds",
+  "title": "Birds",
+  "modules": [
+    {
+      "file": "baby_bird_feeding",
+      "title": "Baby Bird Feeding"
+    },
+    {
+      "file": "bird_adoption",
+      "title": "Bird Adoption"
+    },
+    {
+      "file": "bird_aggression",
+      "title": "Bird Aggression"
+    },
+    {
+      "file": "bird_bathing",
+      "title": "Bird Bathing"
+    },
+    {
+      "file": "bird_beak_care",
+      "title": "Bird Beak Care"
+    },
+    {
+      "file": "bird_biting",
+      "title": "Bird Biting"
+    },
+    {
+      "file": "bird_cage_placement",
+      "title": "Bird Cage Placement"
+    },
+    {
+      "file": "bird_cage_setup",
+      "title": "Bird Cage Setup"
+    },
+    {
+      "file": "bird_cage_size",
+      "title": "Bird Cage Size"
+    },
+    {
+      "file": "bird_diarrhoea",
+      "title": "Bird Diarrhoea"
+    },
+    {
+      "file": "bird_drinking_water",
+      "title": "Bird Drinking Water"
+    },
+    {
+      "file": "bird_egg_laying",
+      "title": "Bird Egg Laying"
+    },
+    {
+      "file": "bird_first_aid",
+      "title": "Bird First Aid"
+    },
+    {
+      "file": "bird_fresh_food",
+      "title": "Bird Fresh Food"
+    },
+    {
+      "file": "bird_hatching",
+      "title": "Bird Hatching"
+    },
+    {
+      "file": "bird_heating",
+      "title": "Bird Heating"
+    },
+    {
+      "file": "bird_incubation",
+      "title": "Bird Incubation"
+    },
+    {
+      "file": "bird_mites",
+      "title": "Bird Mites"
+    },
+    {
+      "file": "bird_moulting",
+      "title": "Bird Moulting"
+    },
+    {
+      "file": "bird_nail_trimming",
+      "title": "Bird Nail Trimming"
+    },
+    {
+      "file": "bird_obesity",
+      "title": "Bird Obesity"
+    },
+    {
+      "file": "bird_perches",
+      "title": "Bird Perches"
+    },
+    {
+      "file": "bird_poisoning",
+      "title": "Bird Poisoning"
+    },
+    {
+      "file": "bird_respiratory_infections",
+      "title": "Bird Respiratory Infections"
+    },
+    {
+      "file": "bird_screaming",
+      "title": "Bird Screaming"
+    },
+    {
+      "file": "bird_seed_vs_pellets",
+      "title": "Bird Seed Vs Pellets"
+    },
+    {
+      "file": "bird_sick_signs",
+      "title": "Bird Sick Signs"
+    },
+    {
+      "file": "bird_sleep",
+      "title": "Bird Sleep"
+    },
+    {
+      "file": "bird_social_needs",
+      "title": "Bird Social Needs"
+    },
+    {
+      "file": "bird_step_up_training",
+      "title": "Bird Step Up Training"
+    },
+    {
+      "file": "bird_talking",
+      "title": "Bird Talking"
+    },
+    {
+      "file": "bird_toxic_foods",
+      "title": "Bird Toxic Foods"
+    },
+    {
+      "file": "bird_toys",
+      "title": "Bird Toys"
+    },
+    {
+      "file": "bird_travel",
+      "title": "Bird Travel"
+    },
+    {
+      "file": "bird_vet_visits",
+      "title": "Bird Vet Visits"
+    },
+    {
+      "file": "bird_weaning",
+      "title": "Bird Weaning"
+    },
+    {
+      "file": "bird_weight_loss",
+      "title": "Bird Weight Loss"
+    },
+    {
+      "file": "bird_wing_clipping",
+      "title": "Bird Wing Clipping"
+    },
+    {
+      "file": "bird_wounds",
+      "title": "Bird Wounds"
+    },
+    {
+      "file": "budgie_cage_cleaning",
+      "title": "Budgie Cage Cleaning"
+    },
+    {
+      "file": "budgie_care",
+      "title": "Budgie Care"
+    },
+    {
+      "file": "budgie_diet",
+      "title": "Budgie Diet"
+    },
+    {
+      "file": "canary_care",
+      "title": "Canary Care"
+    },
+    {
+      "file": "cockatiel_care",
+      "title": "Cockatiel Care"
+    },
+    {
+      "file": "finch_care",
+      "title": "Finch Care"
+    },
+    {
+      "file": "parrot_chewing",
+      "title": "Parrot Chewing"
+    },
+    {
+      "file": "parrot_diet",
+      "title": "Parrot Diet"
+    },
+    {
+      "file": "parrot_feather_plucking",
+      "title": "Parrot Feather Plucking"
+    },
+    {
+      "file": "parrot_species_choice",
+      "title": "Parrot Species Choice"
+    },
+    {
+      "file": "parrot_training",
+      "title": "Parrot Training"
+    }
+  ]
+}
