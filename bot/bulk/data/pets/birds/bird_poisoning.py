@@ -31,7 +31,7 @@ ITEMS = (
             'what if my bird is unsteady after eating',
             'do poisoned birds have unusual droppings',
             'can a bird die quickly from poison',
-            'when is poisoning an emergency',
+            'when is poisoning an emergency at home',
         ),
         'Signs can include sudden vomiting, trembling, unsteadiness, weakness, panting, seizures or collapse, depending on the substance. A bird may become very ill quickly. Keep it warm and quiet and seek urgent avian vet care, taking any packaging with you.',
     ),

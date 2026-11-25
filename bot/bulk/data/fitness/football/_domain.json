@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "football",
+  "title": "Football",
+  "modules": [
+    {
+      "file": "agility_ladder_drills",
+      "title": "Agility Ladder Drills"
+    },
+    {
+      "file": "ankle_sprain_basics",
+      "title": "Ankle Sprain Basics"
+    },
+    {
+      "file": "balance_training",
+      "title": "Balance Training"
+    },
+    {
+      "file": "ball_control",
+      "title": "Ball Control"
+    },
+    {
+      "file": "basic_rules",
+      "title": "Basic Rules"
+    },
+    {
+      "file": "communication_on_the_pitch",
+      "title": "Communication On The Pitch"
+    },
+    {
+      "file": "confidence_on_the_ball",
+      "title": "Confidence On The Ball"
+    },
+    {
+      "file": "cool_down_routine",
+      "title": "Cool Down Routine"
+    },
+    {
+      "file": "core_training",
+      "title": "Core Training"
+    },
+    {
+      "file": "corners_and_crosses",
+      "title": "Corners And Crosses"
+    },
+    {
+      "file": "defending_basics",
+      "title": "Defending Basics"
+    },
+    {
+      "file": "dribbling_technique",
+      "title": "Dribbling Technique"
+    },
+    {
+      "file": "first_touch",
+      "title": "First Touch"
+    },
+    {
+      "file": "fitness_testing",
+      "title": "Fitness Testing"
+    },
+    {
+      "file": "flexibility_and_mobility",
+      "title": "Flexibility And Mobility"
+    },
+    {
+      "file": "football_boots_and_kit",
+      "title": "Football Boots And Kit"
+    },
+    {
+      "file": "football_injury_prevention",
+      "title": "Football Injury Prevention"
+    },
+    {
+      "file": "football_nutrition",
+      "title": "Football Nutrition"
+    },
+    {
+      "file": "football_tactics_basics",
+      "title": "Football Tactics Basics"
+    },
+    {
+      "file": "foul_and_card_awareness",
+      "title": "Foul And Card Awareness"
+    },
+    {
+      "file": "free_kick_technique",
+      "title": "Free Kick Technique"
+    },
+    {
+      "file": "goalkeeper_diving",
+      "title": "Goalkeeper Diving"
+    },
+    {
+      "file": "goalkeeping_basics",
+      "title": "Goalkeeping Basics"
+    },
+    {
+      "file": "hamstring_strain_recovery",
+      "title": "Hamstring Strain Recovery"
+    },
+    {
+      "file": "heading_technique",
+      "title": "Heading Technique"
+    },
+    {
+      "file": "hydration_for_football",
+      "title": "Hydration For Football"
+    },
+    {
+      "file": "marking_and_covering",
+      "title": "Marking And Covering"
+    },
+    {
+      "file": "match_preparation",
+      "title": "Match Preparation"
+    },
+    {
+      "file": "mental_preparation",
+      "title": "Mental Preparation"
+    },
+    {
+      "file": "offside_rule",
+      "title": "Offside Rule"
+    },
+    {
+      "file": "passing_drills",
+      "title": "Passing Drills"
+    },
+    {
+      "file": "penalties_and_shootouts",
+      "title": "Penalties And Shootouts"
+    },
+    {
+      "file": "playing_in_heat",
+      "title": "Playing In Heat"
+    },
+    {
+      "file": "playing_in_wet_conditions",
+      "title": "Playing In Wet Conditions"
+    },
+    {
+      "file": "positioning_and_space",
+      "title": "Positioning And Space"
+    },
+    {
+      "file": "pre_match_meal",
+      "title": "Pre Match Meal"
+    },
+    {
+      "file": "recovery_after_match",
+      "title": "Recovery After Match"
+    },
+    {
+      "file": "set_pieces_attacking",
+      "title": "Set Pieces Attacking"
+    },
+    {
+      "file": "set_pieces_defending",
+      "title": "Set Pieces Defending"
+    },
+    {
+      "file": "shooting_technique",
+      "title": "Shooting Technique"
+    },
+    {
+      "file": "sleep_for_footballers",
+      "title": "Sleep For Footballers"
+    },
+    {
+      "file": "small_sided_games",
+      "title": "Small Sided Games"
+    },
+    {
+      "file": "solo_football_training",
+      "title": "Solo Football Training"
+    },
+    {
+      "file": "sprint_training",
+      "title": "Sprint Training"
+    },
+    {
+      "file": "stamina_conditioning",
+      "title": "Stamina Conditioning"
+    },
+    {
+      "file": "strength_training_for_football",
+      "title": "Strength Training For Football"
+    },
+    {
+      "file": "tackling_basics",
+      "title": "Tackling Basics"
+    },
+    {
+      "file": "warm_up_routine",
+      "title": "Warm Up Routine"
+    },
+    {
+      "file": "weak_foot_training",
+      "title": "Weak Foot Training"
+    },
+    {
+      "file": "youth_football_training",
+      "title": "Youth Football Training"
+    }
+  ]
+}

@@ -130,7 +130,7 @@ ITEMS = (
             'what tool is best for removing a pet tick',
             'should i use fine tweezers on a tick',
             'can i use a tick hook on a dog',
-            'what to do if i cannot remove a tick',
+            'what to do if i cannot remove a tick at home',
             'should i leave a tick to fall off',
             'how to grip a tick close to the skin',
             'should i clean tweezers after removing a tick',

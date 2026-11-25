@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "first_aid",
+  "title": "First Aid",
+  "modules": [
+    {
+      "file": "breathing_difficulty",
+      "title": "Breathing Difficulty"
+    },
+    {
+      "file": "calling_an_ambulance",
+      "title": "Calling An Ambulance"
+    },
+    {
+      "file": "checking_breathing",
+      "title": "Checking Breathing"
+    },
+    {
+      "file": "choking_in_adults",
+      "title": "Choking In Adults"
+    },
+    {
+      "file": "choking_in_babies",
+      "title": "Choking In Babies"
+    },
+    {
+      "file": "choking_in_children",
+      "title": "Choking In Children"
+    },
+    {
+      "file": "controlling_bleeding",
+      "title": "Controlling Bleeding"
+    },
+    {
+      "file": "cpr_for_adults",
+      "title": "Cpr For Adults"
+    },
+    {
+      "file": "cpr_for_children",
+      "title": "Cpr For Children"
+    },
+    {
+      "file": "dressing_wounds",
+      "title": "Dressing Wounds"
+    },
+    {
+      "file": "first_aid_kit",
+      "title": "First Aid Kit"
+    },
+    {
+      "file": "foreign_object_in_eye",
+      "title": "Foreign Object In Eye"
+    },
+    {
+      "file": "helping_a_drowning_person",
+      "title": "Helping A Drowning Person"
+    },
+    {
+      "file": "helping_with_asthma",
+      "title": "Helping With Asthma"
+    },
+    {
+      "file": "nosebleeds",
+      "title": "Nosebleeds"
+    },
+    {
+      "file": "recognising_a_heart_attack",
+      "title": "Recognising A Heart Attack"
+    },
+    {
+      "file": "recognising_a_stroke",
+      "title": "Recognising A Stroke"
+    },
+    {
+      "file": "recovery_position",
+      "title": "Recovery Position"
+    },
+    {
+      "file": "removing_splinters",
+      "title": "Removing Splinters"
+    },
+    {
+      "file": "treating_anaphylaxis",
+      "title": "Treating Anaphylaxis"
+    },
+    {
+      "file": "treating_animal_bites",
+      "title": "Treating Animal Bites"
+    },
+    {
+      "file": "treating_bee_stings",
+      "title": "Treating Bee Stings"
+    },
+    {
+      "file": "treating_blisters",
+      "title": "Treating Blisters"
+    },
+    {
+      "file": "treating_chemical_burns",
+      "title": "Treating Chemical Burns"
+    },
+    {
+      "file": "treating_concussion",
+      "title": "Treating Concussion"
+    },
+    {
+      "file": "treating_cuts_and_scrapes",
+      "title": "Treating Cuts And Scrapes"
+    },
+    {
+      "file": "treating_dislocations",
+      "title": "Treating Dislocations"
+    },
+    {
+      "file": "treating_ear_injuries",
+      "title": "Treating Ear Injuries"
+    },
+    {
+      "file": "treating_electrical_injuries",
+      "title": "Treating Electrical Injuries"
+    },
+    {
+      "file": "treating_eye_injuries",
+      "title": "Treating Eye Injuries"
+    },
+    {
+      "file": "treating_fainting",
+      "title": "Treating Fainting"
+    },
+    {
+      "file": "treating_fractures",
+      "title": "Treating Fractures"
+    },
+    {
+      "file": "treating_frostbite",
+      "title": "Treating Frostbite"
+    },
+    {
+      "file": "treating_head_injuries",
+      "title": "Treating Head Injuries"
+    },
+    {
+      "file": "treating_heat_exhaustion",
+      "title": "Treating Heat Exhaustion"
+    },
+    {
+      "file": "treating_heatstroke",
+      "title": "Treating Heatstroke"
+    },
+    {
+      "file": "treating_hypothermia",
+      "title": "Treating Hypothermia"
+    },
+    {
+      "file": "treating_insect_bites",
+      "title": "Treating Insect Bites"
+    },
+    {
+      "file": "treating_minor_burns",
+      "title": "Treating Minor Burns"
+    },
+    {
+      "file": "treating_poisoning",
+      "title": "Treating Poisoning"
+    },
+    {
+      "file": "treating_seizures",
+      "title": "Treating Seizures"
+    },
+    {
+      "file": "treating_shock",
+      "title": "Treating Shock"
+    },
+    {
+      "file": "treating_snake_bites",
+      "title": "Treating Snake Bites"
+    },
+    {
+      "file": "treating_spinal_injuries",
+      "title": "Treating Spinal Injuries"
+    },
+    {
+      "file": "treating_sprains_and_strains",
+      "title": "Treating Sprains And Strains"
+    },
+    {
+      "file": "treating_sunburn",
+      "title": "Treating Sunburn"
+    },
+    {
+      "file": "treating_tick_bites",
+      "title": "Treating Tick Bites"
+    },
+    {
+      "file": "treating_tooth_injuries",
+      "title": "Treating Tooth Injuries"
+    },
+    {
+      "file": "unconscious_person",
+      "title": "Unconscious Person"
+    },
+    {
+      "file": "using_a_defibrillator",
+      "title": "Using A Defibrillator"
+    }
+  ]
+}

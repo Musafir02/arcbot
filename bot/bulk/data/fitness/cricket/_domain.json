@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "cricket",
+  "title": "Cricket",
+  "modules": [
+    {
+      "file": "backfoot_drive",
+      "title": "Backfoot Drive"
+    },
+    {
+      "file": "batting_against_fast_bowling",
+      "title": "Batting Against Fast Bowling"
+    },
+    {
+      "file": "batting_against_spin",
+      "title": "Batting Against Spin"
+    },
+    {
+      "file": "batting_drills",
+      "title": "Batting Drills"
+    },
+    {
+      "file": "batting_grip",
+      "title": "Batting Grip"
+    },
+    {
+      "file": "batting_stance",
+      "title": "Batting Stance"
+    },
+    {
+      "file": "bouncer_bowling",
+      "title": "Bouncer Bowling"
+    },
+    {
+      "file": "bowling_accuracy_drills",
+      "title": "Bowling Accuracy Drills"
+    },
+    {
+      "file": "bowling_action",
+      "title": "Bowling Action"
+    },
+    {
+      "file": "bowling_drills",
+      "title": "Bowling Drills"
+    },
+    {
+      "file": "bowling_run_up",
+      "title": "Bowling Run Up"
+    },
+    {
+      "file": "bowling_speed_training",
+      "title": "Bowling Speed Training"
+    },
+    {
+      "file": "catching_a_cricket_ball",
+      "title": "Catching A Cricket Ball"
+    },
+    {
+      "file": "choosing_cricket_equipment",
+      "title": "Choosing Cricket Equipment"
+    },
+    {
+      "file": "cover_drive",
+      "title": "Cover Drive"
+    },
+    {
+      "file": "cricket_agility_drills",
+      "title": "Cricket Agility Drills"
+    },
+    {
+      "file": "cricket_endurance_training",
+      "title": "Cricket Endurance Training"
+    },
+    {
+      "file": "cricket_fitness_training",
+      "title": "Cricket Fitness Training"
+    },
+    {
+      "file": "cricket_injury_prevention",
+      "title": "Cricket Injury Prevention"
+    },
+    {
+      "file": "cricket_nutrition",
+      "title": "Cricket Nutrition"
+    },
+    {
+      "file": "cricket_strength_training",
+      "title": "Cricket Strength Training"
+    },
+    {
+      "file": "cricket_warm_up",
+      "title": "Cricket Warm Up"
+    },
+    {
+      "file": "cut_shot",
+      "title": "Cut Shot"
+    },
+    {
+      "file": "facing_bouncers",
+      "title": "Facing Bouncers"
+    },
+    {
+      "file": "facing_yorkers",
+      "title": "Facing Yorkers"
+    },
+    {
+      "file": "front_foot_drive",
+      "title": "Front Foot Drive"
+    },
+    {
+      "file": "googly_bowling",
+      "title": "Googly Bowling"
+    },
+    {
+      "file": "hook_shot",
+      "title": "Hook Shot"
+    },
+    {
+      "file": "leaving_the_ball",
+      "title": "Leaving The Ball"
+    },
+    {
+      "file": "leg_break_bowling",
+      "title": "Leg Break Bowling"
+    },
+    {
+      "file": "mental_preparation_cricket",
+      "title": "Mental Preparation Cricket"
+    },
+    {
+      "file": "net_session_planning",
+      "title": "Net Session Planning"
+    },
+    {
+      "file": "off_break_bowling",
+      "title": "Off Break Bowling"
+    },
+    {
+      "file": "outfield_fielding",
+      "title": "Outfield Fielding"
+    },
+    {
+      "file": "playing_on_wet_pitch",
+      "title": "Playing On Wet Pitch"
+    },
+    {
+      "file": "pull_shot",
+      "title": "Pull Shot"
+    },
+    {
+      "file": "recovery_after_cricket",
+      "title": "Recovery After Cricket"
+    },
+    {
+      "file": "reverse_sweep",
+      "title": "Reverse Sweep"
+    },
+    {
+      "file": "reverse_swing",
+      "title": "Reverse Swing"
+    },
+    {
+      "file": "running_between_wickets",
+      "title": "Running Between Wickets"
+    },
+    {
+      "file": "seam_bowling_grip",
+      "title": "Seam Bowling Grip"
+    },
+    {
+      "file": "slip_fielding",
+      "title": "Slip Fielding"
+    },
+    {
+      "file": "slower_ball_bowling",
+      "title": "Slower Ball Bowling"
+    },
+    {
+      "file": "stumping_technique",
+      "title": "Stumping Technique"
+    },
+    {
+      "file": "sweep_shot",
+      "title": "Sweep Shot"
+    },
+    {
+      "file": "swing_bowling",
+      "title": "Swing Bowling"
+    },
+    {
+      "file": "throwing_and_pickup",
+      "title": "Throwing And Pickup"
+    },
+    {
+      "file": "wicketkeeping_basics",
+      "title": "Wicketkeeping Basics"
+    },
+    {
+      "file": "wicketkeeping_glove_work",
+      "title": "Wicketkeeping Glove Work"
+    },
+    {
+      "file": "yorker_bowling",
+      "title": "Yorker Bowling"
+    }
+  ]
+}

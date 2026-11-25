@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "sleep",
+  "title": "Sleep",
+  "modules": [
+    {
+      "file": "adult_sleep_duration",
+      "title": "Adult Sleep Duration"
+    },
+    {
+      "file": "alcohol_and_sleep",
+      "title": "Alcohol And Sleep"
+    },
+    {
+      "file": "anxiety_and_sleep",
+      "title": "Anxiety And Sleep"
+    },
+    {
+      "file": "baby_sleep",
+      "title": "Baby Sleep"
+    },
+    {
+      "file": "bed_for_sleep_only",
+      "title": "Bed For Sleep Only"
+    },
+    {
+      "file": "bedroom_darkness",
+      "title": "Bedroom Darkness"
+    },
+    {
+      "file": "bedroom_noise",
+      "title": "Bedroom Noise"
+    },
+    {
+      "file": "bedroom_temperature",
+      "title": "Bedroom Temperature"
+    },
+    {
+      "file": "breathing_for_sleep",
+      "title": "Breathing For Sleep"
+    },
+    {
+      "file": "caffeine_and_sleep",
+      "title": "Caffeine And Sleep"
+    },
+    {
+      "file": "child_sleep_duration",
+      "title": "Child Sleep Duration"
+    },
+    {
+      "file": "chronic_insomnia",
+      "title": "Chronic Insomnia"
+    },
+    {
+      "file": "daytime_naps",
+      "title": "Daytime Naps"
+    },
+    {
+      "file": "depression_and_sleep",
+      "title": "Depression And Sleep"
+    },
+    {
+      "file": "diet_and_sleep",
+      "title": "Diet And Sleep"
+    },
+    {
+      "file": "early_morning_waking",
+      "title": "Early Morning Waking"
+    },
+    {
+      "file": "earplugs",
+      "title": "Earplugs"
+    },
+    {
+      "file": "exercise_and_sleep",
+      "title": "Exercise And Sleep"
+    },
+    {
+      "file": "exercise_timing",
+      "title": "Exercise Timing"
+    },
+    {
+      "file": "eye_mask",
+      "title": "Eye Mask"
+    },
+    {
+      "file": "falling_asleep_faster",
+      "title": "Falling Asleep Faster"
+    },
+    {
+      "file": "insomnia",
+      "title": "Insomnia"
+    },
+    {
+      "file": "jet_lag",
+      "title": "Jet Lag"
+    },
+    {
+      "file": "late_night_eating",
+      "title": "Late Night Eating"
+    },
+    {
+      "file": "mattress_choice",
+      "title": "Mattress Choice"
+    },
+    {
+      "file": "meditation_for_sleep",
+      "title": "Meditation For Sleep"
+    },
+    {
+      "file": "morning_sunlight",
+      "title": "Morning Sunlight"
+    },
+    {
+      "file": "muscle_relaxation",
+      "title": "Muscle Relaxation"
+    },
+    {
+      "file": "nicotine_and_sleep",
+      "title": "Nicotine And Sleep"
+    },
+    {
+      "file": "nighttime_worries",
+      "title": "Nighttime Worries"
+    },
+    {
+      "file": "older_adult_sleep",
+      "title": "Older Adult Sleep"
+    },
+    {
+      "file": "oversleeping",
+      "title": "Oversleeping"
+    },
+    {
+      "file": "phone_near_bed",
+      "title": "Phone Near Bed"
+    },
+    {
+      "file": "pillow_choice",
+      "title": "Pillow Choice"
+    },
+    {
+      "file": "reading_before_bed",
+      "title": "Reading Before Bed"
+    },
+    {
+      "file": "screens_before_bed",
+      "title": "Screens Before Bed"
+    },
+    {
+      "file": "shift_work_sleep",
+      "title": "Shift Work Sleep"
+    },
+    {
+      "file": "sleep_and_memory",
+      "title": "Sleep And Memory"
+    },
+    {
+      "file": "sleep_apnoea",
+      "title": "Sleep Apnoea"
+    },
+    {
+      "file": "sleep_debt",
+      "title": "Sleep Debt"
+    },
+    {
+      "file": "sleep_hygiene",
+      "title": "Sleep Hygiene"
+    },
+    {
+      "file": "sleep_specialist",
+      "title": "Sleep Specialist"
+    },
+    {
+      "file": "sleeping_position",
+      "title": "Sleeping Position"
+    },
+    {
+      "file": "snoring",
+      "title": "Snoring"
+    },
+    {
+      "file": "stress_and_sleep",
+      "title": "Stress And Sleep"
+    },
+    {
+      "file": "teenage_sleep_needs",
+      "title": "Teenage Sleep Needs"
+    },
+    {
+      "file": "toddler_sleep",
+      "title": "Toddler Sleep"
+    },
+    {
+      "file": "waking_at_night",
+      "title": "Waking At Night"
+    },
+    {
+      "file": "white_noise",
+      "title": "White Noise"
+    },
+    {
+      "file": "winding_down",
+      "title": "Winding Down"
+    }
+  ]
+}

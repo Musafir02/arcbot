@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "swimming",
+  "title": "Swimming",
+  "modules": [
+    {
+      "file": "backstroke_technique",
+      "title": "Backstroke Technique"
+    },
+    {
+      "file": "beginner_swimming_lessons",
+      "title": "Beginner Swimming Lessons"
+    },
+    {
+      "file": "breaststroke_technique",
+      "title": "Breaststroke Technique"
+    },
+    {
+      "file": "butterfly_technique",
+      "title": "Butterfly Technique"
+    },
+    {
+      "file": "drowning_prevention",
+      "title": "Drowning Prevention"
+    },
+    {
+      "file": "front_crawl_breathing",
+      "title": "Front Crawl Breathing"
+    },
+    {
+      "file": "front_crawl_technique",
+      "title": "Front Crawl Technique"
+    },
+    {
+      "file": "hand_paddles",
+      "title": "Hand Paddles"
+    },
+    {
+      "file": "kickboard_drills",
+      "title": "Kickboard Drills"
+    },
+    {
+      "file": "learning_to_float",
+      "title": "Learning To Float"
+    },
+    {
+      "file": "open_water_safety",
+      "title": "Open Water Safety"
+    },
+    {
+      "file": "pool_safety_rules",
+      "title": "Pool Safety Rules"
+    },
+    {
+      "file": "pull_buoy_drills",
+      "title": "Pull Buoy Drills"
+    },
+    {
+      "file": "supervising_swimmers",
+      "title": "Supervising Swimmers"
+    },
+    {
+      "file": "swim_bag_organisation",
+      "title": "Swim Bag Organisation"
+    },
+    {
+      "file": "swim_ear_plugs",
+      "title": "Swim Ear Plugs"
+    },
+    {
+      "file": "swim_fins",
+      "title": "Swim Fins"
+    },
+    {
+      "file": "swimmer_ear_discomfort",
+      "title": "Swimmer Ear Discomfort"
+    },
+    {
+      "file": "swimming_after_eating",
+      "title": "Swimming After Eating"
+    },
+    {
+      "file": "swimming_at_the_beach",
+      "title": "Swimming At The Beach"
+    },
+    {
+      "file": "swimming_cap",
+      "title": "Swimming Cap"
+    },
+    {
+      "file": "swimming_cool_down",
+      "title": "Swimming Cool Down"
+    },
+    {
+      "file": "swimming_endurance",
+      "title": "Swimming Endurance"
+    },
+    {
+      "file": "swimming_equipment",
+      "title": "Swimming Equipment"
+    },
+    {
+      "file": "swimming_eye_irritation",
+      "title": "Swimming Eye Irritation"
+    },
+    {
+      "file": "swimming_fitness_benefits",
+      "title": "Swimming Fitness Benefits"
+    },
+    {
+      "file": "swimming_frequency",
+      "title": "Swimming Frequency"
+    },
+    {
+      "file": "swimming_goggles",
+      "title": "Swimming Goggles"
+    },
+    {
+      "file": "swimming_hydration",
+      "title": "Swimming Hydration"
+    },
+    {
+      "file": "swimming_in_cold_water",
+      "title": "Swimming In Cold Water"
+    },
+    {
+      "file": "swimming_interval_training",
+      "title": "Swimming Interval Training"
+    },
+    {
+      "file": "swimming_muscle_cramp",
+      "title": "Swimming Muscle Cramp"
+    },
+    {
+      "file": "swimming_neck_pain",
+      "title": "Swimming Neck Pain"
+    },
+    {
+      "file": "swimming_nose_clip",
+      "title": "Swimming Nose Clip"
+    },
+    {
+      "file": "swimming_nutrition",
+      "title": "Swimming Nutrition"
+    },
+    {
+      "file": "swimming_older_adults",
+      "title": "Swimming Older Adults"
+    },
+    {
+      "file": "swimming_pregnancy",
+      "title": "Swimming Pregnancy"
+    },
+    {
+      "file": "swimming_recovery",
+      "title": "Swimming Recovery"
+    },
+    {
+      "file": "swimming_shoulder_pain",
+      "title": "Swimming Shoulder Pain"
+    },
+    {
+      "file": "swimming_snorkel",
+      "title": "Swimming Snorkel"
+    },
+    {
+      "file": "swimming_speed",
+      "title": "Swimming Speed"
+    },
+    {
+      "file": "swimming_sun_protection",
+      "title": "Swimming Sun Protection"
+    },
+    {
+      "file": "swimming_warm_up",
+      "title": "Swimming Warm Up"
+    },
+    {
+      "file": "swimming_watch",
+      "title": "Swimming Watch"
+    },
+    {
+      "file": "swimming_weight_loss",
+      "title": "Swimming Weight Loss"
+    },
+    {
+      "file": "swimming_with_children",
+      "title": "Swimming With Children"
+    },
+    {
+      "file": "swimming_workout_plan",
+      "title": "Swimming Workout Plan"
+    },
+    {
+      "file": "swimwear_choice",
+      "title": "Swimwear Choice"
+    },
+    {
+      "file": "treading_water",
+      "title": "Treading Water"
+    },
+    {
+      "file": "water_safety_basics",
+      "title": "Water Safety Basics"
+    }
+  ]
+}

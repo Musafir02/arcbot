@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "mental_health",
+  "title": "Mental Health",
+  "modules": [
+    {
+      "file": "alcohol_and_mood",
+      "title": "Alcohol And Mood"
+    },
+    {
+      "file": "asking_for_help",
+      "title": "Asking For Help"
+    },
+    {
+      "file": "breathing_for_relaxation",
+      "title": "Breathing For Relaxation"
+    },
+    {
+      "file": "building_self_confidence",
+      "title": "Building Self Confidence"
+    },
+    {
+      "file": "caffeine_and_anxiety",
+      "title": "Caffeine And Anxiety"
+    },
+    {
+      "file": "caring_for_others",
+      "title": "Caring For Others"
+    },
+    {
+      "file": "coping_with_change",
+      "title": "Coping With Change"
+    },
+    {
+      "file": "coping_with_loss",
+      "title": "Coping With Loss"
+    },
+    {
+      "file": "creativity_and_mood",
+      "title": "Creativity And Mood"
+    },
+    {
+      "file": "crisis_plan",
+      "title": "Crisis Plan"
+    },
+    {
+      "file": "dealing_with_criticism",
+      "title": "Dealing With Criticism"
+    },
+    {
+      "file": "everyday_wellbeing_habits",
+      "title": "Everyday Wellbeing Habits"
+    },
+    {
+      "file": "exercise_and_mood",
+      "title": "Exercise And Mood"
+    },
+    {
+      "file": "feeling_low_for_weeks",
+      "title": "Feeling Low For Weeks"
+    },
+    {
+      "file": "friendship_and_wellbeing",
+      "title": "Friendship And Wellbeing"
+    },
+    {
+      "file": "gratitude_practice",
+      "title": "Gratitude Practice"
+    },
+    {
+      "file": "grounding_techniques",
+      "title": "Grounding Techniques"
+    },
+    {
+      "file": "handling_setbacks",
+      "title": "Handling Setbacks"
+    },
+    {
+      "file": "helplines",
+      "title": "Helplines"
+    },
+    {
+      "file": "journaling",
+      "title": "Journaling"
+    },
+    {
+      "file": "loneliness",
+      "title": "Loneliness"
+    },
+    {
+      "file": "managing_anger",
+      "title": "Managing Anger"
+    },
+    {
+      "file": "managing_stress_at_work",
+      "title": "Managing Stress At Work"
+    },
+    {
+      "file": "managing_worry",
+      "title": "Managing Worry"
+    },
+    {
+      "file": "mindfulness_practice",
+      "title": "Mindfulness Practice"
+    },
+    {
+      "file": "money_worry",
+      "title": "Money Worry"
+    },
+    {
+      "file": "motivation",
+      "title": "Motivation"
+    },
+    {
+      "file": "nature_and_mood",
+      "title": "Nature And Mood"
+    },
+    {
+      "file": "new_parent_wellbeing",
+      "title": "New Parent Wellbeing"
+    },
+    {
+      "file": "procrastination",
+      "title": "Procrastination"
+    },
+    {
+      "file": "progressive_muscle_relaxation",
+      "title": "Progressive Muscle Relaxation"
+    },
+    {
+      "file": "recognising_burnout",
+      "title": "Recognising Burnout"
+    },
+    {
+      "file": "relationship_wellbeing",
+      "title": "Relationship Wellbeing"
+    },
+    {
+      "file": "relaxation_techniques",
+      "title": "Relaxation Techniques"
+    },
+    {
+      "file": "retirement_wellbeing",
+      "title": "Retirement Wellbeing"
+    },
+    {
+      "file": "screen_time_and_wellbeing",
+      "title": "Screen Time And Wellbeing"
+    },
+    {
+      "file": "seasonal_mood_changes",
+      "title": "Seasonal Mood Changes"
+    },
+    {
+      "file": "self_compassion",
+      "title": "Self Compassion"
+    },
+    {
+      "file": "setting_boundaries",
+      "title": "Setting Boundaries"
+    },
+    {
+      "file": "sleep_and_mood",
+      "title": "Sleep And Mood"
+    },
+    {
+      "file": "social_connection",
+      "title": "Social Connection"
+    },
+    {
+      "file": "social_media_and_mood",
+      "title": "Social Media And Mood"
+    },
+    {
+      "file": "student_wellbeing",
+      "title": "Student Wellbeing"
+    },
+    {
+      "file": "support_groups",
+      "title": "Support Groups"
+    },
+    {
+      "file": "talking_about_anxiety",
+      "title": "Talking About Anxiety"
+    },
+    {
+      "file": "talking_therapy",
+      "title": "Talking Therapy"
+    },
+    {
+      "file": "urgent_mental_health_help",
+      "title": "Urgent Mental Health Help"
+    },
+    {
+      "file": "visualisation",
+      "title": "Visualisation"
+    },
+    {
+      "file": "when_to_seek_help",
+      "title": "When To Seek Help"
+    },
+    {
+      "file": "work_life_balance",
+      "title": "Work Life Balance"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "dental_care",
+  "title": "Dental Care",
+  "modules": [
+    {
+      "file": "bad_breath",
+      "title": "Bad Breath"
+    },
+    {
+      "file": "bleeding_gums",
+      "title": "Bleeding Gums"
+    },
+    {
+      "file": "braces_care",
+      "title": "Braces Care"
+    },
+    {
+      "file": "brushing_technique",
+      "title": "Brushing Technique"
+    },
+    {
+      "file": "cavity_prevention",
+      "title": "Cavity Prevention"
+    },
+    {
+      "file": "checkup_frequency",
+      "title": "Checkup Frequency"
+    },
+    {
+      "file": "childrens_dental_care",
+      "title": "Childrens Dental Care"
+    },
+    {
+      "file": "chipped_tooth",
+      "title": "Chipped Tooth"
+    },
+    {
+      "file": "cold_sores",
+      "title": "Cold Sores"
+    },
+    {
+      "file": "cracked_tooth",
+      "title": "Cracked Tooth"
+    },
+    {
+      "file": "dental_anxiety",
+      "title": "Dental Anxiety"
+    },
+    {
+      "file": "dental_cleaning",
+      "title": "Dental Cleaning"
+    },
+    {
+      "file": "dental_crowns",
+      "title": "Dental Crowns"
+    },
+    {
+      "file": "dental_emergencies",
+      "title": "Dental Emergencies"
+    },
+    {
+      "file": "dental_implants_care",
+      "title": "Dental Implants Care"
+    },
+    {
+      "file": "dental_sealants",
+      "title": "Dental Sealants"
+    },
+    {
+      "file": "dental_xrays",
+      "title": "Dental Xrays"
+    },
+    {
+      "file": "dentures_care",
+      "title": "Dentures Care"
+    },
+    {
+      "file": "dry_mouth",
+      "title": "Dry Mouth"
+    },
+    {
+      "file": "electric_toothbrush",
+      "title": "Electric Toothbrush"
+    },
+    {
+      "file": "fillings",
+      "title": "Fillings"
+    },
+    {
+      "file": "flossing_frequency",
+      "title": "Flossing Frequency"
+    },
+    {
+      "file": "flossing_technique",
+      "title": "Flossing Technique"
+    },
+    {
+      "file": "fluoride_toothpaste",
+      "title": "Fluoride Toothpaste"
+    },
+    {
+      "file": "gingivitis",
+      "title": "Gingivitis"
+    },
+    {
+      "file": "gum_abscess",
+      "title": "Gum Abscess"
+    },
+    {
+      "file": "interdental_brushes",
+      "title": "Interdental Brushes"
+    },
+    {
+      "file": "knocked_out_tooth",
+      "title": "Knocked Out Tooth"
+    },
+    {
+      "file": "mouth_ulcers",
+      "title": "Mouth Ulcers"
+    },
+    {
+      "file": "mouthguard_sports",
+      "title": "Mouthguard Sports"
+    },
+    {
+      "file": "mouthwash_use",
+      "title": "Mouthwash Use"
+    },
+    {
+      "file": "periodontitis",
+      "title": "Periodontitis"
+    },
+    {
+      "file": "pregnancy_dental_care",
+      "title": "Pregnancy Dental Care"
+    },
+    {
+      "file": "receding_gums",
+      "title": "Receding Gums"
+    },
+    {
+      "file": "retainers_care",
+      "title": "Retainers Care"
+    },
+    {
+      "file": "root_canal",
+      "title": "Root Canal"
+    },
+    {
+      "file": "sensitive_teeth",
+      "title": "Sensitive Teeth"
+    },
+    {
+      "file": "smoking_teeth",
+      "title": "Smoking Teeth"
+    },
+    {
+      "file": "sugary_foods_teeth",
+      "title": "Sugary Foods Teeth"
+    },
+    {
+      "file": "teeth_grinding",
+      "title": "Teeth Grinding"
+    },
+    {
+      "file": "teeth_staining",
+      "title": "Teeth Staining"
+    },
+    {
+      "file": "teeth_whitening",
+      "title": "Teeth Whitening"
+    },
+    {
+      "file": "teething_babies",
+      "title": "Teething Babies"
+    },
+    {
+      "file": "tongue_cleaning",
+      "title": "Tongue Cleaning"
+    },
+    {
+      "file": "tooth_abscess",
+      "title": "Tooth Abscess"
+    },
+    {
+      "file": "tooth_decay",
+      "title": "Tooth Decay"
+    },
+    {
+      "file": "toothache_at_night",
+      "title": "Toothache At Night"
+    },
+    {
+      "file": "toothbrush_choice",
+      "title": "Toothbrush Choice"
+    },
+    {
+      "file": "toothpaste_choice",
+      "title": "Toothpaste Choice"
+    },
+    {
+      "file": "water_flosser",
+      "title": "Water Flosser"
+    }
+  ]
+}

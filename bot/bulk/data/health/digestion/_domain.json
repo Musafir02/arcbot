@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "digestion",
+  "title": "Digestion",
+  "modules": [
+    {
+      "file": "acid_reflux_causes",
+      "title": "Acid Reflux Causes"
+    },
+    {
+      "file": "acid_reflux_diet",
+      "title": "Acid Reflux Diet"
+    },
+    {
+      "file": "acid_reflux_night",
+      "title": "Acid Reflux Night"
+    },
+    {
+      "file": "bloating_after_eating",
+      "title": "Bloating After Eating"
+    },
+    {
+      "file": "bloating_from_beans",
+      "title": "Bloating From Beans"
+    },
+    {
+      "file": "bloating_from_dairy",
+      "title": "Bloating From Dairy"
+    },
+    {
+      "file": "blood_in_stool",
+      "title": "Blood In Stool"
+    },
+    {
+      "file": "burping_excess",
+      "title": "Burping Excess"
+    },
+    {
+      "file": "coffee_and_reflux",
+      "title": "Coffee And Reflux"
+    },
+    {
+      "file": "constipation_remedies",
+      "title": "Constipation Remedies"
+    },
+    {
+      "file": "dehydration_signs",
+      "title": "Dehydration Signs"
+    },
+    {
+      "file": "diarrhoea_after_antibiotics",
+      "title": "Diarrhoea After Antibiotics"
+    },
+    {
+      "file": "diarrhoea_home_care",
+      "title": "Diarrhoea Home Care"
+    },
+    {
+      "file": "difficulty_swallowing",
+      "title": "Difficulty Swallowing"
+    },
+    {
+      "file": "digestion_in_older_age",
+      "title": "Digestion In Older Age"
+    },
+    {
+      "file": "digestive_enzymes",
+      "title": "Digestive Enzymes"
+    },
+    {
+      "file": "doctor_for_digestive_symptoms",
+      "title": "Doctor For Digestive Symptoms"
+    },
+    {
+      "file": "eating_slowly",
+      "title": "Eating Slowly"
+    },
+    {
+      "file": "exercise_and_digestion",
+      "title": "Exercise And Digestion"
+    },
+    {
+      "file": "fatty_food_digestion",
+      "title": "Fatty Food Digestion"
+    },
+    {
+      "file": "fermented_foods",
+      "title": "Fermented Foods"
+    },
+    {
+      "file": "fibre_for_constipation",
+      "title": "Fibre For Constipation"
+    },
+    {
+      "file": "fizzy_drinks_bloating",
+      "title": "Fizzy Drinks Bloating"
+    },
+    {
+      "file": "food_poisoning_symptoms",
+      "title": "Food Poisoning Symptoms"
+    },
+    {
+      "file": "gallbladder_after_eating",
+      "title": "Gallbladder After Eating"
+    },
+    {
+      "file": "gas_relief",
+      "title": "Gas Relief"
+    },
+    {
+      "file": "gluten_and_digestion",
+      "title": "Gluten And Digestion"
+    },
+    {
+      "file": "heartburn_relief",
+      "title": "Heartburn Relief"
+    },
+    {
+      "file": "hiccups_after_meals",
+      "title": "Hiccups After Meals"
+    },
+    {
+      "file": "indigestion_after_meals",
+      "title": "Indigestion After Meals"
+    },
+    {
+      "file": "indigestion_home_remedies",
+      "title": "Indigestion Home Remedies"
+    },
+    {
+      "file": "irritable_bowel_symptoms",
+      "title": "Irritable Bowel Symptoms"
+    },
+    {
+      "file": "lactose_intolerance",
+      "title": "Lactose Intolerance"
+    },
+    {
+      "file": "nausea_home_remedies",
+      "title": "Nausea Home Remedies"
+    },
+    {
+      "file": "pale_or_greasy_stool",
+      "title": "Pale Or Greasy Stool"
+    },
+    {
+      "file": "probiotic_foods",
+      "title": "Probiotic Foods"
+    },
+    {
+      "file": "prunes_for_constipation",
+      "title": "Prunes For Constipation"
+    },
+    {
+      "file": "psyllium_fibre_supplements",
+      "title": "Psyllium Fibre Supplements"
+    },
+    {
+      "file": "rehydration_salts",
+      "title": "Rehydration Salts"
+    },
+    {
+      "file": "rice_for_diarrhoea",
+      "title": "Rice For Diarrhoea"
+    },
+    {
+      "file": "spicy_food_indigestion",
+      "title": "Spicy Food Indigestion"
+    },
+    {
+      "file": "stomach_bug_recovery",
+      "title": "Stomach Bug Recovery"
+    },
+    {
+      "file": "stomach_cramps",
+      "title": "Stomach Cramps"
+    },
+    {
+      "file": "stomach_gurgling",
+      "title": "Stomach Gurgling"
+    },
+    {
+      "file": "stress_and_digestion",
+      "title": "Stress And Digestion"
+    },
+    {
+      "file": "travellers_diarrhoea",
+      "title": "Travellers Diarrhoea"
+    },
+    {
+      "file": "ulcer_symptoms",
+      "title": "Ulcer Symptoms"
+    },
+    {
+      "file": "upset_stomach_foods",
+      "title": "Upset Stomach Foods"
+    },
+    {
+      "file": "vomiting_after_eating",
+      "title": "Vomiting After Eating"
+    },
+    {
+      "file": "water_and_digestion",
+      "title": "Water And Digestion"
+    }
+  ]
+}

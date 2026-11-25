@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "common_illnesses",
+  "title": "Common Illnesses",
+  "modules": [
+    {
+      "file": "allergy_vs_cold",
+      "title": "Allergy Vs Cold"
+    },
+    {
+      "file": "avoiding_colds",
+      "title": "Avoiding Colds"
+    },
+    {
+      "file": "blocked_nose",
+      "title": "Blocked Nose"
+    },
+    {
+      "file": "body_aches_with_flu",
+      "title": "Body Aches With Flu"
+    },
+    {
+      "file": "breathing_difficulty_warning",
+      "title": "Breathing Difficulty Warning"
+    },
+    {
+      "file": "bronchitis_basics",
+      "title": "Bronchitis Basics"
+    },
+    {
+      "file": "chesty_cough",
+      "title": "Chesty Cough"
+    },
+    {
+      "file": "chickenpox_home_care",
+      "title": "Chickenpox Home Care"
+    },
+    {
+      "file": "cold_medicine_caution",
+      "title": "Cold Medicine Caution"
+    },
+    {
+      "file": "cold_remedies_myths",
+      "title": "Cold Remedies Myths"
+    },
+    {
+      "file": "cold_sores",
+      "title": "Cold Sores"
+    },
+    {
+      "file": "cold_vs_flu",
+      "title": "Cold Vs Flu"
+    },
+    {
+      "file": "common_cold_duration",
+      "title": "Common Cold Duration"
+    },
+    {
+      "file": "common_cold_symptoms",
+      "title": "Common Cold Symptoms"
+    },
+    {
+      "file": "conjunctivitis_basics",
+      "title": "Conjunctivitis Basics"
+    },
+    {
+      "file": "cough_home_care",
+      "title": "Cough Home Care"
+    },
+    {
+      "file": "dehydration_when_sick",
+      "title": "Dehydration When Sick"
+    },
+    {
+      "file": "diarrhoea_home_care",
+      "title": "Diarrhoea Home Care"
+    },
+    {
+      "file": "dry_cough_at_night",
+      "title": "Dry Cough At Night"
+    },
+    {
+      "file": "ear_infection_signs",
+      "title": "Ear Infection Signs"
+    },
+    {
+      "file": "earache_home_care",
+      "title": "Earache Home Care"
+    },
+    {
+      "file": "fatigue_after_illness",
+      "title": "Fatigue After Illness"
+    },
+    {
+      "file": "fever_management",
+      "title": "Fever Management"
+    },
+    {
+      "file": "flu_vaccination",
+      "title": "Flu Vaccination"
+    },
+    {
+      "file": "food_poisoning_basics",
+      "title": "Food Poisoning Basics"
+    },
+    {
+      "file": "glandular_fever",
+      "title": "Glandular Fever"
+    },
+    {
+      "file": "hand_washing_for_colds",
+      "title": "Hand Washing For Colds"
+    },
+    {
+      "file": "hay_fever_basics",
+      "title": "Hay Fever Basics"
+    },
+    {
+      "file": "headache_with_cold",
+      "title": "Headache With Cold"
+    },
+    {
+      "file": "high_fever_warning_signs",
+      "title": "High Fever Warning Signs"
+    },
+    {
+      "file": "isolating_when_ill",
+      "title": "Isolating When Ill"
+    },
+    {
+      "file": "mouth_ulcers",
+      "title": "Mouth Ulcers"
+    },
+    {
+      "file": "nausea_relief",
+      "title": "Nausea Relief"
+    },
+    {
+      "file": "persistent_cough",
+      "title": "Persistent Cough"
+    },
+    {
+      "file": "pneumonia_warning_signs",
+      "title": "Pneumonia Warning Signs"
+    },
+    {
+      "file": "recovery_after_flu",
+      "title": "Recovery After Flu"
+    },
+    {
+      "file": "rest_during_illness",
+      "title": "Rest During Illness"
+    },
+    {
+      "file": "runny_nose",
+      "title": "Runny Nose"
+    },
+    {
+      "file": "shingles_basics",
+      "title": "Shingles Basics"
+    },
+    {
+      "file": "sinus_pain",
+      "title": "Sinus Pain"
+    },
+    {
+      "file": "sneezing",
+      "title": "Sneezing"
+    },
+    {
+      "file": "sore_throat_causes",
+      "title": "Sore Throat Causes"
+    },
+    {
+      "file": "sore_throat_relief",
+      "title": "Sore Throat Relief"
+    },
+    {
+      "file": "staying_home_when_sick",
+      "title": "Staying Home When Sick"
+    },
+    {
+      "file": "stomach_upset",
+      "title": "Stomach Upset"
+    },
+    {
+      "file": "thrush_basics",
+      "title": "Thrush Basics"
+    },
+    {
+      "file": "tonsillitis_basics",
+      "title": "Tonsillitis Basics"
+    },
+    {
+      "file": "urinary_tract_infection",
+      "title": "Urinary Tract Infection"
+    },
+    {
+      "file": "vomiting_home_care",
+      "title": "Vomiting Home Care"
+    },
+    {
+      "file": "when_to_see_doctor_for_cold",
+      "title": "When To See Doctor For Cold"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "walking_and_hiking",
+  "title": "Walking And Hiking",
+  "modules": [
+    {
+      "file": "altitude_hiking",
+      "title": "Altitude Hiking"
+    },
+    {
+      "file": "ankle_sprain_on_hikes",
+      "title": "Ankle Sprain On Hikes"
+    },
+    {
+      "file": "blister_prevention",
+      "title": "Blister Prevention"
+    },
+    {
+      "file": "camping_on_hikes",
+      "title": "Camping On Hikes"
+    },
+    {
+      "file": "cold_weather_hiking",
+      "title": "Cold Weather Hiking"
+    },
+    {
+      "file": "day_hike_essentials",
+      "title": "Day Hike Essentials"
+    },
+    {
+      "file": "day_hike_food",
+      "title": "Day Hike Food"
+    },
+    {
+      "file": "downhill_walking",
+      "title": "Downhill Walking"
+    },
+    {
+      "file": "fog_navigation",
+      "title": "Fog Navigation"
+    },
+    {
+      "file": "heat_exhaustion_on_hikes",
+      "title": "Heat Exhaustion On Hikes"
+    },
+    {
+      "file": "hiking_access_and_permits",
+      "title": "Hiking Access And Permits"
+    },
+    {
+      "file": "hiking_alone",
+      "title": "Hiking Alone"
+    },
+    {
+      "file": "hiking_emergency_planning",
+      "title": "Hiking Emergency Planning"
+    },
+    {
+      "file": "hiking_fatigue",
+      "title": "Hiking Fatigue"
+    },
+    {
+      "file": "hiking_first_aid",
+      "title": "Hiking First Aid"
+    },
+    {
+      "file": "hiking_footwear",
+      "title": "Hiking Footwear"
+    },
+    {
+      "file": "hiking_group",
+      "title": "Hiking Group"
+    },
+    {
+      "file": "hiking_in_rain",
+      "title": "Hiking In Rain"
+    },
+    {
+      "file": "hiking_navigation",
+      "title": "Hiking Navigation"
+    },
+    {
+      "file": "hiking_pace_and_rests",
+      "title": "Hiking Pace And Rests"
+    },
+    {
+      "file": "hiking_route_planning",
+      "title": "Hiking Route Planning"
+    },
+    {
+      "file": "hiking_safety",
+      "title": "Hiking Safety"
+    },
+    {
+      "file": "hiking_socks",
+      "title": "Hiking Socks"
+    },
+    {
+      "file": "hiking_stove_cooking",
+      "title": "Hiking Stove Cooking"
+    },
+    {
+      "file": "hiking_water",
+      "title": "Hiking Water"
+    },
+    {
+      "file": "hiking_weather",
+      "title": "Hiking Weather"
+    },
+    {
+      "file": "hiking_with_children",
+      "title": "Hiking With Children"
+    },
+    {
+      "file": "hiking_with_dogs",
+      "title": "Hiking With Dogs"
+    },
+    {
+      "file": "hill_walk_training",
+      "title": "Hill Walk Training"
+    },
+    {
+      "file": "leave_no_trace",
+      "title": "Leave No Trace"
+    },
+    {
+      "file": "long_distance_walking",
+      "title": "Long Distance Walking"
+    },
+    {
+      "file": "overnight_backpacking",
+      "title": "Overnight Backpacking"
+    },
+    {
+      "file": "pre_hike_food",
+      "title": "Pre Hike Food"
+    },
+    {
+      "file": "regular_walking_habit",
+      "title": "Regular Walking Habit"
+    },
+    {
+      "file": "road_walking_shoes",
+      "title": "Road Walking Shoes"
+    },
+    {
+      "file": "stream_crossings",
+      "title": "Stream Crossings"
+    },
+    {
+      "file": "trail_etiquette",
+      "title": "Trail Etiquette"
+    },
+    {
+      "file": "trail_hygiene",
+      "title": "Trail Hygiene"
+    },
+    {
+      "file": "treadmill_walking",
+      "title": "Treadmill Walking"
+    },
+    {
+      "file": "uneven_terrain_walking",
+      "title": "Uneven Terrain Walking"
+    },
+    {
+      "file": "uphill_walking",
+      "title": "Uphill Walking"
+    },
+    {
+      "file": "walking_after_dark",
+      "title": "Walking After Dark"
+    },
+    {
+      "file": "walking_fitness_basics",
+      "title": "Walking Fitness Basics"
+    },
+    {
+      "file": "walking_for_weight_loss",
+      "title": "Walking For Weight Loss"
+    },
+    {
+      "file": "walking_in_wind",
+      "title": "Walking In Wind"
+    },
+    {
+      "file": "walking_poles",
+      "title": "Walking Poles"
+    },
+    {
+      "file": "walking_posture",
+      "title": "Walking Posture"
+    },
+    {
+      "file": "walking_stretches",
+      "title": "Walking Stretches"
+    },
+    {
+      "file": "walking_with_a_pack",
+      "title": "Walking With A Pack"
+    },
+    {
+      "file": "winter_hiking",
+      "title": "Winter Hiking"
+    }
+  ]
+}

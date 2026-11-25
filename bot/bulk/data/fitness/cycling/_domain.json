@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "cycling",
+  "title": "Cycling",
+  "modules": [
+    {
+      "file": "bike_fit_basics",
+      "title": "Bike Fit Basics"
+    },
+    {
+      "file": "bike_frame_size",
+      "title": "Bike Frame Size"
+    },
+    {
+      "file": "bike_locks",
+      "title": "Bike Locks"
+    },
+    {
+      "file": "bike_maintenance_schedule",
+      "title": "Bike Maintenance Schedule"
+    },
+    {
+      "file": "bike_storage",
+      "title": "Bike Storage"
+    },
+    {
+      "file": "bike_theft_prevention",
+      "title": "Bike Theft Prevention"
+    },
+    {
+      "file": "brake_adjustment",
+      "title": "Brake Adjustment"
+    },
+    {
+      "file": "brake_pads",
+      "title": "Brake Pads"
+    },
+    {
+      "file": "chain_cleaning",
+      "title": "Chain Cleaning"
+    },
+    {
+      "file": "chain_lubrication",
+      "title": "Chain Lubrication"
+    },
+    {
+      "file": "chain_wear",
+      "title": "Chain Wear"
+    },
+    {
+      "file": "choosing_a_commuting_bike",
+      "title": "Choosing A Commuting Bike"
+    },
+    {
+      "file": "choosing_cycling_tyres",
+      "title": "Choosing Cycling Tyres"
+    },
+    {
+      "file": "clipless_pedal_setup",
+      "title": "Clipless Pedal Setup"
+    },
+    {
+      "file": "cycling_clothing_layers",
+      "title": "Cycling Clothing Layers"
+    },
+    {
+      "file": "cycling_crossings",
+      "title": "Cycling Crossings"
+    },
+    {
+      "file": "cycling_eyewear",
+      "title": "Cycling Eyewear"
+    },
+    {
+      "file": "cycling_gloves",
+      "title": "Cycling Gloves"
+    },
+    {
+      "file": "cycling_hand_signals",
+      "title": "Cycling Hand Signals"
+    },
+    {
+      "file": "cycling_helmet_fit",
+      "title": "Cycling Helmet Fit"
+    },
+    {
+      "file": "cycling_hydration",
+      "title": "Cycling Hydration"
+    },
+    {
+      "file": "cycling_in_cold",
+      "title": "Cycling In Cold"
+    },
+    {
+      "file": "cycling_in_groups",
+      "title": "Cycling In Groups"
+    },
+    {
+      "file": "cycling_in_heat",
+      "title": "Cycling In Heat"
+    },
+    {
+      "file": "cycling_in_rain",
+      "title": "Cycling In Rain"
+    },
+    {
+      "file": "cycling_in_wind",
+      "title": "Cycling In Wind"
+    },
+    {
+      "file": "cycling_nutrition",
+      "title": "Cycling Nutrition"
+    },
+    {
+      "file": "cycling_road_safety",
+      "title": "Cycling Road Safety"
+    },
+    {
+      "file": "cycling_roundabouts",
+      "title": "Cycling Roundabouts"
+    },
+    {
+      "file": "cycling_traffic_rules",
+      "title": "Cycling Traffic Rules"
+    },
+    {
+      "file": "door_zone",
+      "title": "Door Zone"
+    },
+    {
+      "file": "electric_bike_basics",
+      "title": "Electric Bike Basics"
+    },
+    {
+      "file": "fixing_a_puncture",
+      "title": "Fixing A Puncture"
+    },
+    {
+      "file": "gear_ratios",
+      "title": "Gear Ratios"
+    },
+    {
+      "file": "gear_shifting",
+      "title": "Gear Shifting"
+    },
+    {
+      "file": "gravel_bike_basics",
+      "title": "Gravel Bike Basics"
+    },
+    {
+      "file": "handlebar_position",
+      "title": "Handlebar Position"
+    },
+    {
+      "file": "high_visibility_cycling",
+      "title": "High Visibility Cycling"
+    },
+    {
+      "file": "hydraulic_brake_bleeding",
+      "title": "Hydraulic Brake Bleeding"
+    },
+    {
+      "file": "inner_tubes",
+      "title": "Inner Tubes"
+    },
+    {
+      "file": "locking_a_bike",
+      "title": "Locking A Bike"
+    },
+    {
+      "file": "night_cycling_lights",
+      "title": "Night Cycling Lights"
+    },
+    {
+      "file": "road_bike_vs_hybrid",
+      "title": "Road Bike Vs Hybrid"
+    },
+    {
+      "file": "road_cycling_tyre_pressure",
+      "title": "Road Cycling Tyre Pressure"
+    },
+    {
+      "file": "saddle_height",
+      "title": "Saddle Height"
+    },
+    {
+      "file": "saddle_position",
+      "title": "Saddle Position"
+    },
+    {
+      "file": "tubeless_tyres",
+      "title": "Tubeless Tyres"
+    },
+    {
+      "file": "washing_a_bike",
+      "title": "Washing A Bike"
+    },
+    {
+      "file": "waterproof_cycling_jacket",
+      "title": "Waterproof Cycling Jacket"
+    },
+    {
+      "file": "wheel_truing",
+      "title": "Wheel Truing"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "pain_and_injuries",
+  "title": "Pain And Injuries",
+  "modules": [
+    {
+      "file": "back_pain",
+      "title": "Back Pain"
+    },
+    {
+      "file": "bee_stings",
+      "title": "Bee Stings"
+    },
+    {
+      "file": "blisters",
+      "title": "Blisters"
+    },
+    {
+      "file": "bruises",
+      "title": "Bruises"
+    },
+    {
+      "file": "concussion",
+      "title": "Concussion"
+    },
+    {
+      "file": "earache",
+      "title": "Earache"
+    },
+    {
+      "file": "facial_pain",
+      "title": "Facial Pain"
+    },
+    {
+      "file": "frozen_shoulder",
+      "title": "Frozen Shoulder"
+    },
+    {
+      "file": "golfers_elbow",
+      "title": "Golfers Elbow"
+    },
+    {
+      "file": "grazes",
+      "title": "Grazes"
+    },
+    {
+      "file": "groin_strain",
+      "title": "Groin Strain"
+    },
+    {
+      "file": "hamstring_strain",
+      "title": "Hamstring Strain"
+    },
+    {
+      "file": "hand_pain",
+      "title": "Hand Pain"
+    },
+    {
+      "file": "headache",
+      "title": "Headache"
+    },
+    {
+      "file": "heel_pain",
+      "title": "Heel Pain"
+    },
+    {
+      "file": "hip_pain",
+      "title": "Hip Pain"
+    },
+    {
+      "file": "ingrown_toenail",
+      "title": "Ingrown Toenail"
+    },
+    {
+      "file": "injury_recovery",
+      "title": "Injury Recovery"
+    },
+    {
+      "file": "insect_bites",
+      "title": "Insect Bites"
+    },
+    {
+      "file": "jammed_finger",
+      "title": "Jammed Finger"
+    },
+    {
+      "file": "jaw_pain",
+      "title": "Jaw Pain"
+    },
+    {
+      "file": "knee_pain",
+      "title": "Knee Pain"
+    },
+    {
+      "file": "lower_back_strain",
+      "title": "Lower Back Strain"
+    },
+    {
+      "file": "migraine",
+      "title": "Migraine"
+    },
+    {
+      "file": "minor_burns",
+      "title": "Minor Burns"
+    },
+    {
+      "file": "minor_cuts",
+      "title": "Minor Cuts"
+    },
+    {
+      "file": "muscle_strain",
+      "title": "Muscle Strain"
+    },
+    {
+      "file": "neck_pain",
+      "title": "Neck Pain"
+    },
+    {
+      "file": "nerve_pain",
+      "title": "Nerve Pain"
+    },
+    {
+      "file": "plantar_fasciitis",
+      "title": "Plantar Fasciitis"
+    },
+    {
+      "file": "rib_pain",
+      "title": "Rib Pain"
+    },
+    {
+      "file": "scalds",
+      "title": "Scalds"
+    },
+    {
+      "file": "sciatica",
+      "title": "Sciatica"
+    },
+    {
+      "file": "shin_splints",
+      "title": "Shin Splints"
+    },
+    {
+      "file": "shoulder_pain",
+      "title": "Shoulder Pain"
+    },
+    {
+      "file": "sinus_pain",
+      "title": "Sinus Pain"
+    },
+    {
+      "file": "slipped_disc",
+      "title": "Slipped Disc"
+    },
+    {
+      "file": "splinters",
+      "title": "Splinters"
+    },
+    {
+      "file": "sprained_ankle",
+      "title": "Sprained Ankle"
+    },
+    {
+      "file": "stress_fracture",
+      "title": "Stress Fracture"
+    },
+    {
+      "file": "sunburn",
+      "title": "Sunburn"
+    },
+    {
+      "file": "suspected_fracture",
+      "title": "Suspected Fracture"
+    },
+    {
+      "file": "swelling_after_injury",
+      "title": "Swelling After Injury"
+    },
+    {
+      "file": "tendon_injury",
+      "title": "Tendon Injury"
+    },
+    {
+      "file": "tennis_elbow",
+      "title": "Tennis Elbow"
+    },
+    {
+      "file": "tension_headache",
+      "title": "Tension Headache"
+    },
+    {
+      "file": "toothache",
+      "title": "Toothache"
+    },
+    {
+      "file": "torn_ligament",
+      "title": "Torn Ligament"
+    },
+    {
+      "file": "whiplash",
+      "title": "Whiplash"
+    },
+    {
+      "file": "wrist_sprain",
+      "title": "Wrist Sprain"
+    }
+  ]
+}

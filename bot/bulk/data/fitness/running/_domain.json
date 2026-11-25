@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "running",
+  "title": "Running",
+  "modules": [
+    {
+      "file": "achilles_tendon_pain",
+      "title": "Achilles Tendon Pain"
+    },
+    {
+      "file": "beginner_running_routine",
+      "title": "Beginner Running Routine"
+    },
+    {
+      "file": "breathing_while_running",
+      "title": "Breathing While Running"
+    },
+    {
+      "file": "chafing_prevention",
+      "title": "Chafing Prevention"
+    },
+    {
+      "file": "core_workouts_for_runners",
+      "title": "Core Workouts For Runners"
+    },
+    {
+      "file": "couch_to_5k_plan",
+      "title": "Couch To 5k Plan"
+    },
+    {
+      "file": "easy_running",
+      "title": "Easy Running"
+    },
+    {
+      "file": "electrolytes_for_runners",
+      "title": "Electrolytes For Runners"
+    },
+    {
+      "file": "first_10k_training",
+      "title": "First 10k Training"
+    },
+    {
+      "file": "first_5k_plan",
+      "title": "First 5k Plan"
+    },
+    {
+      "file": "gps_running_watch",
+      "title": "Gps Running Watch"
+    },
+    {
+      "file": "half_marathon_training",
+      "title": "Half Marathon Training"
+    },
+    {
+      "file": "hill_repeats",
+      "title": "Hill Repeats"
+    },
+    {
+      "file": "hydration_for_runners",
+      "title": "Hydration For Runners"
+    },
+    {
+      "file": "interval_training",
+      "title": "Interval Training"
+    },
+    {
+      "file": "long_runs",
+      "title": "Long Runs"
+    },
+    {
+      "file": "marathon_training_plan",
+      "title": "Marathon Training Plan"
+    },
+    {
+      "file": "negative_splits",
+      "title": "Negative Splits"
+    },
+    {
+      "file": "plantar_heel_pain",
+      "title": "Plantar Heel Pain"
+    },
+    {
+      "file": "pre_run_meals",
+      "title": "Pre Run Meals"
+    },
+    {
+      "file": "race_day_preparation",
+      "title": "Race Day Preparation"
+    },
+    {
+      "file": "race_pacing",
+      "title": "Race Pacing"
+    },
+    {
+      "file": "rest_days",
+      "title": "Rest Days"
+    },
+    {
+      "file": "returning_after_injury",
+      "title": "Returning After Injury"
+    },
+    {
+      "file": "road_running_shoes",
+      "title": "Road Running Shoes"
+    },
+    {
+      "file": "runners_knee",
+      "title": "Runners Knee"
+    },
+    {
+      "file": "running_apps",
+      "title": "Running Apps"
+    },
+    {
+      "file": "running_at_night",
+      "title": "Running At Night"
+    },
+    {
+      "file": "running_blisters",
+      "title": "Running Blisters"
+    },
+    {
+      "file": "running_cadence",
+      "title": "Running Cadence"
+    },
+    {
+      "file": "running_cool_down",
+      "title": "Running Cool Down"
+    },
+    {
+      "file": "running_in_cold",
+      "title": "Running In Cold"
+    },
+    {
+      "file": "running_in_heat",
+      "title": "Running In Heat"
+    },
+    {
+      "file": "running_in_rain",
+      "title": "Running In Rain"
+    },
+    {
+      "file": "running_nutrition",
+      "title": "Running Nutrition"
+    },
+    {
+      "file": "running_posture",
+      "title": "Running Posture"
+    },
+    {
+      "file": "running_recovery",
+      "title": "Running Recovery"
+    },
+    {
+      "file": "running_warm_up",
+      "title": "Running Warm Up"
+    },
+    {
+      "file": "shin_splints",
+      "title": "Shin Splints"
+    },
+    {
+      "file": "side_stitches",
+      "title": "Side Stitches"
+    },
+    {
+      "file": "sleep_for_runners",
+      "title": "Sleep For Runners"
+    },
+    {
+      "file": "speed_workouts",
+      "title": "Speed Workouts"
+    },
+    {
+      "file": "strength_training_for_runners",
+      "title": "Strength Training For Runners"
+    },
+    {
+      "file": "stretching_for_runners",
+      "title": "Stretching For Runners"
+    },
+    {
+      "file": "tapering_before_race",
+      "title": "Tapering Before Race"
+    },
+    {
+      "file": "tempo_running",
+      "title": "Tempo Running"
+    },
+    {
+      "file": "track_workouts",
+      "title": "Track Workouts"
+    },
+    {
+      "file": "trail_running_basics",
+      "title": "Trail Running Basics"
+    },
+    {
+      "file": "treadmill_running",
+      "title": "Treadmill Running"
+    },
+    {
+      "file": "weekly_running_frequency",
+      "title": "Weekly Running Frequency"
+    }
+  ]
+}

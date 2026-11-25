@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "sports_injuries",
+  "title": "Sports Injuries",
+  "modules": [
+    {
+      "file": "achilles_tendon_pain",
+      "title": "Achilles Tendon Pain"
+    },
+    {
+      "file": "acl_injury_recovery",
+      "title": "Acl Injury Recovery"
+    },
+    {
+      "file": "ankle_sprain_prevention",
+      "title": "Ankle Sprain Prevention"
+    },
+    {
+      "file": "ankle_sprain_recovery",
+      "title": "Ankle Sprain Recovery"
+    },
+    {
+      "file": "balance_training_for_prevention",
+      "title": "Balance Training For Prevention"
+    },
+    {
+      "file": "calf_strain_recovery",
+      "title": "Calf Strain Recovery"
+    },
+    {
+      "file": "concussion_sport_return",
+      "title": "Concussion Sport Return"
+    },
+    {
+      "file": "cooling_down_after_sport",
+      "title": "Cooling Down After Sport"
+    },
+    {
+      "file": "golfer_elbow_pain",
+      "title": "Golfer Elbow Pain"
+    },
+    {
+      "file": "groin_pain_sport",
+      "title": "Groin Pain Sport"
+    },
+    {
+      "file": "groin_strain_recovery",
+      "title": "Groin Strain Recovery"
+    },
+    {
+      "file": "hamstring_strain_prevention",
+      "title": "Hamstring Strain Prevention"
+    },
+    {
+      "file": "hamstring_strain_recovery",
+      "title": "Hamstring Strain Recovery"
+    },
+    {
+      "file": "head_injury_in_sport",
+      "title": "Head Injury In Sport"
+    },
+    {
+      "file": "heat_illness_in_sport",
+      "title": "Heat Illness In Sport"
+    },
+    {
+      "file": "hip_flexor_strain",
+      "title": "Hip Flexor Strain"
+    },
+    {
+      "file": "it_band_knee_pain",
+      "title": "It Band Knee Pain"
+    },
+    {
+      "file": "knee_cartilage_injury",
+      "title": "Knee Cartilage Injury"
+    },
+    {
+      "file": "knee_injury_return_to_running",
+      "title": "Knee Injury Return To Running"
+    },
+    {
+      "file": "lower_back_strain_sport",
+      "title": "Lower Back Strain Sport"
+    },
+    {
+      "file": "meniscus_tear_recovery",
+      "title": "Meniscus Tear Recovery"
+    },
+    {
+      "file": "muscle_soreness_after_exercise",
+      "title": "Muscle Soreness After Exercise"
+    },
+    {
+      "file": "overhead_shoulder_pain",
+      "title": "Overhead Shoulder Pain"
+    },
+    {
+      "file": "overtraining_and_recovery",
+      "title": "Overtraining And Recovery"
+    },
+    {
+      "file": "patellar_tendonitis_sport",
+      "title": "Patellar Tendonitis Sport"
+    },
+    {
+      "file": "patellofemoral_knee_pain",
+      "title": "Patellofemoral Knee Pain"
+    },
+    {
+      "file": "plantar_heel_pain",
+      "title": "Plantar Heel Pain"
+    },
+    {
+      "file": "protective_equipment_in_sport",
+      "title": "Protective Equipment In Sport"
+    },
+    {
+      "file": "quadriceps_strain_recovery",
+      "title": "Quadriceps Strain Recovery"
+    },
+    {
+      "file": "return_to_play_after_injury",
+      "title": "Return To Play After Injury"
+    },
+    {
+      "file": "rotator_cuff_strain_recovery",
+      "title": "Rotator Cuff Strain Recovery"
+    },
+    {
+      "file": "shin_splints_prevention",
+      "title": "Shin Splints Prevention"
+    },
+    {
+      "file": "shin_splints_treatment",
+      "title": "Shin Splints Treatment"
+    },
+    {
+      "file": "shoulder_dislocation_sport",
+      "title": "Shoulder Dislocation Sport"
+    },
+    {
+      "file": "sleep_athletic_recovery",
+      "title": "Sleep Athletic Recovery"
+    },
+    {
+      "file": "sport_muscle_cramps",
+      "title": "Sport Muscle Cramps"
+    },
+    {
+      "file": "sports_braces_supports",
+      "title": "Sports Braces Supports"
+    },
+    {
+      "file": "sports_footwear_fit",
+      "title": "Sports Footwear Fit"
+    },
+    {
+      "file": "sports_hydration",
+      "title": "Sports Hydration"
+    },
+    {
+      "file": "sports_injury_swelling",
+      "title": "Sports Injury Swelling"
+    },
+    {
+      "file": "sports_massage_recovery",
+      "title": "Sports Massage Recovery"
+    },
+    {
+      "file": "sports_nutrition_recovery",
+      "title": "Sports Nutrition Recovery"
+    },
+    {
+      "file": "sports_physio_rehab",
+      "title": "Sports Physio Rehab"
+    },
+    {
+      "file": "sports_taping_support",
+      "title": "Sports Taping Support"
+    },
+    {
+      "file": "sports_thumb_sprain",
+      "title": "Sports Thumb Sprain"
+    },
+    {
+      "file": "sports_wrist_sprain",
+      "title": "Sports Wrist Sprain"
+    },
+    {
+      "file": "stress_fracture_recovery",
+      "title": "Stress Fracture Recovery"
+    },
+    {
+      "file": "tennis_elbow_pain",
+      "title": "Tennis Elbow Pain"
+    },
+    {
+      "file": "warming_up_for_sport",
+      "title": "Warming Up For Sport"
+    },
+    {
+      "file": "youth_sports_safety",
+      "title": "Youth Sports Safety"
+    }
+  ]
+}

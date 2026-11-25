@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "strength_training",
+  "title": "Strength Training",
+  "modules": [
+    {
+      "file": "accessory_exercises",
+      "title": "Accessory Exercises"
+    },
+    {
+      "file": "beginner_programme",
+      "title": "Beginner Programme"
+    },
+    {
+      "file": "bench_press_arch",
+      "title": "Bench Press Arch"
+    },
+    {
+      "file": "bench_press_bar_path",
+      "title": "Bench Press Bar Path"
+    },
+    {
+      "file": "bench_press_form",
+      "title": "Bench Press Form"
+    },
+    {
+      "file": "bench_press_grip",
+      "title": "Bench Press Grip"
+    },
+    {
+      "file": "breathing_and_bracing",
+      "title": "Breathing And Bracing"
+    },
+    {
+      "file": "chalk_for_lifting",
+      "title": "Chalk For Lifting"
+    },
+    {
+      "file": "compound_vs_isolation",
+      "title": "Compound Vs Isolation"
+    },
+    {
+      "file": "cooling_down_after_lifting",
+      "title": "Cooling Down After Lifting"
+    },
+    {
+      "file": "core_work_for_lifting",
+      "title": "Core Work For Lifting"
+    },
+    {
+      "file": "deadlift_form",
+      "title": "Deadlift Form"
+    },
+    {
+      "file": "deadlift_hip_height",
+      "title": "Deadlift Hip Height"
+    },
+    {
+      "file": "deadlift_lockout",
+      "title": "Deadlift Lockout"
+    },
+    {
+      "file": "deload_weeks",
+      "title": "Deload Weeks"
+    },
+    {
+      "file": "dumbbells_vs_barbells",
+      "title": "Dumbbells Vs Barbells"
+    },
+    {
+      "file": "estimating_one_rep_max",
+      "title": "Estimating One Rep Max"
+    },
+    {
+      "file": "farmer_carries",
+      "title": "Farmer Carries"
+    },
+    {
+      "file": "gym_etiquette",
+      "title": "Gym Etiquette"
+    },
+    {
+      "file": "hip_hinge_exercises",
+      "title": "Hip Hinge Exercises"
+    },
+    {
+      "file": "home_gym_equipment",
+      "title": "Home Gym Equipment"
+    },
+    {
+      "file": "intermediate_programme",
+      "title": "Intermediate Programme"
+    },
+    {
+      "file": "knee_sleeves",
+      "title": "Knee Sleeves"
+    },
+    {
+      "file": "lifting_belt",
+      "title": "Lifting Belt"
+    },
+    {
+      "file": "lifting_shoes",
+      "title": "Lifting Shoes"
+    },
+    {
+      "file": "lifting_with_back_pain",
+      "title": "Lifting With Back Pain"
+    },
+    {
+      "file": "one_rep_max_testing",
+      "title": "One Rep Max Testing"
+    },
+    {
+      "file": "overhead_press_form",
+      "title": "Overhead Press Form"
+    },
+    {
+      "file": "overhead_press_mobility",
+      "title": "Overhead Press Mobility"
+    },
+    {
+      "file": "periodisation",
+      "title": "Periodisation"
+    },
+    {
+      "file": "progressive_overload",
+      "title": "Progressive Overload"
+    },
+    {
+      "file": "protein_for_strength",
+      "title": "Protein For Strength"
+    },
+    {
+      "file": "pull_ups_and_chin_ups",
+      "title": "Pull Ups And Chin Ups"
+    },
+    {
+      "file": "rack_safety_settings",
+      "title": "Rack Safety Settings"
+    },
+    {
+      "file": "recovery_for_lifting",
+      "title": "Recovery For Lifting"
+    },
+    {
+      "file": "reps_per_set",
+      "title": "Reps Per Set"
+    },
+    {
+      "file": "rest_between_sets",
+      "title": "Rest Between Sets"
+    },
+    {
+      "file": "rowing_exercises",
+      "title": "Rowing Exercises"
+    },
+    {
+      "file": "sets_per_exercise",
+      "title": "Sets Per Exercise"
+    },
+    {
+      "file": "spotting_bench_press",
+      "title": "Spotting Bench Press"
+    },
+    {
+      "file": "squat_bar_position",
+      "title": "Squat Bar Position"
+    },
+    {
+      "file": "squat_depth_and_stance",
+      "title": "Squat Depth And Stance"
+    },
+    {
+      "file": "squat_form",
+      "title": "Squat Form"
+    },
+    {
+      "file": "strength_plateaus",
+      "title": "Strength Plateaus"
+    },
+    {
+      "file": "sumo_vs_conventional_deadlift",
+      "title": "Sumo Vs Conventional Deadlift"
+    },
+    {
+      "file": "training_frequency",
+      "title": "Training Frequency"
+    },
+    {
+      "file": "training_volume",
+      "title": "Training Volume"
+    },
+    {
+      "file": "unilateral_leg_exercises",
+      "title": "Unilateral Leg Exercises"
+    },
+    {
+      "file": "warming_up_for_lifting",
+      "title": "Warming Up For Lifting"
+    },
+    {
+      "file": "wrist_wraps",
+      "title": "Wrist Wraps"
+    }
+  ]
+}

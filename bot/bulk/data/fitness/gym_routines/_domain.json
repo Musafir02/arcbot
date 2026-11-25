@@ -1,0 +1,207 @@
+{
+  "category": "fitness",
+  "domain": "gym_routines",
+  "title": "Gym Routines",
+  "modules": [
+    {
+      "file": "abdominal_exercises",
+      "title": "Abdominal Exercises"
+    },
+    {
+      "file": "barbell_workouts",
+      "title": "Barbell Workouts"
+    },
+    {
+      "file": "beginner_gym_plan",
+      "title": "Beginner Gym Plan"
+    },
+    {
+      "file": "bodyweight_exercises_at_gym",
+      "title": "Bodyweight Exercises At Gym"
+    },
+    {
+      "file": "breaking_a_plateau",
+      "title": "Breaking A Plateau"
+    },
+    {
+      "file": "breathing_during_lifts",
+      "title": "Breathing During Lifts"
+    },
+    {
+      "file": "cable_machine_workouts",
+      "title": "Cable Machine Workouts"
+    },
+    {
+      "file": "cardio_at_the_gym",
+      "title": "Cardio At The Gym"
+    },
+    {
+      "file": "changing_gym_routine",
+      "title": "Changing Gym Routine"
+    },
+    {
+      "file": "choosing_weights",
+      "title": "Choosing Weights"
+    },
+    {
+      "file": "compound_exercises",
+      "title": "Compound Exercises"
+    },
+    {
+      "file": "cool_down_after_lifting",
+      "title": "Cool Down After Lifting"
+    },
+    {
+      "file": "core_training",
+      "title": "Core Training"
+    },
+    {
+      "file": "deload_week",
+      "title": "Deload Week"
+    },
+    {
+      "file": "dumbbell_workouts",
+      "title": "Dumbbell Workouts"
+    },
+    {
+      "file": "full_body_workouts",
+      "title": "Full Body Workouts"
+    },
+    {
+      "file": "gym_equipment_checklist",
+      "title": "Gym Equipment Checklist"
+    },
+    {
+      "file": "gym_etiquette",
+      "title": "Gym Etiquette"
+    },
+    {
+      "file": "gym_induction_session",
+      "title": "Gym Induction Session"
+    },
+    {
+      "file": "gym_injury_signs",
+      "title": "Gym Injury Signs"
+    },
+    {
+      "file": "gym_plan_for_muscle_gain",
+      "title": "Gym Plan For Muscle Gain"
+    },
+    {
+      "file": "gym_plan_for_older_adults",
+      "title": "Gym Plan For Older Adults"
+    },
+    {
+      "file": "gym_plan_for_weight_loss",
+      "title": "Gym Plan For Weight Loss"
+    },
+    {
+      "file": "gym_routine_for_busy_schedules",
+      "title": "Gym Routine For Busy Schedules"
+    },
+    {
+      "file": "gym_shoes_and_clothing",
+      "title": "Gym Shoes And Clothing"
+    },
+    {
+      "file": "hiit_workouts",
+      "title": "Hiit Workouts"
+    },
+    {
+      "file": "hiring_a_personal_trainer",
+      "title": "Hiring A Personal Trainer"
+    },
+    {
+      "file": "hydration_at_the_gym",
+      "title": "Hydration At The Gym"
+    },
+    {
+      "file": "isolation_exercises",
+      "title": "Isolation Exercises"
+    },
+    {
+      "file": "kettlebell_workouts",
+      "title": "Kettlebell Workouts"
+    },
+    {
+      "file": "lifting_form_checks",
+      "title": "Lifting Form Checks"
+    },
+    {
+      "file": "lower_body_workout",
+      "title": "Lower Body Workout"
+    },
+    {
+      "file": "machines_vs_free_weights",
+      "title": "Machines Vs Free Weights"
+    },
+    {
+      "file": "muscle_recovery_days",
+      "title": "Muscle Recovery Days"
+    },
+    {
+      "file": "post_gym_nutrition",
+      "title": "Post Gym Nutrition"
+    },
+    {
+      "file": "post_workout_soreness",
+      "title": "Post Workout Soreness"
+    },
+    {
+      "file": "pre_gym_meal",
+      "title": "Pre Gym Meal"
+    },
+    {
+      "file": "progressive_overload",
+      "title": "Progressive Overload"
+    },
+    {
+      "file": "push_pull_legs_split",
+      "title": "Push Pull Legs Split"
+    },
+    {
+      "file": "range_of_motion_in_lifts",
+      "title": "Range Of Motion In Lifts"
+    },
+    {
+      "file": "rest_between_sets",
+      "title": "Rest Between Sets"
+    },
+    {
+      "file": "sets_and_reps",
+      "title": "Sets And Reps"
+    },
+    {
+      "file": "tracking_gym_progress",
+      "title": "Tracking Gym Progress"
+    },
+    {
+      "file": "training_to_failure",
+      "title": "Training To Failure"
+    },
+    {
+      "file": "training_with_a_partner",
+      "title": "Training With A Partner"
+    },
+    {
+      "file": "upper_body_workout",
+      "title": "Upper Body Workout"
+    },
+    {
+      "file": "using_a_spotter",
+      "title": "Using A Spotter"
+    },
+    {
+      "file": "warm_up_for_lifting",
+      "title": "Warm Up For Lifting"
+    },
+    {
+      "file": "weekly_gym_frequency",
+      "title": "Weekly Gym Frequency"
+    },
+    {
+      "file": "workout_logbook",
+      "title": "Workout Logbook"
+    }
+  ]
+}

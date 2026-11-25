@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "eyes_and_ears",
+  "title": "Eyes And Ears",
+  "modules": [
+    {
+      "file": "balance_and_ears",
+      "title": "Balance And Ears"
+    },
+    {
+      "file": "blepharitis",
+      "title": "Blepharitis"
+    },
+    {
+      "file": "blurred_vision",
+      "title": "Blurred Vision"
+    },
+    {
+      "file": "cataracts",
+      "title": "Cataracts"
+    },
+    {
+      "file": "child_ear_infections",
+      "title": "Child Ear Infections"
+    },
+    {
+      "file": "child_eye_checks",
+      "title": "Child Eye Checks"
+    },
+    {
+      "file": "child_hearing_checks",
+      "title": "Child Hearing Checks"
+    },
+    {
+      "file": "conjunctivitis",
+      "title": "Conjunctivitis"
+    },
+    {
+      "file": "contact_lenses",
+      "title": "Contact Lenses"
+    },
+    {
+      "file": "double_vision",
+      "title": "Double Vision"
+    },
+    {
+      "file": "dry_eyes",
+      "title": "Dry Eyes"
+    },
+    {
+      "file": "ear_canal_care",
+      "title": "Ear Canal Care"
+    },
+    {
+      "file": "ear_cleaning",
+      "title": "Ear Cleaning"
+    },
+    {
+      "file": "ear_drops",
+      "title": "Ear Drops"
+    },
+    {
+      "file": "ear_drum",
+      "title": "Ear Drum"
+    },
+    {
+      "file": "ear_infections",
+      "title": "Ear Infections"
+    },
+    {
+      "file": "ear_irrigation",
+      "title": "Ear Irrigation"
+    },
+    {
+      "file": "ear_piercings",
+      "title": "Ear Piercings"
+    },
+    {
+      "file": "ear_pressure",
+      "title": "Ear Pressure"
+    },
+    {
+      "file": "ear_tubes",
+      "title": "Ear Tubes"
+    },
+    {
+      "file": "ear_wax",
+      "title": "Ear Wax"
+    },
+    {
+      "file": "earache",
+      "title": "Earache"
+    },
+    {
+      "file": "eye_allergies",
+      "title": "Eye Allergies"
+    },
+    {
+      "file": "eye_drops",
+      "title": "Eye Drops"
+    },
+    {
+      "file": "eye_first_aid",
+      "title": "Eye First Aid"
+    },
+    {
+      "file": "eye_flashes",
+      "title": "Eye Flashes"
+    },
+    {
+      "file": "eye_floaters",
+      "title": "Eye Floaters"
+    },
+    {
+      "file": "eye_foreign_body",
+      "title": "Eye Foreign Body"
+    },
+    {
+      "file": "eye_pain",
+      "title": "Eye Pain"
+    },
+    {
+      "file": "eye_strain",
+      "title": "Eye Strain"
+    },
+    {
+      "file": "eye_tests",
+      "title": "Eye Tests"
+    },
+    {
+      "file": "eyelid_hygiene",
+      "title": "Eyelid Hygiene"
+    },
+    {
+      "file": "glasses_prescriptions",
+      "title": "Glasses Prescriptions"
+    },
+    {
+      "file": "glaucoma",
+      "title": "Glaucoma"
+    },
+    {
+      "file": "hearing_aids",
+      "title": "Hearing Aids"
+    },
+    {
+      "file": "hearing_checks",
+      "title": "Hearing Checks"
+    },
+    {
+      "file": "hearing_loss",
+      "title": "Hearing Loss"
+    },
+    {
+      "file": "hearing_protection",
+      "title": "Hearing Protection"
+    },
+    {
+      "file": "itchy_ears",
+      "title": "Itchy Ears"
+    },
+    {
+      "file": "itchy_eyes",
+      "title": "Itchy Eyes"
+    },
+    {
+      "file": "macular_degeneration",
+      "title": "Macular Degeneration"
+    },
+    {
+      "file": "noise_and_hearing",
+      "title": "Noise And Hearing"
+    },
+    {
+      "file": "reading_glasses",
+      "title": "Reading Glasses"
+    },
+    {
+      "file": "red_eyes",
+      "title": "Red Eyes"
+    },
+    {
+      "file": "scratched_eye",
+      "title": "Scratched Eye"
+    },
+    {
+      "file": "styes",
+      "title": "Styes"
+    },
+    {
+      "file": "sudden_hearing_loss",
+      "title": "Sudden Hearing Loss"
+    },
+    {
+      "file": "swimmers_ear",
+      "title": "Swimmers Ear"
+    },
+    {
+      "file": "tinnitus",
+      "title": "Tinnitus"
+    },
+    {
+      "file": "watery_eyes",
+      "title": "Watery Eyes"
+    }
+  ]
+}

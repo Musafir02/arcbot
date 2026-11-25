@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "skin_and_hair",
+  "title": "Skin And Hair",
+  "modules": [
+    {
+      "file": "acne_care",
+      "title": "Acne Care"
+    },
+    {
+      "file": "anti_ageing_skin",
+      "title": "Anti Ageing Skin"
+    },
+    {
+      "file": "blackheads",
+      "title": "Blackheads"
+    },
+    {
+      "file": "bleached_hair_care",
+      "title": "Bleached Hair Care"
+    },
+    {
+      "file": "chlorine_hair_care",
+      "title": "Chlorine Hair Care"
+    },
+    {
+      "file": "choosing_shampoo",
+      "title": "Choosing Shampoo"
+    },
+    {
+      "file": "coloured_hair_care",
+      "title": "Coloured Hair Care"
+    },
+    {
+      "file": "conditioner_benefits",
+      "title": "Conditioner Benefits"
+    },
+    {
+      "file": "contact_dermatitis",
+      "title": "Contact Dermatitis"
+    },
+    {
+      "file": "curly_hair_care",
+      "title": "Curly Hair Care"
+    },
+    {
+      "file": "dandruff_control",
+      "title": "Dandruff Control"
+    },
+    {
+      "file": "dark_circles",
+      "title": "Dark Circles"
+    },
+    {
+      "file": "deep_conditioning_hair",
+      "title": "Deep Conditioning Hair"
+    },
+    {
+      "file": "detangling_hair",
+      "title": "Detangling Hair"
+    },
+    {
+      "file": "dry_face_skin",
+      "title": "Dry Face Skin"
+    },
+    {
+      "file": "dry_scalp",
+      "title": "Dry Scalp"
+    },
+    {
+      "file": "dry_skin_in_winter",
+      "title": "Dry Skin In Winter"
+    },
+    {
+      "file": "drying_hair_after_wash",
+      "title": "Drying Hair After Wash"
+    },
+    {
+      "file": "eczema_skin_care",
+      "title": "Eczema Skin Care"
+    },
+    {
+      "file": "exfoliating_skin",
+      "title": "Exfoliating Skin"
+    },
+    {
+      "file": "face_cleansing",
+      "title": "Face Cleansing"
+    },
+    {
+      "file": "face_masks",
+      "title": "Face Masks"
+    },
+    {
+      "file": "fine_hair_volume",
+      "title": "Fine Hair Volume"
+    },
+    {
+      "file": "frizzy_hair",
+      "title": "Frizzy Hair"
+    },
+    {
+      "file": "hair_breakage",
+      "title": "Hair Breakage"
+    },
+    {
+      "file": "hair_extensions_care",
+      "title": "Hair Extensions Care"
+    },
+    {
+      "file": "hair_growth_tips",
+      "title": "Hair Growth Tips"
+    },
+    {
+      "file": "hair_loss_care",
+      "title": "Hair Loss Care"
+    },
+    {
+      "file": "hair_static",
+      "title": "Hair Static"
+    },
+    {
+      "file": "heat_styling_damage",
+      "title": "Heat Styling Damage"
+    },
+    {
+      "file": "ingrown_hairs",
+      "title": "Ingrown Hairs"
+    },
+    {
+      "file": "moisturiser_for_dry_skin",
+      "title": "Moisturiser For Dry Skin"
+    },
+    {
+      "file": "oily_hair",
+      "title": "Oily Hair"
+    },
+    {
+      "file": "oily_skin",
+      "title": "Oily Skin"
+    },
+    {
+      "file": "psoriasis_skin_care",
+      "title": "Psoriasis Skin Care"
+    },
+    {
+      "file": "scalp_massage",
+      "title": "Scalp Massage"
+    },
+    {
+      "file": "scar_care",
+      "title": "Scar Care"
+    },
+    {
+      "file": "sensitive_skin",
+      "title": "Sensitive Skin"
+    },
+    {
+      "file": "shaving_skin_care",
+      "title": "Shaving Skin Care"
+    },
+    {
+      "file": "skin_barrier_repair",
+      "title": "Skin Barrier Repair"
+    },
+    {
+      "file": "skin_hydration",
+      "title": "Skin Hydration"
+    },
+    {
+      "file": "skin_pigmentation",
+      "title": "Skin Pigmentation"
+    },
+    {
+      "file": "skincare_routine_order",
+      "title": "Skincare Routine Order"
+    },
+    {
+      "file": "split_ends",
+      "title": "Split Ends"
+    },
+    {
+      "file": "spots_and_blemishes",
+      "title": "Spots And Blemishes"
+    },
+    {
+      "file": "stretch_marks",
+      "title": "Stretch Marks"
+    },
+    {
+      "file": "sunburn_care",
+      "title": "Sunburn Care"
+    },
+    {
+      "file": "sunscreen_use",
+      "title": "Sunscreen Use"
+    },
+    {
+      "file": "thinning_hair",
+      "title": "Thinning Hair"
+    },
+    {
+      "file": "washing_hair_frequency",
+      "title": "Washing Hair Frequency"
+    }
+  ]
+}

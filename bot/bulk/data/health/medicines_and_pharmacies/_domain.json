@@ -1,0 +1,207 @@
+{
+  "category": "health",
+  "domain": "medicines_and_pharmacies",
+  "title": "Medicines And Pharmacies",
+  "modules": [
+    {
+      "file": "antacids",
+      "title": "Antacids"
+    },
+    {
+      "file": "antibiotics_course",
+      "title": "Antibiotics Course"
+    },
+    {
+      "file": "antihistamines",
+      "title": "Antihistamines"
+    },
+    {
+      "file": "aspirin",
+      "title": "Aspirin"
+    },
+    {
+      "file": "blood_pressure_medicines",
+      "title": "Blood Pressure Medicines"
+    },
+    {
+      "file": "childrens_medicine",
+      "title": "Childrens Medicine"
+    },
+    {
+      "file": "cholesterol_medicines",
+      "title": "Cholesterol Medicines"
+    },
+    {
+      "file": "cold_and_flu_medicines",
+      "title": "Cold And Flu Medicines"
+    },
+    {
+      "file": "combination_painkillers",
+      "title": "Combination Painkillers"
+    },
+    {
+      "file": "cough_medicines",
+      "title": "Cough Medicines"
+    },
+    {
+      "file": "decongestants",
+      "title": "Decongestants"
+    },
+    {
+      "file": "diarrhoea_medicines",
+      "title": "Diarrhoea Medicines"
+    },
+    {
+      "file": "disposing_of_medicines",
+      "title": "Disposing Of Medicines"
+    },
+    {
+      "file": "double_dose",
+      "title": "Double Dose"
+    },
+    {
+      "file": "drug_allergies",
+      "title": "Drug Allergies"
+    },
+    {
+      "file": "drug_interactions",
+      "title": "Drug Interactions"
+    },
+    {
+      "file": "ear_drops",
+      "title": "Ear Drops"
+    },
+    {
+      "file": "eye_drops",
+      "title": "Eye Drops"
+    },
+    {
+      "file": "generic_medicines",
+      "title": "Generic Medicines"
+    },
+    {
+      "file": "hay_fever_medicines",
+      "title": "Hay Fever Medicines"
+    },
+    {
+      "file": "herbal_remedies",
+      "title": "Herbal Remedies"
+    },
+    {
+      "file": "ibuprofen",
+      "title": "Ibuprofen"
+    },
+    {
+      "file": "inhalers",
+      "title": "Inhalers"
+    },
+    {
+      "file": "laxatives",
+      "title": "Laxatives"
+    },
+    {
+      "file": "liquid_medicine_measures",
+      "title": "Liquid Medicine Measures"
+    },
+    {
+      "file": "medicine_and_alcohol",
+      "title": "Medicine And Alcohol"
+    },
+    {
+      "file": "medicine_expiry_dates",
+      "title": "Medicine Expiry Dates"
+    },
+    {
+      "file": "medicine_for_older_people",
+      "title": "Medicine For Older People"
+    },
+    {
+      "file": "medicine_in_pregnancy",
+      "title": "Medicine In Pregnancy"
+    },
+    {
+      "file": "medicine_while_breastfeeding",
+      "title": "Medicine While Breastfeeding"
+    },
+    {
+      "file": "missed_dose",
+      "title": "Missed Dose"
+    },
+    {
+      "file": "nasal_sprays",
+      "title": "Nasal Sprays"
+    },
+    {
+      "file": "pain_relief_creams",
+      "title": "Pain Relief Creams"
+    },
+    {
+      "file": "painkillers_with_food",
+      "title": "Painkillers With Food"
+    },
+    {
+      "file": "paracetamol",
+      "title": "Paracetamol"
+    },
+    {
+      "file": "pharmacy_services",
+      "title": "Pharmacy Services"
+    },
+    {
+      "file": "probiotics",
+      "title": "Probiotics"
+    },
+    {
+      "file": "reading_prescription_labels",
+      "title": "Reading Prescription Labels"
+    },
+    {
+      "file": "repeat_prescriptions",
+      "title": "Repeat Prescriptions"
+    },
+    {
+      "file": "sickness_medicines",
+      "title": "Sickness Medicines"
+    },
+    {
+      "file": "side_effects",
+      "title": "Side Effects"
+    },
+    {
+      "file": "sleep_aids",
+      "title": "Sleep Aids"
+    },
+    {
+      "file": "storing_medicines_at_home",
+      "title": "Storing Medicines At Home"
+    },
+    {
+      "file": "taking_medicine_with_water",
+      "title": "Taking Medicine With Water"
+    },
+    {
+      "file": "throat_lozenges",
+      "title": "Throat Lozenges"
+    },
+    {
+      "file": "thyroid_medicines",
+      "title": "Thyroid Medicines"
+    },
+    {
+      "file": "topical_creams",
+      "title": "Topical Creams"
+    },
+    {
+      "file": "travel_medicines",
+      "title": "Travel Medicines"
+    },
+    {
+      "file": "vaccinations",
+      "title": "Vaccinations"
+    },
+    {
+      "file": "vitamins_and_supplements",
+      "title": "Vitamins And Supplements"
+    }
+  ]
+}
