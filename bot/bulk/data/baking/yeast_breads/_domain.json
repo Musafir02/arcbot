@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "yeast_breads",
+  "title": "Yeast Breads",
+  "modules": [
+    {
+      "file": "activating_yeast",
+      "title": "Activating Yeast"
+    },
+    {
+      "file": "bagels",
+      "title": "Bagels"
+    },
+    {
+      "file": "baguette",
+      "title": "Baguette"
+    },
+    {
+      "file": "baking_powder_and_yeast",
+      "title": "Baking Powder And Yeast"
+    },
+    {
+      "file": "bread_baking_steam",
+      "title": "Bread Baking Steam"
+    },
+    {
+      "file": "bread_baking_temperature",
+      "title": "Bread Baking Temperature"
+    },
+    {
+      "file": "bread_baking_time",
+      "title": "Bread Baking Time"
+    },
+    {
+      "file": "bread_collapsing",
+      "title": "Bread Collapsing"
+    },
+    {
+      "file": "bread_crumb_texture",
+      "title": "Bread Crumb Texture"
+    },
+    {
+      "file": "bread_done_baking",
+      "title": "Bread Done Baking"
+    },
+    {
+      "file": "bread_dough_hydration",
+      "title": "Bread Dough Hydration"
+    },
+    {
+      "file": "bread_flour_types",
+      "title": "Bread Flour Types"
+    },
+    {
+      "file": "bread_going_stale",
+      "title": "Bread Going Stale"
+    },
+    {
+      "file": "bread_machine",
+      "title": "Bread Machine"
+    },
+    {
+      "file": "bread_not_rising",
+      "title": "Bread Not Rising"
+    },
+    {
+      "file": "bread_proving_temperature",
+      "title": "Bread Proving Temperature"
+    },
+    {
+      "file": "bread_rising_too_fast",
+      "title": "Bread Rising Too Fast"
+    },
+    {
+      "file": "bread_rolls",
+      "title": "Bread Rolls"
+    },
+    {
+      "file": "bread_second_proof",
+      "title": "Bread Second Proof"
+    },
+    {
+      "file": "bread_yeast_amount",
+      "title": "Bread Yeast Amount"
+    },
+    {
+      "file": "brioche",
+      "title": "Brioche"
+    },
+    {
+      "file": "burger_buns",
+      "title": "Burger Buns"
+    },
+    {
+      "file": "challah",
+      "title": "Challah"
+    },
+    {
+      "file": "ciabatta",
+      "title": "Ciabatta"
+    },
+    {
+      "file": "cold_proofing_bread",
+      "title": "Cold Proofing Bread"
+    },
+    {
+      "file": "cooling_bread",
+      "title": "Cooling Bread"
+    },
+    {
+      "file": "dough_proving_time",
+      "title": "Dough Proving Time"
+    },
+    {
+      "file": "dry_bread_dough",
+      "title": "Dry Bread Dough"
+    },
+    {
+      "file": "enriched_bread_dough",
+      "title": "Enriched Bread Dough"
+    },
+    {
+      "file": "focaccia",
+      "title": "Focaccia"
+    },
+    {
+      "file": "freezing_bread",
+      "title": "Freezing Bread"
+    },
+    {
+      "file": "glazing_bread_crust",
+      "title": "Glazing Bread Crust"
+    },
+    {
+      "file": "hard_bread_crust",
+      "title": "Hard Bread Crust"
+    },
+    {
+      "file": "kneading_bread_dough",
+      "title": "Kneading Bread Dough"
+    },
+    {
+      "file": "naan_bread",
+      "title": "Naan Bread"
+    },
+    {
+      "file": "no_knead_bread",
+      "title": "No Knead Bread"
+    },
+    {
+      "file": "over_proved_bread_dough",
+      "title": "Over Proved Bread Dough"
+    },
+    {
+      "file": "pita_bread",
+      "title": "Pita Bread"
+    },
+    {
+      "file": "salt_in_bread",
+      "title": "Salt In Bread"
+    },
+    {
+      "file": "scoring_bread_dough",
+      "title": "Scoring Bread Dough"
+    },
+    {
+      "file": "shaping_bread_loaves",
+      "title": "Shaping Bread Loaves"
+    },
+    {
+      "file": "soft_bread_crust",
+      "title": "Soft Bread Crust"
+    },
+    {
+      "file": "soggy_bread_bottom",
+      "title": "Soggy Bread Bottom"
+    },
+    {
+      "file": "sourdough_starter",
+      "title": "Sourdough Starter"
+    },
+    {
+      "file": "sticky_bread_dough",
+      "title": "Sticky Bread Dough"
+    },
+    {
+      "file": "storing_bread",
+      "title": "Storing Bread"
+    },
+    {
+      "file": "sugar_in_bread_dough",
+      "title": "Sugar In Bread Dough"
+    },
+    {
+      "file": "white_bread",
+      "title": "White Bread"
+    },
+    {
+      "file": "wholemeal_bread",
+      "title": "Wholemeal Bread"
+    },
+    {
+      "file": "yeast_taste_in_bread",
+      "title": "Yeast Taste In Bread"
+    }
+  ]
+}

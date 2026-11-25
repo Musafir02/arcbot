@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "pastry_and_pies",
+  "title": "Pastry And Pies",
+  "modules": [
+    {
+      "file": "baking_beans",
+      "title": "Baking Beans"
+    },
+    {
+      "file": "baking_pie_temperature",
+      "title": "Baking Pie Temperature"
+    },
+    {
+      "file": "baking_pie_time",
+      "title": "Baking Pie Time"
+    },
+    {
+      "file": "blind_baking_pastry_case",
+      "title": "Blind Baking Pastry Case"
+    },
+    {
+      "file": "choux_pastry",
+      "title": "Choux Pastry"
+    },
+    {
+      "file": "crimping_pie_edges",
+      "title": "Crimping Pie Edges"
+    },
+    {
+      "file": "crumbly_pastry_dough",
+      "title": "Crumbly Pastry Dough"
+    },
+    {
+      "file": "custard_tart_filling",
+      "title": "Custard Tart Filling"
+    },
+    {
+      "file": "egg_wash_on_pastry",
+      "title": "Egg Wash On Pastry"
+    },
+    {
+      "file": "fat_for_pastry",
+      "title": "Fat For Pastry"
+    },
+    {
+      "file": "filo_pastry",
+      "title": "Filo Pastry"
+    },
+    {
+      "file": "flaky_pastry",
+      "title": "Flaky Pastry"
+    },
+    {
+      "file": "flour_for_pastry",
+      "title": "Flour For Pastry"
+    },
+    {
+      "file": "freezing_pastry_dough",
+      "title": "Freezing Pastry Dough"
+    },
+    {
+      "file": "fruit_pie_filling",
+      "title": "Fruit Pie Filling"
+    },
+    {
+      "file": "laminating_dough",
+      "title": "Laminating Dough"
+    },
+    {
+      "file": "lard_pastry",
+      "title": "Lard Pastry"
+    },
+    {
+      "file": "lattice_pie_crust",
+      "title": "Lattice Pie Crust"
+    },
+    {
+      "file": "lining_pie_tin",
+      "title": "Lining Pie Tin"
+    },
+    {
+      "file": "mince_pies",
+      "title": "Mince Pies"
+    },
+    {
+      "file": "pastry_in_hot_weather",
+      "title": "Pastry In Hot Weather"
+    },
+    {
+      "file": "pastry_shrinking_in_tin",
+      "title": "Pastry Shrinking In Tin"
+    },
+    {
+      "file": "pastry_thickness",
+      "title": "Pastry Thickness"
+    },
+    {
+      "file": "pastry_without_butter",
+      "title": "Pastry Without Butter"
+    },
+    {
+      "file": "pie_crust_burning",
+      "title": "Pie Crust Burning"
+    },
+    {
+      "file": "pie_crust_cracking",
+      "title": "Pie Crust Cracking"
+    },
+    {
+      "file": "pie_dish_types",
+      "title": "Pie Dish Types"
+    },
+    {
+      "file": "pie_filling_bubbling_over",
+      "title": "Pie Filling Bubbling Over"
+    },
+    {
+      "file": "pricking_pastry_base",
+      "title": "Pricking Pastry Base"
+    },
+    {
+      "file": "puff_pastry",
+      "title": "Puff Pastry"
+    },
+    {
+      "file": "quiche",
+      "title": "Quiche"
+    },
+    {
+      "file": "reheating_pies",
+      "title": "Reheating Pies"
+    },
+    {
+      "file": "resting_pastry_dough",
+      "title": "Resting Pastry Dough"
+    },
+    {
+      "file": "reusing_pastry_scraps",
+      "title": "Reusing Pastry Scraps"
+    },
+    {
+      "file": "rolling_out_pastry",
+      "title": "Rolling Out Pastry"
+    },
+    {
+      "file": "rough_puff_pastry",
+      "title": "Rough Puff Pastry"
+    },
+    {
+      "file": "salt_in_pastry",
+      "title": "Salt In Pastry"
+    },
+    {
+      "file": "savoury_pie_filling",
+      "title": "Savoury Pie Filling"
+    },
+    {
+      "file": "shortcrust_pastry",
+      "title": "Shortcrust Pastry"
+    },
+    {
+      "file": "soggy_pastry_bottom",
+      "title": "Soggy Pastry Bottom"
+    },
+    {
+      "file": "sticky_pastry_dough",
+      "title": "Sticky Pastry Dough"
+    },
+    {
+      "file": "storing_pastry_dough",
+      "title": "Storing Pastry Dough"
+    },
+    {
+      "file": "suet_pastry",
+      "title": "Suet Pastry"
+    },
+    {
+      "file": "sweet_pastry",
+      "title": "Sweet Pastry"
+    },
+    {
+      "file": "tart_cases",
+      "title": "Tart Cases"
+    },
+    {
+      "file": "thickening_pie_filling",
+      "title": "Thickening Pie Filling"
+    },
+    {
+      "file": "tough_pastry",
+      "title": "Tough Pastry"
+    },
+    {
+      "file": "vegan_pastry",
+      "title": "Vegan Pastry"
+    },
+    {
+      "file": "venting_pie_crust",
+      "title": "Venting Pie Crust"
+    },
+    {
+      "file": "water_in_pastry",
+      "title": "Water In Pastry"
+    }
+  ]
+}

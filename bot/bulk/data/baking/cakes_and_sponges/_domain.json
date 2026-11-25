@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "cakes_and_sponges",
+  "title": "Cakes And Sponges",
+  "modules": [
+    {
+      "file": "angel_food_cake",
+      "title": "Angel Food Cake"
+    },
+    {
+      "file": "apple_cake",
+      "title": "Apple Cake"
+    },
+    {
+      "file": "baking_powder_cake",
+      "title": "Baking Powder Cake"
+    },
+    {
+      "file": "banana_cake",
+      "title": "Banana Cake"
+    },
+    {
+      "file": "butter_temperature_cake",
+      "title": "Butter Temperature Cake"
+    },
+    {
+      "file": "buttercream_filling",
+      "title": "Buttercream Filling"
+    },
+    {
+      "file": "buttermilk_in_cake",
+      "title": "Buttermilk In Cake"
+    },
+    {
+      "file": "cake_batter_consistency",
+      "title": "Cake Batter Consistency"
+    },
+    {
+      "file": "cake_batter_overmixing",
+      "title": "Cake Batter Overmixing"
+    },
+    {
+      "file": "cake_dome",
+      "title": "Cake Dome"
+    },
+    {
+      "file": "cake_flour_choice",
+      "title": "Cake Flour Choice"
+    },
+    {
+      "file": "cake_sticking_tin",
+      "title": "Cake Sticking Tin"
+    },
+    {
+      "file": "carrot_cake",
+      "title": "Carrot Cake"
+    },
+    {
+      "file": "checking_cake_doneness",
+      "title": "Checking Cake Doneness"
+    },
+    {
+      "file": "chiffon_cake",
+      "title": "Chiffon Cake"
+    },
+    {
+      "file": "chocolate_sponge",
+      "title": "Chocolate Sponge"
+    },
+    {
+      "file": "cooling_cake_rack",
+      "title": "Cooling Cake Rack"
+    },
+    {
+      "file": "creaming_butter_sugar",
+      "title": "Creaming Butter Sugar"
+    },
+    {
+      "file": "cupcakes_baking",
+      "title": "Cupcakes Baking"
+    },
+    {
+      "file": "dense_sponge_cake",
+      "title": "Dense Sponge Cake"
+    },
+    {
+      "file": "dry_sponge_cake",
+      "title": "Dry Sponge Cake"
+    },
+    {
+      "file": "even_crumb_sponge",
+      "title": "Even Crumb Sponge"
+    },
+    {
+      "file": "folding_flour_sponge",
+      "title": "Folding Flour Sponge"
+    },
+    {
+      "file": "freezing_sponge_cake",
+      "title": "Freezing Sponge Cake"
+    },
+    {
+      "file": "genoise_sponge",
+      "title": "Genoise Sponge"
+    },
+    {
+      "file": "greasing_cake_tins",
+      "title": "Greasing Cake Tins"
+    },
+    {
+      "file": "jam_filling_sponge",
+      "title": "Jam Filling Sponge"
+    },
+    {
+      "file": "lemon_sponge",
+      "title": "Lemon Sponge"
+    },
+    {
+      "file": "levelling_cake_layers",
+      "title": "Levelling Cake Layers"
+    },
+    {
+      "file": "lining_cake_tins",
+      "title": "Lining Cake Tins"
+    },
+    {
+      "file": "loaf_cake_baking",
+      "title": "Loaf Cake Baking"
+    },
+    {
+      "file": "madeira_cake",
+      "title": "Madeira Cake"
+    },
+    {
+      "file": "oil_instead_of_butter",
+      "title": "Oil Instead Of Butter"
+    },
+    {
+      "file": "oven_door_cake",
+      "title": "Oven Door Cake"
+    },
+    {
+      "file": "oven_temperature_sponge",
+      "title": "Oven Temperature Sponge"
+    },
+    {
+      "file": "room_temperature_eggs",
+      "title": "Room Temperature Eggs"
+    },
+    {
+      "file": "rotating_cake_tins",
+      "title": "Rotating Cake Tins"
+    },
+    {
+      "file": "self_raising_flour_sponge",
+      "title": "Self Raising Flour Sponge"
+    },
+    {
+      "file": "soaking_cake_layers",
+      "title": "Soaking Cake Layers"
+    },
+    {
+      "file": "sour_cream_in_cake",
+      "title": "Sour Cream In Cake"
+    },
+    {
+      "file": "splitting_cake_layers",
+      "title": "Splitting Cake Layers"
+    },
+    {
+      "file": "sponge_baking_time",
+      "title": "Sponge Baking Time"
+    },
+    {
+      "file": "sponge_cake_sinking",
+      "title": "Sponge Cake Sinking"
+    },
+    {
+      "file": "storing_sponge_cake",
+      "title": "Storing Sponge Cake"
+    },
+    {
+      "file": "sugar_substitutes_cake",
+      "title": "Sugar Substitutes Cake"
+    },
+    {
+      "file": "tough_sponge_cake",
+      "title": "Tough Sponge Cake"
+    },
+    {
+      "file": "transporting_sponge_cake",
+      "title": "Transporting Sponge Cake"
+    },
+    {
+      "file": "victoria_sponge_basics",
+      "title": "Victoria Sponge Basics"
+    },
+    {
+      "file": "whisking_eggs_sponge",
+      "title": "Whisking Eggs Sponge"
+    },
+    {
+      "file": "yogurt_for_butter",
+      "title": "Yogurt For Butter"
+    }
+  ]
+}

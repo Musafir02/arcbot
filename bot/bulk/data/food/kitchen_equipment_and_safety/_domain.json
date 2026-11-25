@@ -1,0 +1,207 @@
+{
+  "category": "food",
+  "domain": "kitchen_equipment_and_safety",
+  "title": "Kitchen Equipment And Safety",
+  "modules": [
+    {
+      "file": "caring_for_cast_iron",
+      "title": "Caring For Cast Iron"
+    },
+    {
+      "file": "caring_for_nonstick_pans",
+      "title": "Caring For Nonstick Pans"
+    },
+    {
+      "file": "child_safety_in_the_kitchen",
+      "title": "Child Safety In The Kitchen"
+    },
+    {
+      "file": "choosing_a_chefs_knife",
+      "title": "Choosing A Chefs Knife"
+    },
+    {
+      "file": "cleaning_a_blender",
+      "title": "Cleaning A Blender"
+    },
+    {
+      "file": "cleaning_a_food_processor",
+      "title": "Cleaning A Food Processor"
+    },
+    {
+      "file": "cleaning_cutting_boards",
+      "title": "Cleaning Cutting Boards"
+    },
+    {
+      "file": "cleaning_grease_spills",
+      "title": "Cleaning Grease Spills"
+    },
+    {
+      "file": "cleaning_kitchen_knives",
+      "title": "Cleaning Kitchen Knives"
+    },
+    {
+      "file": "cleaning_the_extractor_hood",
+      "title": "Cleaning The Extractor Hood"
+    },
+    {
+      "file": "cleaning_the_hob",
+      "title": "Cleaning The Hob"
+    },
+    {
+      "file": "cleaning_the_oven",
+      "title": "Cleaning The Oven"
+    },
+    {
+      "file": "cleaning_up_broken_glass",
+      "title": "Cleaning Up Broken Glass"
+    },
+    {
+      "file": "deep_fat_fryer_safety",
+      "title": "Deep Fat Fryer Safety"
+    },
+    {
+      "file": "electrical_safety_in_the_kitchen",
+      "title": "Electrical Safety In The Kitchen"
+    },
+    {
+      "file": "gas_hob_safety",
+      "title": "Gas Hob Safety"
+    },
+    {
+      "file": "hand_washing_in_the_kitchen",
+      "title": "Hand Washing In The Kitchen"
+    },
+    {
+      "file": "handling_hot_pans",
+      "title": "Handling Hot Pans"
+    },
+    {
+      "file": "hob_safety",
+      "title": "Hob Safety"
+    },
+    {
+      "file": "kettle_safety",
+      "title": "Kettle Safety"
+    },
+    {
+      "file": "kitchen_cleanup_routine",
+      "title": "Kitchen Cleanup Routine"
+    },
+    {
+      "file": "kitchen_first_aid_kit",
+      "title": "Kitchen First Aid Kit"
+    },
+    {
+      "file": "kitchen_grease_fires",
+      "title": "Kitchen Grease Fires"
+    },
+    {
+      "file": "kitchen_storage_safety",
+      "title": "Kitchen Storage Safety"
+    },
+    {
+      "file": "kitchen_ventilation",
+      "title": "Kitchen Ventilation"
+    },
+    {
+      "file": "microwave_safety",
+      "title": "Microwave Safety"
+    },
+    {
+      "file": "oven_safety",
+      "title": "Oven Safety"
+    },
+    {
+      "file": "pressure_cooker_safety",
+      "title": "Pressure Cooker Safety"
+    },
+    {
+      "file": "preventing_cross_contamination",
+      "title": "Preventing Cross Contamination"
+    },
+    {
+      "file": "safe_knife_handling",
+      "title": "Safe Knife Handling"
+    },
+    {
+      "file": "sharpening_kitchen_knives",
+      "title": "Sharpening Kitchen Knives"
+    },
+    {
+      "file": "storing_kitchen_knives",
+      "title": "Storing Kitchen Knives"
+    },
+    {
+      "file": "toaster_safety",
+      "title": "Toaster Safety"
+    },
+    {
+      "file": "treating_kitchen_burns",
+      "title": "Treating Kitchen Burns"
+    },
+    {
+      "file": "treating_kitchen_cuts",
+      "title": "Treating Kitchen Cuts"
+    },
+    {
+      "file": "using_a_blender",
+      "title": "Using A Blender"
+    },
+    {
+      "file": "using_a_cutting_board",
+      "title": "Using A Cutting Board"
+    },
+    {
+      "file": "using_a_dishwasher_safely",
+      "title": "Using A Dishwasher Safely"
+    },
+    {
+      "file": "using_a_fire_blanket",
+      "title": "Using A Fire Blanket"
+    },
+    {
+      "file": "using_a_food_processor",
+      "title": "Using A Food Processor"
+    },
+    {
+      "file": "using_a_food_thermometer",
+      "title": "Using A Food Thermometer"
+    },
+    {
+      "file": "using_a_grater",
+      "title": "Using A Grater"
+    },
+    {
+      "file": "using_a_mandoline",
+      "title": "Using A Mandoline"
+    },
+    {
+      "file": "using_a_mortar_and_pestle",
+      "title": "Using A Mortar And Pestle"
+    },
+    {
+      "file": "using_a_peeler",
+      "title": "Using A Peeler"
+    },
+    {
+      "file": "using_a_stand_mixer",
+      "title": "Using A Stand Mixer"
+    },
+    {
+      "file": "using_a_wok_safely",
+      "title": "Using A Wok Safely"
+    },
+    {
+      "file": "using_kitchen_scissors",
+      "title": "Using Kitchen Scissors"
+    },
+    {
+      "file": "washing_dishcloths_and_sponges",
+      "title": "Washing Dishcloths And Sponges"
+    },
+    {
+      "file": "washing_up_by_hand",
+      "title": "Washing Up By Hand"
+    }
+  ]
+}

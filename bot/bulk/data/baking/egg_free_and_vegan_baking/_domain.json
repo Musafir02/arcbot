@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "egg_free_and_vegan_baking",
+  "title": "Egg Free And Vegan Baking",
+  "modules": [
+    {
+      "file": "apple_puree_in_baking",
+      "title": "Apple Puree In Baking"
+    },
+    {
+      "file": "aquafaba_meringue",
+      "title": "Aquafaba Meringue"
+    },
+    {
+      "file": "aquafaba_whipping",
+      "title": "Aquafaba Whipping"
+    },
+    {
+      "file": "baking_powder_in_vegan_baking",
+      "title": "Baking Powder In Vegan Baking"
+    },
+    {
+      "file": "baking_soda_and_vinegar",
+      "title": "Baking Soda And Vinegar"
+    },
+    {
+      "file": "banana_as_binder",
+      "title": "Banana As Binder"
+    },
+    {
+      "file": "carob_in_vegan_baking",
+      "title": "Carob In Vegan Baking"
+    },
+    {
+      "file": "chia_eggs",
+      "title": "Chia Eggs"
+    },
+    {
+      "file": "coconut_oil_in_baking",
+      "title": "Coconut Oil In Baking"
+    },
+    {
+      "file": "egg_allergy_baking",
+      "title": "Egg Allergy Baking"
+    },
+    {
+      "file": "egg_substitutes_in_cakes",
+      "title": "Egg Substitutes In Cakes"
+    },
+    {
+      "file": "flax_eggs",
+      "title": "Flax Eggs"
+    },
+    {
+      "file": "nut_butter_in_baking",
+      "title": "Nut Butter In Baking"
+    },
+    {
+      "file": "plant_milk_choices",
+      "title": "Plant Milk Choices"
+    },
+    {
+      "file": "silken_tofu_in_baking",
+      "title": "Silken Tofu In Baking"
+    },
+    {
+      "file": "vegan_biscuit_texture",
+      "title": "Vegan Biscuit Texture"
+    },
+    {
+      "file": "vegan_biscuits_crisp",
+      "title": "Vegan Biscuits Crisp"
+    },
+    {
+      "file": "vegan_brownies",
+      "title": "Vegan Brownies"
+    },
+    {
+      "file": "vegan_butter_substitutes",
+      "title": "Vegan Butter Substitutes"
+    },
+    {
+      "file": "vegan_buttercream",
+      "title": "Vegan Buttercream"
+    },
+    {
+      "file": "vegan_cake_decorating",
+      "title": "Vegan Cake Decorating"
+    },
+    {
+      "file": "vegan_cake_faults",
+      "title": "Vegan Cake Faults"
+    },
+    {
+      "file": "vegan_cake_moisture",
+      "title": "Vegan Cake Moisture"
+    },
+    {
+      "file": "vegan_carrot_cake",
+      "title": "Vegan Carrot Cake"
+    },
+    {
+      "file": "vegan_cheesecake",
+      "title": "Vegan Cheesecake"
+    },
+    {
+      "file": "vegan_chocolate_cake",
+      "title": "Vegan Chocolate Cake"
+    },
+    {
+      "file": "vegan_cream_and_ganache",
+      "title": "Vegan Cream And Ganache"
+    },
+    {
+      "file": "vegan_cupcakes",
+      "title": "Vegan Cupcakes"
+    },
+    {
+      "file": "vegan_custard",
+      "title": "Vegan Custard"
+    },
+    {
+      "file": "vegan_enriched_dough",
+      "title": "Vegan Enriched Dough"
+    },
+    {
+      "file": "vegan_flatbreads",
+      "title": "Vegan Flatbreads"
+    },
+    {
+      "file": "vegan_flour_blends",
+      "title": "Vegan Flour Blends"
+    },
+    {
+      "file": "vegan_frosting_stability",
+      "title": "Vegan Frosting Stability"
+    },
+    {
+      "file": "vegan_fudge",
+      "title": "Vegan Fudge"
+    },
+    {
+      "file": "vegan_gingerbread",
+      "title": "Vegan Gingerbread"
+    },
+    {
+      "file": "vegan_ice_cream",
+      "title": "Vegan Ice Cream"
+    },
+    {
+      "file": "vegan_icing",
+      "title": "Vegan Icing"
+    },
+    {
+      "file": "vegan_mousse",
+      "title": "Vegan Mousse"
+    },
+    {
+      "file": "vegan_oat_biscuits",
+      "title": "Vegan Oat Biscuits"
+    },
+    {
+      "file": "vegan_pie_crust",
+      "title": "Vegan Pie Crust"
+    },
+    {
+      "file": "vegan_puff_pastry",
+      "title": "Vegan Puff Pastry"
+    },
+    {
+      "file": "vegan_rolls",
+      "title": "Vegan Rolls"
+    },
+    {
+      "file": "vegan_sandwich_bread",
+      "title": "Vegan Sandwich Bread"
+    },
+    {
+      "file": "vegan_set_desserts",
+      "title": "Vegan Set Desserts"
+    },
+    {
+      "file": "vegan_shortbread",
+      "title": "Vegan Shortbread"
+    },
+    {
+      "file": "vegan_shortcrust_pastry",
+      "title": "Vegan Shortcrust Pastry"
+    },
+    {
+      "file": "vegan_sourdough",
+      "title": "Vegan Sourdough"
+    },
+    {
+      "file": "vegan_sponge_pudding",
+      "title": "Vegan Sponge Pudding"
+    },
+    {
+      "file": "vegan_sponge_rise",
+      "title": "Vegan Sponge Rise"
+    },
+    {
+      "file": "vegan_truffles",
+      "title": "Vegan Truffles"
+    }
+  ]
+}

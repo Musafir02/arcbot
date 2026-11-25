@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "gluten_free_baking",
+  "title": "Gluten Free Baking",
+  "modules": [
+    {
+      "file": "all_purpose_blend",
+      "title": "All Purpose Blend"
+    },
+    {
+      "file": "almond_flour",
+      "title": "Almond Flour"
+    },
+    {
+      "file": "baking_temperature",
+      "title": "Baking Temperature"
+    },
+    {
+      "file": "bread_crust",
+      "title": "Bread Crust"
+    },
+    {
+      "file": "bread_machine",
+      "title": "Bread Machine"
+    },
+    {
+      "file": "bread_not_rising",
+      "title": "Bread Not Rising"
+    },
+    {
+      "file": "bread_staling",
+      "title": "Bread Staling"
+    },
+    {
+      "file": "buckwheat_flour",
+      "title": "Buckwheat Flour"
+    },
+    {
+      "file": "butter_substitutes",
+      "title": "Butter Substitutes"
+    },
+    {
+      "file": "cake_flour_blends",
+      "title": "Cake Flour Blends"
+    },
+    {
+      "file": "coconut_flour",
+      "title": "Coconut Flour"
+    },
+    {
+      "file": "cornflour_baking",
+      "title": "Cornflour Baking"
+    },
+    {
+      "file": "cross_contamination",
+      "title": "Cross Contamination"
+    },
+    {
+      "file": "crumbly_bread",
+      "title": "Crumbly Bread"
+    },
+    {
+      "file": "dense_cake_fixes",
+      "title": "Dense Cake Fixes"
+    },
+    {
+      "file": "egg_substitutes",
+      "title": "Egg Substitutes"
+    },
+    {
+      "file": "flour_storage",
+      "title": "Flour Storage"
+    },
+    {
+      "file": "flour_substitutions",
+      "title": "Flour Substitutions"
+    },
+    {
+      "file": "gluten_free_bagels",
+      "title": "Gluten Free Bagels"
+    },
+    {
+      "file": "gluten_free_banana_bread",
+      "title": "Gluten Free Banana Bread"
+    },
+    {
+      "file": "gluten_free_brownies",
+      "title": "Gluten Free Brownies"
+    },
+    {
+      "file": "gluten_free_carrot_cake",
+      "title": "Gluten Free Carrot Cake"
+    },
+    {
+      "file": "gluten_free_chocolate_cake",
+      "title": "Gluten Free Chocolate Cake"
+    },
+    {
+      "file": "gluten_free_cookies",
+      "title": "Gluten Free Cookies"
+    },
+    {
+      "file": "gluten_free_crumble",
+      "title": "Gluten Free Crumble"
+    },
+    {
+      "file": "gluten_free_cupcakes",
+      "title": "Gluten Free Cupcakes"
+    },
+    {
+      "file": "gluten_free_gingerbread",
+      "title": "Gluten Free Gingerbread"
+    },
+    {
+      "file": "gluten_free_granola",
+      "title": "Gluten Free Granola"
+    },
+    {
+      "file": "gluten_free_icing",
+      "title": "Gluten Free Icing"
+    },
+    {
+      "file": "gluten_free_muffins",
+      "title": "Gluten Free Muffins"
+    },
+    {
+      "file": "gluten_free_oats",
+      "title": "Gluten Free Oats"
+    },
+    {
+      "file": "gluten_free_pancakes",
+      "title": "Gluten Free Pancakes"
+    },
+    {
+      "file": "gluten_free_pastry",
+      "title": "Gluten Free Pastry"
+    },
+    {
+      "file": "gluten_free_pie_crust",
+      "title": "Gluten Free Pie Crust"
+    },
+    {
+      "file": "gluten_free_pizza_dough",
+      "title": "Gluten Free Pizza Dough"
+    },
+    {
+      "file": "gluten_free_rolls",
+      "title": "Gluten Free Rolls"
+    },
+    {
+      "file": "gluten_free_shortbread",
+      "title": "Gluten Free Shortbread"
+    },
+    {
+      "file": "gluten_free_sourdough",
+      "title": "Gluten Free Sourdough"
+    },
+    {
+      "file": "gluten_free_sponge",
+      "title": "Gluten Free Sponge"
+    },
+    {
+      "file": "gluten_free_thickening",
+      "title": "Gluten Free Thickening"
+    },
+    {
+      "file": "gluten_free_tortillas",
+      "title": "Gluten Free Tortillas"
+    },
+    {
+      "file": "gluten_free_waffles",
+      "title": "Gluten Free Waffles"
+    },
+    {
+      "file": "potato_starch",
+      "title": "Potato Starch"
+    },
+    {
+      "file": "psyllium_husk",
+      "title": "Psyllium Husk"
+    },
+    {
+      "file": "quick_breads",
+      "title": "Quick Breads"
+    },
+    {
+      "file": "resting_dough",
+      "title": "Resting Dough"
+    },
+    {
+      "file": "rice_flour",
+      "title": "Rice Flour"
+    },
+    {
+      "file": "sticky_dough",
+      "title": "Sticky Dough"
+    },
+    {
+      "file": "tapioca_starch",
+      "title": "Tapioca Starch"
+    },
+    {
+      "file": "xanthan_gum",
+      "title": "Xanthan Gum"
+    }
+  ]
+}

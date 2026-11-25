@@ -58,3 +58,443 @@
 {"q": "how do i stop procrastinating", "domain": "life/time_management"}
 {"q": "how do i return something i bought online", "domain": "life/shopping_and_returns"}
 {"q": "how do i meet my neighbours", "domain": "life/neighbours_and_community"}
+{"q": "how do i steam carrots without overcooking them", "domain": "food/boiling_and_steaming"}
+{"q": "why does pasta stick together when i boil it", "domain": "food/boiling_and_steaming"}
+{"q": "how long should i steam a whole fish", "domain": "food/boiling_and_steaming"}
+{"q": "what oil is best for frying chicken", "domain": "food/frying_and_sauteing"}
+{"q": "why does my stir fry come out soggy", "domain": "food/frying_and_sauteing"}
+{"q": "how do i keep roast chicken moist", "domain": "food/roasting_and_grilling"}
+{"q": "what temperature should i roast vegetables at", "domain": "food/roasting_and_grilling"}
+{"q": "how long does beef stew take in a slow cooker", "domain": "food/slow_cooking_and_stews"}
+{"q": "why is my stew too watery", "domain": "food/slow_cooking_and_stews"}
+{"q": "how do i make a clear chicken stock", "domain": "food/soups_and_stocks"}
+{"q": "what can i use instead of stock cubes", "domain": "food/soups_and_stocks"}
+{"q": "why is my rice sticky after cooking", "domain": "food/rice_pasta_and_noodles"}
+{"q": "how much water do i need for pasta", "domain": "food/rice_pasta_and_noodles"}
+{"q": "how do i make fluffy scrambled eggs", "domain": "food/breakfast_and_brunch"}
+{"q": "what can i put in pancakes instead of milk", "domain": "food/breakfast_and_brunch"}
+{"q": "how do i stop a sauce from going lumpy", "domain": "food/sauces_and_seasonings"}
+{"q": "what herbs go well with tomato sauce", "domain": "food/sauces_and_seasonings"}
+{"q": "how long does cooked chicken keep in the fridge", "domain": "food/food_storage_and_leftovers"}
+{"q": "can i refreeze food that has thawed", "domain": "food/food_storage_and_leftovers"}
+{"q": "what is the safest way to reheat leftovers", "domain": "food/food_storage_and_leftovers"}
+{"q": "how do i clean a kitchen knife safely", "domain": "food/kitchen_equipment_and_safety"}
+{"q": "what should i do if i cut myself in the kitchen", "domain": "food/kitchen_equipment_and_safety"}
+{"q": "how do i get an even crumb in a sponge cake", "domain": "baking/cakes_and_sponges"}
+{"q": "can i substitute yogurt for butter in a cake", "domain": "baking/cakes_and_sponges"}
+{"q": "why are my biscuits hard in the middle", "domain": "baking/cookies_and_biscuits"}
+{"q": "how do i get chewy cookies instead of crisp ones", "domain": "baking/cookies_and_biscuits"}
+{"q": "why did my pastry shrink in the tin", "domain": "baking/pastry_and_pies"}
+{"q": "how do i stop a pie filling from bubbling over", "domain": "baking/pastry_and_pies"}
+{"q": "can i make pastry without butter", "domain": "baking/pastry_and_pies"}
+{"q": "how do i stop chocolate from seizing when melting", "domain": "baking/chocolate_and_sweets"}
+{"q": "why did my fudge turn grainy", "domain": "baking/chocolate_and_sweets"}
+{"q": "how do i make buttercream that holds its shape", "domain": "baking/icing_and_decorating"}
+{"q": "why is my icing too runny", "domain": "baking/icing_and_decorating"}
+{"q": "how do i know when dough has finished proving", "domain": "baking/yeast_breads"}
+{"q": "why is my bread crust so hard", "domain": "baking/yeast_breads"}
+{"q": "what flour blend works best for gluten free cakes", "domain": "baking/gluten_free_baking"}
+{"q": "why is my gluten free bread so crumbly", "domain": "baking/gluten_free_baking"}
+{"q": "what can replace eggs in a vegan cake", "domain": "baking/egg_free_and_vegan_baking"}
+{"q": "how do i make vegan biscuits crisp", "domain": "baking/egg_free_and_vegan_baking"}
+{"q": "how do i stop custard from curdling", "domain": "baking/custards_and_dessert_sauces"}
+{"q": "why is my creme anglaise too thin", "domain": "baking/custards_and_dessert_sauces"}
+{"q": "why did my cake sink in the middle", "domain": "baking/baking_faults_and_fixes"}
+{"q": "how do i rescue a dry batch of baking", "domain": "baking/baking_faults_and_fixes"}
+{"q": "why is my bread dense and heavy", "domain": "baking/baking_faults_and_fixes"}
+{"q": "what is the right water temperature for green tea", "domain": "drinks/tea_and_coffee"}
+{"q": "why is my coffee bitter", "domain": "drinks/tea_and_coffee"}
+{"q": "how fine should i grind coffee for a cafetiere", "domain": "drinks/tea_and_coffee"}
+{"q": "how do i make a smoothie less watery", "domain": "drinks/smoothies_and_juices"}
+{"q": "can i make juice without a juicer", "domain": "drinks/smoothies_and_juices"}
+{"q": "what can i use instead of alcohol in a cocktail", "domain": "drinks/cocktails_and_mocktails"}
+{"q": "how do i make a simple mocktail for a party", "domain": "drinks/cocktails_and_mocktails"}
+{"q": "how should i serve red wine", "domain": "drinks/wine_and_beer"}
+{"q": "why does my homebrew beer taste sour", "domain": "drinks/wine_and_beer"}
+{"q": "how much water should i drink in hot weather", "domain": "drinks/water_and_hydration"}
+{"q": "is it better to drink water before or after exercise", "domain": "drinks/water_and_hydration"}
+{"q": "how do i make hot chocolate without milk", "domain": "drinks/hot_chocolate_and_cocoa"}
+{"q": "why is my cocoa powder clumping in hot water", "domain": "drinks/hot_chocolate_and_cocoa"}
+{"q": "how do i clean a coffee machine properly", "domain": "drinks/drink_equipment"}
+{"q": "what is the best way to store a corkscrew", "domain": "drinks/drink_equipment"}
+{"q": "how long does opened wine last in the fridge", "domain": "drinks/drink_storage"}
+{"q": "can i freeze coffee beans", "domain": "drinks/drink_storage"}
+{"q": "how much drink should i allow per guest", "domain": "drinks/party_drinks_and_serving"}
+{"q": "what is an easy punch for a large group", "domain": "drinks/party_drinks_and_serving"}
+{"q": "what is the difference between a latte and a flat white", "domain": "drinks/coffee_shop_drinks"}
+{"q": "how do cafes steam milk for a cappuccino", "domain": "drinks/coffee_shop_drinks"}
+{"q": "how do i wash white clothes without grey marks", "domain": "home/cleaning_and_laundry"}
+{"q": "what temperature should i wash towels at", "domain": "home/cleaning_and_laundry"}
+{"q": "how do i clean a washing machine drum", "domain": "home/cleaning_and_laundry"}
+{"q": "how do i get tea stains out of a mug", "domain": "home/stains_and_odours"}
+{"q": "what removes the smell of smoke from clothes", "domain": "home/stains_and_odours"}
+{"q": "how do i prepare a wall before painting", "domain": "home/painting_and_decorating"}
+{"q": "why is my paint peeling off", "domain": "home/painting_and_decorating"}
+{"q": "how do i unblock a slow bathroom sink", "domain": "home/plumbing_basics"}
+{"q": "what should i do if a pipe leaks", "domain": "home/plumbing_basics"}
+{"q": "why does my tap drip after i turn it off", "domain": "home/plumbing_basics"}
+{"q": "what should i do if a fuse keeps blowing", "domain": "home/electrical_safety"}
+{"q": "how can i tell if a cable is damaged", "domain": "home/electrical_safety"}
+{"q": "when should i call an electrician", "domain": "home/electrical_safety"}
+{"q": "how do i fix a wobbly chair leg", "domain": "home/furniture_and_repair"}
+{"q": "what can i use to repair a scratched wooden table", "domain": "home/furniture_and_repair"}
+{"q": "how do i organise a small kitchen cupboard", "domain": "home/storage_and_organisation"}
+{"q": "what is the best way to store winter clothes", "domain": "home/storage_and_organisation"}
+{"q": "how do i bleed a radiator", "domain": "home/heating_and_cooling"}
+{"q": "why is one room colder than the rest of the house", "domain": "home/heating_and_cooling"}
+{"q": "how can i keep a room cool in summer", "domain": "home/heating_and_cooling"}
+{"q": "what should i check before signing a tenancy agreement", "domain": "home/renting_and_household_admin"}
+{"q": "how do i query a council tax bill", "domain": "home/renting_and_household_admin"}
+{"q": "how do i pack books for a house move", "domain": "home/moving_house"}
+{"q": "what should i do with plants when moving house", "domain": "home/moving_house"}
+{"q": "why are the leaves on my monstera going yellow", "domain": "garden/houseplants"}
+{"q": "how often should i water a snake plant", "domain": "garden/houseplants"}
+{"q": "what light does a fern need indoors", "domain": "garden/houseplants"}
+{"q": "when should i plant tomatoes outside", "domain": "garden/vegetables_and_herbs"}
+{"q": "why are my herb leaves going brown", "domain": "garden/vegetables_and_herbs"}
+{"q": "how do i deadhead roses properly", "domain": "garden/flowers_and_shrubs"}
+{"q": "why are my hydrangea flowers green", "domain": "garden/flowers_and_shrubs"}
+{"q": "when is the best time to overseed a lawn", "domain": "garden/lawn_care"}
+{"q": "how do i get rid of moss in grass", "domain": "garden/lawn_care"}
+{"q": "what can i put in a compost bin", "domain": "garden/compost_and_soil"}
+{"q": "how do i improve heavy clay soil", "domain": "garden/compost_and_soil"}
+{"q": "how do i take cuttings from a rose bush", "domain": "garden/pruning_and_propagation"}
+{"q": "when should i prune a hydrangea", "domain": "garden/pruning_and_propagation"}
+{"q": "how do i deal with slugs on lettuce", "domain": "garden/garden_pests_and_diseases"}
+{"q": "what causes white powder on cucumber leaves", "domain": "garden/garden_pests_and_diseases"}
+{"q": "are ladybirds good for the garden", "domain": "garden/garden_pests_and_diseases"}
+{"q": "how often should i water a new lawn", "domain": "garden/watering_and_drainage"}
+{"q": "why is water pooling in my vegetable bed", "domain": "garden/watering_and_drainage"}
+{"q": "what jobs should i do in the garden in autumn", "domain": "garden/seasonal_garden_jobs"}
+{"q": "how do i prepare beds for winter", "domain": "garden/seasonal_garden_jobs"}
+{"q": "how do i sharpen secateurs", "domain": "garden/garden_tools"}
+{"q": "what is a dutch hoe used for", "domain": "garden/garden_tools"}
+{"q": "how often should i walk an adult dog", "domain": "pets/dogs"}
+{"q": "why does my dog bark at the postman", "domain": "pets/dogs"}
+{"q": "what should i do if my dog eats chocolate", "domain": "pets/dogs"}
+{"q": "how do i stop my cat scratching furniture", "domain": "pets/cats"}
+{"q": "why is my cat hiding more than usual", "domain": "pets/cats"}
+{"q": "how much hay does a guinea pig need", "domain": "pets/small_pets"}
+{"q": "why is my rabbit not eating", "domain": "pets/small_pets"}
+{"q": "how often should i clean a budgie cage", "domain": "pets/birds"}
+{"q": "why is my parrot plucking its feathers", "domain": "pets/birds"}
+{"q": "how do i cycle a new fish tank", "domain": "pets/fish_and_aquariums"}
+{"q": "why are my fish gasping at the surface", "domain": "pets/fish_and_aquariums"}
+{"q": "what temperature does a bearded dragon need", "domain": "pets/reptiles"}
+{"q": "how often should i feed a pet snake", "domain": "pets/reptiles"}
+{"q": "what are the signs of illness in a dog", "domain": "pets/pet_health"}
+{"q": "when should i take my cat to the vet", "domain": "pets/pet_health"}
+{"q": "how do i check a pet for fleas", "domain": "pets/pet_health"}
+{"q": "how much should i feed a kitten", "domain": "pets/pet_food_and_feeding"}
+{"q": "can dogs eat cooked bones", "domain": "pets/pet_food_and_feeding"}
+{"q": "how do i train a puppy to come when called", "domain": "pets/pet_behaviour_and_training"}
+{"q": "why does my cat spray in the house", "domain": "pets/pet_behaviour_and_training"}
+{"q": "how often should i muck out a stable", "domain": "pets/farm_animals"}
+{"q": "what should i feed chickens in winter", "domain": "pets/farm_animals"}
+{"q": "what should i do for a minor burn", "domain": "health/first_aid"}
+{"q": "how do i treat a nosebleed", "domain": "health/first_aid"}
+{"q": "when should i call an ambulance", "domain": "health/first_aid"}
+{"q": "how long does a common cold usually last", "domain": "health/common_illnesses"}
+{"q": "what can i do for a sore throat", "domain": "health/common_illnesses"}
+{"q": "how can i fall asleep faster", "domain": "health/sleep"}
+{"q": "is it bad to sleep with my phone nearby", "domain": "health/sleep"}
+{"q": "how can i manage stress at work", "domain": "health/mental_health"}
+{"q": "what should i do if i feel low for weeks", "domain": "health/mental_health"}
+{"q": "how do i talk to someone about anxiety", "domain": "health/mental_health"}
+{"q": "how often should i floss my teeth", "domain": "health/dental_care"}
+{"q": "what causes sensitive teeth", "domain": "health/dental_care"}
+{"q": "why is my skin so dry in winter", "domain": "health/skin_and_hair"}
+{"q": "how can i reduce hair breakage", "domain": "health/skin_and_hair"}
+{"q": "why are my eyes watering all the time", "domain": "health/eyes_and_ears"}
+{"q": "when should i get my hearing checked", "domain": "health/eyes_and_ears"}
+{"q": "what foods help with an upset stomach", "domain": "health/digestion"}
+{"q": "why do i feel bloated after eating", "domain": "health/digestion"}
+{"q": "how do i treat a sprained ankle at home", "domain": "health/pain_and_injuries"}
+{"q": "what can i do for a headache", "domain": "health/pain_and_injuries"}
+{"q": "when should i see a doctor about back pain", "domain": "health/pain_and_injuries"}
+{"q": "can i take painkillers on an empty stomach", "domain": "health/medicines_and_pharmacies"}
+{"q": "how should i store medicines at home", "domain": "health/medicines_and_pharmacies"}
+{"q": "how do i build up to my first 5k", "domain": "fitness/running"}
+{"q": "what shoes are best for road running", "domain": "fitness/running"}
+{"q": "how often should i run each week", "domain": "fitness/running"}
+{"q": "how do i train for a long hill walk", "domain": "fitness/walking_and_hiking"}
+{"q": "what should i carry on a day hike", "domain": "fitness/walking_and_hiking"}
+{"q": "how do i improve my deadlift form", "domain": "fitness/strength_training"}
+{"q": "how many sets should i do for each exercise", "domain": "fitness/strength_training"}
+{"q": "how long should i hold a stretch", "domain": "fitness/stretching_and_mobility"}
+{"q": "what stretches help tight hips", "domain": "fitness/stretching_and_mobility"}
+{"q": "how do i improve my front crawl breathing", "domain": "fitness/swimming"}
+{"q": "how often should i swim to get fitter", "domain": "fitness/swimming"}
+{"q": "how do i choose a bike for commuting", "domain": "fitness/cycling"}
+{"q": "what tyre pressure is right for road cycling", "domain": "fitness/cycling"}
+{"q": "how do i improve my first touch in football", "domain": "fitness/football"}
+{"q": "what should i do to prepare for a match", "domain": "fitness/football"}
+{"q": "how do i grip a cricket ball for a seam bowling", "domain": "fitness/cricket"}
+{"q": "how do i build up bowling speed safely", "domain": "fitness/cricket"}
+{"q": "how do i put together a beginner gym plan", "domain": "fitness/gym_routines"}
+{"q": "how often should i change my gym routine", "domain": "fitness/gym_routines"}
+{"q": "how do i recover from a hamstring strain", "domain": "fitness/sports_injuries"}
+{"q": "when can i run again after a knee injury", "domain": "fitness/sports_injuries"}
+{"q": "how do i prevent shin splints", "domain": "fitness/sports_injuries"}
+{"q": "how do i track my daily spending", "domain": "money/budgeting"}
+{"q": "what percentage of income should go on housing", "domain": "money/budgeting"}
+{"q": "how much should i save each month", "domain": "money/saving"}
+{"q": "what is a good emergency fund size", "domain": "money/saving"}
+{"q": "where should i keep my savings", "domain": "money/saving"}
+{"q": "how do i switch bank accounts", "domain": "money/banking"}
+{"q": "what should i do if i spot a wrong bank charge", "domain": "money/banking"}
+{"q": "how do i pay off a credit card balance", "domain": "money/credit_and_debt"}
+{"q": "what is a good way to consolidate debts", "domain": "money/credit_and_debt"}
+{"q": "how can i check my credit report", "domain": "money/credit_and_debt"}
+{"q": "how much deposit do i need for a mortgage", "domain": "money/mortgages_and_rent"}
+{"q": "what should i check in a rental agreement", "domain": "money/mortgages_and_rent"}
+{"q": "what does buildings insurance cover", "domain": "money/insurance_basics"}
+{"q": "do i need contents insurance in a flat", "domain": "money/insurance_basics"}
+{"q": "how do i file a self assessment tax return", "domain": "money/taxes"}
+{"q": "what expenses can i claim as self employed", "domain": "money/taxes"}
+{"q": "when should i get an accountant", "domain": "money/taxes"}
+{"q": "when should i start a pension", "domain": "money/pensions"}
+{"q": "how can i check my pension pots", "domain": "money/pensions"}
+{"q": "what is the difference between shares and bonds", "domain": "money/investing_basics"}
+{"q": "how much risk should i take as a beginner", "domain": "money/investing_basics"}
+{"q": "when should i get financial advice", "domain": "money/investing_basics"}
+{"q": "how do i spot a phishing email", "domain": "money/scams_and_fraud"}
+{"q": "what should i do if i have been scammed", "domain": "money/scams_and_fraud"}
+{"q": "how do i find jobs that are not advertised", "domain": "work/job_searching"}
+{"q": "how many applications should i send each week", "domain": "work/job_searching"}
+{"q": "how long should a cv be", "domain": "work/cvs_and_cover_letters"}
+{"q": "what should a cover letter say", "domain": "work/cvs_and_cover_letters"}
+{"q": "how do i answer tell me about yourself", "domain": "work/interviews"}
+{"q": "what questions should i ask at the end of an interview", "domain": "work/interviews"}
+{"q": "how do i raise a concern with my manager", "domain": "work/workplace_communication"}
+{"q": "how do i write a clear update email", "domain": "work/workplace_communication"}
+{"q": "how do i research a fair salary", "domain": "work/salaries_and_negotiation"}
+{"q": "how do i ask for a pay rise politely", "domain": "work/salaries_and_negotiation"}
+{"q": "how do i stay productive at home", "domain": "work/remote_work"}
+{"q": "how do i set up a good home office", "domain": "work/remote_work"}
+{"q": "how do i set my freelance rates", "domain": "work/freelancing"}
+{"q": "how do i chase a late invoice", "domain": "work/freelancing"}
+{"q": "what should i include in a business plan", "domain": "work/starting_a_business"}
+{"q": "when should i register as self employed", "domain": "work/starting_a_business"}
+{"q": "what should i check in a redundancy offer", "domain": "work/redundancy_and_leaving"}
+{"q": "how do i resign gracefully", "domain": "work/redundancy_and_leaving"}
+{"q": "am i entitled to notice pay", "domain": "work/redundancy_and_leaving"}
+{"q": "how do i switch off after work", "domain": "work/work_stress"}
+{"q": "what should i do if my workload is unmanageable", "domain": "work/work_stress"}
+{"q": "how do i use active recall when revising", "domain": "study/revision_techniques"}
+{"q": "how long should i revise each day", "domain": "study/revision_techniques"}
+{"q": "how do i plan revision for several exams", "domain": "study/exam_preparation"}
+{"q": "what should i do the night before an exam", "domain": "study/exam_preparation"}
+{"q": "how do i plan an essay quickly", "domain": "study/essay_writing"}
+{"q": "how do i write a strong conclusion", "domain": "study/essay_writing"}
+{"q": "how do i get better at algebra", "domain": "study/maths_study"}
+{"q": "what is the best way to revise for a maths exam", "domain": "study/maths_study"}
+{"q": "how do i remember scientific equations", "domain": "study/science_study"}
+{"q": "how should i revise for biology", "domain": "study/science_study"}
+{"q": "how many words should i learn a day", "domain": "study/language_learning"}
+{"q": "how do i practise speaking a new language alone", "domain": "study/language_learning"}
+{"q": "how do i stay motivated in an online course", "domain": "study/online_courses"}
+{"q": "are free online courses worth doing", "domain": "study/online_courses"}
+{"q": "how do i write a personal statement", "domain": "study/university_applications"}
+{"q": "what should i include in a university application", "domain": "study/university_applications"}
+{"q": "when should i apply to university", "domain": "study/university_applications"}
+{"q": "how do i find an apprenticeship", "domain": "study/apprenticeships"}
+{"q": "what qualifications do apprenticeships give", "domain": "study/apprenticeships"}
+{"q": "can i learn a new skill as an adult", "domain": "study/adult_learning"}
+{"q": "how do i fit study around a full time job", "domain": "study/adult_learning"}
+{"q": "when should i use the past tense", "domain": "language/grammar"}
+{"q": "what is a relative clause", "domain": "language/grammar"}
+{"q": "where do i put a comma in a list", "domain": "language/punctuation"}
+{"q": "how do i use an apostrophe correctly", "domain": "language/punctuation"}
+{"q": "how do i remember tricky spellings", "domain": "language/spelling"}
+{"q": "is judgement spelled with an e", "domain": "language/spelling"}
+{"q": "how do i learn new words faster", "domain": "language/vocabulary"}
+{"q": "how do i start a formal email", "domain": "language/email_writing"}
+{"q": "how do i end an email politely", "domain": "language/email_writing"}
+{"q": "how do i format a formal letter", "domain": "language/letters_and_applications"}
+{"q": "what should a job application letter include", "domain": "language/letters_and_applications"}
+{"q": "how do i write a believable character", "domain": "language/creative_writing"}
+{"q": "how do i describe a setting well", "domain": "language/creative_writing"}
+{"q": "how do i proofread my own writing", "domain": "language/proofreading"}
+{"q": "what should i check before submitting an essay", "domain": "language/proofreading"}
+{"q": "how do i translate idiom accurately", "domain": "language/translation"}
+{"q": "can machine translation be trusted", "domain": "language/translation"}
+{"q": "how do i stop shaking when speaking in public", "domain": "language/public_speaking"}
+{"q": "how long should a short talk be", "domain": "language/public_speaking"}
+{"q": "how do i pack for a cold weather trip", "domain": "travel/packing_and_preparation"}
+{"q": "what documents should i carry when travelling", "domain": "travel/packing_and_preparation"}
+{"q": "how early should i check in for a flight", "domain": "travel/flights_and_airports"}
+{"q": "what can i take in hand luggage", "domain": "travel/flights_and_airports"}
+{"q": "how do i book a train ticket in advance", "domain": "travel/trains_and_buses"}
+{"q": "what happens if i miss my bus", "domain": "travel/trains_and_buses"}
+{"q": "do i need an international driving permit", "domain": "travel/driving_abroad"}
+{"q": "what should i check before driving abroad", "domain": "travel/driving_abroad"}
+{"q": "what should i check before booking a hotel", "domain": "travel/hotels_and_accommodation"}
+{"q": "how do i ask for a quiet room", "domain": "travel/hotels_and_accommodation"}
+{"q": "how do i plan a weekend in a new city", "domain": "travel/city_breaks"}
+{"q": "how much time do i need in paris", "domain": "travel/city_breaks"}
+{"q": "what should i pack for a beach holiday", "domain": "travel/beaches_and_countryside"}
+{"q": "how do i stay safe on a coastal walk", "domain": "travel/beaches_and_countryside"}
+{"q": "how early should i renew my passport", "domain": "travel/visas_and_passports"}
+{"q": "where do i check visa rules for a trip", "domain": "travel/visas_and_passports"}
+{"q": "how do i keep my money safe when travelling", "domain": "travel/travel_money_and_safety"}
+{"q": "should i carry cash abroad", "domain": "travel/travel_money_and_safety"}
+{"q": "which countries border france", "domain": "travel/world_geography"}
+{"q": "what is the capital of canada", "domain": "travel/world_geography"}
+{"q": "why does it rain more in the mountains", "domain": "nature/rain_and_storms"}
+{"q": "how do thunderstorms form", "domain": "nature/rain_and_storms"}
+{"q": "why does snow melt slowly in shade", "domain": "nature/snow_and_ice"}
+{"q": "how is hail formed", "domain": "nature/snow_and_ice"}
+{"q": "why is it hotter in a city than the countryside", "domain": "nature/heat_and_sunshine"}
+{"q": "how does the sun make shadows", "domain": "nature/heat_and_sunshine"}
+{"q": "what causes sea breezes", "domain": "nature/wind"}
+{"q": "why does wind speed increase at height", "domain": "nature/wind"}
+{"q": "what do low grey clouds mean", "domain": "nature/clouds_and_forecasting"}
+{"q": "how are weather forecasts made", "domain": "nature/clouds_and_forecasting"}
+{"q": "why do we have four seasons", "domain": "nature/seasons"}
+{"q": "why are days shorter in winter", "domain": "nature/seasons"}
+{"q": "why does the sea have tides", "domain": "nature/rivers_and_seas"}
+{"q": "how do rivers shape valleys", "domain": "nature/rivers_and_seas"}
+{"q": "how do volcanoes erupt", "domain": "nature/mountains_and_volcanoes"}
+{"q": "why are mountains colder than lowlands", "domain": "nature/mountains_and_volcanoes"}
+{"q": "what causes a flood", "domain": "nature/earthquakes_and_floods"}
+{"q": "how do scientists measure earthquakes", "domain": "nature/earthquakes_and_floods"}
+{"q": "what is the difference between weather and climate", "domain": "nature/climate_and_environment"}
+{"q": "how do i reduce my household waste", "domain": "nature/climate_and_environment"}
+{"q": "what is the difference between mass and weight", "domain": "science/physics_basics"}
+{"q": "why do objects fall at the same rate", "domain": "science/physics_basics"}
+{"q": "what is a chemical reaction", "domain": "science/chemistry_basics"}
+{"q": "why does salt dissolve in water", "domain": "science/chemistry_basics"}
+{"q": "what do cells do in the body", "domain": "science/biology_basics"}
+{"q": "how do plants make their food", "domain": "science/biology_basics"}
+{"q": "what is a black hole", "domain": "science/space_and_astronomy"}
+{"q": "how far away is the sun", "domain": "science/space_and_astronomy"}
+{"q": "why is my laptop running slowly", "domain": "science/computers_and_laptops"}
+{"q": "how much memory do i need in a laptop", "domain": "science/computers_and_laptops"}
+{"q": "how do i free up space on my phone", "domain": "science/phones_and_tablets"}
+{"q": "why is my phone battery draining fast", "domain": "science/phones_and_tablets"}
+{"q": "why is my internet connection slow", "domain": "science/internet_and_wifi"}
+{"q": "how do i create a strong password", "domain": "science/cybersecurity"}
+{"q": "what is two factor authentication", "domain": "science/cybersecurity"}
+{"q": "how do i spot a suspicious link", "domain": "science/cybersecurity"}
+{"q": "how does a chatbot decide what to say", "domain": "science/ai_and_automation"}
+{"q": "what jobs can automation do", "domain": "science/ai_and_automation"}
+{"q": "how do i replace a laptop battery", "domain": "science/gadgets_and_repairs"}
+{"q": "can i repair a cracked phone screen myself", "domain": "science/gadgets_and_repairs"}
+{"q": "how often should i change engine oil", "domain": "cars/car_maintenance"}
+{"q": "what does a warning light on the dashboard mean", "domain": "cars/car_maintenance"}
+{"q": "what is the speed limit in a built up area", "domain": "cars/driving_rules"}
+{"q": "when should i use a indicators", "domain": "cars/driving_rules"}
+{"q": "how do i check my brake pads", "domain": "cars/tyres_and_brakes"}
+{"q": "what should i check when buying a used car", "domain": "cars/car_buying"}
+{"q": "is it better to buy a car outright or on finance", "domain": "cars/car_buying"}
+{"q": "how can i reduce my fuel costs", "domain": "cars/car_running_costs"}
+{"q": "what running costs should i budget for", "domain": "cars/car_running_costs"}
+{"q": "how far can an electric car go on one charge", "domain": "cars/electric_vehicles"}
+{"q": "how do i charge an electric car at home", "domain": "cars/electric_vehicles"}
+{"q": "when should i get a home charger installed", "domain": "cars/electric_vehicles"}
+{"q": "how do i check a bike chain for wear", "domain": "cars/motorbikes_and_bicycles"}
+{"q": "what gear should i wear on a motorbike", "domain": "cars/motorbikes_and_bicycles"}
+{"q": "how do i remove tree sap from car paint", "domain": "cars/car_cleaning_and_care"}
+{"q": "how often should i wax a car", "domain": "cars/car_cleaning_and_care"}
+{"q": "how do i drive safely in fog", "domain": "cars/road_safety"}
+{"q": "what should i do if a car is following too closely", "domain": "cars/road_safety"}
+{"q": "what should i do if my car breaks down on a motorway", "domain": "cars/breakdowns_and_emergencies"}
+{"q": "when should i call a recovery service", "domain": "cars/breakdowns_and_emergencies"}
+{"q": "can i return a faulty item", "domain": "law/consumer_rights"}
+{"q": "what are my rights if a service is not provided", "domain": "law/consumer_rights"}
+{"q": "what makes a contract legally binding", "domain": "law/contracts"}
+{"q": "can i cancel a contract within a cooling off period", "domain": "law/contracts"}
+{"q": "am i entitled to paid holiday", "domain": "law/employment_rights"}
+{"q": "what can i do if my landlord will not repair a fault", "domain": "law/housing_rights"}
+{"q": "how much notice must a landlord give", "domain": "law/housing_rights"}
+{"q": "what is a parenting plan", "domain": "law/family_law_basics"}
+{"q": "how does mediation work in a family dispute", "domain": "law/family_law_basics"}
+{"q": "how do i make a small claim", "domain": "law/small_claims_and_disputes"}
+{"q": "what is the small claims limit", "domain": "law/small_claims_and_disputes"}
+{"q": "when should i get legal advice", "domain": "law/small_claims_and_disputes"}
+{"q": "what should i do if i am stopped by the police", "domain": "law/police_and_courts"}
+{"q": "what happens at a magistrates court", "domain": "law/police_and_courts"}
+{"q": "how do i register to vote", "domain": "law/voting_and_government"}
+{"q": "when are local elections held", "domain": "law/voting_and_government"}
+{"q": "what support is available if i cannot work", "domain": "law/benefits_and_support"}
+{"q": "how do i apply for a disability benefit", "domain": "law/benefits_and_support"}
+{"q": "how do i replace a lost birth certificate", "domain": "law/documents_and_records"}
+{"q": "how long should i keep financial records", "domain": "law/documents_and_records"}
+{"q": "how often should i feed a newborn", "domain": "family/parenting_babies"}
+{"q": "how do i settle a crying baby", "domain": "family/parenting_babies"}
+{"q": "when should i call a doctor about my baby", "domain": "family/parenting_babies"}
+{"q": "how do i set bedtime routines for children", "domain": "family/parenting_children"}
+{"q": "how much screen time is reasonable", "domain": "family/parenting_children"}
+{"q": "why is my teenager so moody", "domain": "family/teenagers"}
+{"q": "how do i have a difficult conversation with my partner", "domain": "family/relationships_and_communication"}
+{"q": "how do i listen better in a relationship", "domain": "family/relationships_and_communication"}
+{"q": "how do i make friends in a new city", "domain": "family/friendship"}
+{"q": "how do i rebuild a friendship after a fall out", "domain": "family/friendship"}
+{"q": "how do i stop arguments with my siblings", "domain": "family/family_conflict"}
+{"q": "how do i set boundaries with relatives", "domain": "family/family_conflict"}
+{"q": "how do i look after an elderly parent", "domain": "family/caring_for_relatives"}
+{"q": "what support is available for carers", "domain": "family/caring_for_relatives"}
+{"q": "what should i say at a funeral", "domain": "family/bereavement"}
+{"q": "how do i plan a small wedding", "domain": "family/weddings_and_celebrations"}
+{"q": "what should i wear as a wedding guest", "domain": "family/weddings_and_celebrations"}
+{"q": "how do i choose a nursery", "domain": "family/childcare_and_schools"}
+{"q": "how can i help my child with homework", "domain": "family/childcare_and_schools"}
+{"q": "what should i watch on a rainy evening", "domain": "culture/films_and_tv"}
+{"q": "how do i find films from a particular era", "domain": "culture/films_and_tv"}
+{"q": "what is a good beginner instrument", "domain": "culture/music"}
+{"q": "how do i choose a book for a book club", "domain": "culture/books_and_reading"}
+{"q": "what classic novels are worth reading", "domain": "culture/books_and_reading"}
+{"q": "what is a good puzzle for adults", "domain": "culture/games_and_puzzles"}
+{"q": "how do i get better at chess", "domain": "culture/games_and_puzzles"}
+{"q": "how do i start drawing with pencils", "domain": "culture/art_and_drawing"}
+{"q": "what paints are best for beginners", "domain": "culture/art_and_drawing"}
+{"q": "what does aperture do in photography", "domain": "culture/photography"}
+{"q": "how long should i spend in a large museum", "domain": "culture/museums_and_history"}
+{"q": "what can i see at the british museum", "domain": "culture/museums_and_history"}
+{"q": "what should i wear to the theatre", "domain": "culture/theatre_and_dance"}
+{"q": "how do i start learning ballroom dancing", "domain": "culture/theatre_and_dance"}
+{"q": "what podcasts are good for learning", "domain": "culture/radio_and_podcasts"}
+{"q": "how do i start a podcast at home", "domain": "culture/radio_and_podcasts"}
+{"q": "how do i start knitting", "domain": "culture/hobbies_and_crafts"}
+{"q": "what glue is best for paper crafts", "domain": "culture/hobbies_and_crafts"}
+{"q": "how do i plan my week effectively", "domain": "life/time_management"}
+{"q": "how do i choose between two job offers", "domain": "life/decision_making"}
+{"q": "how do i make a difficult decision", "domain": "life/decision_making"}
+{"q": "how do i politely decline an invitation", "domain": "life/manners_and_etiquette"}
+{"q": "what is proper etiquette at a dinner party", "domain": "life/manners_and_etiquette"}
+{"q": "how do i dress for a smart casual event", "domain": "life/clothes_and_fashion"}
+{"q": "how do i stop clothes fading in the wash", "domain": "life/clothes_and_fashion"}
+{"q": "how do i return something bought online", "domain": "life/shopping_and_returns"}
+{"q": "how do i track a missing parcel", "domain": "life/deliveries_and_post"}
+{"q": "what can i do if a delivery is damaged", "domain": "life/deliveries_and_post"}
+{"q": "how do i make my home more secure", "domain": "life/home_security"}
+{"q": "what should i do if i lose my house keys", "domain": "life/home_security"}
+{"q": "when should i call a locksmith", "domain": "life/home_security"}
+{"q": "what should i do if a fire starts in the kitchen", "domain": "life/fire_safety"}
+{"q": "how often should i test a smoke alarm", "domain": "life/fire_safety"}
+{"q": "how do i make a fire escape plan", "domain": "life/fire_safety"}
+{"q": "how do i introduce myself to neighbours", "domain": "life/neighbours_and_community"}
+{"q": "how do i deal with a noisy neighbour", "domain": "life/neighbours_and_community"}
+{"q": "how do i find a local volunteering role", "domain": "life/volunteering_and_community"}
+{"q": "what skills do charities need from volunteers", "domain": "life/volunteering_and_community"}
+{"q": "how do i know when the pan is hot enough", "domain": "food/frying_and_sauteing"}
+{"q": "should i cover a roast chicken with foil", "domain": "food/roasting_and_grilling"}
+{"q": "why is my soup too salty", "domain": "food/soups_and_stocks"}
+{"q": "what is the safest way to use a mandoline", "domain": "food/kitchen_equipment_and_safety"}
+{"q": "why do my cookies flatten in the oven", "domain": "baking/cookies_and_biscuits"}
+{"q": "how do i blind bake a pastry case", "domain": "baking/pastry_and_pies"}
+{"q": "how do i temper chocolate at home", "domain": "baking/chocolate_and_sweets"}
+{"q": "how much ice should go in a cocktail shaker", "domain": "drinks/cocktails_and_mocktails"}
+{"q": "is sparkling water as good as still water", "domain": "drinks/water_and_hydration"}
+{"q": "how do i get creases out of a shirt", "domain": "home/cleaning_and_laundry"}
+{"q": "why are the tips of my plant leaves brown", "domain": "garden/houseplants"}
+{"q": "how do i clean garden tools after use", "domain": "garden/garden_tools"}
+{"q": "what bedding is best for a hamster", "domain": "pets/small_pets"}
+{"q": "how can i avoid catching a cold", "domain": "health/common_illnesses"}
+{"q": "what equipment do i need for swimming", "domain": "fitness/swimming"}
+{"q": "what is excess on an insurance policy", "domain": "money/insurance_basics"}
+{"q": "how do i invoice a client", "domain": "work/freelancing"}
+{"q": "how do i manage exam nerves", "domain": "study/exam_preparation"}
+{"q": "how do i structure a short speech", "domain": "language/public_speaking"}
+{"q": "how early should i arrive at a coach station", "domain": "travel/trains_and_buses"}

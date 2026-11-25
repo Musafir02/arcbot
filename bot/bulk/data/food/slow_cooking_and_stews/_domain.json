@@ -1,0 +1,207 @@
+{
+  "category": "food",
+  "domain": "slow_cooking_and_stews",
+  "title": "Slow Cooking And Stews",
+  "modules": [
+    {
+      "file": "bean_stew",
+      "title": "Bean Stew"
+    },
+    {
+      "file": "beef_bourguignon",
+      "title": "Beef Bourguignon"
+    },
+    {
+      "file": "beef_stew_cooking_time",
+      "title": "Beef Stew Cooking Time"
+    },
+    {
+      "file": "beef_stroganoff",
+      "title": "Beef Stroganoff"
+    },
+    {
+      "file": "beer_in_stew",
+      "title": "Beer In Stew"
+    },
+    {
+      "file": "bland_stew",
+      "title": "Bland Stew"
+    },
+    {
+      "file": "browning_meat_for_stew",
+      "title": "Browning Meat For Stew"
+    },
+    {
+      "file": "burnt_stew",
+      "title": "Burnt Stew"
+    },
+    {
+      "file": "carrots_in_stew",
+      "title": "Carrots In Stew"
+    },
+    {
+      "file": "chicken_dumplings_slow_cooker",
+      "title": "Chicken Dumplings Slow Cooker"
+    },
+    {
+      "file": "chicken_stew",
+      "title": "Chicken Stew"
+    },
+    {
+      "file": "chilli_con_carne",
+      "title": "Chilli Con Carne"
+    },
+    {
+      "file": "dumplings_in_stew",
+      "title": "Dumplings In Stew"
+    },
+    {
+      "file": "freezing_stew",
+      "title": "Freezing Stew"
+    },
+    {
+      "file": "herbs_for_stew",
+      "title": "Herbs For Stew"
+    },
+    {
+      "file": "lamb_stew",
+      "title": "Lamb Stew"
+    },
+    {
+      "file": "lentil_stew",
+      "title": "Lentil Stew"
+    },
+    {
+      "file": "mushrooms_in_stew",
+      "title": "Mushrooms In Stew"
+    },
+    {
+      "file": "onions_in_stew",
+      "title": "Onions In Stew"
+    },
+    {
+      "file": "pork_stew",
+      "title": "Pork Stew"
+    },
+    {
+      "file": "pot_roast",
+      "title": "Pot Roast"
+    },
+    {
+      "file": "potatoes_in_stew",
+      "title": "Potatoes In Stew"
+    },
+    {
+      "file": "pulled_pork",
+      "title": "Pulled Pork"
+    },
+    {
+      "file": "ratatouille",
+      "title": "Ratatouille"
+    },
+    {
+      "file": "reheating_stew",
+      "title": "Reheating Stew"
+    },
+    {
+      "file": "salty_stew",
+      "title": "Salty Stew"
+    },
+    {
+      "file": "slow_cooker_bolognese",
+      "title": "Slow Cooker Bolognese"
+    },
+    {
+      "file": "slow_cooker_casserole",
+      "title": "Slow Cooker Casserole"
+    },
+    {
+      "file": "slow_cooker_chicken",
+      "title": "Slow Cooker Chicken"
+    },
+    {
+      "file": "slow_cooker_cleaning",
+      "title": "Slow Cooker Cleaning"
+    },
+    {
+      "file": "slow_cooker_curry",
+      "title": "Slow Cooker Curry"
+    },
+    {
+      "file": "slow_cooker_lasagne",
+      "title": "Slow Cooker Lasagne"
+    },
+    {
+      "file": "slow_cooker_lid",
+      "title": "Slow Cooker Lid"
+    },
+    {
+      "file": "slow_cooker_low_high",
+      "title": "Slow Cooker Low High"
+    },
+    {
+      "file": "slow_cooker_meatballs",
+      "title": "Slow Cooker Meatballs"
+    },
+    {
+      "file": "slow_cooker_overnight",
+      "title": "Slow Cooker Overnight"
+    },
+    {
+      "file": "slow_cooker_ribs",
+      "title": "Slow Cooker Ribs"
+    },
+    {
+      "file": "slow_cooker_safety",
+      "title": "Slow Cooker Safety"
+    },
+    {
+      "file": "slow_cooker_sausages",
+      "title": "Slow Cooker Sausages"
+    },
+    {
+      "file": "slow_cooker_size",
+      "title": "Slow Cooker Size"
+    },
+    {
+      "file": "stew_ingredients",
+      "title": "Stew Ingredients"
+    },
+    {
+      "file": "stew_meat_cuts",
+      "title": "Stew Meat Cuts"
+    },
+    {
+      "file": "stock_in_stew",
+      "title": "Stock In Stew"
+    },
+    {
+      "file": "thickening_stew",
+      "title": "Thickening Stew"
+    },
+    {
+      "file": "tough_beef_stew",
+      "title": "Tough Beef Stew"
+    },
+    {
+      "file": "vegetable_stew",
+      "title": "Vegetable Stew"
+    },
+    {
+      "file": "vegetables_for_stew",
+      "title": "Vegetables For Stew"
+    },
+    {
+      "file": "vegetarian_stew",
+      "title": "Vegetarian Stew"
+    },
+    {
+      "file": "watery_stew",
+      "title": "Watery Stew"
+    },
+    {
+      "file": "wine_in_stew",
+      "title": "Wine In Stew"
+    }
+  ]
+}

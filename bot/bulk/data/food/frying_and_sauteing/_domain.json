@@ -1,0 +1,207 @@
+{
+  "category": "food",
+  "domain": "frying_and_sauteing",
+  "title": "Frying And Sauteing",
+  "modules": [
+    {
+      "file": "breading_coating",
+      "title": "Breading Coating"
+    },
+    {
+      "file": "breading_cutlets",
+      "title": "Breading Cutlets"
+    },
+    {
+      "file": "butter_vs_oil",
+      "title": "Butter Vs Oil"
+    },
+    {
+      "file": "cast_iron_skillet",
+      "title": "Cast Iron Skillet"
+    },
+    {
+      "file": "choice_of_oil",
+      "title": "Choice Of Oil"
+    },
+    {
+      "file": "deep_fat_frying",
+      "title": "Deep Fat Frying"
+    },
+    {
+      "file": "deglazing_pan",
+      "title": "Deglazing Pan"
+    },
+    {
+      "file": "disposing_of_oil",
+      "title": "Disposing Of Oil"
+    },
+    {
+      "file": "draining_fried_food",
+      "title": "Draining Fried Food"
+    },
+    {
+      "file": "fried_rice",
+      "title": "Fried Rice"
+    },
+    {
+      "file": "frying_aubergine",
+      "title": "Frying Aubergine"
+    },
+    {
+      "file": "frying_bacon",
+      "title": "Frying Bacon"
+    },
+    {
+      "file": "frying_chicken",
+      "title": "Frying Chicken"
+    },
+    {
+      "file": "frying_chips",
+      "title": "Frying Chips"
+    },
+    {
+      "file": "frying_doughnuts",
+      "title": "Frying Doughnuts"
+    },
+    {
+      "file": "frying_eggs",
+      "title": "Frying Eggs"
+    },
+    {
+      "file": "frying_fish",
+      "title": "Frying Fish"
+    },
+    {
+      "file": "frying_frozen_food",
+      "title": "Frying Frozen Food"
+    },
+    {
+      "file": "frying_garlic",
+      "title": "Frying Garlic"
+    },
+    {
+      "file": "frying_mushrooms",
+      "title": "Frying Mushrooms"
+    },
+    {
+      "file": "frying_onions",
+      "title": "Frying Onions"
+    },
+    {
+      "file": "frying_pork_chops",
+      "title": "Frying Pork Chops"
+    },
+    {
+      "file": "frying_potatoes",
+      "title": "Frying Potatoes"
+    },
+    {
+      "file": "frying_safety",
+      "title": "Frying Safety"
+    },
+    {
+      "file": "frying_sausages",
+      "title": "Frying Sausages"
+    },
+    {
+      "file": "frying_steak",
+      "title": "Frying Steak"
+    },
+    {
+      "file": "frying_tofu",
+      "title": "Frying Tofu"
+    },
+    {
+      "file": "grease_splatter",
+      "title": "Grease Splatter"
+    },
+    {
+      "file": "nonstick_pan",
+      "title": "Nonstick Pan"
+    },
+    {
+      "file": "pan_temperature",
+      "title": "Pan Temperature"
+    },
+    {
+      "file": "preheating_the_pan",
+      "title": "Preheating The Pan"
+    },
+    {
+      "file": "preventing_sticking",
+      "title": "Preventing Sticking"
+    },
+    {
+      "file": "reusing_frying_oil",
+      "title": "Reusing Frying Oil"
+    },
+    {
+      "file": "sauteing_carrots",
+      "title": "Sauteing Carrots"
+    },
+    {
+      "file": "sauteing_garlic",
+      "title": "Sauteing Garlic"
+    },
+    {
+      "file": "sauteing_mushrooms",
+      "title": "Sauteing Mushrooms"
+    },
+    {
+      "file": "sauteing_onions",
+      "title": "Sauteing Onions"
+    },
+    {
+      "file": "sauteing_spinach",
+      "title": "Sauteing Spinach"
+    },
+    {
+      "file": "sauteing_vegetables",
+      "title": "Sauteing Vegetables"
+    },
+    {
+      "file": "seasoning_a_pan",
+      "title": "Seasoning A Pan"
+    },
+    {
+      "file": "shallow_frying",
+      "title": "Shallow Frying"
+    },
+    {
+      "file": "stainless_steel_pan",
+      "title": "Stainless Steel Pan"
+    },
+    {
+      "file": "stir_fry",
+      "title": "Stir Fry"
+    },
+    {
+      "file": "stir_fry_beef",
+      "title": "Stir Fry Beef"
+    },
+    {
+      "file": "stir_fry_noodles",
+      "title": "Stir Fry Noodles"
+    },
+    {
+      "file": "stir_fry_pork",
+      "title": "Stir Fry Pork"
+    },
+    {
+      "file": "stir_fry_sauce",
+      "title": "Stir Fry Sauce"
+    },
+    {
+      "file": "stir_frying_vegetables",
+      "title": "Stir Frying Vegetables"
+    },
+    {
+      "file": "tempura_batter",
+      "title": "Tempura Batter"
+    },
+    {
+      "file": "wok_cooking",
+      "title": "Wok Cooking"
+    }
+  ]
+}

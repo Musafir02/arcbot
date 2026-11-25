@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "custards_and_dessert_sauces",
+  "title": "Custards And Dessert Sauces",
+  "modules": [
+    {
+      "file": "berry_coulis",
+      "title": "Berry Coulis"
+    },
+    {
+      "file": "butterscotch_sauce",
+      "title": "Butterscotch Sauce"
+    },
+    {
+      "file": "caramel_sauce",
+      "title": "Caramel Sauce"
+    },
+    {
+      "file": "caramel_sauce_crystallising",
+      "title": "Caramel Sauce Crystallising"
+    },
+    {
+      "file": "caramel_sauce_too_thick",
+      "title": "Caramel Sauce Too Thick"
+    },
+    {
+      "file": "chantilly_cream",
+      "title": "Chantilly Cream"
+    },
+    {
+      "file": "chocolate_custard",
+      "title": "Chocolate Custard"
+    },
+    {
+      "file": "chocolate_sauce",
+      "title": "Chocolate Sauce"
+    },
+    {
+      "file": "chocolate_sauce_seizing",
+      "title": "Chocolate Sauce Seizing"
+    },
+    {
+      "file": "citrus_curd_setting",
+      "title": "Citrus Curd Setting"
+    },
+    {
+      "file": "cornflour_custard",
+      "title": "Cornflour Custard"
+    },
+    {
+      "file": "cream_vs_milk_custard",
+      "title": "Cream Vs Milk Custard"
+    },
+    {
+      "file": "creme_anglaise",
+      "title": "Creme Anglaise"
+    },
+    {
+      "file": "creme_anglaise_thickness",
+      "title": "Creme Anglaise Thickness"
+    },
+    {
+      "file": "creme_legere",
+      "title": "Creme Legere"
+    },
+    {
+      "file": "creme_patissiere",
+      "title": "Creme Patissiere"
+    },
+    {
+      "file": "curd_storage",
+      "title": "Curd Storage"
+    },
+    {
+      "file": "custard_basics",
+      "title": "Custard Basics"
+    },
+    {
+      "file": "custard_coating_spoon",
+      "title": "Custard Coating Spoon"
+    },
+    {
+      "file": "custard_egg_yolk_ratio",
+      "title": "Custard Egg Yolk Ratio"
+    },
+    {
+      "file": "custard_flavouring",
+      "title": "Custard Flavouring"
+    },
+    {
+      "file": "custard_freezing",
+      "title": "Custard Freezing"
+    },
+    {
+      "file": "custard_lumps",
+      "title": "Custard Lumps"
+    },
+    {
+      "file": "custard_making_in_advance",
+      "title": "Custard Making In Advance"
+    },
+    {
+      "file": "custard_powder",
+      "title": "Custard Powder"
+    },
+    {
+      "file": "custard_reheating",
+      "title": "Custard Reheating"
+    },
+    {
+      "file": "custard_sauce_for_desserts",
+      "title": "Custard Sauce For Desserts"
+    },
+    {
+      "file": "custard_skin",
+      "title": "Custard Skin"
+    },
+    {
+      "file": "custard_storage",
+      "title": "Custard Storage"
+    },
+    {
+      "file": "custard_sweetness",
+      "title": "Custard Sweetness"
+    },
+    {
+      "file": "custard_temperature",
+      "title": "Custard Temperature"
+    },
+    {
+      "file": "custard_too_thick",
+      "title": "Custard Too Thick"
+    },
+    {
+      "file": "custard_too_thin",
+      "title": "Custard Too Thin"
+    },
+    {
+      "file": "custard_vanilla",
+      "title": "Custard Vanilla"
+    },
+    {
+      "file": "custard_water_bath",
+      "title": "Custard Water Bath"
+    },
+    {
+      "file": "dessert_sauce_storage",
+      "title": "Dessert Sauce Storage"
+    },
+    {
+      "file": "diplomat_cream",
+      "title": "Diplomat Cream"
+    },
+    {
+      "file": "fruit_sauce",
+      "title": "Fruit Sauce"
+    },
+    {
+      "file": "instant_custard",
+      "title": "Instant Custard"
+    },
+    {
+      "file": "lemon_curd",
+      "title": "Lemon Curd"
+    },
+    {
+      "file": "passionfruit_curd",
+      "title": "Passionfruit Curd"
+    },
+    {
+      "file": "pastry_cream_lumps",
+      "title": "Pastry Cream Lumps"
+    },
+    {
+      "file": "pastry_cream_thickness",
+      "title": "Pastry Cream Thickness"
+    },
+    {
+      "file": "sabayon",
+      "title": "Sabayon"
+    },
+    {
+      "file": "set_custard",
+      "title": "Set Custard"
+    },
+    {
+      "file": "stopping_custard_curdling",
+      "title": "Stopping Custard Curdling"
+    },
+    {
+      "file": "sweet_sauces",
+      "title": "Sweet Sauces"
+    },
+    {
+      "file": "toffee_sauce",
+      "title": "Toffee Sauce"
+    },
+    {
+      "file": "whipped_cream_stability",
+      "title": "Whipped Cream Stability"
+    },
+    {
+      "file": "zabaglione",
+      "title": "Zabaglione"
+    }
+  ]
+}

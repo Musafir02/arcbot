@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "chocolate_and_sweets",
+  "title": "Chocolate And Sweets",
+  "modules": [
+    {
+      "file": "caramel_crystallising",
+      "title": "Caramel Crystallising"
+    },
+    {
+      "file": "chocolate_bark",
+      "title": "Chocolate Bark"
+    },
+    {
+      "file": "chocolate_bloom",
+      "title": "Chocolate Bloom"
+    },
+    {
+      "file": "chocolate_brownies",
+      "title": "Chocolate Brownies"
+    },
+    {
+      "file": "chocolate_cake",
+      "title": "Chocolate Cake"
+    },
+    {
+      "file": "chocolate_chips",
+      "title": "Chocolate Chips"
+    },
+    {
+      "file": "chocolate_dipped_strawberries",
+      "title": "Chocolate Dipped Strawberries"
+    },
+    {
+      "file": "chocolate_fondue",
+      "title": "Chocolate Fondue"
+    },
+    {
+      "file": "chocolate_frosting",
+      "title": "Chocolate Frosting"
+    },
+    {
+      "file": "chocolate_ganache",
+      "title": "Chocolate Ganache"
+    },
+    {
+      "file": "chocolate_glaze",
+      "title": "Chocolate Glaze"
+    },
+    {
+      "file": "chocolate_moulds",
+      "title": "Chocolate Moulds"
+    },
+    {
+      "file": "chocolate_mousse",
+      "title": "Chocolate Mousse"
+    },
+    {
+      "file": "chocolate_seizing",
+      "title": "Chocolate Seizing"
+    },
+    {
+      "file": "chocolate_shine",
+      "title": "Chocolate Shine"
+    },
+    {
+      "file": "chocolate_snap",
+      "title": "Chocolate Snap"
+    },
+    {
+      "file": "chocolate_truffles",
+      "title": "Chocolate Truffles"
+    },
+    {
+      "file": "cocoa_butter",
+      "title": "Cocoa Butter"
+    },
+    {
+      "file": "cocoa_powder",
+      "title": "Cocoa Powder"
+    },
+    {
+      "file": "condensed_milk_sweets",
+      "title": "Condensed Milk Sweets"
+    },
+    {
+      "file": "dark_chocolate",
+      "title": "Dark Chocolate"
+    },
+    {
+      "file": "dipping_fruit_in_chocolate",
+      "title": "Dipping Fruit In Chocolate"
+    },
+    {
+      "file": "double_boiler",
+      "title": "Double Boiler"
+    },
+    {
+      "file": "fudge_setting",
+      "title": "Fudge Setting"
+    },
+    {
+      "file": "fudgy_brownies",
+      "title": "Fudgy Brownies"
+    },
+    {
+      "file": "grainy_fudge",
+      "title": "Grainy Fudge"
+    },
+    {
+      "file": "gummy_sweets",
+      "title": "Gummy Sweets"
+    },
+    {
+      "file": "hard_candy",
+      "title": "Hard Candy"
+    },
+    {
+      "file": "homemade_chocolate",
+      "title": "Homemade Chocolate"
+    },
+    {
+      "file": "making_brittle",
+      "title": "Making Brittle"
+    },
+    {
+      "file": "making_caramel",
+      "title": "Making Caramel"
+    },
+    {
+      "file": "making_fondant",
+      "title": "Making Fondant"
+    },
+    {
+      "file": "making_fudge",
+      "title": "Making Fudge"
+    },
+    {
+      "file": "making_lollipops",
+      "title": "Making Lollipops"
+    },
+    {
+      "file": "making_marshmallows",
+      "title": "Making Marshmallows"
+    },
+    {
+      "file": "making_nougat",
+      "title": "Making Nougat"
+    },
+    {
+      "file": "making_praline",
+      "title": "Making Praline"
+    },
+    {
+      "file": "making_toffee",
+      "title": "Making Toffee"
+    },
+    {
+      "file": "melting_chocolate",
+      "title": "Melting Chocolate"
+    },
+    {
+      "file": "microwaving_chocolate",
+      "title": "Microwaving Chocolate"
+    },
+    {
+      "file": "milk_chocolate",
+      "title": "Milk Chocolate"
+    },
+    {
+      "file": "seeding_chocolate",
+      "title": "Seeding Chocolate"
+    },
+    {
+      "file": "split_ganache",
+      "title": "Split Ganache"
+    },
+    {
+      "file": "storing_chocolate",
+      "title": "Storing Chocolate"
+    },
+    {
+      "file": "substituting_cocoa",
+      "title": "Substituting Cocoa"
+    },
+    {
+      "file": "sugar_crystallisation",
+      "title": "Sugar Crystallisation"
+    },
+    {
+      "file": "sugar_syrup",
+      "title": "Sugar Syrup"
+    },
+    {
+      "file": "tempering_chocolate",
+      "title": "Tempering Chocolate"
+    },
+    {
+      "file": "truffle_coating",
+      "title": "Truffle Coating"
+    },
+    {
+      "file": "white_chocolate",
+      "title": "White Chocolate"
+    }
+  ]
+}

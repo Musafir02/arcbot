@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "cookies_and_biscuits",
+  "title": "Cookies And Biscuits",
+  "modules": [
+    {
+      "file": "adding_chocolate_chips_to_biscuits",
+      "title": "Adding Chocolate Chips To Biscuits"
+    },
+    {
+      "file": "baking_two_trays_of_biscuits",
+      "title": "Baking Two Trays Of Biscuits"
+    },
+    {
+      "file": "biscuit_baking_time",
+      "title": "Biscuit Baking Time"
+    },
+    {
+      "file": "biscuit_dough_consistency",
+      "title": "Biscuit Dough Consistency"
+    },
+    {
+      "file": "biscuit_dough_thickness",
+      "title": "Biscuit Dough Thickness"
+    },
+    {
+      "file": "biscuit_ingredients_basics",
+      "title": "Biscuit Ingredients Basics"
+    },
+    {
+      "file": "biscuit_spreading_in_oven",
+      "title": "Biscuit Spreading In Oven"
+    },
+    {
+      "file": "biscuit_texture_problems",
+      "title": "Biscuit Texture Problems"
+    },
+    {
+      "file": "butter_biscuits",
+      "title": "Butter Biscuits"
+    },
+    {
+      "file": "chewy_cookies_instead_of_crisp",
+      "title": "Chewy Cookies Instead Of Crisp"
+    },
+    {
+      "file": "chilling_biscuit_dough",
+      "title": "Chilling Biscuit Dough"
+    },
+    {
+      "file": "chocolate_chip_cookies",
+      "title": "Chocolate Chip Cookies"
+    },
+    {
+      "file": "cookie_flattening_in_oven",
+      "title": "Cookie Flattening In Oven"
+    },
+    {
+      "file": "cooling_biscuits_after_baking",
+      "title": "Cooling Biscuits After Baking"
+    },
+    {
+      "file": "creaming_butter_and_sugar",
+      "title": "Creaming Butter And Sugar"
+    },
+    {
+      "file": "crisp_biscuit_recipe",
+      "title": "Crisp Biscuit Recipe"
+    },
+    {
+      "file": "crumbly_biscuits",
+      "title": "Crumbly Biscuits"
+    },
+    {
+      "file": "cutting_biscuit_shapes",
+      "title": "Cutting Biscuit Shapes"
+    },
+    {
+      "file": "decorating_biscuits_with_sprinkles",
+      "title": "Decorating Biscuits With Sprinkles"
+    },
+    {
+      "file": "digestive_biscuits",
+      "title": "Digestive Biscuits"
+    },
+    {
+      "file": "eggless_biscuits",
+      "title": "Eggless Biscuits"
+    },
+    {
+      "file": "eggs_in_biscuit_recipes",
+      "title": "Eggs In Biscuit Recipes"
+    },
+    {
+      "file": "fan_oven_biscuits",
+      "title": "Fan Oven Biscuits"
+    },
+    {
+      "file": "flattening_biscuits_with_fork",
+      "title": "Flattening Biscuits With Fork"
+    },
+    {
+      "file": "freezing_biscuit_dough",
+      "title": "Freezing Biscuit Dough"
+    },
+    {
+      "file": "gingerbread_biscuits",
+      "title": "Gingerbread Biscuits"
+    },
+    {
+      "file": "gluten_free_biscuits",
+      "title": "Gluten Free Biscuits"
+    },
+    {
+      "file": "greasing_baking_trays",
+      "title": "Greasing Baking Trays"
+    },
+    {
+      "file": "hard_biscuits_in_middle",
+      "title": "Hard Biscuits In Middle"
+    },
+    {
+      "file": "icing_biscuits",
+      "title": "Icing Biscuits"
+    },
+    {
+      "file": "lining_baking_trays",
+      "title": "Lining Baking Trays"
+    },
+    {
+      "file": "measuring_flour_for_biscuits",
+      "title": "Measuring Flour For Biscuits"
+    },
+    {
+      "file": "oatmeal_biscuits",
+      "title": "Oatmeal Biscuits"
+    },
+    {
+      "file": "oven_temperature_for_biscuits",
+      "title": "Oven Temperature For Biscuits"
+    },
+    {
+      "file": "overbaked_biscuits",
+      "title": "Overbaked Biscuits"
+    },
+    {
+      "file": "packing_biscuits_for_travel",
+      "title": "Packing Biscuits For Travel"
+    },
+    {
+      "file": "peanut_butter_biscuits",
+      "title": "Peanut Butter Biscuits"
+    },
+    {
+      "file": "reduced_sugar_biscuits",
+      "title": "Reduced Sugar Biscuits"
+    },
+    {
+      "file": "resting_biscuit_dough",
+      "title": "Resting Biscuit Dough"
+    },
+    {
+      "file": "salt_in_biscuit_dough",
+      "title": "Salt In Biscuit Dough"
+    },
+    {
+      "file": "shortbread_biscuits",
+      "title": "Shortbread Biscuits"
+    },
+    {
+      "file": "soft_biscuits_after_cooling",
+      "title": "Soft Biscuits After Cooling"
+    },
+    {
+      "file": "storing_baked_biscuits",
+      "title": "Storing Baked Biscuits"
+    },
+    {
+      "file": "sugars_in_biscuit_recipes",
+      "title": "Sugars In Biscuit Recipes"
+    },
+    {
+      "file": "thick_cookies",
+      "title": "Thick Cookies"
+    },
+    {
+      "file": "thin_biscuits",
+      "title": "Thin Biscuits"
+    },
+    {
+      "file": "underbaked_biscuits",
+      "title": "Underbaked Biscuits"
+    },
+    {
+      "file": "vanilla_in_biscuits",
+      "title": "Vanilla In Biscuits"
+    },
+    {
+      "file": "vegan_biscuits",
+      "title": "Vegan Biscuits"
+    },
+    {
+      "file": "wholemeal_biscuits",
+      "title": "Wholemeal Biscuits"
+    }
+  ]
+}

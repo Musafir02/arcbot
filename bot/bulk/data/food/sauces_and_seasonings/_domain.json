@@ -1,0 +1,207 @@
+{
+  "category": "food",
+  "domain": "sauces_and_seasonings",
+  "title": "Sauces And Seasonings",
+  "modules": [
+    {
+      "file": "balancing_acidity",
+      "title": "Balancing Acidity"
+    },
+    {
+      "file": "balancing_sweetness",
+      "title": "Balancing Sweetness"
+    },
+    {
+      "file": "barbecue_sauce",
+      "title": "Barbecue Sauce"
+    },
+    {
+      "file": "bechamel_sauce",
+      "title": "Bechamel Sauce"
+    },
+    {
+      "file": "cheese_sauce",
+      "title": "Cheese Sauce"
+    },
+    {
+      "file": "compound_butter",
+      "title": "Compound Butter"
+    },
+    {
+      "file": "dairy_free_creamy_sauces",
+      "title": "Dairy Free Creamy Sauces"
+    },
+    {
+      "file": "dried_vs_fresh_herbs",
+      "title": "Dried Vs Fresh Herbs"
+    },
+    {
+      "file": "finishing_with_butter",
+      "title": "Finishing With Butter"
+    },
+    {
+      "file": "fixing_hollandaise",
+      "title": "Fixing Hollandaise"
+    },
+    {
+      "file": "fixing_lumpy_sauces",
+      "title": "Fixing Lumpy Sauces"
+    },
+    {
+      "file": "fixing_salty_sauces",
+      "title": "Fixing Salty Sauces"
+    },
+    {
+      "file": "fixing_split_mayonnaise",
+      "title": "Fixing Split Mayonnaise"
+    },
+    {
+      "file": "fixing_split_vinaigrette",
+      "title": "Fixing Split Vinaigrette"
+    },
+    {
+      "file": "freezing_sauces",
+      "title": "Freezing Sauces"
+    },
+    {
+      "file": "gluten_free_thickening",
+      "title": "Gluten Free Thickening"
+    },
+    {
+      "file": "grinding_spices",
+      "title": "Grinding Spices"
+    },
+    {
+      "file": "herb_storage",
+      "title": "Herb Storage"
+    },
+    {
+      "file": "herbs_for_tomato_sauce",
+      "title": "Herbs For Tomato Sauce"
+    },
+    {
+      "file": "herbs_with_fish",
+      "title": "Herbs With Fish"
+    },
+    {
+      "file": "herbs_with_meat",
+      "title": "Herbs With Meat"
+    },
+    {
+      "file": "herbs_with_vegetables",
+      "title": "Herbs With Vegetables"
+    },
+    {
+      "file": "hot_sauce",
+      "title": "Hot Sauce"
+    },
+    {
+      "file": "keeping_sauces_warm",
+      "title": "Keeping Sauces Warm"
+    },
+    {
+      "file": "making_aioli",
+      "title": "Making Aioli"
+    },
+    {
+      "file": "making_gravy",
+      "title": "Making Gravy"
+    },
+    {
+      "file": "making_hollandaise",
+      "title": "Making Hollandaise"
+    },
+    {
+      "file": "making_mayonnaise",
+      "title": "Making Mayonnaise"
+    },
+    {
+      "file": "making_pesto",
+      "title": "Making Pesto"
+    },
+    {
+      "file": "pepper_types",
+      "title": "Pepper Types"
+    },
+    {
+      "file": "reducing_sauces",
+      "title": "Reducing Sauces"
+    },
+    {
+      "file": "reheating_sauces",
+      "title": "Reheating Sauces"
+    },
+    {
+      "file": "roux_basics",
+      "title": "Roux Basics"
+    },
+    {
+      "file": "salt_types",
+      "title": "Salt Types"
+    },
+    {
+      "file": "sauce_consistency",
+      "title": "Sauce Consistency"
+    },
+    {
+      "file": "seasoning_sauces",
+      "title": "Seasoning Sauces"
+    },
+    {
+      "file": "skimming_sauce",
+      "title": "Skimming Sauce"
+    },
+    {
+      "file": "soy_sauce_alternatives",
+      "title": "Soy Sauce Alternatives"
+    },
+    {
+      "file": "spice_storage",
+      "title": "Spice Storage"
+    },
+    {
+      "file": "storing_sauces",
+      "title": "Storing Sauces"
+    },
+    {
+      "file": "tartar_sauce",
+      "title": "Tartar Sauce"
+    },
+    {
+      "file": "thickening_gravy",
+      "title": "Thickening Gravy"
+    },
+    {
+      "file": "thickening_with_cornflour",
+      "title": "Thickening With Cornflour"
+    },
+    {
+      "file": "thinning_sauces",
+      "title": "Thinning Sauces"
+    },
+    {
+      "file": "timing_fresh_herbs",
+      "title": "Timing Fresh Herbs"
+    },
+    {
+      "file": "toasting_spices",
+      "title": "Toasting Spices"
+    },
+    {
+      "file": "tomato_sauce_basics",
+      "title": "Tomato Sauce Basics"
+    },
+    {
+      "file": "umami_in_sauces",
+      "title": "Umami In Sauces"
+    },
+    {
+      "file": "using_wine_in_sauces",
+      "title": "Using Wine In Sauces"
+    },
+    {
+      "file": "vinaigrette_basics",
+      "title": "Vinaigrette Basics"
+    }
+  ]
+}

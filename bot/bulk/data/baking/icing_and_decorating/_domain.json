@@ -1,0 +1,207 @@
+{
+  "category": "baking",
+  "domain": "icing_and_decorating",
+  "title": "Icing And Decorating",
+  "modules": [
+    {
+      "file": "airbrushing_cakes",
+      "title": "Airbrushing Cakes"
+    },
+    {
+      "file": "basic_buttercream",
+      "title": "Basic Buttercream"
+    },
+    {
+      "file": "buttercream_air_bubbles",
+      "title": "Buttercream Air Bubbles"
+    },
+    {
+      "file": "buttercream_consistency",
+      "title": "Buttercream Consistency"
+    },
+    {
+      "file": "buttercream_holding_shape",
+      "title": "Buttercream Holding Shape"
+    },
+    {
+      "file": "cake_turntable",
+      "title": "Cake Turntable"
+    },
+    {
+      "file": "cake_writing",
+      "title": "Cake Writing"
+    },
+    {
+      "file": "chocolate_curls",
+      "title": "Chocolate Curls"
+    },
+    {
+      "file": "chocolate_ganache",
+      "title": "Chocolate Ganache"
+    },
+    {
+      "file": "chocolate_transfer_sheets",
+      "title": "Chocolate Transfer Sheets"
+    },
+    {
+      "file": "cleaning_piping_bags",
+      "title": "Cleaning Piping Bags"
+    },
+    {
+      "file": "colouring_buttercream",
+      "title": "Colouring Buttercream"
+    },
+    {
+      "file": "covering_cake_with_fondant",
+      "title": "Covering Cake With Fondant"
+    },
+    {
+      "file": "cream_cheese_frosting",
+      "title": "Cream Cheese Frosting"
+    },
+    {
+      "file": "crumb_coat",
+      "title": "Crumb Coat"
+    },
+    {
+      "file": "decorating_biscuits",
+      "title": "Decorating Biscuits"
+    },
+    {
+      "file": "decorating_cupcakes",
+      "title": "Decorating Cupcakes"
+    },
+    {
+      "file": "decorating_frozen_cakes",
+      "title": "Decorating Frozen Cakes"
+    },
+    {
+      "file": "decorating_with_sprinkles",
+      "title": "Decorating With Sprinkles"
+    },
+    {
+      "file": "edible_cake_toppers",
+      "title": "Edible Cake Toppers"
+    },
+    {
+      "file": "edible_glitter_and_lustre",
+      "title": "Edible Glitter And Lustre"
+    },
+    {
+      "file": "flat_icing_techniques",
+      "title": "Flat Icing Techniques"
+    },
+    {
+      "file": "flavouring_buttercream",
+      "title": "Flavouring Buttercream"
+    },
+    {
+      "file": "fondant_cracking",
+      "title": "Fondant Cracking"
+    },
+    {
+      "file": "fondant_icing",
+      "title": "Fondant Icing"
+    },
+    {
+      "file": "fresh_flowers_on_cakes",
+      "title": "Fresh Flowers On Cakes"
+    },
+    {
+      "file": "glace_icing",
+      "title": "Glace Icing"
+    },
+    {
+      "file": "grainy_buttercream",
+      "title": "Grainy Buttercream"
+    },
+    {
+      "file": "gum_paste_modelling",
+      "title": "Gum Paste Modelling"
+    },
+    {
+      "file": "icing_in_warm_weather",
+      "title": "Icing In Warm Weather"
+    },
+    {
+      "file": "icing_scraper",
+      "title": "Icing Scraper"
+    },
+    {
+      "file": "icing_sliding_off_cake",
+      "title": "Icing Sliding Off Cake"
+    },
+    {
+      "file": "italian_meringue_buttercream",
+      "title": "Italian Meringue Buttercream"
+    },
+    {
+      "file": "layering_cake_with_icing",
+      "title": "Layering Cake With Icing"
+    },
+    {
+      "file": "marzipan_under_fondant",
+      "title": "Marzipan Under Fondant"
+    },
+    {
+      "file": "metallic_and_sparkle_finishes",
+      "title": "Metallic And Sparkle Finishes"
+    },
+    {
+      "file": "natural_food_colours",
+      "title": "Natural Food Colours"
+    },
+    {
+      "file": "piped_chocolate_decorations",
+      "title": "Piped Chocolate Decorations"
+    },
+    {
+      "file": "piping_buttercream",
+      "title": "Piping Buttercream"
+    },
+    {
+      "file": "piping_buttercream_flowers",
+      "title": "Piping Buttercream Flowers"
+    },
+    {
+      "file": "piping_cake_borders",
+      "title": "Piping Cake Borders"
+    },
+    {
+      "file": "royal_icing",
+      "title": "Royal Icing"
+    },
+    {
+      "file": "runny_icing_fixes",
+      "title": "Runny Icing Fixes"
+    },
+    {
+      "file": "smoothing_cake_icing",
+      "title": "Smoothing Cake Icing"
+    },
+    {
+      "file": "stencil_cake_decorating",
+      "title": "Stencil Cake Decorating"
+    },
+    {
+      "file": "storing_decorated_cakes",
+      "title": "Storing Decorated Cakes"
+    },
+    {
+      "file": "sugar_flowers",
+      "title": "Sugar Flowers"
+    },
+    {
+      "file": "swiss_meringue_buttercream",
+      "title": "Swiss Meringue Buttercream"
+    },
+    {
+      "file": "transporting_decorated_cakes",
+      "title": "Transporting Decorated Cakes"
+    },
+    {
+      "file": "whipped_cream_frosting",
+      "title": "Whipped Cream Frosting"
+    }
+  ]
+}

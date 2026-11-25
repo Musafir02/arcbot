@@ -1,0 +1,207 @@
+{
+  "category": "food",
+  "domain": "soups_and_stocks",
+  "title": "Soups And Stocks",
+  "modules": [
+    {
+      "file": "beef_stock",
+      "title": "Beef Stock"
+    },
+    {
+      "file": "bland_soup",
+      "title": "Bland Soup"
+    },
+    {
+      "file": "bone_broth",
+      "title": "Bone Broth"
+    },
+    {
+      "file": "broth_vs_stock",
+      "title": "Broth Vs Stock"
+    },
+    {
+      "file": "canned_soup",
+      "title": "Canned Soup"
+    },
+    {
+      "file": "chicken_noodle_soup",
+      "title": "Chicken Noodle Soup"
+    },
+    {
+      "file": "chicken_stock",
+      "title": "Chicken Stock"
+    },
+    {
+      "file": "clear_chicken_stock",
+      "title": "Clear Chicken Stock"
+    },
+    {
+      "file": "cloudy_stock",
+      "title": "Cloudy Stock"
+    },
+    {
+      "file": "cold_soup",
+      "title": "Cold Soup"
+    },
+    {
+      "file": "creamy_soup",
+      "title": "Creamy Soup"
+    },
+    {
+      "file": "croutons",
+      "title": "Croutons"
+    },
+    {
+      "file": "fish_stock",
+      "title": "Fish Stock"
+    },
+    {
+      "file": "greasy_soup",
+      "title": "Greasy Soup"
+    },
+    {
+      "file": "lentil_soup",
+      "title": "Lentil Soup"
+    },
+    {
+      "file": "mushroom_soup",
+      "title": "Mushroom Soup"
+    },
+    {
+      "file": "onion_soup",
+      "title": "Onion Soup"
+    },
+    {
+      "file": "potato_soup",
+      "title": "Potato Soup"
+    },
+    {
+      "file": "pumpkin_soup",
+      "title": "Pumpkin Soup"
+    },
+    {
+      "file": "pureed_soup",
+      "title": "Pureed Soup"
+    },
+    {
+      "file": "roasting_bones_for_stock",
+      "title": "Roasting Bones For Stock"
+    },
+    {
+      "file": "salty_soup",
+      "title": "Salty Soup"
+    },
+    {
+      "file": "soup_acidity",
+      "title": "Soup Acidity"
+    },
+    {
+      "file": "soup_base",
+      "title": "Soup Base"
+    },
+    {
+      "file": "soup_blending",
+      "title": "Soup Blending"
+    },
+    {
+      "file": "soup_freezing",
+      "title": "Soup Freezing"
+    },
+    {
+      "file": "soup_garnishes",
+      "title": "Soup Garnishes"
+    },
+    {
+      "file": "soup_liquid_ratio",
+      "title": "Soup Liquid Ratio"
+    },
+    {
+      "file": "soup_pressure_cooker",
+      "title": "Soup Pressure Cooker"
+    },
+    {
+      "file": "soup_reheating",
+      "title": "Soup Reheating"
+    },
+    {
+      "file": "soup_seasoning",
+      "title": "Soup Seasoning"
+    },
+    {
+      "file": "soup_slow_cooker",
+      "title": "Soup Slow Cooker"
+    },
+    {
+      "file": "soup_storage",
+      "title": "Soup Storage"
+    },
+    {
+      "file": "soup_thickening",
+      "title": "Soup Thickening"
+    },
+    {
+      "file": "soup_thinning",
+      "title": "Soup Thinning"
+    },
+    {
+      "file": "soup_umami",
+      "title": "Soup Umami"
+    },
+    {
+      "file": "stock_cooling",
+      "title": "Stock Cooling"
+    },
+    {
+      "file": "stock_cube_substitutes",
+      "title": "Stock Cube Substitutes"
+    },
+    {
+      "file": "stock_freezing",
+      "title": "Stock Freezing"
+    },
+    {
+      "file": "stock_herbs",
+      "title": "Stock Herbs"
+    },
+    {
+      "file": "stock_ingredients",
+      "title": "Stock Ingredients"
+    },
+    {
+      "file": "stock_reduction",
+      "title": "Stock Reduction"
+    },
+    {
+      "file": "stock_safety",
+      "title": "Stock Safety"
+    },
+    {
+      "file": "stock_simering",
+      "title": "Stock Simering"
+    },
+    {
+      "file": "stock_skimming",
+      "title": "Stock Skimming"
+    },
+    {
+      "file": "stock_storage",
+      "title": "Stock Storage"
+    },
+    {
+      "file": "stock_straining",
+      "title": "Stock Straining"
+    },
+    {
+      "file": "stock_vegetables",
+      "title": "Stock Vegetables"
+    },
+    {
+      "file": "tomato_soup",
+      "title": "Tomato Soup"
+    },
+    {
+      "file": "vegetable_stock",
+      "title": "Vegetable Stock"
+    }
+  ]
+}
