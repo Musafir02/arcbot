@@ -356,9 +356,6 @@ def main():
         targets.append((category, domain, path))
     if args.all:
         targets = _domain_dirs(base)
-        if not targets:
-            print("no domains found")
-            return 1
     duplicate_map = {} if args.duplicates else None
     errors, warnings = [], []
     files = patterns = answers = 0
