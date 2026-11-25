@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "physics_basics",
+  "title": "Physics Basics",
+  "modules": [
+    {
+      "file": "atmospheric_pressure",
+      "title": "Atmospheric Pressure"
+    },
+    {
+      "file": "buoyancy_and_flotation",
+      "title": "Buoyancy And Flotation"
+    },
+    {
+      "file": "circular_motion_and_centripetal_force",
+      "title": "Circular Motion And Centripetal Force"
+    },
+    {
+      "file": "colour_and_spectrum",
+      "title": "Colour And Spectrum"
+    },
+    {
+      "file": "conservation_of_energy",
+      "title": "Conservation Of Energy"
+    },
+    {
+      "file": "density_and_volume",
+      "title": "Density And Volume"
+    },
+    {
+      "file": "electric_current",
+      "title": "Electric Current"
+    },
+    {
+      "file": "electrical_resistance_and_ohms_law",
+      "title": "Electrical Resistance And Ohms Law"
+    },
+    {
+      "file": "electromagnets_and_motors",
+      "title": "Electromagnets And Motors"
+    },
+    {
+      "file": "force_and_acceleration",
+      "title": "Force And Acceleration"
+    },
+    {
+      "file": "free_fall_and_gravity",
+      "title": "Free Fall And Gravity"
+    },
+    {
+      "file": "friction_and_surfaces",
+      "title": "Friction And Surfaces"
+    },
+    {
+      "file": "gas_laws",
+      "title": "Gas Laws"
+    },
+    {
+      "file": "heat_conduction",
+      "title": "Heat Conduction"
+    },
+    {
+      "file": "heat_convection",
+      "title": "Heat Convection"
+    },
+    {
+      "file": "heat_radiation",
+      "title": "Heat Radiation"
+    },
+    {
+      "file": "inclined_planes",
+      "title": "Inclined Planes"
+    },
+    {
+      "file": "inertia_explained",
+      "title": "Inertia Explained"
+    },
+    {
+      "file": "kinetic_and_potential_energy",
+      "title": "Kinetic And Potential Energy"
+    },
+    {
+      "file": "latent_heat_and_melting",
+      "title": "Latent Heat And Melting"
+    },
+    {
+      "file": "light_reflection",
+      "title": "Light Reflection"
+    },
+    {
+      "file": "magnets_and_magnetic_fields",
+      "title": "Magnets And Magnetic Fields"
+    },
+    {
+      "file": "mass_vs_weight",
+      "title": "Mass Vs Weight"
+    },
+    {
+      "file": "measurement_and_units",
+      "title": "Measurement And Units"
+    },
+    {
+      "file": "momentum_and_collisions",
+      "title": "Momentum And Collisions"
+    },
+    {
+      "file": "newtons_laws_of_motion",
+      "title": "Newtons Laws Of Motion"
+    },
+    {
+      "file": "pendulum_and_oscillations",
+      "title": "Pendulum And Oscillations"
+    },
+    {
+      "file": "power_and_watts",
+      "title": "Power And Watts"
+    },
+    {
+      "file": "pressure_and_area",
+      "title": "Pressure And Area"
+    },
+    {
+      "file": "projectile_motion",
+      "title": "Projectile Motion"
+    },
+    {
+      "file": "pulleys_and_gears",
+      "title": "Pulleys And Gears"
+    },
+    {
+      "file": "radioactive_decay",
+      "title": "Radioactive Decay"
+    },
+    {
+      "file": "refraction_and_lenses",
+      "title": "Refraction And Lenses"
+    },
+    {
+      "file": "series_and_parallel_circuits",
+      "title": "Series And Parallel Circuits"
+    },
+    {
+      "file": "shadows_and_eclipses",
+      "title": "Shadows And Eclipses"
+    },
+    {
+      "file": "simple_machines_levers",
+      "title": "Simple Machines Levers"
+    },
+    {
+      "file": "sound_and_pitch",
+      "title": "Sound And Pitch"
+    },
+    {
+      "file": "specific_heat_capacity",
+      "title": "Specific Heat Capacity"
+    },
+    {
+      "file": "speed_distance_time",
+      "title": "Speed Distance Time"
+    },
+    {
+      "file": "speed_of_sound",
+      "title": "Speed Of Sound"
+    },
+    {
+      "file": "springs_and_elasticity",
+      "title": "Springs And Elasticity"
+    },
+    {
+      "file": "states_of_matter",
+      "title": "States Of Matter"
+    },
+    {
+      "file": "static_electricity",
+      "title": "Static Electricity"
+    },
+    {
+      "file": "temperature_and_heat",
+      "title": "Temperature And Heat"
+    },
+    {
+      "file": "thermal_expansion",
+      "title": "Thermal Expansion"
+    },
+    {
+      "file": "velocity_and_acceleration",
+      "title": "Velocity And Acceleration"
+    },
+    {
+      "file": "viscosity_and_fluid_flow",
+      "title": "Viscosity And Fluid Flow"
+    },
+    {
+      "file": "voltage_and_potential_difference",
+      "title": "Voltage And Potential Difference"
+    },
+    {
+      "file": "waves_and_frequency",
+      "title": "Waves And Frequency"
+    },
+    {
+      "file": "work_and_energy",
+      "title": "Work And Energy"
+    }
+  ]
+}

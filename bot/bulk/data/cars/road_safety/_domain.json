@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "road_safety",
+  "title": "Road Safety",
+  "modules": [
+    {
+      "file": "blind_spots",
+      "title": "Blind Spots"
+    },
+    {
+      "file": "changing_lanes",
+      "title": "Changing Lanes"
+    },
+    {
+      "file": "child_car_seats",
+      "title": "Child Car Seats"
+    },
+    {
+      "file": "cyclists_on_roads_basics",
+      "title": "Cyclists On Roads Basics"
+    },
+    {
+      "file": "cyclists_on_roads_problems",
+      "title": "Cyclists On Roads Problems"
+    },
+    {
+      "file": "cyclists_on_the_road",
+      "title": "Cyclists On The Road"
+    },
+    {
+      "file": "defensive_driving",
+      "title": "Defensive Driving"
+    },
+    {
+      "file": "dipped_and_full_beam",
+      "title": "Dipped And Full Beam"
+    },
+    {
+      "file": "distracted_driving",
+      "title": "Distracted Driving"
+    },
+    {
+      "file": "drink_driving",
+      "title": "Drink Driving"
+    },
+    {
+      "file": "driving_in_fog",
+      "title": "Driving In Fog"
+    },
+    {
+      "file": "driving_in_fog_basics",
+      "title": "Driving In Fog Basics"
+    },
+    {
+      "file": "driving_in_fog_problems",
+      "title": "Driving In Fog Problems"
+    },
+    {
+      "file": "driving_in_rain",
+      "title": "Driving In Rain"
+    },
+    {
+      "file": "driving_in_strong_wind",
+      "title": "Driving In Strong Wind"
+    },
+    {
+      "file": "driving_on_ice_and_snow",
+      "title": "Driving On Ice And Snow"
+    },
+    {
+      "file": "drug_driving",
+      "title": "Drug Driving"
+    },
+    {
+      "file": "following_distance_basics",
+      "title": "Following Distance Basics"
+    },
+    {
+      "file": "following_distance_problems",
+      "title": "Following Distance Problems"
+    },
+    {
+      "file": "mobile_phone_while_driving",
+      "title": "Mobile Phone While Driving"
+    },
+    {
+      "file": "motorcyclists_on_the_road",
+      "title": "Motorcyclists On The Road"
+    },
+    {
+      "file": "motorway_driving_basics",
+      "title": "Motorway Driving Basics"
+    },
+    {
+      "file": "night_driving",
+      "title": "Night Driving"
+    },
+    {
+      "file": "night_driving_basics",
+      "title": "Night Driving Basics"
+    },
+    {
+      "file": "night_driving_problems",
+      "title": "Night Driving Problems"
+    },
+    {
+      "file": "overtaking_basics",
+      "title": "Overtaking Basics"
+    },
+    {
+      "file": "overtaking_safely",
+      "title": "Overtaking Safely"
+    },
+    {
+      "file": "pedestrian_crossings",
+      "title": "Pedestrian Crossings"
+    },
+    {
+      "file": "pedestrian_safety_basics",
+      "title": "Pedestrian Safety Basics"
+    },
+    {
+      "file": "pedestrian_safety_problems",
+      "title": "Pedestrian Safety Problems"
+    },
+    {
+      "file": "road_hazards_basics",
+      "title": "Road Hazards Basics"
+    },
+    {
+      "file": "road_signs_basics",
+      "title": "Road Signs Basics"
+    },
+    {
+      "file": "roundabouts",
+      "title": "Roundabouts"
+    },
+    {
+      "file": "roundabouts_basics",
+      "title": "Roundabouts Basics"
+    },
+    {
+      "file": "roundabouts_problems",
+      "title": "Roundabouts Problems"
+    },
+    {
+      "file": "school_zones_basics",
+      "title": "School Zones Basics"
+    },
+    {
+      "file": "seat_belts",
+      "title": "Seat Belts"
+    },
+    {
+      "file": "seat_belts_basics",
+      "title": "Seat Belts Basics"
+    },
+    {
+      "file": "seat_belts_problems",
+      "title": "Seat Belts Problems"
+    },
+    {
+      "file": "speed_limits_basics",
+      "title": "Speed Limits Basics"
+    },
+    {
+      "file": "speed_limits_problems",
+      "title": "Speed Limits Problems"
+    },
+    {
+      "file": "speeding_and_speed_limits",
+      "title": "Speeding And Speed Limits"
+    },
+    {
+      "file": "tailgating_and_following_distance",
+      "title": "Tailgating And Following Distance"
+    },
+    {
+      "file": "tired_driving",
+      "title": "Tired Driving"
+    },
+    {
+      "file": "tired_driving_basics",
+      "title": "Tired Driving Basics"
+    },
+    {
+      "file": "tired_driving_problems",
+      "title": "Tired Driving Problems"
+    },
+    {
+      "file": "traffic_lights",
+      "title": "Traffic Lights"
+    },
+    {
+      "file": "using_headlights",
+      "title": "Using Headlights"
+    },
+    {
+      "file": "wet_roads_basics",
+      "title": "Wet Roads Basics"
+    },
+    {
+      "file": "wet_roads_problems",
+      "title": "Wet Roads Problems"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "driving_rules",
+  "title": "Driving Rules",
+  "modules": [
+    {
+      "file": "accident_reporting_rules",
+      "title": "Accident Reporting Rules"
+    },
+    {
+      "file": "amber_light_rules",
+      "title": "Amber Light Rules"
+    },
+    {
+      "file": "box_junctions",
+      "title": "Box Junctions"
+    },
+    {
+      "file": "bus_lane_rules",
+      "title": "Bus Lane Rules"
+    },
+    {
+      "file": "child_seat_rules",
+      "title": "Child Seat Rules"
+    },
+    {
+      "file": "disabled_parking_bays",
+      "title": "Disabled Parking Bays"
+    },
+    {
+      "file": "drink_driving_limits",
+      "title": "Drink Driving Limits"
+    },
+    {
+      "file": "driving_licence_rules",
+      "title": "Driving Licence Rules"
+    },
+    {
+      "file": "driving_while_tired",
+      "title": "Driving While Tired"
+    },
+    {
+      "file": "drug_driving_rules",
+      "title": "Drug Driving Rules"
+    },
+    {
+      "file": "emergency_vehicle_rules",
+      "title": "Emergency Vehicle Rules"
+    },
+    {
+      "file": "following_distance",
+      "title": "Following Distance"
+    },
+    {
+      "file": "give_way_rules",
+      "title": "Give Way Rules"
+    },
+    {
+      "file": "headlight_rules",
+      "title": "Headlight Rules"
+    },
+    {
+      "file": "horn_rules",
+      "title": "Horn Rules"
+    },
+    {
+      "file": "indicator_timing",
+      "title": "Indicator Timing"
+    },
+    {
+      "file": "junction_priority",
+      "title": "Junction Priority"
+    },
+    {
+      "file": "lane_discipline",
+      "title": "Lane Discipline"
+    },
+    {
+      "file": "learner_driver_rules",
+      "title": "Learner Driver Rules"
+    },
+    {
+      "file": "level_crossing_rules",
+      "title": "Level Crossing Rules"
+    },
+    {
+      "file": "mini_roundabouts",
+      "title": "Mini Roundabouts"
+    },
+    {
+      "file": "mobile_phone_rules",
+      "title": "Mobile Phone Rules"
+    },
+    {
+      "file": "motorway_speed_limits",
+      "title": "Motorway Speed Limits"
+    },
+    {
+      "file": "national_speed_limits",
+      "title": "National Speed Limits"
+    },
+    {
+      "file": "number_plate_rules",
+      "title": "Number Plate Rules"
+    },
+    {
+      "file": "one_way_streets",
+      "title": "One Way Streets"
+    },
+    {
+      "file": "overtaking_cyclists",
+      "title": "Overtaking Cyclists"
+    },
+    {
+      "file": "overtaking_rules",
+      "title": "Overtaking Rules"
+    },
+    {
+      "file": "parking_restrictions",
+      "title": "Parking Restrictions"
+    },
+    {
+      "file": "pedestrian_crossings",
+      "title": "Pedestrian Crossings"
+    },
+    {
+      "file": "penalty_points",
+      "title": "Penalty Points"
+    },
+    {
+      "file": "provisional_licence_rules",
+      "title": "Provisional Licence Rules"
+    },
+    {
+      "file": "reading_speed_limit_signs",
+      "title": "Reading Speed Limit Signs"
+    },
+    {
+      "file": "reversing_rules",
+      "title": "Reversing Rules"
+    },
+    {
+      "file": "road_sign_colours",
+      "title": "Road Sign Colours"
+    },
+    {
+      "file": "roadworks_rules",
+      "title": "Roadworks Rules"
+    },
+    {
+      "file": "roundabout_rules",
+      "title": "Roundabout Rules"
+    },
+    {
+      "file": "school_zone_rules",
+      "title": "School Zone Rules"
+    },
+    {
+      "file": "seat_belt_rules",
+      "title": "Seat Belt Rules"
+    },
+    {
+      "file": "speed_camera_rules",
+      "title": "Speed Camera Rules"
+    },
+    {
+      "file": "speed_limits_in_built_up_areas",
+      "title": "Speed Limits In Built Up Areas"
+    },
+    {
+      "file": "stop_sign_rules",
+      "title": "Stop Sign Rules"
+    },
+    {
+      "file": "traffic_light_rules",
+      "title": "Traffic Light Rules"
+    },
+    {
+      "file": "u_turn_rules",
+      "title": "U Turn Rules"
+    },
+    {
+      "file": "using_indicators",
+      "title": "Using Indicators"
+    },
+    {
+      "file": "vehicle_insurance_rules",
+      "title": "Vehicle Insurance Rules"
+    },
+    {
+      "file": "vehicle_tax_rules",
+      "title": "Vehicle Tax Rules"
+    },
+    {
+      "file": "warning_signs",
+      "title": "Warning Signs"
+    },
+    {
+      "file": "yellow_line_rules",
+      "title": "Yellow Line Rules"
+    },
+    {
+      "file": "zebra_crossings",
+      "title": "Zebra Crossings"
+    }
+  ]
+}

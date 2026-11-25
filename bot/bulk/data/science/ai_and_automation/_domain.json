@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "ai_and_automation",
+  "title": "Ai And Automation",
+  "modules": [
+    {
+      "file": "ai_and_workplace_changes",
+      "title": "Ai And Workplace Changes"
+    },
+    {
+      "file": "ai_automation_in_small_business",
+      "title": "Ai Automation In Small Business"
+    },
+    {
+      "file": "ai_automation_skills",
+      "title": "Ai Automation Skills"
+    },
+    {
+      "file": "ai_bias",
+      "title": "Ai Bias"
+    },
+    {
+      "file": "ai_ethics",
+      "title": "Ai Ethics"
+    },
+    {
+      "file": "ai_explainability",
+      "title": "Ai Explainability"
+    },
+    {
+      "file": "ai_hallucinations",
+      "title": "Ai Hallucinations"
+    },
+    {
+      "file": "ai_output_verification",
+      "title": "Ai Output Verification"
+    },
+    {
+      "file": "ai_privacy",
+      "title": "Ai Privacy"
+    },
+    {
+      "file": "ai_project_planning",
+      "title": "Ai Project Planning"
+    },
+    {
+      "file": "ai_search_ranking",
+      "title": "Ai Search Ranking"
+    },
+    {
+      "file": "api_automation",
+      "title": "Api Automation"
+    },
+    {
+      "file": "automation_documentation",
+      "title": "Automation Documentation"
+    },
+    {
+      "file": "automation_error_handling",
+      "title": "Automation Error Handling"
+    },
+    {
+      "file": "automation_in_healthcare",
+      "title": "Automation In Healthcare"
+    },
+    {
+      "file": "automation_job_types",
+      "title": "Automation Job Types"
+    },
+    {
+      "file": "automation_monitoring",
+      "title": "Automation Monitoring"
+    },
+    {
+      "file": "automation_risks",
+      "title": "Automation Risks"
+    },
+    {
+      "file": "automation_testing",
+      "title": "Automation Testing"
+    },
+    {
+      "file": "automation_workflow_design",
+      "title": "Automation Workflow Design"
+    },
+    {
+      "file": "computer_vision",
+      "title": "Computer Vision"
+    },
+    {
+      "file": "customer_service_automation",
+      "title": "Customer Service Automation"
+    },
+    {
+      "file": "data_labelling",
+      "title": "Data Labelling"
+    },
+    {
+      "file": "feature_engineering",
+      "title": "Feature Engineering"
+    },
+    {
+      "file": "fine_tuning",
+      "title": "Fine Tuning"
+    },
+    {
+      "file": "generative_ai",
+      "title": "Generative Ai"
+    },
+    {
+      "file": "how_chatbots_choose_replies",
+      "title": "How Chatbots Choose Replies"
+    },
+    {
+      "file": "human_in_the_loop",
+      "title": "Human In The Loop"
+    },
+    {
+      "file": "large_language_models",
+      "title": "Large Language Models"
+    },
+    {
+      "file": "machine_learning_basics",
+      "title": "Machine Learning Basics"
+    },
+    {
+      "file": "natural_language_processing",
+      "title": "Natural Language Processing"
+    },
+    {
+      "file": "neural_network_basics",
+      "title": "Neural Network Basics"
+    },
+    {
+      "file": "no_code_automation",
+      "title": "No Code Automation"
+    },
+    {
+      "file": "office_automation",
+      "title": "Office Automation"
+    },
+    {
+      "file": "prompt_engineering",
+      "title": "Prompt Engineering"
+    },
+    {
+      "file": "recommendation_systems",
+      "title": "Recommendation Systems"
+    },
+    {
+      "file": "reinforcement_learning",
+      "title": "Reinforcement Learning"
+    },
+    {
+      "file": "robotic_process_automation",
+      "title": "Robotic Process Automation"
+    },
+    {
+      "file": "robotics_basics",
+      "title": "Robotics Basics"
+    },
+    {
+      "file": "scheduled_tasks",
+      "title": "Scheduled Tasks"
+    },
+    {
+      "file": "scripting_for_automation",
+      "title": "Scripting For Automation"
+    },
+    {
+      "file": "speech_recognition",
+      "title": "Speech Recognition"
+    },
+    {
+      "file": "supervised_learning",
+      "title": "Supervised Learning"
+    },
+    {
+      "file": "task_automation_planning",
+      "title": "Task Automation Planning"
+    },
+    {
+      "file": "text_to_speech",
+      "title": "Text To Speech"
+    },
+    {
+      "file": "training_data_quality",
+      "title": "Training Data Quality"
+    },
+    {
+      "file": "transfer_learning",
+      "title": "Transfer Learning"
+    },
+    {
+      "file": "unsupervised_learning",
+      "title": "Unsupervised Learning"
+    },
+    {
+      "file": "when_not_to_automate",
+      "title": "When Not To Automate"
+    },
+    {
+      "file": "workflow_triggers",
+      "title": "Workflow Triggers"
+    }
+  ]
+}

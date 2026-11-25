@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "computers_and_laptops",
+  "title": "Computers And Laptops",
+  "modules": [
+    {
+      "file": "computer_antivirus",
+      "title": "Computer Antivirus"
+    },
+    {
+      "file": "computer_backup",
+      "title": "Computer Backup"
+    },
+    {
+      "file": "computer_browser_problems",
+      "title": "Computer Browser Problems"
+    },
+    {
+      "file": "computer_case_fans",
+      "title": "Computer Case Fans"
+    },
+    {
+      "file": "computer_cooling",
+      "title": "Computer Cooling"
+    },
+    {
+      "file": "computer_data_recovery",
+      "title": "Computer Data Recovery"
+    },
+    {
+      "file": "computer_drivers",
+      "title": "Computer Drivers"
+    },
+    {
+      "file": "computer_energy_use",
+      "title": "Computer Energy Use"
+    },
+    {
+      "file": "computer_freezing",
+      "title": "Computer Freezing"
+    },
+    {
+      "file": "computer_graphics_card",
+      "title": "Computer Graphics Card"
+    },
+    {
+      "file": "computer_operating_system_install",
+      "title": "Computer Operating System Install"
+    },
+    {
+      "file": "computer_power_supply",
+      "title": "Computer Power Supply"
+    },
+    {
+      "file": "computer_printer_setup",
+      "title": "Computer Printer Setup"
+    },
+    {
+      "file": "computer_processor_choice",
+      "title": "Computer Processor Choice"
+    },
+    {
+      "file": "computer_recycling",
+      "title": "Computer Recycling"
+    },
+    {
+      "file": "computer_updates",
+      "title": "Computer Updates"
+    },
+    {
+      "file": "computer_virus_removal",
+      "title": "Computer Virus Removal"
+    },
+    {
+      "file": "desktop_computer_build",
+      "title": "Desktop Computer Build"
+    },
+    {
+      "file": "laptop_battery_life",
+      "title": "Laptop Battery Life"
+    },
+    {
+      "file": "laptop_battery_replacement",
+      "title": "Laptop Battery Replacement"
+    },
+    {
+      "file": "laptop_blue_screen",
+      "title": "Laptop Blue Screen"
+    },
+    {
+      "file": "laptop_bluetooth_problems",
+      "title": "Laptop Bluetooth Problems"
+    },
+    {
+      "file": "laptop_buying_guide",
+      "title": "Laptop Buying Guide"
+    },
+    {
+      "file": "laptop_camera_microphone",
+      "title": "Laptop Camera Microphone"
+    },
+    {
+      "file": "laptop_charging_problems",
+      "title": "Laptop Charging Problems"
+    },
+    {
+      "file": "laptop_cleaning_maintenance",
+      "title": "Laptop Cleaning Maintenance"
+    },
+    {
+      "file": "laptop_docking_station",
+      "title": "Laptop Docking Station"
+    },
+    {
+      "file": "laptop_external_monitor",
+      "title": "Laptop External Monitor"
+    },
+    {
+      "file": "laptop_fan_noise",
+      "title": "Laptop Fan Noise"
+    },
+    {
+      "file": "laptop_keyboard_problems",
+      "title": "Laptop Keyboard Problems"
+    },
+    {
+      "file": "laptop_liquid_damage",
+      "title": "Laptop Liquid Damage"
+    },
+    {
+      "file": "laptop_overheating",
+      "title": "Laptop Overheating"
+    },
+    {
+      "file": "laptop_password_login",
+      "title": "Laptop Password Login"
+    },
+    {
+      "file": "laptop_ram_memory",
+      "title": "Laptop Ram Memory"
+    },
+    {
+      "file": "laptop_repair_vs_replace",
+      "title": "Laptop Repair Vs Replace"
+    },
+    {
+      "file": "laptop_screen_problems",
+      "title": "Laptop Screen Problems"
+    },
+    {
+      "file": "laptop_security_settings",
+      "title": "Laptop Security Settings"
+    },
+    {
+      "file": "laptop_sleep_settings",
+      "title": "Laptop Sleep Settings"
+    },
+    {
+      "file": "laptop_slow_performance",
+      "title": "Laptop Slow Performance"
+    },
+    {
+      "file": "laptop_software_uninstall",
+      "title": "Laptop Software Uninstall"
+    },
+    {
+      "file": "laptop_speakers_audio",
+      "title": "Laptop Speakers Audio"
+    },
+    {
+      "file": "laptop_startup_problems",
+      "title": "Laptop Startup Problems"
+    },
+    {
+      "file": "laptop_storage_upgrade",
+      "title": "Laptop Storage Upgrade"
+    },
+    {
+      "file": "laptop_trackpad_problems",
+      "title": "Laptop Trackpad Problems"
+    },
+    {
+      "file": "laptop_usb_ports",
+      "title": "Laptop Usb Ports"
+    },
+    {
+      "file": "laptop_warranty_support",
+      "title": "Laptop Warranty Support"
+    },
+    {
+      "file": "laptop_weight_portability",
+      "title": "Laptop Weight Portability"
+    },
+    {
+      "file": "laptop_wifi_problems",
+      "title": "Laptop Wifi Problems"
+    },
+    {
+      "file": "laptop_wont_turn_on",
+      "title": "Laptop Wont Turn On"
+    },
+    {
+      "file": "ssd_vs_hdd_laptop",
+      "title": "Ssd Vs Hdd Laptop"
+    }
+  ]
+}

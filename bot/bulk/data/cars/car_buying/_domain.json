@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "car_buying",
+  "title": "Car Buying",
+  "modules": [
+    {
+      "file": "automatic_or_manual",
+      "title": "Automatic Or Manual"
+    },
+    {
+      "file": "best_time_to_buy",
+      "title": "Best Time To Buy"
+    },
+    {
+      "file": "buy_outright_or_finance",
+      "title": "Buy Outright Or Finance"
+    },
+    {
+      "file": "buying_car_online",
+      "title": "Buying Car Online"
+    },
+    {
+      "file": "car_auction",
+      "title": "Car Auction"
+    },
+    {
+      "file": "car_colour",
+      "title": "Car Colour"
+    },
+    {
+      "file": "car_deposit",
+      "title": "Car Deposit"
+    },
+    {
+      "file": "car_finance_basics",
+      "title": "Car Finance Basics"
+    },
+    {
+      "file": "car_valuation",
+      "title": "Car Valuation"
+    },
+    {
+      "file": "city_car",
+      "title": "City Car"
+    },
+    {
+      "file": "credit_rating_for_finance",
+      "title": "Credit Rating For Finance"
+    },
+    {
+      "file": "dealer_or_private",
+      "title": "Dealer Or Private"
+    },
+    {
+      "file": "dealer_warranty",
+      "title": "Dealer Warranty"
+    },
+    {
+      "file": "depreciation",
+      "title": "Depreciation"
+    },
+    {
+      "file": "electric_car",
+      "title": "Electric Car"
+    },
+    {
+      "file": "engine_size",
+      "title": "Engine Size"
+    },
+    {
+      "file": "extended_warranty",
+      "title": "Extended Warranty"
+    },
+    {
+      "file": "family_car",
+      "title": "Family Car"
+    },
+    {
+      "file": "faulty_car_after_purchase",
+      "title": "Faulty Car After Purchase"
+    },
+    {
+      "file": "finance_agreement_terms",
+      "title": "Finance Agreement Terms"
+    },
+    {
+      "file": "finance_apr",
+      "title": "Finance Apr"
+    },
+    {
+      "file": "first_car",
+      "title": "First Car"
+    },
+    {
+      "file": "gap_insurance",
+      "title": "Gap Insurance"
+    },
+    {
+      "file": "hire_purchase",
+      "title": "Hire Purchase"
+    },
+    {
+      "file": "hybrid_car",
+      "title": "Hybrid Car"
+    },
+    {
+      "file": "independent_inspection",
+      "title": "Independent Inspection"
+    },
+    {
+      "file": "insurance_groups",
+      "title": "Insurance Groups"
+    },
+    {
+      "file": "insurance_quote_before_buying",
+      "title": "Insurance Quote Before Buying"
+    },
+    {
+      "file": "logbook_check",
+      "title": "Logbook Check"
+    },
+    {
+      "file": "mileage_verification",
+      "title": "Mileage Verification"
+    },
+    {
+      "file": "monthly_affordability",
+      "title": "Monthly Affordability"
+    },
+    {
+      "file": "mot_history",
+      "title": "Mot History"
+    },
+    {
+      "file": "negotiating_price",
+      "title": "Negotiating Price"
+    },
+    {
+      "file": "new_vs_used",
+      "title": "New Vs Used"
+    },
+    {
+      "file": "no_claims_bonus",
+      "title": "No Claims Bonus"
+    },
+    {
+      "file": "optional_extras",
+      "title": "Optional Extras"
+    },
+    {
+      "file": "part_exchange",
+      "title": "Part Exchange"
+    },
+    {
+      "file": "paying_private_seller",
+      "title": "Paying Private Seller"
+    },
+    {
+      "file": "pcp_balloon_payment",
+      "title": "Pcp Balloon Payment"
+    },
+    {
+      "file": "personal_contract_purchase",
+      "title": "Personal Contract Purchase"
+    },
+    {
+      "file": "personal_loan_for_car",
+      "title": "Personal Loan For Car"
+    },
+    {
+      "file": "petrol_or_diesel",
+      "title": "Petrol Or Diesel"
+    },
+    {
+      "file": "road_tax",
+      "title": "Road Tax"
+    },
+    {
+      "file": "service_history",
+      "title": "Service History"
+    },
+    {
+      "file": "test_drive",
+      "title": "Test Drive"
+    },
+    {
+      "file": "total_running_costs",
+      "title": "Total Running Costs"
+    },
+    {
+      "file": "trim_levels",
+      "title": "Trim Levels"
+    },
+    {
+      "file": "used_car_checks",
+      "title": "Used Car Checks"
+    },
+    {
+      "file": "used_car_history_check",
+      "title": "Used Car History Check"
+    },
+    {
+      "file": "vehicle_registration",
+      "title": "Vehicle Registration"
+    }
+  ]
+}

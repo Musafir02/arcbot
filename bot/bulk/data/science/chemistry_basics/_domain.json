@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "chemistry_basics",
+  "title": "Chemistry Basics",
+  "modules": [
+    {
+      "file": "acids_and_alkalis",
+      "title": "Acids And Alkalis"
+    },
+    {
+      "file": "acids_and_alkalis_basics",
+      "title": "Acids And Alkalis Basics"
+    },
+    {
+      "file": "acids_and_alkalis_problems",
+      "title": "Acids And Alkalis Problems"
+    },
+    {
+      "file": "atomic_structure",
+      "title": "Atomic Structure"
+    },
+    {
+      "file": "atomic_structure_basics",
+      "title": "Atomic Structure Basics"
+    },
+    {
+      "file": "atomic_structure_problems",
+      "title": "Atomic Structure Problems"
+    },
+    {
+      "file": "atoms_and_elements",
+      "title": "Atoms And Elements"
+    },
+    {
+      "file": "balancing_equations",
+      "title": "Balancing Equations"
+    },
+    {
+      "file": "catalysts_basics",
+      "title": "Catalysts Basics"
+    },
+    {
+      "file": "changes_of_state",
+      "title": "Changes Of State"
+    },
+    {
+      "file": "chemical_bonds_basics",
+      "title": "Chemical Bonds Basics"
+    },
+    {
+      "file": "chemical_bonds_problems",
+      "title": "Chemical Bonds Problems"
+    },
+    {
+      "file": "chemical_equations_basics",
+      "title": "Chemical Equations Basics"
+    },
+    {
+      "file": "chemical_formulae",
+      "title": "Chemical Formulae"
+    },
+    {
+      "file": "chemical_reactions",
+      "title": "Chemical Reactions"
+    },
+    {
+      "file": "chemical_reactions_basics",
+      "title": "Chemical Reactions Basics"
+    },
+    {
+      "file": "chemical_reactions_problems",
+      "title": "Chemical Reactions Problems"
+    },
+    {
+      "file": "chromatography",
+      "title": "Chromatography"
+    },
+    {
+      "file": "compounds_basics",
+      "title": "Compounds Basics"
+    },
+    {
+      "file": "compounds_problems",
+      "title": "Compounds Problems"
+    },
+    {
+      "file": "concentration_and_dilution",
+      "title": "Concentration And Dilution"
+    },
+    {
+      "file": "covalent_bonding",
+      "title": "Covalent Bonding"
+    },
+    {
+      "file": "distillation",
+      "title": "Distillation"
+    },
+    {
+      "file": "electronic_structure",
+      "title": "Electronic Structure"
+    },
+    {
+      "file": "elements_basics",
+      "title": "Elements Basics"
+    },
+    {
+      "file": "elements_compounds_mixtures",
+      "title": "Elements Compounds Mixtures"
+    },
+    {
+      "file": "elements_problems",
+      "title": "Elements Problems"
+    },
+    {
+      "file": "evaporation_and_crystallisation",
+      "title": "Evaporation And Crystallisation"
+    },
+    {
+      "file": "filtration",
+      "title": "Filtration"
+    },
+    {
+      "file": "groups_and_periods",
+      "title": "Groups And Periods"
+    },
+    {
+      "file": "intermolecular_forces",
+      "title": "Intermolecular Forces"
+    },
+    {
+      "file": "ionic_bonding",
+      "title": "Ionic Bonding"
+    },
+    {
+      "file": "ions_basics",
+      "title": "Ions Basics"
+    },
+    {
+      "file": "metallic_bonding",
+      "title": "Metallic Bonding"
+    },
+    {
+      "file": "metals_and_nonmetals",
+      "title": "Metals And Nonmetals"
+    },
+    {
+      "file": "mixtures_basics",
+      "title": "Mixtures Basics"
+    },
+    {
+      "file": "mixtures_problems",
+      "title": "Mixtures Problems"
+    },
+    {
+      "file": "oxidation_basics",
+      "title": "Oxidation Basics"
+    },
+    {
+      "file": "periodic_table",
+      "title": "Periodic Table"
+    },
+    {
+      "file": "ph_scale",
+      "title": "Ph Scale"
+    },
+    {
+      "file": "salt_dissolving_in_water",
+      "title": "Salt Dissolving In Water"
+    },
+    {
+      "file": "salts_basics",
+      "title": "Salts Basics"
+    },
+    {
+      "file": "separating_mixtures",
+      "title": "Separating Mixtures"
+    },
+    {
+      "file": "separation_methods_basics",
+      "title": "Separation Methods Basics"
+    },
+    {
+      "file": "separation_methods_problems",
+      "title": "Separation Methods Problems"
+    },
+    {
+      "file": "solutions_and_solubility",
+      "title": "Solutions And Solubility"
+    },
+    {
+      "file": "solutions_basics",
+      "title": "Solutions Basics"
+    },
+    {
+      "file": "solutions_problems",
+      "title": "Solutions Problems"
+    },
+    {
+      "file": "states_of_matter",
+      "title": "States Of Matter"
+    },
+    {
+      "file": "states_of_matter_basics",
+      "title": "States Of Matter Basics"
+    }
+  ]
+}

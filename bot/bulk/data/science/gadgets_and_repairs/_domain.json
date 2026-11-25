@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "gadgets_and_repairs",
+  "title": "Gadgets And Repairs",
+  "modules": [
+    {
+      "file": "cleaning_camera_lens",
+      "title": "Cleaning Camera Lens"
+    },
+    {
+      "file": "cleaning_camera_sensor",
+      "title": "Cleaning Camera Sensor"
+    },
+    {
+      "file": "cleaning_coffee_machine",
+      "title": "Cleaning Coffee Machine"
+    },
+    {
+      "file": "cleaning_earbuds",
+      "title": "Cleaning Earbuds"
+    },
+    {
+      "file": "cleaning_laptop_fans",
+      "title": "Cleaning Laptop Fans"
+    },
+    {
+      "file": "cleaning_printer_print_head",
+      "title": "Cleaning Printer Print Head"
+    },
+    {
+      "file": "descaling_coffee_machine",
+      "title": "Descaling Coffee Machine"
+    },
+    {
+      "file": "fixing_bluetooth_pairing",
+      "title": "Fixing Bluetooth Pairing"
+    },
+    {
+      "file": "fixing_bluetooth_speaker",
+      "title": "Fixing Bluetooth Speaker"
+    },
+    {
+      "file": "fixing_camera_battery",
+      "title": "Fixing Camera Battery"
+    },
+    {
+      "file": "fixing_cordless_drill_battery",
+      "title": "Fixing Cordless Drill Battery"
+    },
+    {
+      "file": "fixing_cracked_phone_screen",
+      "title": "Fixing Cracked Phone Screen"
+    },
+    {
+      "file": "fixing_drone_motor",
+      "title": "Fixing Drone Motor"
+    },
+    {
+      "file": "fixing_ethernet_cable",
+      "title": "Fixing Ethernet Cable"
+    },
+    {
+      "file": "fixing_external_hard_drive",
+      "title": "Fixing External Hard Drive"
+    },
+    {
+      "file": "fixing_game_controller_drift",
+      "title": "Fixing Game Controller Drift"
+    },
+    {
+      "file": "fixing_garage_door_remote",
+      "title": "Fixing Garage Door Remote"
+    },
+    {
+      "file": "fixing_headphone_jack",
+      "title": "Fixing Headphone Jack"
+    },
+    {
+      "file": "fixing_laptop_charging_fault",
+      "title": "Fixing Laptop Charging Fault"
+    },
+    {
+      "file": "fixing_laptop_hinge",
+      "title": "Fixing Laptop Hinge"
+    },
+    {
+      "file": "fixing_laptop_overheating",
+      "title": "Fixing Laptop Overheating"
+    },
+    {
+      "file": "fixing_mouse_buttons",
+      "title": "Fixing Mouse Buttons"
+    },
+    {
+      "file": "fixing_phone_charging_port",
+      "title": "Fixing Phone Charging Port"
+    },
+    {
+      "file": "fixing_phone_speaker",
+      "title": "Fixing Phone Speaker"
+    },
+    {
+      "file": "fixing_printer_paper_feed",
+      "title": "Fixing Printer Paper Feed"
+    },
+    {
+      "file": "fixing_printer_paper_jam",
+      "title": "Fixing Printer Paper Jam"
+    },
+    {
+      "file": "fixing_smartwatch_display",
+      "title": "Fixing Smartwatch Display"
+    },
+    {
+      "file": "fixing_stuck_keyboard_key",
+      "title": "Fixing Stuck Keyboard Key"
+    },
+    {
+      "file": "fixing_touchscreen_unresponsive",
+      "title": "Fixing Touchscreen Unresponsive"
+    },
+    {
+      "file": "fixing_tv_no_signal",
+      "title": "Fixing Tv No Signal"
+    },
+    {
+      "file": "fixing_tv_remote_buttons",
+      "title": "Fixing Tv Remote Buttons"
+    },
+    {
+      "file": "fixing_vacuum_suction",
+      "title": "Fixing Vacuum Suction"
+    },
+    {
+      "file": "fixing_wifi_router",
+      "title": "Fixing Wifi Router"
+    },
+    {
+      "file": "fixing_wired_headphones",
+      "title": "Fixing Wired Headphones"
+    },
+    {
+      "file": "recovering_wet_phone",
+      "title": "Recovering Wet Phone"
+    },
+    {
+      "file": "repairing_usb_cable",
+      "title": "Repairing Usb Cable"
+    },
+    {
+      "file": "replacing_doorbell_battery",
+      "title": "Replacing Doorbell Battery"
+    },
+    {
+      "file": "replacing_drone_propellers",
+      "title": "Replacing Drone Propellers"
+    },
+    {
+      "file": "replacing_earbud_tips",
+      "title": "Replacing Earbud Tips"
+    },
+    {
+      "file": "replacing_hdmi_cable",
+      "title": "Replacing Hdmi Cable"
+    },
+    {
+      "file": "replacing_laptop_battery",
+      "title": "Replacing Laptop Battery"
+    },
+    {
+      "file": "replacing_laptop_screen",
+      "title": "Replacing Laptop Screen"
+    },
+    {
+      "file": "replacing_laptop_ssd",
+      "title": "Replacing Laptop Ssd"
+    },
+    {
+      "file": "replacing_light_switch",
+      "title": "Replacing Light Switch"
+    },
+    {
+      "file": "replacing_phone_battery",
+      "title": "Replacing Phone Battery"
+    },
+    {
+      "file": "replacing_printer_ink_cartridge",
+      "title": "Replacing Printer Ink Cartridge"
+    },
+    {
+      "file": "replacing_remote_batteries",
+      "title": "Replacing Remote Batteries"
+    },
+    {
+      "file": "replacing_smartwatch_strap",
+      "title": "Replacing Smartwatch Strap"
+    },
+    {
+      "file": "replacing_vacuum_filter",
+      "title": "Replacing Vacuum Filter"
+    },
+    {
+      "file": "upgrading_laptop_ram",
+      "title": "Upgrading Laptop Ram"
+    }
+  ]
+}

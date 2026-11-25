@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "car_running_costs",
+  "title": "Car Running Costs",
+  "modules": [
+    {
+      "file": "air_conditioning_fuel_use",
+      "title": "Air Conditioning Fuel Use"
+    },
+    {
+      "file": "brake_replacement_costs",
+      "title": "Brake Replacement Costs"
+    },
+    {
+      "file": "breakdown_cover",
+      "title": "Breakdown Cover"
+    },
+    {
+      "file": "budgeting_running_costs",
+      "title": "Budgeting Running Costs"
+    },
+    {
+      "file": "car_depreciation",
+      "title": "Car Depreciation"
+    },
+    {
+      "file": "car_insurance_premiums",
+      "title": "Car Insurance Premiums"
+    },
+    {
+      "file": "car_leasing_costs",
+      "title": "Car Leasing Costs"
+    },
+    {
+      "file": "car_sharing_costs",
+      "title": "Car Sharing Costs"
+    },
+    {
+      "file": "car_wash_and_valeting",
+      "title": "Car Wash And Valeting"
+    },
+    {
+      "file": "carpooling_costs",
+      "title": "Carpooling Costs"
+    },
+    {
+      "file": "cold_weather_running_costs",
+      "title": "Cold Weather Running Costs"
+    },
+    {
+      "file": "commute_costs",
+      "title": "Commute Costs"
+    },
+    {
+      "file": "company_car_costs",
+      "title": "Company Car Costs"
+    },
+    {
+      "file": "comparing_fuel_prices",
+      "title": "Comparing Fuel Prices"
+    },
+    {
+      "file": "congestion_charge",
+      "title": "Congestion Charge"
+    },
+    {
+      "file": "family_car_running_costs",
+      "title": "Family Car Running Costs"
+    },
+    {
+      "file": "fuel_consumption_calculation",
+      "title": "Fuel Consumption Calculation"
+    },
+    {
+      "file": "fuel_discount_schemes",
+      "title": "Fuel Discount Schemes"
+    },
+    {
+      "file": "fuel_economy_tips",
+      "title": "Fuel Economy Tips"
+    },
+    {
+      "file": "garage_labour_rates",
+      "title": "Garage Labour Rates"
+    },
+    {
+      "file": "holiday_driving_costs",
+      "title": "Holiday Driving Costs"
+    },
+    {
+      "file": "home_charging_costs",
+      "title": "Home Charging Costs"
+    },
+    {
+      "file": "hybrid_running_costs",
+      "title": "Hybrid Running Costs"
+    },
+    {
+      "file": "idling_fuel_costs",
+      "title": "Idling Fuel Costs"
+    },
+    {
+      "file": "insurance_excess_costs",
+      "title": "Insurance Excess Costs"
+    },
+    {
+      "file": "large_car_running_costs",
+      "title": "Large Car Running Costs"
+    },
+    {
+      "file": "mileage_tracking",
+      "title": "Mileage Tracking"
+    },
+    {
+      "file": "monthly_finance_payments",
+      "title": "Monthly Finance Payments"
+    },
+    {
+      "file": "mot_test_costs",
+      "title": "Mot Test Costs"
+    },
+    {
+      "file": "no_claims_discount",
+      "title": "No Claims Discount"
+    },
+    {
+      "file": "parking_costs",
+      "title": "Parking Costs"
+    },
+    {
+      "file": "pcp_and_hire_purchase",
+      "title": "Pcp And Hire Purchase"
+    },
+    {
+      "file": "petrol_vs_diesel_costs",
+      "title": "Petrol Vs Diesel Costs"
+    },
+    {
+      "file": "public_charging_costs",
+      "title": "Public Charging Costs"
+    },
+    {
+      "file": "reducing_fuel_costs",
+      "title": "Reducing Fuel Costs"
+    },
+    {
+      "file": "repair_bills",
+      "title": "Repair Bills"
+    },
+    {
+      "file": "resale_value",
+      "title": "Resale Value"
+    },
+    {
+      "file": "road_tax_costs",
+      "title": "Road Tax Costs"
+    },
+    {
+      "file": "roof_box_fuel_use",
+      "title": "Roof Box Fuel Use"
+    },
+    {
+      "file": "routine_servicing_costs",
+      "title": "Routine Servicing Costs"
+    },
+    {
+      "file": "short_trip_running_costs",
+      "title": "Short Trip Running Costs"
+    },
+    {
+      "file": "small_car_running_costs",
+      "title": "Small Car Running Costs"
+    },
+    {
+      "file": "spare_parts_costs",
+      "title": "Spare Parts Costs"
+    },
+    {
+      "file": "speeding_fines",
+      "title": "Speeding Fines"
+    },
+    {
+      "file": "toll_road_costs",
+      "title": "Toll Road Costs"
+    },
+    {
+      "file": "towing_and_recovery_costs",
+      "title": "Towing And Recovery Costs"
+    },
+    {
+      "file": "tyre_pressure_fuel_use",
+      "title": "Tyre Pressure Fuel Use"
+    },
+    {
+      "file": "tyre_replacement_costs",
+      "title": "Tyre Replacement Costs"
+    },
+    {
+      "file": "used_car_running_costs",
+      "title": "Used Car Running Costs"
+    },
+    {
+      "file": "wear_and_tear_costs",
+      "title": "Wear And Tear Costs"
+    }
+  ]
+}

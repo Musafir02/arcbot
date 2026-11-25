@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "phones_and_tablets",
+  "title": "Phones And Tablets",
+  "modules": [
+    {
+      "file": "app_crashing",
+      "title": "App Crashing"
+    },
+    {
+      "file": "app_install_failure",
+      "title": "App Install Failure"
+    },
+    {
+      "file": "app_permissions_basics",
+      "title": "App Permissions Basics"
+    },
+    {
+      "file": "app_permissions_problems",
+      "title": "App Permissions Problems"
+    },
+    {
+      "file": "backing_up_phone",
+      "title": "Backing Up Phone"
+    },
+    {
+      "file": "battery_charging_slowly",
+      "title": "Battery Charging Slowly"
+    },
+    {
+      "file": "battery_draining_fast",
+      "title": "Battery Draining Fast"
+    },
+    {
+      "file": "battery_life_basics",
+      "title": "Battery Life Basics"
+    },
+    {
+      "file": "battery_life_problems",
+      "title": "Battery Life Problems"
+    },
+    {
+      "file": "bluetooth_pairing",
+      "title": "Bluetooth Pairing"
+    },
+    {
+      "file": "bluetooth_pairing_basics",
+      "title": "Bluetooth Pairing Basics"
+    },
+    {
+      "file": "bluetooth_pairing_problems",
+      "title": "Bluetooth Pairing Problems"
+    },
+    {
+      "file": "camera_settings_basics",
+      "title": "Camera Settings Basics"
+    },
+    {
+      "file": "camera_settings_problems",
+      "title": "Camera Settings Problems"
+    },
+    {
+      "file": "charging_basics",
+      "title": "Charging Basics"
+    },
+    {
+      "file": "charging_problems",
+      "title": "Charging Problems"
+    },
+    {
+      "file": "cracked_screen",
+      "title": "Cracked Screen"
+    },
+    {
+      "file": "device_updates_basics",
+      "title": "Device Updates Basics"
+    },
+    {
+      "file": "device_updates_problems",
+      "title": "Device Updates Problems"
+    },
+    {
+      "file": "e-reader_settings_basics",
+      "title": "E-reader Settings Basics"
+    },
+    {
+      "file": "factory_reset",
+      "title": "Factory Reset"
+    },
+    {
+      "file": "free_up_storage",
+      "title": "Free Up Storage"
+    },
+    {
+      "file": "mobile_data_basics",
+      "title": "Mobile Data Basics"
+    },
+    {
+      "file": "mobile_data_problems",
+      "title": "Mobile Data Problems"
+    },
+    {
+      "file": "overnight_charging",
+      "title": "Overnight Charging"
+    },
+    {
+      "file": "phone_backups_basics",
+      "title": "Phone Backups Basics"
+    },
+    {
+      "file": "phone_backups_problems",
+      "title": "Phone Backups Problems"
+    },
+    {
+      "file": "phone_overheating",
+      "title": "Phone Overheating"
+    },
+    {
+      "file": "phone_running_slow",
+      "title": "Phone Running Slow"
+    },
+    {
+      "file": "phone_security_basics",
+      "title": "Phone Security Basics"
+    },
+    {
+      "file": "phone_security_problems",
+      "title": "Phone Security Problems"
+    },
+    {
+      "file": "phone_signals_basics",
+      "title": "Phone Signals Basics"
+    },
+    {
+      "file": "phone_signals_problems",
+      "title": "Phone Signals Problems"
+    },
+    {
+      "file": "phone_storage_basics",
+      "title": "Phone Storage Basics"
+    },
+    {
+      "file": "phone_storage_problems",
+      "title": "Phone Storage Problems"
+    },
+    {
+      "file": "phone_to_computer_transfer",
+      "title": "Phone To Computer Transfer"
+    },
+    {
+      "file": "restarting_phone",
+      "title": "Restarting Phone"
+    },
+    {
+      "file": "restoring_backup",
+      "title": "Restoring Backup"
+    },
+    {
+      "file": "screen_not_turning_on",
+      "title": "Screen Not Turning On"
+    },
+    {
+      "file": "screen_protector",
+      "title": "Screen Protector"
+    },
+    {
+      "file": "screen_settings_basics",
+      "title": "Screen Settings Basics"
+    },
+    {
+      "file": "screen_settings_problems",
+      "title": "Screen Settings Problems"
+    },
+    {
+      "file": "screen_time_basics",
+      "title": "Screen Time Basics"
+    },
+    {
+      "file": "screen_time_problems",
+      "title": "Screen Time Problems"
+    },
+    {
+      "file": "switching_to_new_phone",
+      "title": "Switching To New Phone"
+    },
+    {
+      "file": "tablet_setup_basics",
+      "title": "Tablet Setup Basics"
+    },
+    {
+      "file": "tablet_setup_problems",
+      "title": "Tablet Setup Problems"
+    },
+    {
+      "file": "touchscreen_unresponsive",
+      "title": "Touchscreen Unresponsive"
+    },
+    {
+      "file": "water_damage",
+      "title": "Water Damage"
+    },
+    {
+      "file": "wifi_connection_problems",
+      "title": "Wifi Connection Problems"
+    }
+  ]
+}

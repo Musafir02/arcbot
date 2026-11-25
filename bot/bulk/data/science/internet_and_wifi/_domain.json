@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "internet_and_wifi",
+  "title": "Internet And Wifi",
+  "modules": [
+    {
+      "file": "adsl_and_vdsl",
+      "title": "Adsl And Vdsl"
+    },
+    {
+      "file": "bandwidth_and_throughput",
+      "title": "Bandwidth And Throughput"
+    },
+    {
+      "file": "bluetooth_vs_wifi",
+      "title": "Bluetooth Vs Wifi"
+    },
+    {
+      "file": "broadband_types",
+      "title": "Broadband Types"
+    },
+    {
+      "file": "cable_broadband",
+      "title": "Cable Broadband"
+    },
+    {
+      "file": "changing_dns_settings",
+      "title": "Changing Dns Settings"
+    },
+    {
+      "file": "changing_wifi_password",
+      "title": "Changing Wifi Password"
+    },
+    {
+      "file": "data_caps_and_limits",
+      "title": "Data Caps And Limits"
+    },
+    {
+      "file": "dhcp_and_ip_addresses",
+      "title": "Dhcp And Ip Addresses"
+    },
+    {
+      "file": "dns_explained",
+      "title": "Dns Explained"
+    },
+    {
+      "file": "ethernet_vs_wifi",
+      "title": "Ethernet Vs Wifi"
+    },
+    {
+      "file": "fibre_broadband",
+      "title": "Fibre Broadband"
+    },
+    {
+      "file": "hiding_ssid",
+      "title": "Hiding Ssid"
+    },
+    {
+      "file": "how_wifi_works",
+      "title": "How Wifi Works"
+    },
+    {
+      "file": "internet_speed_checks",
+      "title": "Internet Speed Checks"
+    },
+    {
+      "file": "ipv4_vs_ipv6",
+      "title": "Ipv4 Vs Ipv6"
+    },
+    {
+      "file": "latency_and_ping",
+      "title": "Latency And Ping"
+    },
+    {
+      "file": "mac_address_filtering",
+      "title": "Mac Address Filtering"
+    },
+    {
+      "file": "mobile_broadband",
+      "title": "Mobile Broadband"
+    },
+    {
+      "file": "mobile_data_vs_wifi",
+      "title": "Mobile Data Vs Wifi"
+    },
+    {
+      "file": "nat_and_router",
+      "title": "Nat And Router"
+    },
+    {
+      "file": "network_cables_cat5_cat6",
+      "title": "Network Cables Cat5 Cat6"
+    },
+    {
+      "file": "no_wifi_connection",
+      "title": "No Wifi Connection"
+    },
+    {
+      "file": "packet_loss",
+      "title": "Packet Loss"
+    },
+    {
+      "file": "parental_controls_on_router",
+      "title": "Parental Controls On Router"
+    },
+    {
+      "file": "port_forwarding",
+      "title": "Port Forwarding"
+    },
+    {
+      "file": "powerline_adapters",
+      "title": "Powerline Adapters"
+    },
+    {
+      "file": "public_wifi_safety",
+      "title": "Public Wifi Safety"
+    },
+    {
+      "file": "router_firmware_updates",
+      "title": "Router Firmware Updates"
+    },
+    {
+      "file": "router_restart_and_reset",
+      "title": "Router Restart And Reset"
+    },
+    {
+      "file": "satellite_internet",
+      "title": "Satellite Internet"
+    },
+    {
+      "file": "setting_up_a_router",
+      "title": "Setting Up A Router"
+    },
+    {
+      "file": "slow_internet_connection",
+      "title": "Slow Internet Connection"
+    },
+    {
+      "file": "smart_home_wifi",
+      "title": "Smart Home Wifi"
+    },
+    {
+      "file": "tethering_and_hotspot",
+      "title": "Tethering And Hotspot"
+    },
+    {
+      "file": "upload_vs_download_speed",
+      "title": "Upload Vs Download Speed"
+    },
+    {
+      "file": "vpn_basics",
+      "title": "Vpn Basics"
+    },
+    {
+      "file": "wifi_channel_selection",
+      "title": "Wifi Channel Selection"
+    },
+    {
+      "file": "wifi_dead_zones",
+      "title": "Wifi Dead Zones"
+    },
+    {
+      "file": "wifi_extenders_and_repeaters",
+      "title": "Wifi Extenders And Repeaters"
+    },
+    {
+      "file": "wifi_frequency_bands",
+      "title": "Wifi Frequency Bands"
+    },
+    {
+      "file": "wifi_guest_network",
+      "title": "Wifi Guest Network"
+    },
+    {
+      "file": "wifi_interference",
+      "title": "Wifi Interference"
+    },
+    {
+      "file": "wifi_mesh_networks",
+      "title": "Wifi Mesh Networks"
+    },
+    {
+      "file": "wifi_network_name_ssid",
+      "title": "Wifi Network Name Ssid"
+    },
+    {
+      "file": "wifi_password_security",
+      "title": "Wifi Password Security"
+    },
+    {
+      "file": "wifi_router_basics",
+      "title": "Wifi Router Basics"
+    },
+    {
+      "file": "wifi_signal_strength",
+      "title": "Wifi Signal Strength"
+    },
+    {
+      "file": "wifi_wps_setup",
+      "title": "Wifi Wps Setup"
+    },
+    {
+      "file": "wpa2_and_wpa3",
+      "title": "Wpa2 And Wpa3"
+    }
+  ]
+}

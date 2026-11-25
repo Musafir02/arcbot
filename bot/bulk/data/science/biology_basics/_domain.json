@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "biology_basics",
+  "title": "Biology Basics",
+  "modules": [
+    {
+      "file": "algae_and_simple_plants",
+      "title": "Algae And Simple Plants"
+    },
+    {
+      "file": "antibiotics_and_resistance",
+      "title": "Antibiotics And Resistance"
+    },
+    {
+      "file": "biodiversity_and_conservation",
+      "title": "Biodiversity And Conservation"
+    },
+    {
+      "file": "biological_rhythms",
+      "title": "Biological Rhythms"
+    },
+    {
+      "file": "brain_and_nerves",
+      "title": "Brain And Nerves"
+    },
+    {
+      "file": "breathing_and_lungs",
+      "title": "Breathing And Lungs"
+    },
+    {
+      "file": "cell_division",
+      "title": "Cell Division"
+    },
+    {
+      "file": "cell_structure",
+      "title": "Cell Structure"
+    },
+    {
+      "file": "cell_types",
+      "title": "Cell Types"
+    },
+    {
+      "file": "cells_in_the_body",
+      "title": "Cells In The Body"
+    },
+    {
+      "file": "cellular_respiration",
+      "title": "Cellular Respiration"
+    },
+    {
+      "file": "chlorophyll_and_light",
+      "title": "Chlorophyll And Light"
+    },
+    {
+      "file": "circulatory_system",
+      "title": "Circulatory System"
+    },
+    {
+      "file": "classification_of_living_things",
+      "title": "Classification Of Living Things"
+    },
+    {
+      "file": "digestive_system",
+      "title": "Digestive System"
+    },
+    {
+      "file": "dna_and_genes",
+      "title": "Dna And Genes"
+    },
+    {
+      "file": "ecology_and_ecosystems",
+      "title": "Ecology And Ecosystems"
+    },
+    {
+      "file": "evolution_and_natural_selection",
+      "title": "Evolution And Natural Selection"
+    },
+    {
+      "file": "food_chains_and_webs",
+      "title": "Food Chains And Webs"
+    },
+    {
+      "file": "fungi_and_moulds",
+      "title": "Fungi And Moulds"
+    },
+    {
+      "file": "genetics_and_inheritance",
+      "title": "Genetics And Inheritance"
+    },
+    {
+      "file": "growth_and_development",
+      "title": "Growth And Development"
+    },
+    {
+      "file": "habitats_and_adaptations",
+      "title": "Habitats And Adaptations"
+    },
+    {
+      "file": "heart_and_blood",
+      "title": "Heart And Blood"
+    },
+    {
+      "file": "homeostasis_and_temperature",
+      "title": "Homeostasis And Temperature"
+    },
+    {
+      "file": "hormones_and_endocrine",
+      "title": "Hormones And Endocrine"
+    },
+    {
+      "file": "human_body_systems",
+      "title": "Human Body Systems"
+    },
+    {
+      "file": "human_reproduction",
+      "title": "Human Reproduction"
+    },
+    {
+      "file": "immune_system",
+      "title": "Immune System"
+    },
+    {
+      "file": "metabolism_and_energy",
+      "title": "Metabolism And Energy"
+    },
+    {
+      "file": "microbes_and_microbiology",
+      "title": "Microbes And Microbiology"
+    },
+    {
+      "file": "microbes_in_food",
+      "title": "Microbes In Food"
+    },
+    {
+      "file": "microscopy_and_lab_basics",
+      "title": "Microscopy And Lab Basics"
+    },
+    {
+      "file": "muscles_and_movement",
+      "title": "Muscles And Movement"
+    },
+    {
+      "file": "nervous_system",
+      "title": "Nervous System"
+    },
+    {
+      "file": "nutrition_and_diet",
+      "title": "Nutrition And Diet"
+    },
+    {
+      "file": "photosynthesis",
+      "title": "Photosynthesis"
+    },
+    {
+      "file": "plant_growth",
+      "title": "Plant Growth"
+    },
+    {
+      "file": "plant_nutrition",
+      "title": "Plant Nutrition"
+    },
+    {
+      "file": "plant_reproduction",
+      "title": "Plant Reproduction"
+    },
+    {
+      "file": "plant_transport",
+      "title": "Plant Transport"
+    },
+    {
+      "file": "pregnancy_and_development",
+      "title": "Pregnancy And Development"
+    },
+    {
+      "file": "proteins_and_enzymes",
+      "title": "Proteins And Enzymes"
+    },
+    {
+      "file": "seeds_and_germination",
+      "title": "Seeds And Germination"
+    },
+    {
+      "file": "senses_and_perception",
+      "title": "Senses And Perception"
+    },
+    {
+      "file": "skeleton_and_bones",
+      "title": "Skeleton And Bones"
+    },
+    {
+      "file": "taxonomy_and_naming",
+      "title": "Taxonomy And Naming"
+    },
+    {
+      "file": "viruses_and_bacteria",
+      "title": "Viruses And Bacteria"
+    },
+    {
+      "file": "vitamins_and_minerals",
+      "title": "Vitamins And Minerals"
+    },
+    {
+      "file": "water_and_living_things",
+      "title": "Water And Living Things"
+    }
+  ]
+}

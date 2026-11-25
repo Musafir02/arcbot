@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "space_and_astronomy",
+  "title": "Space And Astronomy",
+  "modules": [
+    {
+      "file": "auroras",
+      "title": "Auroras"
+    },
+    {
+      "file": "black_holes",
+      "title": "Black Holes"
+    },
+    {
+      "file": "black_holes_basics",
+      "title": "Black Holes Basics"
+    },
+    {
+      "file": "black_holes_planning",
+      "title": "Black Holes Planning"
+    },
+    {
+      "file": "black_holes_problems",
+      "title": "Black Holes Problems"
+    },
+    {
+      "file": "comets_basics",
+      "title": "Comets Basics"
+    },
+    {
+      "file": "comets_problems",
+      "title": "Comets Problems"
+    },
+    {
+      "file": "constellations_basics",
+      "title": "Constellations Basics"
+    },
+    {
+      "file": "constellations_problems",
+      "title": "Constellations Problems"
+    },
+    {
+      "file": "distance_in_space_basics",
+      "title": "Distance In Space Basics"
+    },
+    {
+      "file": "distance_in_space_problems",
+      "title": "Distance In Space Problems"
+    },
+    {
+      "file": "distance_to_the_sun",
+      "title": "Distance To The Sun"
+    },
+    {
+      "file": "eclipses_basics",
+      "title": "Eclipses Basics"
+    },
+    {
+      "file": "eclipses_problems",
+      "title": "Eclipses Problems"
+    },
+    {
+      "file": "galaxies_basics",
+      "title": "Galaxies Basics"
+    },
+    {
+      "file": "galaxies_planning",
+      "title": "Galaxies Planning"
+    },
+    {
+      "file": "galaxies_problems",
+      "title": "Galaxies Problems"
+    },
+    {
+      "file": "gravity_in_space_basics",
+      "title": "Gravity In Space Basics"
+    },
+    {
+      "file": "gravity_in_space_problems",
+      "title": "Gravity In Space Problems"
+    },
+    {
+      "file": "lunar_craters",
+      "title": "Lunar Craters"
+    },
+    {
+      "file": "lunar_eclipses",
+      "title": "Lunar Eclipses"
+    },
+    {
+      "file": "meteor_showers_basics",
+      "title": "Meteor Showers Basics"
+    },
+    {
+      "file": "meteor_showers_problems",
+      "title": "Meteor Showers Problems"
+    },
+    {
+      "file": "moon_landings",
+      "title": "Moon Landings"
+    },
+    {
+      "file": "moon_phases",
+      "title": "Moon Phases"
+    },
+    {
+      "file": "moon_phases_basics",
+      "title": "Moon Phases Basics"
+    },
+    {
+      "file": "moon_phases_planning",
+      "title": "Moon Phases Planning"
+    },
+    {
+      "file": "moon_phases_problems",
+      "title": "Moon Phases Problems"
+    },
+    {
+      "file": "planetary_orbits",
+      "title": "Planetary Orbits"
+    },
+    {
+      "file": "planets_basics",
+      "title": "Planets Basics"
+    },
+    {
+      "file": "planets_problems",
+      "title": "Planets Problems"
+    },
+    {
+      "file": "rockets_basics",
+      "title": "Rockets Basics"
+    },
+    {
+      "file": "rockets_problems",
+      "title": "Rockets Problems"
+    },
+    {
+      "file": "satellites_basics",
+      "title": "Satellites Basics"
+    },
+    {
+      "file": "satellites_problems",
+      "title": "Satellites Problems"
+    },
+    {
+      "file": "solar_eclipses",
+      "title": "Solar Eclipses"
+    },
+    {
+      "file": "solar_flares",
+      "title": "Solar Flares"
+    },
+    {
+      "file": "solar_system_basics",
+      "title": "Solar System Basics"
+    },
+    {
+      "file": "solar_system_planning",
+      "title": "Solar System Planning"
+    },
+    {
+      "file": "solar_system_problems",
+      "title": "Solar System Problems"
+    },
+    {
+      "file": "solar_wind",
+      "title": "Solar Wind"
+    },
+    {
+      "file": "space_telescopes_basics",
+      "title": "Space Telescopes Basics"
+    },
+    {
+      "file": "space_telescopes_problems",
+      "title": "Space Telescopes Problems"
+    },
+    {
+      "file": "stars_basics",
+      "title": "Stars Basics"
+    },
+    {
+      "file": "stars_planning",
+      "title": "Stars Planning"
+    },
+    {
+      "file": "stars_problems",
+      "title": "Stars Problems"
+    },
+    {
+      "file": "sun_structure",
+      "title": "Sun Structure"
+    },
+    {
+      "file": "sunspots",
+      "title": "Sunspots"
+    },
+    {
+      "file": "the_solar_system",
+      "title": "The Solar System"
+    },
+    {
+      "file": "tides_and_the_moon",
+      "title": "Tides And The Moon"
+    }
+  ]
+}

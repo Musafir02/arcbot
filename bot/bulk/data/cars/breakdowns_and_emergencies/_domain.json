@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "breakdowns_and_emergencies",
+  "title": "Breakdowns And Emergencies",
+  "modules": [
+    {
+      "file": "alternator_failure",
+      "title": "Alternator Failure"
+    },
+    {
+      "file": "battery_warning_light",
+      "title": "Battery Warning Light"
+    },
+    {
+      "file": "brake_failure",
+      "title": "Brake Failure"
+    },
+    {
+      "file": "breakdown_cover",
+      "title": "Breakdown Cover"
+    },
+    {
+      "file": "breakdown_on_bridge",
+      "title": "Breakdown On Bridge"
+    },
+    {
+      "file": "broken_fan_belt",
+      "title": "Broken Fan Belt"
+    },
+    {
+      "file": "burning_smell_in_car",
+      "title": "Burning Smell In Car"
+    },
+    {
+      "file": "calling_emergency_services",
+      "title": "Calling Emergency Services"
+    },
+    {
+      "file": "calling_recovery_service",
+      "title": "Calling Recovery Service"
+    },
+    {
+      "file": "car_emergency_kit",
+      "title": "Car Emergency Kit"
+    },
+    {
+      "file": "car_fire",
+      "title": "Car Fire"
+    },
+    {
+      "file": "car_in_water",
+      "title": "Car In Water"
+    },
+    {
+      "file": "car_stuck_in_snow",
+      "title": "Car Stuck In Snow"
+    },
+    {
+      "file": "car_wont_start",
+      "title": "Car Wont Start"
+    },
+    {
+      "file": "changing_flat_tyre",
+      "title": "Changing Flat Tyre"
+    },
+    {
+      "file": "check_engine_light",
+      "title": "Check Engine Light"
+    },
+    {
+      "file": "coolant_leak",
+      "title": "Coolant Leak"
+    },
+    {
+      "file": "dead_battery_signs",
+      "title": "Dead Battery Signs"
+    },
+    {
+      "file": "electric_car_flat_battery",
+      "title": "Electric Car Flat Battery"
+    },
+    {
+      "file": "engine_misfiring",
+      "title": "Engine Misfiring"
+    },
+    {
+      "file": "engine_overheating",
+      "title": "Engine Overheating"
+    },
+    {
+      "file": "engine_stalling",
+      "title": "Engine Stalling"
+    },
+    {
+      "file": "ev_running_out_of_charge",
+      "title": "Ev Running Out Of Charge"
+    },
+    {
+      "file": "flooded_road",
+      "title": "Flooded Road"
+    },
+    {
+      "file": "frozen_windscreen",
+      "title": "Frozen Windscreen"
+    },
+    {
+      "file": "fuel_pump_failure",
+      "title": "Fuel Pump Failure"
+    },
+    {
+      "file": "handbrake_stuck",
+      "title": "Handbrake Stuck"
+    },
+    {
+      "file": "hazard_lights_breakdown",
+      "title": "Hazard Lights Breakdown"
+    },
+    {
+      "file": "immobiliser_fault",
+      "title": "Immobiliser Fault"
+    },
+    {
+      "file": "insurance_claim_after_crash",
+      "title": "Insurance Claim After Crash"
+    },
+    {
+      "file": "jump_starting_car",
+      "title": "Jump Starting Car"
+    },
+    {
+      "file": "key_fob_not_working",
+      "title": "Key Fob Not Working"
+    },
+    {
+      "file": "locked_out_of_car",
+      "title": "Locked Out Of Car"
+    },
+    {
+      "file": "lost_car_keys",
+      "title": "Lost Car Keys"
+    },
+    {
+      "file": "motorway_breakdown",
+      "title": "Motorway Breakdown"
+    },
+    {
+      "file": "oil_pressure_warning",
+      "title": "Oil Pressure Warning"
+    },
+    {
+      "file": "power_steering_failure",
+      "title": "Power Steering Failure"
+    },
+    {
+      "file": "puncture_repair_kit",
+      "title": "Puncture Repair Kit"
+    },
+    {
+      "file": "road_accident",
+      "title": "Road Accident"
+    },
+    {
+      "file": "roadside_assistance_app",
+      "title": "Roadside Assistance App"
+    },
+    {
+      "file": "roadside_safety",
+      "title": "Roadside Safety"
+    },
+    {
+      "file": "running_out_of_fuel",
+      "title": "Running Out Of Fuel"
+    },
+    {
+      "file": "smoke_from_bonnet",
+      "title": "Smoke From Bonnet"
+    },
+    {
+      "file": "stranded_at_night",
+      "title": "Stranded At Night"
+    },
+    {
+      "file": "towing_broken_car",
+      "title": "Towing Broken Car"
+    },
+    {
+      "file": "tunnel_breakdown",
+      "title": "Tunnel Breakdown"
+    },
+    {
+      "file": "tyre_blowout",
+      "title": "Tyre Blowout"
+    },
+    {
+      "file": "warning_triangle",
+      "title": "Warning Triangle"
+    },
+    {
+      "file": "winter_battery_problems",
+      "title": "Winter Battery Problems"
+    },
+    {
+      "file": "wrong_fuel_in_car",
+      "title": "Wrong Fuel In Car"
+    }
+  ]
+}

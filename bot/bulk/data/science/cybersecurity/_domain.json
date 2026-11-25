@@ -1,0 +1,207 @@
+{
+  "category": "science",
+  "domain": "cybersecurity",
+  "title": "Cybersecurity",
+  "modules": [
+    {
+      "file": "account_takeover_recovery",
+      "title": "Account Takeover Recovery"
+    },
+    {
+      "file": "antivirus_protection",
+      "title": "Antivirus Protection"
+    },
+    {
+      "file": "app_permissions",
+      "title": "App Permissions"
+    },
+    {
+      "file": "backup_strategies",
+      "title": "Backup Strategies"
+    },
+    {
+      "file": "biometric_security",
+      "title": "Biometric Security"
+    },
+    {
+      "file": "browser_security",
+      "title": "Browser Security"
+    },
+    {
+      "file": "checkout_security",
+      "title": "Checkout Security"
+    },
+    {
+      "file": "child_online_safety",
+      "title": "Child Online Safety"
+    },
+    {
+      "file": "cloud_account_security",
+      "title": "Cloud Account Security"
+    },
+    {
+      "file": "data_breach_response",
+      "title": "Data Breach Response"
+    },
+    {
+      "file": "device_encryption",
+      "title": "Device Encryption"
+    },
+    {
+      "file": "device_recycling",
+      "title": "Device Recycling"
+    },
+    {
+      "file": "digital_footprint",
+      "title": "Digital Footprint"
+    },
+    {
+      "file": "dns_security",
+      "title": "Dns Security"
+    },
+    {
+      "file": "document_security",
+      "title": "Document Security"
+    },
+    {
+      "file": "email_security",
+      "title": "Email Security"
+    },
+    {
+      "file": "file_sharing_safety",
+      "title": "File Sharing Safety"
+    },
+    {
+      "file": "firewall_basics",
+      "title": "Firewall Basics"
+    },
+    {
+      "file": "home_network_security",
+      "title": "Home Network Security"
+    },
+    {
+      "file": "identity_theft_basics",
+      "title": "Identity Theft Basics"
+    },
+    {
+      "file": "incident_reporting",
+      "title": "Incident Reporting"
+    },
+    {
+      "file": "malware_infections",
+      "title": "Malware Infections"
+    },
+    {
+      "file": "mobile_device_security",
+      "title": "Mobile Device Security"
+    },
+    {
+      "file": "password_audit_basics",
+      "title": "Password Audit Basics"
+    },
+    {
+      "file": "password_hashing_basics",
+      "title": "Password Hashing Basics"
+    },
+    {
+      "file": "password_managers",
+      "title": "Password Managers"
+    },
+    {
+      "file": "phishing_defence",
+      "title": "Phishing Defence"
+    },
+    {
+      "file": "privacy_settings",
+      "title": "Privacy Settings"
+    },
+    {
+      "file": "public_wifi_safety",
+      "title": "Public Wifi Safety"
+    },
+    {
+      "file": "ransomware_response",
+      "title": "Ransomware Response"
+    },
+    {
+      "file": "recovery_codes",
+      "title": "Recovery Codes"
+    },
+    {
+      "file": "router_security",
+      "title": "Router Security"
+    },
+    {
+      "file": "safe_downloads",
+      "title": "Safe Downloads"
+    },
+    {
+      "file": "secure_passphrases",
+      "title": "Secure Passphrases"
+    },
+    {
+      "file": "security_questions",
+      "title": "Security Questions"
+    },
+    {
+      "file": "sim_card_security",
+      "title": "Sim Card Security"
+    },
+    {
+      "file": "smart_home_security",
+      "title": "Smart Home Security"
+    },
+    {
+      "file": "smishing_texts",
+      "title": "Smishing Texts"
+    },
+    {
+      "file": "social_engineering",
+      "title": "Social Engineering"
+    },
+    {
+      "file": "social_media_security",
+      "title": "Social Media Security"
+    },
+    {
+      "file": "software_updates",
+      "title": "Software Updates"
+    },
+    {
+      "file": "strong_passwords",
+      "title": "Strong Passwords"
+    },
+    {
+      "file": "suspicious_attachments",
+      "title": "Suspicious Attachments"
+    },
+    {
+      "file": "suspicious_links",
+      "title": "Suspicious Links"
+    },
+    {
+      "file": "two_factor_authentication",
+      "title": "Two Factor Authentication"
+    },
+    {
+      "file": "usb_security",
+      "title": "Usb Security"
+    },
+    {
+      "file": "vishing_calls",
+      "title": "Vishing Calls"
+    },
+    {
+      "file": "vpn_basics",
+      "title": "Vpn Basics"
+    },
+    {
+      "file": "wifi_security",
+      "title": "Wifi Security"
+    },
+    {
+      "file": "workplace_device_security",
+      "title": "Workplace Device Security"
+    }
+  ]
+}

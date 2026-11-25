@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "tyres_and_brakes",
+  "title": "Tyres And Brakes",
+  "modules": [
+    {
+      "file": "abs_brakes_basics",
+      "title": "Abs Brakes Basics"
+    },
+    {
+      "file": "all_season_tyres",
+      "title": "All Season Tyres"
+    },
+    {
+      "file": "brake_discs",
+      "title": "Brake Discs"
+    },
+    {
+      "file": "brake_discs_basics",
+      "title": "Brake Discs Basics"
+    },
+    {
+      "file": "brake_discs_problems",
+      "title": "Brake Discs Problems"
+    },
+    {
+      "file": "brake_fluid_basics",
+      "title": "Brake Fluid Basics"
+    },
+    {
+      "file": "brake_fluid_problems",
+      "title": "Brake Fluid Problems"
+    },
+    {
+      "file": "brake_pad_replacement",
+      "title": "Brake Pad Replacement"
+    },
+    {
+      "file": "brake_pads",
+      "title": "Brake Pads"
+    },
+    {
+      "file": "brake_pads_basics",
+      "title": "Brake Pads Basics"
+    },
+    {
+      "file": "brake_pads_problems",
+      "title": "Brake Pads Problems"
+    },
+    {
+      "file": "braking_distance_basics",
+      "title": "Braking Distance Basics"
+    },
+    {
+      "file": "choosing_tyres",
+      "title": "Choosing Tyres"
+    },
+    {
+      "file": "flat_tyre_change",
+      "title": "Flat Tyre Change"
+    },
+    {
+      "file": "puncture_repair_basics",
+      "title": "Puncture Repair Basics"
+    },
+    {
+      "file": "puncture_repair_problems",
+      "title": "Puncture Repair Problems"
+    },
+    {
+      "file": "run_flat_tyres",
+      "title": "Run Flat Tyres"
+    },
+    {
+      "file": "seasonal_tyres_basics",
+      "title": "Seasonal Tyres Basics"
+    },
+    {
+      "file": "spare_tyre",
+      "title": "Spare Tyre"
+    },
+    {
+      "file": "towing_and_tyres_basics",
+      "title": "Towing And Tyres Basics"
+    },
+    {
+      "file": "tread_depth_basics",
+      "title": "Tread Depth Basics"
+    },
+    {
+      "file": "tread_depth_problems",
+      "title": "Tread Depth Problems"
+    },
+    {
+      "file": "tyre_age",
+      "title": "Tyre Age"
+    },
+    {
+      "file": "tyre_age_basics",
+      "title": "Tyre Age Basics"
+    },
+    {
+      "file": "tyre_load_rating",
+      "title": "Tyre Load Rating"
+    },
+    {
+      "file": "tyre_noise",
+      "title": "Tyre Noise"
+    },
+    {
+      "file": "tyre_pressure",
+      "title": "Tyre Pressure"
+    },
+    {
+      "file": "tyre_pressure_basics",
+      "title": "Tyre Pressure Basics"
+    },
+    {
+      "file": "tyre_pressure_monitoring",
+      "title": "Tyre Pressure Monitoring"
+    },
+    {
+      "file": "tyre_pressure_problems",
+      "title": "Tyre Pressure Problems"
+    },
+    {
+      "file": "tyre_puncture_repair",
+      "title": "Tyre Puncture Repair"
+    },
+    {
+      "file": "tyre_rolling_resistance",
+      "title": "Tyre Rolling Resistance"
+    },
+    {
+      "file": "tyre_rotation",
+      "title": "Tyre Rotation"
+    },
+    {
+      "file": "tyre_rotation_basics",
+      "title": "Tyre Rotation Basics"
+    },
+    {
+      "file": "tyre_rotation_problems",
+      "title": "Tyre Rotation Problems"
+    },
+    {
+      "file": "tyre_seasonal_change",
+      "title": "Tyre Seasonal Change"
+    },
+    {
+      "file": "tyre_sidewall_damage",
+      "title": "Tyre Sidewall Damage"
+    },
+    {
+      "file": "tyre_size",
+      "title": "Tyre Size"
+    },
+    {
+      "file": "tyre_speed_rating",
+      "title": "Tyre Speed Rating"
+    },
+    {
+      "file": "tyre_tread_depth",
+      "title": "Tyre Tread Depth"
+    },
+    {
+      "file": "tyre_valve",
+      "title": "Tyre Valve"
+    },
+    {
+      "file": "tyre_wear_basics",
+      "title": "Tyre Wear Basics"
+    },
+    {
+      "file": "tyre_wear_patterns",
+      "title": "Tyre Wear Patterns"
+    },
+    {
+      "file": "tyre_wear_problems",
+      "title": "Tyre Wear Problems"
+    },
+    {
+      "file": "wheel_alignment",
+      "title": "Wheel Alignment"
+    },
+    {
+      "file": "wheel_alignment_basics",
+      "title": "Wheel Alignment Basics"
+    },
+    {
+      "file": "wheel_balance",
+      "title": "Wheel Balance"
+    },
+    {
+      "file": "wheel_balancing_basics",
+      "title": "Wheel Balancing Basics"
+    },
+    {
+      "file": "wheel_balancing_problems",
+      "title": "Wheel Balancing Problems"
+    },
+    {
+      "file": "winter_tyres",
+      "title": "Winter Tyres"
+    }
+  ]
+}

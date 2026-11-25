@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "electric_vehicles",
+  "title": "Electric Vehicles",
+  "modules": [
+    {
+      "file": "battery_degradation",
+      "title": "Battery Degradation"
+    },
+    {
+      "file": "battery_health",
+      "title": "Battery Health"
+    },
+    {
+      "file": "battery_health_basics",
+      "title": "Battery Health Basics"
+    },
+    {
+      "file": "battery_life",
+      "title": "Battery Life"
+    },
+    {
+      "file": "battery_range_basics",
+      "title": "Battery Range Basics"
+    },
+    {
+      "file": "battery_range_problems",
+      "title": "Battery Range Problems"
+    },
+    {
+      "file": "battery_warranty",
+      "title": "Battery Warranty"
+    },
+    {
+      "file": "buying_used_ev",
+      "title": "Buying Used Ev"
+    },
+    {
+      "file": "charger_types",
+      "title": "Charger Types"
+    },
+    {
+      "file": "charging_cables",
+      "title": "Charging Cables"
+    },
+    {
+      "file": "charging_cables_basics",
+      "title": "Charging Cables Basics"
+    },
+    {
+      "file": "charging_cost",
+      "title": "Charging Cost"
+    },
+    {
+      "file": "charging_habits",
+      "title": "Charging Habits"
+    },
+    {
+      "file": "charging_time",
+      "title": "Charging Time"
+    },
+    {
+      "file": "charging_time_basics",
+      "title": "Charging Time Basics"
+    },
+    {
+      "file": "charging_to_full",
+      "title": "Charging To Full"
+    },
+    {
+      "file": "energy_efficiency",
+      "title": "Energy Efficiency"
+    },
+    {
+      "file": "ev_brakes",
+      "title": "Ev Brakes"
+    },
+    {
+      "file": "ev_charging_basics",
+      "title": "Ev Charging Basics"
+    },
+    {
+      "file": "ev_charging_problems",
+      "title": "Ev Charging Problems"
+    },
+    {
+      "file": "ev_insurance",
+      "title": "Ev Insurance"
+    },
+    {
+      "file": "ev_maintenance",
+      "title": "Ev Maintenance"
+    },
+    {
+      "file": "ev_maintenance_basics",
+      "title": "Ev Maintenance Basics"
+    },
+    {
+      "file": "ev_range_per_charge",
+      "title": "Ev Range Per Charge"
+    },
+    {
+      "file": "ev_resale_value",
+      "title": "Ev Resale Value"
+    },
+    {
+      "file": "ev_running_costs",
+      "title": "Ev Running Costs"
+    },
+    {
+      "file": "ev_running_costs_basics",
+      "title": "Ev Running Costs Basics"
+    },
+    {
+      "file": "ev_servicing",
+      "title": "Ev Servicing"
+    },
+    {
+      "file": "ev_tyres",
+      "title": "Ev Tyres"
+    },
+    {
+      "file": "ev_tyres_basics",
+      "title": "Ev Tyres Basics"
+    },
+    {
+      "file": "home_charger_installation",
+      "title": "Home Charger Installation"
+    },
+    {
+      "file": "home_charging",
+      "title": "Home Charging"
+    },
+    {
+      "file": "home_charging_basics",
+      "title": "Home Charging Basics"
+    },
+    {
+      "file": "home_charging_problems",
+      "title": "Home Charging Problems"
+    },
+    {
+      "file": "home_installer_basics",
+      "title": "Home Installer Basics"
+    },
+    {
+      "file": "hot_weather_range",
+      "title": "Hot Weather Range"
+    },
+    {
+      "file": "overnight_charging",
+      "title": "Overnight Charging"
+    },
+    {
+      "file": "overnight_charging_basics",
+      "title": "Overnight Charging Basics"
+    },
+    {
+      "file": "public_chargers_basics",
+      "title": "Public Chargers Basics"
+    },
+    {
+      "file": "public_chargers_problems",
+      "title": "Public Chargers Problems"
+    },
+    {
+      "file": "public_charging",
+      "title": "Public Charging"
+    },
+    {
+      "file": "range_anxiety",
+      "title": "Range Anxiety"
+    },
+    {
+      "file": "range_estimation",
+      "title": "Range Estimation"
+    },
+    {
+      "file": "rapid_charging",
+      "title": "Rapid Charging"
+    },
+    {
+      "file": "regenerative_braking",
+      "title": "Regenerative Braking"
+    },
+    {
+      "file": "regenerative_braking_basics",
+      "title": "Regenerative Braking Basics"
+    },
+    {
+      "file": "regenerative_braking_problems",
+      "title": "Regenerative Braking Problems"
+    },
+    {
+      "file": "winter_range",
+      "title": "Winter Range"
+    },
+    {
+      "file": "winter_range_basics",
+      "title": "Winter Range Basics"
+    },
+    {
+      "file": "workplace_charging_basics",
+      "title": "Workplace Charging Basics"
+    }
+  ]
+}

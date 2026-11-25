@@ -1,0 +1,207 @@
+{
+  "category": "cars",
+  "domain": "car_cleaning_and_care",
+  "title": "Car Cleaning And Care",
+  "modules": [
+    {
+      "file": "applying_car_wax",
+      "title": "Applying Car Wax"
+    },
+    {
+      "file": "ceramic_coating_and_paint_protection",
+      "title": "Ceramic Coating And Paint Protection"
+    },
+    {
+      "file": "choosing_car_shampoo",
+      "title": "Choosing Car Shampoo"
+    },
+    {
+      "file": "choosing_car_wash_or_home_washing",
+      "title": "Choosing Car Wash Or Home Washing"
+    },
+    {
+      "file": "choosing_car_wax",
+      "title": "Choosing Car Wax"
+    },
+    {
+      "file": "clay_bar_detailing",
+      "title": "Clay Bar Detailing"
+    },
+    {
+      "file": "cleaning_car_after_winter",
+      "title": "Cleaning Car After Winter"
+    },
+    {
+      "file": "cleaning_car_air_conditioning",
+      "title": "Cleaning Car Air Conditioning"
+    },
+    {
+      "file": "cleaning_car_air_vents",
+      "title": "Cleaning Car Air Vents"
+    },
+    {
+      "file": "cleaning_car_carpets",
+      "title": "Cleaning Car Carpets"
+    },
+    {
+      "file": "cleaning_car_engine_bay",
+      "title": "Cleaning Car Engine Bay"
+    },
+    {
+      "file": "cleaning_car_grille_and_badges",
+      "title": "Cleaning Car Grille And Badges"
+    },
+    {
+      "file": "cleaning_car_interior",
+      "title": "Cleaning Car Interior"
+    },
+    {
+      "file": "cleaning_car_mats",
+      "title": "Cleaning Car Mats"
+    },
+    {
+      "file": "cleaning_car_mirrors",
+      "title": "Cleaning Car Mirrors"
+    },
+    {
+      "file": "cleaning_car_tyres",
+      "title": "Cleaning Car Tyres"
+    },
+    {
+      "file": "cleaning_car_wheels",
+      "title": "Cleaning Car Wheels"
+    },
+    {
+      "file": "cleaning_car_windows",
+      "title": "Cleaning Car Windows"
+    },
+    {
+      "file": "cleaning_dashboard_and_trim",
+      "title": "Cleaning Dashboard And Trim"
+    },
+    {
+      "file": "cleaning_fabric_car_seats",
+      "title": "Cleaning Fabric Car Seats"
+    },
+    {
+      "file": "cleaning_headlights",
+      "title": "Cleaning Headlights"
+    },
+    {
+      "file": "cleaning_leather_seats",
+      "title": "Cleaning Leather Seats"
+    },
+    {
+      "file": "cleaning_wheel_arches",
+      "title": "Cleaning Wheel Arches"
+    },
+    {
+      "file": "cleaning_windscreen",
+      "title": "Cleaning Windscreen"
+    },
+    {
+      "file": "cleaning_windscreen_washer_system",
+      "title": "Cleaning Windscreen Washer System"
+    },
+    {
+      "file": "drying_car_after_wash",
+      "title": "Drying Car After Wash"
+    },
+    {
+      "file": "keeping_car_clean_between_washes",
+      "title": "Keeping Car Clean Between Washes"
+    },
+    {
+      "file": "machine_polishing_car",
+      "title": "Machine Polishing Car"
+    },
+    {
+      "file": "polishing_vs_waxing_car",
+      "title": "Polishing Vs Waxing Car"
+    },
+    {
+      "file": "preparing_a_car_for_storage",
+      "title": "Preparing A Car For Storage"
+    },
+    {
+      "file": "pressure_washer_car_safety",
+      "title": "Pressure Washer Car Safety"
+    },
+    {
+      "file": "preventing_car_rust",
+      "title": "Preventing Car Rust"
+    },
+    {
+      "file": "protecting_car_paint_from_sun",
+      "title": "Protecting Car Paint From Sun"
+    },
+    {
+      "file": "quick_detailer_between_washes",
+      "title": "Quick Detailer Between Washes"
+    },
+    {
+      "file": "removing_bird_droppings",
+      "title": "Removing Bird Droppings"
+    },
+    {
+      "file": "removing_odours_from_a_car",
+      "title": "Removing Odours From A Car"
+    },
+    {
+      "file": "removing_paint_transfer_and_scuffs",
+      "title": "Removing Paint Transfer And Scuffs"
+    },
+    {
+      "file": "removing_pet_hair_from_car",
+      "title": "Removing Pet Hair From Car"
+    },
+    {
+      "file": "removing_road_tar",
+      "title": "Removing Road Tar"
+    },
+    {
+      "file": "removing_stains_from_car_upholstery",
+      "title": "Removing Stains From Car Upholstery"
+    },
+    {
+      "file": "removing_tree_sap_from_paint",
+      "title": "Removing Tree Sap From Paint"
+    },
+    {
+      "file": "removing_water_spots",
+      "title": "Removing Water Spots"
+    },
+    {
+      "file": "two_bucket_wash_method",
+      "title": "Two Bucket Wash Method"
+    },
+    {
+      "file": "vacuuming_car_interior",
+      "title": "Vacuuming Car Interior"
+    },
+    {
+      "file": "washing_car_by_hand",
+      "title": "Washing Car By Hand"
+    },
+    {
+      "file": "washing_car_in_cold_weather",
+      "title": "Washing Car In Cold Weather"
+    },
+    {
+      "file": "washing_car_in_hot_sun",
+      "title": "Washing Car In Hot Sun"
+    },
+    {
+      "file": "washing_car_underbody",
+      "title": "Washing Car Underbody"
+    },
+    {
+      "file": "waterless_car_wash",
+      "title": "Waterless Car Wash"
+    },
+    {
+      "file": "waxing_frequency",
+      "title": "Waxing Frequency"
+    }
+  ]
+}
